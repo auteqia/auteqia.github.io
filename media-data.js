@@ -231,7 +231,7 @@ const mediaLibrary = [
         rating: 3.5,
         link: "https://www.themoviedb.org/tv/8624-eastbound-down",
         readDate: "2025-04-23",
-        kind: "Vinyl"
+        kind: "vinyl"
     },
     // END OF VINYLS \\
     // ALBUMS \\
