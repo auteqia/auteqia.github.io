@@ -321,10 +321,87 @@ const mediaLibrary = [
         kind: "albums"
     },
     {
-        title: "The Man Who Sold The World",
+        title: "Swimming",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
-        link: "https://open.spotify.com/intl-fr/album/4h9rWFWhgCSSrvIEQ0YhYG?si=23352ecbf67f45b6",
+        link: "https://open.spotify.com/intl-fr/album/5wtE5aLX5r7jOosmPhJhhk?si=22a007c77f4c4fc5",
+        kind: "albums"
+    },
+    {
+        title: "The Doors - The Doors",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/1jWmEhn3ggaL6isoyLfwBn?si=a3a5526ec6fe4204",
+        kind: "albums"
+    },
+    {
+        title: "Bury Me at Makeout Creek",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/3I2KkX13lHXuYqfBjSOopo?si=1e824ad77e684c94",
+        kind: "albums"
+    },
+    {
+        title: "Solid State Survivor",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/5TmpFE7Xus70ko1QYGxFIe?si=f92037d9a5bc4e15",
+        kind: "albums"
+    },
+    {
+        title: "Puberty 2",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/4Coa8Eb9SzjrkwWEom963Q?si=de5f6256fdac4974",
+        kind: "albums"
+    },
+    {
+        title: "Beats, Rhymes & Life",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        kind: "albums"
+    },
+    {
+        title: "Full Circle",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/26Fac6kNgB6MLeoGVkmpKN?si=f5e677050459423d",
+        kind: "albums"
+    },
+    {
+        title: "Soaring",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/3piPM3MXYU1wmB9yz7UHcQ?si=82ea0eaaf7124533",
+        kind: "albums"
+    },
+    {
+        title: "The Downward Spiral",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/5I7lLu8xXJfGRdFUqHaLQU?si=1d16103fcdfb43c2",
+        kind: "albums"
+    },
+    {
+        title: "Sacco e Vanzetti",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/5Kh97XNvwMEk6hl4ZrOtKK?si=1495a513013a4105",
+        kind: "albums"
+    },
+    {
+        title: "It's alive",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/3B2xgIcoHjm1HdHYDydoUu?si=bfc7458767c841a0",
+        kind: "albums"
+    },
+    {
+        title: "Plaisirs d'amour",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/4qOpd4VHIeXU8W2yAay4XL?si=25d2c14247714602",
         kind: "albums"
     },
 ];
