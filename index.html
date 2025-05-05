@@ -264,15 +264,15 @@
         <div class="tabs">
             <button class="tab active" data-tab="books">📚 Livres</button>
             <button class="tab" data-tab="movies">📽 Films</button>
-            <button class="tab" data-tab="series">🎞 Séries</button>
-            <button class="tab" data-tab="albums">🎧 Podcasts</button>
+            <button class="tab" data-tab="vinyls">𓆝 𓆟 𓆞 𓆝 𓆟 Vinyls</button>
+            <button class="tab" data-tab="albums">🎧 Albums</button>
         </div>
     </header>
     <main>
         <section id="books-section" class="content-section active"></section>
         <section id="movies-section" class="content-section"></section>
-        <section id="series-section" class="content-section"></section>
-        <section id="podcasts-section" class="content-section"></section>
+        <section id="vinyls-section" class="content-section"></section>
+        <section id="albums-section" class="content-section"></section>
     </main>
     <script src="media-data.js"></script>
     <script>
@@ -282,12 +282,10 @@
                 case 'book':
                     return 'Lu';
                 case 'movie':
-                case 'serie':
-                    return 'Vu';
-                case 'podcast':
+                case 'vinyl':
+                    return 'Dans ma collection';
+                case '':
                     return 'Écouté';
-                default:
-                    return 'Consommé';
             }
         }
 
@@ -374,7 +372,7 @@
         }
 
         function generatePodcastSection() {
-            const container = document.getElementById('podcasts-section');
+            const container = document.getElementById('albums-section');
             container.innerHTML = '';
             
             const podcasts = mediaLibrary
