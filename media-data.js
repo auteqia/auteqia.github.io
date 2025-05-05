@@ -43,7 +43,66 @@ const mediaLibrary = [
     },
     // END OF BOOKS
     // MOVIES \\
-
+    {
+        title: "Requiem of a dream",
+        author: "Darren Aronofsky",
+        cover: "assets/movies/kill-bill-vol-1.jpg",
+        rating: 4.5,
+        reRead: false,
+        link: "http://www.imdb.com/title/tt0180093/",
+        readDate: "2025-05-05",
+        kind: "movie"
+    },
+    {
+        title: "Drunk",
+        author: "Thomas Vinterberg",
+        cover: "assets/movies/kill-bill-vol-1.jpg",
+        rating: 4.0,
+        reRead: false,
+        link: "http://www.imdb.com/title/tt10288566/",
+        readDate: "2025-05-04",
+        kind: "movie"
+    },
+    {
+        title: "Bonnie and Clyde",
+        author: "Arthur Penn",
+        cover: "assets/movies/kill-bill-vol-1.jpg",
+        rating: 4.8,
+        reRead: false,
+        link: "http://www.imdb.com/title/tt0061418/",
+        readDate: "2025-04-27",
+        kind: "movie"
+    },
+    {
+        title: "The Last Temptation of Christ",
+        author: "Martin Scorsese",
+        cover: "assets/movies/kill-bill-vol-1.jpg",
+        rating: 4.0,
+        reRead: false,
+        link: "http://www.imdb.com/title/tt0095497/",
+        readDate: "2025-04-21",
+        kind: "movie"
+    },
+    {
+        title: "After Hours",
+        author: "Martin Scorsese",
+        cover: "assets/movies/kill-bill-vol-1.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "http://www.imdb.com/title/tt0088680/",
+        readDate: "2025-04-19",
+        kind: "movie"
+    },
+    {
+        title: "Gangs of New York",
+        author: "Martin Scorsese",
+        cover: "assets/movies/kill-bill-vol-1.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "http://www.imdb.com/title/tt0217505/",
+        readDate: "2025-04-19",
+        kind: "movie"
+    },
     {
         title: "Kill Bill: Vol. 1",
         author: "Quentin Tarantino",
