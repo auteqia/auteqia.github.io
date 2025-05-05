@@ -284,7 +284,7 @@
                 case 'movie':
                 case 'vinyl':
                     return 'Dans ma collection';
-                case 'albums':
+                case 'album':
                     return 'Écouté';
             }
         }
@@ -401,7 +401,7 @@
         // Function to generate media grid (updated)
         function generateMediaSection(mediaType) {
             // Special handling for albums
-            if (mediaType === 'albums') {
+            if (mediaType === 'album') {
                 generateAlbumSection();
                 return;
             }
