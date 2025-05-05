@@ -234,69 +234,69 @@ const mediaLibrary = [
         kind: "vinyl"
     },
     // END OF VINYLS \\
-    // ALBUMS \\
+    // album \\
     {
         title: "Aladdin Sane",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/3HZKOk1knxrUU3y5ZIOdbz?si=61010ee7401041fb",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "Funhouse",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/5qhXaVIC5BdE4a5Kq1FMZG?si=6b747032c4da4e97",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "The Man Who Sold The World",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/4h9rWFWhgCSSrvIEQ0YhYG?si=23352ecbf67f45b6",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "David Bowie aka Space Oddity",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/1ay9Z4R5ZYI2TY7WiDhNYQ?si=3a8beea060e34190",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "Arkhaiomelisidonophunikheratos",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 3,
         link: "https://open.spotify.com/intl-fr/album/3Sb2zffOmDnzLhDrMboXAq?si=6a9fe4969f774c2d",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "No Mercy for Love",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/2lSiu7i14zUsuhEmMgZEX0?si=3818cf25474841e5",
-        kind: "albums"
+        kind: "album"
     },    
     {
         title: "The Low End Theory",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/1p12OAWwudgMqfMzjMvl2a?si=19defa6fa4a54d9e",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "Here are the Sonics",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/4vqaqoTEbNyeeSHJA6KpdM?si=8c82b91884ec4397",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "The Guilded Palace of Sin",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/6VWKy5o2OcdeWa7yolazjU?si=5cfea26c58554fbb",
-        kind: "albums"
+        kind: "album"
     },
 
     {
@@ -304,104 +304,104 @@ const mediaLibrary = [
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/0vVekV45lOaVKs6RZQQNob?si=bf237fda8c7e45a9",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "Goo",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/5iYYQwB0oH9FVyVlaOXZdr?si=1e921b075c6f4485",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "Druks",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/2oJo7cB45gMVuRsaWNwDq2?si=c69b3876898d474b",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "Swimming",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/5wtE5aLX5r7jOosmPhJhhk?si=22a007c77f4c4fc5",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "The Doors - The Doors",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/1jWmEhn3ggaL6isoyLfwBn?si=a3a5526ec6fe4204",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "Bury Me at Makeout Creek",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/3I2KkX13lHXuYqfBjSOopo?si=1e824ad77e684c94",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "Solid State Survivor",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/5TmpFE7Xus70ko1QYGxFIe?si=f92037d9a5bc4e15",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "Puberty 2",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/4Coa8Eb9SzjrkwWEom963Q?si=de5f6256fdac4974",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "Beats, Rhymes & Life",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "Full Circle",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/26Fac6kNgB6MLeoGVkmpKN?si=f5e677050459423d",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "Soaring",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/3piPM3MXYU1wmB9yz7UHcQ?si=82ea0eaaf7124533",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "The Downward Spiral",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/5I7lLu8xXJfGRdFUqHaLQU?si=1d16103fcdfb43c2",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "Sacco e Vanzetti",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/5Kh97XNvwMEk6hl4ZrOtKK?si=1495a513013a4105",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "Its alive",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/3B2xgIcoHjm1HdHYDydoUu?si=bfc7458767c841a0",
-        kind: "albums"
+        kind: "album"
     },
     {
         title: "Plaisirs d'amour",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/4qOpd4VHIeXU8W2yAay4XL?si=25d2c14247714602",
-        kind: "albums"
+        kind: "album"
     },
 ];
