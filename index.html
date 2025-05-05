@@ -371,17 +371,17 @@
             return groupedMedia;
         }
 
-        function generatePodcastSection() {
+        function generateAlbumSection() {
             const container = document.getElementById('albums-section');
             container.innerHTML = '';
             
-            const podcasts = mediaLibrary
+            const albums = mediaLibrary
                 .filter(item => item.kind === 'podcast')
                 .sort((a, b) => a.title.localeCompare(b.title));
                 
             container.innerHTML = `
             <div class="media-grid">
-                ${podcasts.map(item => `
+                ${albums.map(item => `
                     <div class="media-card">
                         <a href="${item.link}" target="_blank">
                             <img src="${item.cover}" alt="${item.title}" class="media-cover">
@@ -400,9 +400,9 @@
 
         // Function to generate media grid (updated)
         function generateMediaSection(mediaType) {
-            // Special handling for podcasts
-            if (mediaType === 'podcasts') {
-                generatePodcastSection();
+            // Special handling for albums
+            if (mediaType === 'albums') {
+                generateAlbumSection();
                 return;
             }
             
@@ -489,8 +489,8 @@
             initTabs();
             generateMediaSection('books');
             generateMediaSection('movies');
-            generateMediaSection('series');
-            generateMediaSection('podcasts');
+            generateMediaSection('vinyls');
+            generateMediaSection('albums');
         });
     </script>
 </body>
