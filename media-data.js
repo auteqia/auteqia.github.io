@@ -391,14 +391,14 @@ const mediaLibrary = [
         kind: "albums"
     },
     {
-        title: "It's alive",
+        title: "Its alive",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/3B2xgIcoHjm1HdHYDydoUu?si=bfc7458767c841a0",
         kind: "albums"
     },
     {
-        title: "Plaisirs d\'amour",
+        title: "Plaisirs d'amour",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/4qOpd4VHIeXU8W2yAay4XL?si=25d2c14247714602",
