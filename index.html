@@ -337,7 +337,7 @@
                     tooltipText = 'Relecture';
                 } else if (mediaKind === 'movie' || mediaKind === 'serie') {
                     tooltipText = 'Revisionnage';
-                } else if (mediaKind === 'podcast') {
+                } else if (mediaKind === 'album') {
                     tooltipText = 'Ré-écouté';
                 }
                 
@@ -376,7 +376,7 @@
             container.innerHTML = '';
             
             const albums = mediaLibrary
-                .filter(item => item.kind === 'podcast')
+                .filter(item => item.kind === 'album')
                 .sort((a, b) => a.title.localeCompare(b.title));
                 
             container.innerHTML = `
@@ -389,7 +389,7 @@
                         <div class="media-info">
                             <div class="media-title">${item.title}</div>
                             <div class="media-rating">
-                                ${createStarRating(item.rating, item.favorite, item.reRead, 'podcast')}
+                                ${createStarRating(item.rating, item.favorite, item.reRead, 'album')}
                             </div>
                         </div>
                     </div>
