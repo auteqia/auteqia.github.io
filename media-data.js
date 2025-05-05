@@ -158,7 +158,7 @@ const mediaLibrary = [
         cover: "assets/movies/parasite.jpg",
         rating: 4,
         link: "https://www.themoviedb.org/movie/496243",
-        readDate: "2025-01-25",
+        readDate: "2022-02-25",
         kind: "movie"
     },
     {
@@ -198,7 +198,7 @@ const mediaLibrary = [
         rating: 1.5,
         favorite: false,
         link: "https://www.themoviedb.org/movie/7191-cloverfield",
-        readDate: "2025-03-24",
+        readDate: "2022-03-24",
         kind: "movie"
     },
     {
@@ -218,7 +218,7 @@ const mediaLibrary = [
         rating: 4,
         favorite: false,
         link: "https://www.themoviedb.org/movie/509-notting-hill",
-        readDate: "2025-04-28",
+        readDate: "2024-04-28",
         kind: "movie"
     },
 
@@ -234,12 +234,97 @@ const mediaLibrary = [
         kind: "serie"
     },
     // END OF SERIES \\
-    // PODCASTS \\
+    // ALBUMS \\
     {
-        title: "Floodcast",
+        title: "Aladdin Sane",
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
-        link: "https://podcasts.apple.com/us/podcast/floodcast/id1019768302",
-        kind: "podcast"
+        link: "https://open.spotify.com/intl-fr/album/3HZKOk1knxrUU3y5ZIOdbz?si=61010ee7401041fb",
+        kind: "albums"
+    },`
+    {
+        title: "Funhouse",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/5qhXaVIC5BdE4a5Kq1FMZG?si=6b747032c4da4e97",
+        kind: "albums"
+    },
+    {
+        title: "The Man Who Sold The World",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/4h9rWFWhgCSSrvIEQ0YhYG?si=23352ecbf67f45b6",
+        kind: "albums"
+    },
+    {
+        title: "David Bowie aka Space Oddity",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/1ay9Z4R5ZYI2TY7WiDhNYQ?si=3a8beea060e34190",
+        kind: "albums"
+    },
+    {
+        title: "Arkhaiomelisidonophunikheratos",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 3,
+        link: "https://open.spotify.com/intl-fr/album/3Sb2zffOmDnzLhDrMboXAq?si=6a9fe4969f774c2d",
+        kind: "albums"
+    },
+    {
+        title: "No Mercy for Love",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/2lSiu7i14zUsuhEmMgZEX0?si=3818cf25474841e5",
+        kind: "albums"
+    },    
+    {
+        title: "The Low End Theory",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/1p12OAWwudgMqfMzjMvl2a?si=19defa6fa4a54d9e",
+        kind: "albums"
+    },
+    {
+        title: "Here are the Sonics",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/4vqaqoTEbNyeeSHJA6KpdM?si=8c82b91884ec4397",
+        kind: "albums"
+    },
+    {
+        title: "The Guilded Palace of Sin",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/6VWKy5o2OcdeWa7yolazjU?si=5cfea26c58554fbb",
+        kind: "albums"
+    },
+
+    {
+        title: "In the Aeroplane over the Sea",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/0vVekV45lOaVKs6RZQQNob?si=bf237fda8c7e45a9",
+        kind: "albums"
+    },
+    {
+        title: "Goo",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/5iYYQwB0oH9FVyVlaOXZdr?si=1e921b075c6f4485",
+        kind: "albums"
+    },
+    {
+        title: "Druks",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/2oJo7cB45gMVuRsaWNwDq2?si=c69b3876898d474b",
+        kind: "albums"
+    },
+    {
+        title: "The Man Who Sold The World",
+        cover: "assets/podcasts/floodcast.jpg",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/4h9rWFWhgCSSrvIEQ0YhYG?si=23352ecbf67f45b6",
+        kind: "albums"
     },
 ];
