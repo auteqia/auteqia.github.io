@@ -241,7 +241,7 @@ const mediaLibrary = [
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/3HZKOk1knxrUU3y5ZIOdbz?si=61010ee7401041fb",
         kind: "albums"
-    },`
+    },
     {
         title: "Funhouse",
         cover: "assets/podcasts/floodcast.jpg",
