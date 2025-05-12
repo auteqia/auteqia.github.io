@@ -297,7 +297,7 @@ const mediaLibrary = [
         title: "Reservoir Dogs",
         author: "Quentin Tarantino",
         cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
-        rating: 3,5,
+        rating: 3.5,
         reRead: true,
         link: "http://www.imdb.com/title/tt0105236/",
         readDate: "2024-01-28",
