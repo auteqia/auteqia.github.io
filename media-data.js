@@ -480,7 +480,7 @@ const mediaLibrary = [
     },
     {
         title: "Goo",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b690940b6544fb39bf3653d2",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/5iYYQwB0oH9FVyVlaOXZdr?si=1e921b075c6f4485",
         kind: "album"
@@ -490,6 +490,13 @@ const mediaLibrary = [
         cover: "assets/podcasts/floodcast.jpg",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/2oJo7cB45gMVuRsaWNwDq2?si=c69b3876898d474b",
+        kind: "album"
+    },
+    {
+        title: "eps 1988-1991 and rare tracks",
+        cover: "https://i.scdn.co/image/ab67616d00001e02140e779a7eae66860d27e79d",
+        rating: 5,
+        link: "https://open.spotify.com/album/3OKQrIvUbcJN9kcFLmycsk?si=X-140myRRn6zniaYJiernA",
         kind: "album"
     },
     {
