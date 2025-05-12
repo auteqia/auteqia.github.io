@@ -46,7 +46,7 @@ const mediaLibrary = [
     {
         title: "Requiem of a dream",
         author: "Darren Aronofsky",
-        cover: "assets/movies/kill-bill-vol-1.jpg",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ucEzdVnn3vb3fKugIgedJxyykag.jpg",
         rating: 4.5,
         reRead: false,
         link: "http://www.imdb.com/title/tt0180093/",
@@ -66,7 +66,7 @@ const mediaLibrary = [
     {
         title: "Bonnie and Clyde",
         author: "Arthur Penn",
-        cover: "assets/movies/kill-bill-vol-1.jpg",
+        cover: "https://m.media-amazon.com/images/M/MV5BYWI3ZmM1NmEtMDk4Yi00MzYzLTk0MDctYWJlZjY4MGViNDFiXkEyXkFqcGc@._V1_FMjpg_UY2204_.jpg",
         rating: 4.8,
         reRead: false,
         link: "http://www.imdb.com/title/tt0061418/",
@@ -76,7 +76,7 @@ const mediaLibrary = [
     {
         title: "The Last Temptation of Christ",
         author: "Martin Scorsese",
-        cover: "assets/movies/kill-bill-vol-1.jpg",
+        cover: "https://m.media-amazon.com/images/M/MV5BZjE2MWE2NDQtMjIzYy00OGY4LTk3YjktZTE2MWExYmEzMjM5XkEyXkFqcGc@._V1_FMjpg_UX981_.jpg",
         rating: 4.0,
         reRead: false,
         link: "http://www.imdb.com/title/tt0095497/",
