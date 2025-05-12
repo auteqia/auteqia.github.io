@@ -415,8 +415,15 @@ const mediaLibrary = [
         kind: "album"
     },
     {
+        title: "Loveless",
+        cover: "https://i.scdn.co/image/ab67616d00001e02db8e38addb58131f77b48377",
+        rating: 5,
+        link: "https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb?si=Lik-Z2JNRH6k5N_cJ3tNgA",
+        kind: "album"
+    },
+    {
         title: "Funhouse",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e022c7d41ae194ef7aaaba3fee3",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/5qhXaVIC5BdE4a5Kq1FMZG?si=6b747032c4da4e97",
         kind: "album"
@@ -550,21 +557,21 @@ const mediaLibrary = [
     },
     {
         title: "Soaring",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e029e54c15c0947e01e0e7238c7",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/3piPM3MXYU1wmB9yz7UHcQ?si=82ea0eaaf7124533",
         kind: "album"
     },
     {
         title: "The Downward Spiral",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734078c255069c0e7a2553fa4a",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/5I7lLu8xXJfGRdFUqHaLQU?si=1d16103fcdfb43c2",
         kind: "album"
     },
     {
         title: "Sacco e Vanzetti",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bd278960137489531c98c8b1",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/5Kh97XNvwMEk6hl4ZrOtKK?si=1495a513013a4105",
         kind: "album"
