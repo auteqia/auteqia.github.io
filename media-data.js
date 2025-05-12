@@ -104,6 +104,26 @@ const mediaLibrary = [
         kind: "movie"
     },
     {
+        title: "Jurassic Park: The Lost World",
+        author: "Steven Spielberg",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jElpCJkSaRPYwIMwZY28gOKV7BK.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/fr-ca/title/tt0119567/",
+        readDate: "2025-04-01",
+        kind: "movie"
+    },
+    {
+        title: "Jurassic Park",
+        author: "Steven Spielberg",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fjTU1Bgh3KJu4aatZil3sofR2zC.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0107290/",
+        readDate: "2025-04-01",
+        kind: "movie"
+    },
+    {
         title: "The Grand Budapest Hotel",
         author: "Wes Anderson",
         cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
@@ -277,9 +297,19 @@ const mediaLibrary = [
         title: "Reservoir Dogs",
         author: "Quentin Tarantino",
         cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
-        rating: 4,
+        rating: 3,5,
         reRead: true,
         link: "http://www.imdb.com/title/tt0105236/",
+        readDate: "2024-01-28",
+        kind: "movie"
+    },
+    {
+        title: "Paris, Texas",
+        author: "Wim Wenders",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYYdCi54E2xVbUxCr03tMookv9Z.jpg",
+        rating: 5,
+        reRead: true,
+        link: "https://www.imdb.com/fr-ca/title/tt0087884/",
         readDate: "2024-01-28",
         kind: "movie"
     },
