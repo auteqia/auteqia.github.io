@@ -56,7 +56,7 @@ const mediaLibrary = [
     {
         title: "Drunk",
         author: "Thomas Vinterberg",
-        cover: "assets/movies/kill-bill-vol-1.jpg",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
         rating: 4.0,
         reRead: false,
         link: "http://www.imdb.com/title/tt10288566/",
@@ -86,7 +86,7 @@ const mediaLibrary = [
     {
         title: "After Hours",
         author: "Martin Scorsese",
-        cover: "assets/movies/kill-bill-vol-1.jpg",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
         rating: 4.7,
         reRead: false,
         link: "http://www.imdb.com/title/tt0088680/",
@@ -96,11 +96,161 @@ const mediaLibrary = [
     {
         title: "Gangs of New York",
         author: "Martin Scorsese",
-        cover: "assets/movies/kill-bill-vol-1.jpg",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
         rating: 4.7,
         reRead: false,
         link: "http://www.imdb.com/title/tt0217505/",
         readDate: "2025-04-19",
+        kind: "movie"
+    },
+    {
+        title: "The Grand Budapest Hotel",
+        author: "Wes Anderson",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt2278388/",
+        readDate: "2025-04-01",
+        kind: "movie"
+    },
+    {
+        title: "Eraserhead",
+        author: "David Lynch",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0074486/",
+        readDate: "2025-04-01",
+        kind: "movie"
+    },
+    {
+        title: "Twin Peaks, Fire walk with me",
+        author: "David Lynch",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rol5H6loAojd6tH2VXQYEXzGQk1.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0105665",
+        readDate: "2025-04-01",
+        kind: "movie"
+    },
+    {
+        title: "Muholland Drive",
+        author: "David Lynch",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0166924/",
+        readDate: "2025-04-01",
+        kind: "movie"
+    },
+    {
+        title: "Trainspotting",
+        author: "Danny Boyle",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0117951/",
+        readDate: "2025-03-21",
+        kind: "movie"
+    },
+    {
+        title: "The Royal Tenenbaums",
+        author: "Wes Anderson",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/syaECBy6irxSgeF0m5ltGPNTWXL.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0265666/",
+        readDate: "2025-03-20",
+        kind: "movie"
+    },
+    {
+        title: "Belladonna of Sadness",
+        author: "Eiichi Yamamoto",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lsgaGlGVIRXLj9xRqPQgzvlcffP.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0071203/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "Heat",
+        author: "Wes Anderson",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0113277/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "Where The Buffalo Roam",
+        author: "Art Linson",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRMeb4LN416PGvSgG0n063bc5ez.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0081748/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "The Rhum Diary",
+        author: "Bruce Robinson",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uErFROiMrpk7owQWKK3bpD4hSJs.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0376136/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "Fear and Loathing in Las Vegas",
+        author: "Terry Gilliam",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tisNLcMkxryU2zxhi0PiyDFqhm0.jpg",
+        rating: 4.9,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0120669/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "Blue Velvet",
+        author: "David Lynch",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tzXuURjPzCqtA6eL0Cswq9wzFx0.jpg",
+        rating: 4.1,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0090756/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "Wild at Heart",
+        author: "David Lynch",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+        rating: 4.1,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0100935/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "Lost Highway",
+        author: "David Lynch",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fdTtij6H0sX9AzIjUeynh5zbfm7.jpg",
+        rating: 4.1,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0116922/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "Pokemon - The first movie",
+        author: "Kunihiko Yuyama",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xPW3AeK3iQi1Zd9dCbdNLijE48o.jpg",
+        rating: 4.1,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0190641/",
+        readDate: "2024-09-09",
         kind: "movie"
     },
     {
@@ -126,7 +276,7 @@ const mediaLibrary = [
     {
         title: "Reservoir Dogs",
         author: "Quentin Tarantino",
-        cover: "assets/movies/reservoir-dogs.jpg",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
         rating: 4,
         reRead: true,
         link: "http://www.imdb.com/title/tt0105236/",
@@ -134,12 +284,13 @@ const mediaLibrary = [
         kind: "movie"
     },
     {
-        title: "Everything Everywhere All at Once",
-        author: "Daniel Scheinert, Daniel Kwan",
-        cover: "assets/movies/everything-everywhere-all-at-once.jpg",
-        rating: 4,
-        link: "http://www.imdb.com/title/tt6710474/",
-        readDate: "2024-10-01",
+        title: "John Wick 2",
+        author: "Chad Stahelski",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+        rating: 4.5,
+        reRead: true,
+        link: "https://www.imdb.com/title/tt4425200/",
+        readDate: "2024-11-03",
         kind: "movie"
     },
     {
@@ -159,15 +310,6 @@ const mediaLibrary = [
         rating: 4,
         link: "https://www.themoviedb.org/movie/496243",
         readDate: "2022-02-25",
-        kind: "movie"
-    },
-    {
-        title: "O'Brother",
-        author: "Ethan et Joe Coen",
-        cover: "assets/movies/o-brother.jpg",
-        rating: 3.5,
-        link: "https://www.themoviedb.org/movie/134-o-brother-where-art-thou",
-        readDate: "2025-02-21",
         kind: "movie"
     },
     {
