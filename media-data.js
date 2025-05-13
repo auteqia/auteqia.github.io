@@ -405,17 +405,9 @@ const mediaLibrary = [
     },
 
     // END OF MOVIES //
-    // VINYLS \\
-    {
-        title: "Eastbound & Down (S1)",
-        author: "Ben Best, Jody Hill, Danny McBride",
-        cover: "assets/series/eastbound-and-down.jpg",
-        rating: 3.5,
-        link: "https://www.themoviedb.org/tv/8624-eastbound-down",
-        readDate: "2025-04-23",
-        kind: "vinyl"
-    },
-    // END OF VINYLS \\
+
+
+    
     // album \\
     {
         title: "Aladdin Sane",
