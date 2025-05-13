@@ -642,13 +642,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Led Zeppelin",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c77c73285cc5cb64d97e1b0f",
-        rating: 5,
-        link: "https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU?si=a9QKyyywQvq6JmnVn7n2IQ",
-        kind: "album"
-    },
-    {
         title: "Civilized Evil",
         cover: "https://i.scdn.co/image/ab67616d00001e026880ca96312ca84020009730",
         rating: 5,
