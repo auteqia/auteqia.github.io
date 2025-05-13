@@ -234,6 +234,16 @@ const mediaLibrary = [
         kind: "movie"
     },
     {
+        title: "28 days later",
+        author: "Danny Boyle",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+        rating: 4.9,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/170-28-days-later",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
         title: "Blue Velvet",
         author: "David Lynch",
         cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tzXuURjPzCqtA6eL0Cswq9wzFx0.jpg",
@@ -409,7 +419,7 @@ const mediaLibrary = [
     // album \\
     {
         title: "Aladdin Sane",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e025db6dbaca8678527e643a866",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/3HZKOk1knxrUU3y5ZIOdbz?si=61010ee7401041fb",
         kind: "album"
@@ -430,49 +440,49 @@ const mediaLibrary = [
     },
     {
         title: "The Man Who Sold The World",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0246926e777bd6665f03128d29",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/4h9rWFWhgCSSrvIEQ0YhYG?si=23352ecbf67f45b6",
         kind: "album"
     },
     {
         title: "David Bowie aka Space Oddity",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e023395f3e809dfbc2b1101d464",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/1ay9Z4R5ZYI2TY7WiDhNYQ?si=3a8beea060e34190",
         kind: "album"
     },
     {
         title: "Arkhaiomelisidonophunikheratos",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a04ab67781fd7f5fcd9f243f",
         rating: 3,
         link: "https://open.spotify.com/intl-fr/album/3Sb2zffOmDnzLhDrMboXAq?si=6a9fe4969f774c2d",
         kind: "album"
     },
     {
         title: "No Mercy for Love",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02cde247dcf57d9e5d4974ed34",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/2lSiu7i14zUsuhEmMgZEX0?si=3818cf25474841e5",
         kind: "album"
     },    
     {
         title: "The Low End Theory",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f38c6b37a21334e22005b1f7",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/1p12OAWwudgMqfMzjMvl2a?si=19defa6fa4a54d9e",
         kind: "album"
     },
     {
         title: "Here are the Sonics",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e023b8f9c148e9eead1143c78e6",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/4vqaqoTEbNyeeSHJA6KpdM?si=8c82b91884ec4397",
         kind: "album"
     },
     {
-        title: "The Guilded Palace of Sin",
-        cover: "assets/podcasts/floodcast.jpg",
+        title: "The Gilded Palace of Sin",
+        cover: "https://i.scdn.co/image/ab67616d0000b27353ba02e4c3b1b6a297002afa",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/6VWKy5o2OcdeWa7yolazjU?si=5cfea26c58554fbb",
         kind: "album"
@@ -480,7 +490,7 @@ const mediaLibrary = [
 
     {
         title: "In the Aeroplane over the Sea",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02589ce9a911c6e65b1f80c558",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/0vVekV45lOaVKs6RZQQNob?si=bf237fda8c7e45a9",
         kind: "album"
@@ -494,7 +504,7 @@ const mediaLibrary = [
     },
     {
         title: "Druks",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e022e261a0b1b19d0ff95e346b3",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/2oJo7cB45gMVuRsaWNwDq2?si=c69b3876898d474b",
         kind: "album"
@@ -508,49 +518,49 @@ const mediaLibrary = [
     },
     {
         title: "Swimming",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02175c577a61aa13d4fb4b6534",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/5wtE5aLX5r7jOosmPhJhhk?si=22a007c77f4c4fc5",
         kind: "album"
     },
     {
-        title: "The Doors - The Doors",
-        cover: "assets/podcasts/floodcast.jpg",
+        title: "The Doors",
+        cover: "https://i.scdn.co/image/ab67616d00001e025b96a8c5d61be8878452f8f1",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/1jWmEhn3ggaL6isoyLfwBn?si=a3a5526ec6fe4204",
         kind: "album"
     },
     {
         title: "Bury Me at Makeout Creek",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e90db8983ebd43b776694179",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/3I2KkX13lHXuYqfBjSOopo?si=1e824ad77e684c94",
         kind: "album"
     },
     {
         title: "Solid State Survivor",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c70aa05c55b6fb116863f6f5",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/5TmpFE7Xus70ko1QYGxFIe?si=f92037d9a5bc4e15",
         kind: "album"
     },
     {
         title: "Puberty 2",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0229eb9ad9b9af34bbb54eb053",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/4Coa8Eb9SzjrkwWEom963Q?si=de5f6256fdac4974",
         kind: "album"
     },
     {
         title: "Beats, Rhymes & Life",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
         kind: "album"
     },
     {
         title: "Full Circle",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a217433125ab8324ce5f7e09",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/26Fac6kNgB6MLeoGVkmpKN?si=f5e677050459423d",
         kind: "album"
@@ -578,16 +588,185 @@ const mediaLibrary = [
     },
     {
         title: "Its alive",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e025fb94199e9cef141cba5c038",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/3B2xgIcoHjm1HdHYDydoUu?si=bfc7458767c841a0",
         kind: "album"
     },
     {
         title: "Plaisirs d'amour",
-        cover: "assets/podcasts/floodcast.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e026219cb49fe3b85a56c416e5e",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/4qOpd4VHIeXU8W2yAay4XL?si=25d2c14247714602",
         kind: "album"
     },
+    {
+        title: "The Smiths",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a09b231129ab1cb1a6efc57f",
+        rating: 5,
+        link: "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN?si=rYF7oUjrQg2TVdYhpD1EBw",
+        kind: "album"
+    },
+    {
+        title: "R Plus Seven",
+        cover: "https://i.scdn.co/image/ab67616d00001e026219cb49fe3b85a56c416e5e",
+        rating: 5,
+        link: "https://open.spotify.com/album/6MEswIpaIGVN8M68FGr550?si=VVB_MMZ2TR6KiqVt_zeITg",
+        kind: "album"
+    },
+    {
+        title: "Surrender",
+        cover: "https://i.scdn.co/image/ab67616d00001e0229dc59785f4c767fcbfc9e38",
+        rating: 5,
+        link: "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3?si=WC0PeknAQMypuS2G06yIyA",
+        kind: "album"
+    },
+    {
+        title: "La Planète Sauvage",
+        cover: "https://i.scdn.co/image/ab67616d00001e02da435c0e7c069c4b8cd90eff",
+        rating: 5,
+        link: "https://open.spotify.com/album/4BF1mMXkDo1NcJCgEBXKEk?si=3V72a01FT6-x8OU7BrNHtg",
+        kind: "album"
+    },
+    {
+        title: "1584660650",
+        cover: "https://i.scdn.co/image/ab67616d00001e024fa0196ad0b1435563fbd4ab",
+        rating: 5,
+        link: "https://open.spotify.com/album/4JY1a8QLSJD0JNSOZ2ekJ2?si=OSkXs36ETGKL2egce4SfWw",
+        kind: "album"
+    },
+    {
+        title: "Crystal Castles",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b01fea159227ea845c2bd72e",
+        rating: 5,
+        link: "https://open.spotify.com/album/3LnVvIeiLCngvwEnbdxwCT?si=FCs_ESPuRt6YxjlbXZWFPw",
+        kind: "album"
+    },
+    {
+        title: "Toxicity",
+        cover: "https://i.scdn.co/image/ab67616d00001e0207bc7d2a745636c356b4d0aa",
+        rating: 5,
+        link: "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh?si=OV78jCZzRaikT1IJCO508Q",
+        kind: "album"
+    },
+    {
+        title: "Led Zeppelin",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c77c73285cc5cb64d97e1b0f",
+        rating: 5,
+        link: "https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU?si=a9QKyyywQvq6JmnVn7n2IQ",
+        kind: "album"
+    },
+    {
+        title: "Civilized Evil",
+        cover: "https://i.scdn.co/image/ab67616d00001e026880ca96312ca84020009730",
+        rating: 5,
+        link: "https://open.spotify.com/album/3HfjIGx8MTHt9pmL1rJyL9?si=UzNme3eVQdeXPx6vddzyYQ",
+        kind: "album"
+    },
+    {
+        title: "Tales Of Mystery And Imagination (Original 1976 Version)",
+        cover: "https://i.scdn.co/image/ab67616d00001e02dd7e9be4966d93c97906200d",
+        rating: 5,
+        link: "https://open.spotify.com/album/0ICEGX26wNqIKLmWRpZxwx?si=2JVjRk5fS2SfB-kqSaJClQ",
+        kind: "album"
+    },
+    {
+        title: "Volcano",
+        cover: "https://i.scdn.co/image/ab67616d00001e021bd8726f0326ce113038a1f4",
+        rating: 5,
+        link: "https://open.spotify.com/album/0Mrv2YvHtRgyn3j3S38mEF?si=PAgPEZziSlqg7_-MfI624Q",
+        kind: "album"
+    },
+    {
+        title: "No Pussyfooting",
+        cover: "https://i.scdn.co/image/ab67616d00001e0268e33726e53c01d42a6d1f3c",
+        rating: 5,
+        link: "https://open.spotify.com/album/7090pUnNlv1lklI2lI2X6J?si=iz68yPc_SMiO4Y6Zun4XFg",
+        kind: "album"
+    },
+    {
+        title: "Led Zeppelin",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c77c73285cc5cb64d97e1b0f",
+        rating: 5,
+        link: "https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU?si=a9QKyyywQvq6JmnVn7n2IQ",
+        kind: "album"
+    },
+    {
+        title: "Sun Structures",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f35c8b47c52ab1f3668a6927",
+        rating: 5,
+        link: "https://open.spotify.com/album/0bJvWkM6E03FI8DEHiCuUU?si=32TCfO9tShCCzzBNHWpyHA",
+        kind: "album"
+    },
+    {
+        title: "Music Has The Right To Children",
+        cover: "https://i.scdn.co/image/ab67616d00001e029effb26eea559ce6f3fed751",
+        rating: 5,
+        link: "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU?si=ROCuqIgWRK2DOyHS-RwArg",
+        kind: "album"
+    },
+    {
+        title: "Quoth",
+        cover: "https://i.scdn.co/image/ab67616d00001e02576800526554c66833197d76",
+        rating: 3.6,
+        link: "https://open.spotify.com/album/4F83Th71IEwecavhxGFGzN?si=_iEnUFVSTOOkMrHMvcNAnw",
+        kind: "album"
+    },
+    {
+        title: "Undertow",
+        cover: "https://i.scdn.co/image/ab67616d00001e0282298636c94b8167c4793db2",
+        rating: 3.6,
+        link: "https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0?si=PLR3N6J3Say_gAPqxM-NvQ",
+        kind: "album"
+    },
+    {
+        title: "The Pearl",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a00536b039aaefb64040d8dd",
+        rating: 4.8,
+        link: "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP?si=yKHckzBnTQ2hX4yj1MlCew",
+        kind: "album"
+    },
+    {
+        title: "Ambiant 4: On Land",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c83fef08b45f1784b4e916ba",
+        rating: 5,
+        link: "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh?si=Luh5los9SM24YNpVPSzKdg",
+        kind: "album"
+    },
+    {
+        title: "Getz/Gilberto",
+        cover: "https://i.scdn.co/image/ab67616d00001e02417cc363d7286a88489dee3c",
+        rating: 3.6,
+        link: "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP?si=9hU3UJ6MR7ayQ4RGCBLGKA",
+        kind: "album"
+    },
+    {
+        title: "The Fame Monster",
+        cover: "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa",
+        rating: 4,
+        link: "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4?si=YvHpcrHmTbyvl2mhHtnHMg",
+        kind: "album"
+    },
+    {
+        title: "Ambient 2: The Plateaux Of Mirror",
+        cover: "https://i.scdn.co/image/ab67616d00001e02eba05344ff7ca99e2fd35545",
+        rating: 4.2,
+        link: "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO?si=Rpwja9KdSnGPdAdSks7yUQ",
+        kind: "album"
+    },
+    {
+        title: "Howl's Moving Castle",
+        cover: "https://i.scdn.co/image/ab67616d00001e0262c1f3370811c52ae2d26d24",
+        rating: 5,
+        link: "https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl?si=JQVhwslmSl2Rd2kUfwRL_w",
+        kind: "album"
+    },
+    {
+        title: "The Wind Rises",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c853c5a8535cc3dc394efc58",
+        rating: 5,
+        link: "https://open.spotify.com/album/59U5FQ4kDEt11Q2UcFu1dK?si=RmU-9e3RRMaaPbcepRClkQ",
+        kind: "album"
+    },
+
 ];
