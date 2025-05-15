@@ -608,10 +608,10 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Beats, Rhymes & Life",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        title: "Contemporary Movement",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f2905338b1e6e07e167ee305",
         rating: 5,
-        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        link: "https://open.spotify.com/album/6CYyrh3J08jXacgo9wHwsU?si=OBIYn1QdSICoWQG1UT-JPg",
         kind: "album"
     },
     {
@@ -622,10 +622,10 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Beats, Rhymes & Life",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        title: "Be the Cowboy",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c428f67b4a9b7e1114dfc117",
         rating: 5,
-        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        link: "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq?si=Zd_BhXz8R6ClaxVcb-LegA",
         kind: "album"
     },
     {
@@ -636,10 +636,17 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Beats, Rhymes & Life",
+        title: "Lush",
         cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
         rating: 5,
-        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        link: "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga?si=yhGLr03lSV2xJV8xh6kd6g8",
+        kind: "album"
+    },
+    {
+        title: "Pyramid",
+        cover: "https://i.scdn.co/image/ab67616d00001e0242165edf668b41cb531722b0",
+        rating: 5,
+        link: "https://open.spotify.com/album/3GwhihLKs0eZmgUUrshE9k?si=5bf81ea8e36a4b9b",
         kind: "album"
     },
     {
@@ -650,19 +657,76 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Beats, Rhymes & Life",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        title: "The Fat of The Land",
+        cover: "https://i.scdn.co/image/ab67616d00001e028688e410538bc27972791f4c",
         rating: 5,
-        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        link: "https://open.spotify.com/album/4fdgcEVMdJe0KVgupMNJAP?si=KCpxnGK0S7aF-XBANk2CpA",
         kind: "album"
     },
     {
-        title: "Beats, Rhymes & Life",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        title: "Experience",
+        cover: "https://i.scdn.co/image/ab67616d00001e028cd856419c4f5ac9994c64fe",
         rating: 5,
-        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        link: "https://open.spotify.com/album/2hEyYIrm4e6gVgfaYLY00x?si=fNhxTJP0S0aSwH7nreBIUQ",
         kind: "album"
     },
+    {
+        title: "Rock 'n' Roll Animal",
+        cover: "https://i.scdn.co/image/ab67616d00001e026f45f8b4aaf3ee06469c9f5b",
+        rating: 5,
+        link: "https://open.spotify.com/album/7ibv6MJHfkq0al0QRmoCd6?si=99zZhi5vRjy1sFQSd1RDrg",
+        kind: "album"
+    },
+    {
+        title: "Transformer",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d55149748dca0e5a1f40778e",
+        rating: 5,
+        link: "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St?si=8j_Pc0BxRG2lfZZeAjMrRA",
+        kind: "album"
+    },
+    {
+        title: "New York",
+        cover: "https://i.scdn.co/image/ab67616d00001e026386bf63d1326306c9b168ef",
+        rating: 5,
+        link: "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t?si=2WRQSy_OQ8ONWS7jIT59tA",
+        kind: "album"
+    },
+    {
+        title: "Lust For Life",
+        cover: "https://i.scdn.co/image/ab67616d00001e024aa5f679427e35409a06f225",
+        rating: 5,
+        link: "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz?si=UGiYTvJoS2W22eukQn-DQw",
+        kind: "album"
+    },
+    {
+        title: "The Idiot",
+        cover: "https://i.scdn.co/image/ab67616d00001e022023cfc4febdbe8213a41f8a",
+        rating: 5,
+        link: "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6?si=ECxctRs3S9q7_syvHONApQ",
+        kind: "album"
+    },
+    {
+        title: "10000 lépés",
+        cover: "https://i.scdn.co/image/ab67616d00001e021a8105b6d15067a8a81435c2",
+        rating: 5,
+        link: "https://open.spotify.com/album/5GVrqNePT3Rek05os9fegp?si=KK2xBDnaQbi92-uO35UGXQ",
+        kind: "album"
+    },
+    {
+        title: "Mothership",
+        cover: "https://i.scdn.co/image/ab67616d00001e0222f1b6c28ce5735646b2e569",
+        rating: 5,
+        link: "https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh?si=DxABFJLwRYq2LssHDM23JA",
+        kind: "album"
+    },
+    {
+        title: "Amigos",
+        cover: "https://i.scdn.co/image/ab67616d00001e029dbda89d303ef548c712570f",
+        rating: 5,
+        link: "https://open.spotify.com/album/1xlThGcidi851d3NwHfjQH?si=3O4StAlcQReR-koH53jeKA",
+        kind: "album"
+    },
+
     {
         title: "Soaring",
         cover: "https://i.scdn.co/image/ab67616d00001e029e54c15c0947e01e0e7238c7",
