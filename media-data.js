@@ -570,11 +570,97 @@ const mediaLibrary = [
         link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
         kind: "album"
     },
+
+    
+    {
+        title: "Mirage",
+        cover: "https://i.scdn.co/image/ab67616d00001e0211537abd008a150b3f88dcaf",
+        rating: 5,
+        link: "https://open.spotify.com/album/2DZEwt8Lhz6PuqxsJWF7Ap?si=nj6WFi71R92obD4pdH3VKg",
+        kind: "album"
+    },
+    {
+        title: "One Step Beyond",
+        cover: "https://i.scdn.co/image/ab67616d00001e026238b055ec362d2eea9beb26",
+        rating: 5,
+        link: "https://open.spotify.com/album/0scFCb0HjpQvWaJ7fu16hn?si=TLu4dIC_QRO-emnOtwj-Mw",
+        kind: "album"
+    },
+    {
+        title: "Beats, Rhymes & Life",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        kind: "album"
+    },
     {
         title: "Full Circle",
         cover: "https://i.scdn.co/image/ab67616d00001e02a217433125ab8324ce5f7e09",
         rating: 5,
         link: "https://open.spotify.com/intl-fr/album/26Fac6kNgB6MLeoGVkmpKN?si=f5e677050459423d",
+        kind: "album"
+    },
+    {
+        title: "Beats, Rhymes & Life",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        kind: "album"
+    },
+    {
+        title: "Beats, Rhymes & Life",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        kind: "album"
+    },
+    {
+        title: "Beats, Rhymes & Life",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        kind: "album"
+    },
+    {
+        title: "Beats, Rhymes & Life",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        kind: "album"
+    },
+    {
+        title: "Beats, Rhymes & Life",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        kind: "album"
+    },
+    {
+        title: "Beats, Rhymes & Life",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        kind: "album"
+    },
+    {
+        title: "Beats, Rhymes & Life",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        kind: "album"
+    },
+    {
+        title: "Beats, Rhymes & Life",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        kind: "album"
+    },
+    {
+        title: "Beats, Rhymes & Life",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        rating: 5,
+        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
         kind: "album"
     },
     {
