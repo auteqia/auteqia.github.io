@@ -1028,6 +1028,195 @@ const mediaLibrary = [
         link: "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF?si=B0V64BADRuaAMuFnjj9RGw",
         kind: "album"
     },
+
+
+
+
+
+    
+    {
+        title: "The Moon and the Melodies",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f510b1ab6184d8eecf6ba4bc",
+        rating: 5,
+        link: "https://open.spotify.com/album/3qEiWhSF2HO1NhVJVsGyZm?si=TCHXHszjSE2PyDj3c8ikwA",
+        kind: "album"
+    },
+    {
+        title: "Come To Daddy",
+        cover: "https://i.scdn.co/image/ab67616d00001e0223ac84a525286001770abc8e",
+        rating: 5,
+        link: "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx?si=RSoqnkBySH65GzWJ_cgelw",
+        kind: "album"
+    },
+    {
+        title: "Richard D. James Album",
+        cover: "https://i.scdn.co/image/ab67616d00001e021298f1ce7b0e4fb6a3caba57",
+        rating: 5,
+        link: "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO?si=_4TnvI58SwiUpBS7pekzMA",
+        kind: "album"
+    },
+    {
+        title: "Chick Habit",
+        cover: "https://i.scdn.co/image/ab67616d00001e020cd486a347167c9c39d92342",
+        rating: 5,
+        link: "https://open.spotify.com/album/4Xn3fY5S63b736UT4MN4mk?si=jcs2j2g8TDa8Y0Ikg970eg",
+        kind: "album"
+    },
+    {
+        title: "The No Comprendo",
+        cover: "https://i.scdn.co/image/ab67616d00001e0212a5afee4ffdefdc65cbc441",
+        rating: 5,
+        link: "https://open.spotify.com/album/3VnFLQ6pO9MSvVeKv5DHjY?si=wsnzszGISg6IJxS0DlHdEQ",
+        kind: "album"
+    },
+    {
+        title: "The Piper At The Gates Of Dawn",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ebf2ba3431fa5fdbffaff684",
+        rating: 5,
+        link: "https://open.spotify.com/album/0Fke5eiQ6lszQHlwiFygqn?si=zyuXENnVQka0emuQCzPovQ",
+        kind: "album"
+    },
+    {
+        title: "Bitume Caviar (Vol.1)",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a7f9118d82700a41c3b3d82d",
+        rating: 5,
+        link: "https://open.spotify.com/album/3Fr9OWBaK5i1nZh0BT38jN?si=MRH6uo7ASPaCP4y10FgXDA",
+        kind: "album"
+    },
+    {
+        title: "Vertical Smiles",
+        cover: "https://i.scdn.co/image/ab67616d00001e02379cdcd991ccb22e7ad6711f",
+        rating: 5,
+        link: "https://open.spotify.com/album/59DGwDQ1Ce7UiAsoztOOM1?si=k9STYpn9SBOIvzT3Dja4MA",
+        kind: "album"
+    },
+    {
+        title: "jours Etranges",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e045585a947eb63798ad8538",
+        rating: 5,
+        link: "https://open.spotify.com/album/2bg7qOhAn5apkOzX5v2SHg?si=5AkVcPXSQU6O5XeKk0XbRA",
+        kind: "album"
+    },
+    {
+        title: "CHROMAKOPIA",
+        cover: "https://i.scdn.co/image/ab67616d00001e02124e9249fada4ff3c3a0739c",
+        rating: 5,
+        link: "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH?si=72f1TMzKSv6qeC-ys1K5_g",
+        kind: "album"
+    },
+    {
+        title: "The Snow Goose",
+        cover: "https://i.scdn.co/image/ab67616d00001e02efb0c17ee823ccfa2a091663",
+        rating: 5,
+        link: "https://open.spotify.com/album/7ny9OWZ336Y4gGSSgHlkFB?si=wW36eHA3SE2ywG0UQJMvLg",
+        kind: "album"
+    },
+    {
+        title: "Bless Its Pointed Little Head",
+        cover: "https://i.scdn.co/image/ab67616d00001e025b9cb32582085ecbd5ecceaf",
+        rating: 5,
+        link: "https://open.spotify.com/album/2ZkdTV6IV5arY4hS6ztM2g?si=hI7g5lYnScaebGow9Yof-g",
+        kind: "album"
+    },
+    {
+        title: "Disintegration",
+        cover: "https://i.scdn.co/image/ab67616d00001e02858ed9e2832801189187391a",
+        rating: 5,
+        link: "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS?si=zR40bTZaTrKkeUfK-ozeDw",
+        kind: "album"
+    },
+    {
+        title: "The Head On The Door",
+        cover: "https://i.scdn.co/image/ab67616d00001e021dda5f57ba5c203f775ea2dd",
+        rating: 5,
+        link: "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx?si=RsYuHtDLS_-pXZiYo8nxww",
+        kind: "album"
+    },
+    {
+        title: "Pornography",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bc895ce03f0a5dfd2f1597b5",
+        rating: 5,
+        link: "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm?si=ac50deb581c94344",
+        kind: "album"
+    },
+    {
+        title: "Этажи",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d4549c0e601fbe7e8622a2f5",
+        rating: 5,
+        link: "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc?si=aqRD2z0IR5K0wu4eVZUliQ",
+        kind: "album"
+    },
+    {
+        title: "Pacifique",
+        cover: "https://i.scdn.co/image/ab67616d00001e0212c59264bf24b263b27b8dc7",
+        rating: 5,
+        link: "https://open.spotify.com/album/0h9tYZeKtjZ8rsfGknVqwF?si=wvo0oRCFRZ2PaHtscakgYw",
+        kind: "album"
+    },
+    {
+        title: "Ferric Oxide",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c43ee2c59d5d6b0d4b3a2075",
+        rating: 5,
+        link: "https://open.spotify.com/album/2XEgoiYtf35w31ZZm3isN0?si=zmsKvJUdQUGaqbNkY4N76A",
+        kind: "album"
+    },
+    {
+        title: "Reminiscence",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f3fc61d2bba6b57b80607c5e",
+        rating: 5,
+        link: "https://open.spotify.com/album/1sWt7D8SIqILz7LLUP3iHR?si=XWjtFOI5TfW6gwwA3DY5qA",
+        kind: "album"
+    },
+    {
+        title: "Vicious Delicious",
+        cover: "https://i.scdn.co/image/ab67616d00001e022946296b5df89b2601732d8c",
+        rating: 5,
+        link: "https://open.spotify.com/album/0xihL8xT18rsBwjuYPhnme?si=OQsiUYZIRLiYWWOtFFCASg",
+        kind: "album"
+    },
+    {
+        title: "The Lost Ship",
+        cover: "https://i.scdn.co/image/ab67616d00001e02687087ac514d54f724e45f4d",
+        rating: 5,
+        link: "https://open.spotify.com/album/2o926sodjWyP9IBahD5YoF?si=bntg5ZSZTBOslu76RKtDsg",
+        kind: "album"
+    },
+    {
+        title: "Shapes and Shadows",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f62264d635b334a3c29cd8cb",
+        rating: 5,
+        link: "https://open.spotify.com/album/229OeMBJWAf2xy7aom3aTQ?si=YRycQGJ0ShWpeT-pUVgGcg",
+        kind: "album"
+    },
+    {
+        title: "Buena Vista Social Club",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e14a9fa0dd781bff247116b3",
+        rating: 5,
+        link: "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt?si=a1NegqHAQDGuCU6qCtdZbw",
+        kind: "album"
+    },
+    {
+        title: "Loaded: Re-Loaded",
+        cover: "https://i.scdn.co/image/ab67616d00001e025816a37263f88929907c2dbd",
+        rating: 5,
+        link: "https://open.spotify.com/album/1jYzTZV1cQXE89zA9ZSUpE?si=ZCPLSVpDRpq4bJoHy1cIng",
+        kind: "album"
+    },
+    {
+        title: "Forest of Lost Children",
+        cover: "https://i.scdn.co/image/ab67616d00001e02fd632c6df018130724e2fc57",
+        rating: 5,
+        link: "https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA?si=fK-A6xteRpWhh89ZMGfh6g",
+        kind: "album"
+    },
+    {
+        title: "House in the Tall Grass",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a938f8d61319e7ca724ddd8c",
+        rating: 5,
+        link: "https://open.spotify.com/album/0A6hLzACLoB32gRz2UFTYu?si=S9vlzWKfT6q8kUtLGJbLqQ",
+        kind: "album"
+    },
+    
     {
         title: "Perfectly Blue",
         cover: "https://i.scdn.co/image/ab67616d00001e0209e4f5566d3d59864544b568",
