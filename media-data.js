@@ -1225,17 +1225,17 @@ const mediaLibrary = [
     },
     
     {
-        title: "Perfectly Blue",
+        title: "La Radiolina",
         cover: "https://i.scdn.co/image/ab67616d00001e0209e4f5566d3d59864544b568",
         rating: 5,
-        link: "https://open.spotify.com/album/41QqoYgZKBZyd74WtB0vq2?si=bmFYJHRRQNCwsq-FnCYs5g",
+        link: "https://i.scdn.co/image/ab67616d00001e02e37f9a3fdedc3d7dc2c49b26",
         kind: "album"
     },
     {
-        title: "Perfectly Blue",
-        cover: "https://i.scdn.co/image/ab67616d00001e0209e4f5566d3d59864544b568",
+        title: "King of The Bongo",
+        cover: "https://i.scdn.co/image/ab67616d00001e0210bcce9ccaccc979d7358a17",
         rating: 5,
-        link: "https://open.spotify.com/album/41QqoYgZKBZyd74WtB0vq2?si=bmFYJHRRQNCwsq-FnCYs5g",
+        link: "https://open.spotify.com/album/5VMwAEtDGtNchZp8PCnx50?si=UAJLs9UVT7-OoEHiVagD8A",
         kind: "album"
     },
     {
