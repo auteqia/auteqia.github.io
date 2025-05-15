@@ -805,6 +805,252 @@ const mediaLibrary = [
         kind: "album"
     },
     {
+        title: "Rebell Yell",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ea07dca8b4ca808c1e5b17fb",
+        rating: 5,
+        link: "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj?si=Zs0zvPmnSAmEIBsI2Yk8bA",
+        kind: "album"
+    },
+    {
+        title: "Alive 2007",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b01fea159227ea845c2bd72e",
+        rating: 5,
+        link: "https://open.spotify.com/album/7u6zL7kqpgLPISZYXNTgYk?si=ErzPjP0ARDK_2CXet0udCg",
+        kind: "album"
+    },
+    {
+        title: "Cosmic Messenger",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b5d4374a23ae05bbc834f78d",
+        rating: 5,
+        link: "https://open.spotify.com/album/6EfLu75i2jqhN4s4xlqh6m?si=L1nB73J_R0CtfwTMKULNIA",
+        kind: "album"
+    },
+    {
+        title: "Enigmatic Ocean",
+        cover: "https://i.scdn.co/image/ab67616d00001e024b5090050309c67110e2640a",
+        rating: 5,
+        link: "https://open.spotify.com/album/7Der8eY3aiNi3cieeMBRFB?si=QL0w_a7JQQmHViDVFW6TqA",
+        kind: "album"
+    },
+    {
+        title: "Mystical Adventures",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c1426c6c8d232c3f989d1eea",
+        rating: 5,
+        link: "https://open.spotify.com/album/3sRDigE2YdvQxHHJBYzVOT?si=rEC9XF5wQZ-Ly4h9iALegw",
+        kind: "album"
+    },
+    {
+        title: "More Than Meets The Ear",
+        cover: "https://i.scdn.co/image/ab67616d00001e025a2b32c26554809c65fcebdd",
+        rating: 5,
+        link: "https://open.spotify.com/album/5iBrOoF7NWcWAwqvUlp3vF?si=9STQkJfsQy-XRKhW-cYuRw",
+        kind: "album"
+    },
+    {
+        title: "The Gift Of Time",
+        cover: "https://i.scdn.co/image/ab67616d00001e022a3051e76d4d80294d63dd70",
+        rating: 5,
+        link: "https://open.spotify.com/album/62Qyi10NujVY0LGOAgA5nc?si=O2qPtBnwRYukAS11iBuecQ",
+        kind: "album"
+    },
+    {
+        title: "It Began In Afrika",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c2a3ee68e62d2c2cf9853576",
+        rating: 5,
+        link: "https://open.spotify.com/album/1XThG0D6l2avQMhMSXtY1P?si=7500gbHGQOiXoQ8cCcQftg",
+        kind: "album"
+    },
+    {
+        title: "My Generation",
+        cover: "https://i.scdn.co/image/ab67616d00001e0234658b1827b64a1d4d5a5ca9",
+        rating: 5,
+        link: "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy?si=kN63MpSXTd-z2aTlqEw0vg",
+        kind: "album"
+    },
+    {
+        title: "Herb Alpert Presents Sergio Mendes & Brasil '66",
+        cover: "https://i.scdn.co/image/ab67616d00001e02669997c50e4896d14c469a02",
+        rating: 5,
+        link: "https://open.spotify.com/album/0bPYHZxK1WgszwiNnCa79U?si=2vbEr6zFR2iKWYhRMjH1eQ",
+        kind: "album"
+    },
+    {
+        title: "Twoism",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f49a49ce8736c14f4d4990fb",
+        rating: 5,
+        link: "https://open.spotify.com/album/46YfeDd8YhuAcywdxZkRqf?si=1F1P-UjQTIu9pTDXUv8RYQ",
+        kind: "album"
+    },
+    {
+        title: "Mezzanine",
+        cover: "https://i.scdn.co/image/ab67616d00001e022fcb0a3c7a66e516b11cd26e",
+        rating: 5,
+        link: "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR?si=CAocdMtRQB6xMVTbkgmjcw",
+        kind: "album"
+    },
+    {
+        title: "Dance Hall Style",
+        cover: "https://i.scdn.co/image/ab67616d00001e020ddf1762d8c79514aaf317af",
+        rating: 5,
+        link: "https://open.spotify.com/album/7rjTtjpSy2SzL8cydh1W5s?si=NZGf_kUVQBaUzlBWVpBJKQ",
+        kind: "album"
+    },
+    {
+        title: "Deathconsciousness",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a54f2b401501b3569990c256",
+        rating: 5,
+        link: "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM?si=rCrFI7A8Skqp2fqU_GzCkQ",
+        kind: "album"
+    },
+    {
+        title: "Never Mind The Bollocks, Here's The Sex Pistols",
+        cover: "https://i.scdn.co/image/ab67616d00001e0260d17b40194e90e1dd6bc5fd",
+        rating: 5,
+        link: "https://open.spotify.com/album/17lv1Ruxq46ZK5xAINAX8J?si=TgLXqqzoS1ewV0lMT6_mCg",
+        kind: "album"
+    },
+    {
+        title: "In The Court Of The Crimson King",
+        cover: "https://i.scdn.co/image/ab67616d00001e02da7b326bd7ffa7b6b95b0660",
+        rating: 5,
+        link: "https://open.spotify.com/album/75ol9OP8bJaRqzGimpFHDm?si=V7M_LdjIS2GH5AGjtPOvyA",
+        kind: "album"
+    },
+    {
+        title: "Parachute",
+        cover: "https://i.scdn.co/image/ab67616d00001e0277fb589d6b097775f1ce3dcd",
+        rating: 5,
+        link: "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK?si=34alwmBrQvWilRyjLXdyVA",
+        kind: "album"
+    },
+    {
+        title: "She Wants Revenge",
+        cover: "https://i.scdn.co/image/ab67616d00001e02717f38200c8370df83f6364b",
+        rating: 5,
+        link: "https://open.spotify.com/album/3S41D3x5NUwlVOuUNwoZ16?si=n5USH2MnS_GaE6lC62CZSg",
+        kind: "album"
+    },
+    {
+        title: "Up And Down",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d57a0c3e3023c3e05d061960",
+        rating: 5,
+        link: "https://open.spotify.com/album/5vhJlo8GF4hfoFexjo3zZu?si=Xy4dMMQNSt6-X_szs5SU8Q",
+        kind: "album"
+    },
+    {
+        title: "Ice 'n' Green",
+        cover: "https://i.scdn.co/image/ab67616d00001e0277fb589d6b097775f1ce3dcd",
+        rating: 5,
+        link: "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML?si=FBq39oLwRjix70befvVXDw",
+        kind: "album"
+    },
+    {
+        title: "Inside",
+        cover: "https://i.scdn.co/image/ab67616d00001e0262929dd943cfaaa0a6f0879c",
+        rating: 5,
+        link: "https://open.spotify.com/album/6mnhtrfvfW4kW6XrxCsD3T?si=431HAZdDQQqJ5k8CYJ7RvA",
+        kind: "album"
+    },
+    {
+        title: "Led Zeppelin II",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f396ea414b735ef23e2ed1a9",
+        rating: 5,
+        link: "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y?si=TRjRZiZ-Qt-rvqlAMKbvqw",
+        kind: "album"
+    },
+    {
+        title: "Led Zeppelin III",
+        cover: "https://i.scdn.co/image/ab67616d00001e0290a50cfe99a4c19ff3cbfbdb",
+        rating: 5,
+        link: "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut?si=xD6mjjclS2WD9qGLC7PVNg",
+        kind: "album"
+    },
+    {
+        title: "Led Zeppelin IV",
+        cover: "https://i.scdn.co/image/ab67616d00001e0277fb589d6b097775f1ce3dcd",
+        rating: 5,
+        link: "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX?si=nxtTnclWTy6f9wonxql75Q",
+        kind: "album"
+    },
+    {
+        title: "Silent Cries And Mighty Echoes",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b4fb31db30c04a9e2f7626eb",
+        rating: 5,
+        link: "https://open.spotify.com/album/2r2xRCQbhNanjDfa6YunIR?si=3WLms4qCRrmrnI9Z7XNrEw",
+        kind: "album"
+    },
+    {
+        title: "choke enough",
+        cover: "https://i.scdn.co/image/ab67616d00001e0282cd01439c783e21898a9f84",
+        rating: 5,
+        link: "https://open.spotify.com/album/4TQqRcEliluExEwsmWVenF?si=X5gM6X2oT0GO-K660wLHnQ",
+        kind: "album"
+    },
+    {
+        title: "Perfectly Blue",
+        cover: "https://i.scdn.co/image/ab67616d00001e0209e4f5566d3d59864544b568",
+        rating: 5,
+        link: "https://open.spotify.com/album/41QqoYgZKBZyd74WtB0vq2?si=bmFYJHRRQNCwsq-FnCYs5g",
+        kind: "album"
+    },
+    {
+        title: "The Turn Of A Friendly Card",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b4d76c01778a41bcd993f550",
+        rating: 5,
+        link: "https://open.spotify.com/album/1yPaTI4UxwbhZYbRkyZrFR?si=K3JNyC3_QxagpxRm5dyqJQ",
+        kind: "album"
+    },
+    {
+        title: "Tales Of Mystery And Imagination",
+        cover: "https://i.scdn.co/image/ab67616d00001e02dd7e9be4966d93c97906200d",
+        rating: 5,
+        link: "https://open.spotify.com/album/0ICEGX26wNqIKLmWRpZxwx?si=OGOypG1eQHOd5uP8Odfrxg",
+        kind: "album"
+    },
+    {
+        title: "Herp Alpert & the Tijuana Brass",
+        cover: "https://i.scdn.co/image/ab67616d00001e021586c0813e5ce5559d696d17",
+        rating: 5,
+        link: "https://open.spotify.com/album/1gKrnjjDM8R3RD7iwg0tGM?si=7iMLBO6ARku9yUHj2jJFug",
+        kind: "album"
+    },
+    {
+        title: "Steal This Album!",
+        cover: "https://i.scdn.co/image/ab67616d00001e027cf4c0d42c5b62c9deebdcd8",
+        rating: 5,
+        link: "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT?si=ubPAR9V-QkOZjFsZ1zpx_Q",
+        kind: "album"
+    },
+    {
+        title: "EUSEXUA",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bd5d937814595eeb925ab03f",
+        rating: 5,
+        link: "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF?si=B0V64BADRuaAMuFnjj9RGw",
+        kind: "album"
+    },
+    {
+        title: "Perfectly Blue",
+        cover: "https://i.scdn.co/image/ab67616d00001e0209e4f5566d3d59864544b568",
+        rating: 5,
+        link: "https://open.spotify.com/album/41QqoYgZKBZyd74WtB0vq2?si=bmFYJHRRQNCwsq-FnCYs5g",
+        kind: "album"
+    },
+    {
+        title: "Perfectly Blue",
+        cover: "https://i.scdn.co/image/ab67616d00001e0209e4f5566d3d59864544b568",
+        rating: 5,
+        link: "https://open.spotify.com/album/41QqoYgZKBZyd74WtB0vq2?si=bmFYJHRRQNCwsq-FnCYs5g",
+        kind: "album"
+    },
+    {
+        title: "No Eartly Connection",
+        cover: "https://i.scdn.co/image/ab67616d00001e027e0d3cafd5232d6ccb975946",
+        rating: 5,
+        link: "https://open.spotify.com/album/7Kw6q6WZhz0BC7SJN99PLB?si=Xc8uFsLRRWepDXXN-BloNQ",
+        kind: "album"
+    },
+
+    {
         title: "Toxicity",
         cover: "https://i.scdn.co/image/ab67616d00001e0207bc7d2a745636c356b4d0aa",
         rating: 5,
