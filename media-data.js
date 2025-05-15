@@ -580,13 +580,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "One Step Beyond",
-        cover: "https://i.scdn.co/image/ab67616d00001e026238b055ec362d2eea9beb26",
-        rating: 5,
-        link: "https://open.spotify.com/album/0scFCb0HjpQvWaJ7fu16hn?si=TLu4dIC_QRO-emnOtwj-Mw",
-        kind: "album"
-    },
-    {
         title: "Masana Temples",
         cover: "https://i.scdn.co/image/ab67616d00001e02a765313b610423c0f13aa59e",
         rating: 5,
@@ -637,7 +630,7 @@ const mediaLibrary = [
     },
     {
         title: "Lush",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        cover: "https://i.scdn.co/image/ab67616d00001e0218bbdba0da26e4ae050fb1b8",
         rating: 5,
         link: "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga?si=yhGLr03lSV2xJV8xh6kd6g8",
         kind: "album"
@@ -820,7 +813,7 @@ const mediaLibrary = [
     },
     {
         title: "Alive 2007",
-        cover: "https://i.scdn.co/image/ab67616d00001e02b01fea159227ea845c2bd72e",
+        cover: "https://i.scdn.co/image/ab67616d00001e02673288fb985e5c194536ae27",
         rating: 5,
         link: "https://open.spotify.com/album/7u6zL7kqpgLPISZYXNTgYk?si=ErzPjP0ARDK_2CXet0udCg",
         kind: "album"
@@ -939,14 +932,14 @@ const mediaLibrary = [
     },
     {
         title: "Up And Down",
-        cover: "https://i.scdn.co/image/ab67616d00001e02d57a0c3e3023c3e05d061960",
+        cover: "https://i.scdn.co/image/ab67616d00001e0256f3f4957adbe9677d92f015",
         rating: 5,
         link: "https://open.spotify.com/album/5vhJlo8GF4hfoFexjo3zZu?si=Xy4dMMQNSt6-X_szs5SU8Q",
         kind: "album"
     },
     {
         title: "Ice 'n' Green",
-        cover: "https://i.scdn.co/image/ab67616d00001e0277fb589d6b097775f1ce3dcd",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d57a0c3e3023c3e05d061960",
         rating: 5,
         link: "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML?si=FBq39oLwRjix70befvVXDw",
         kind: "album"
@@ -974,7 +967,7 @@ const mediaLibrary = [
     },
     {
         title: "Led Zeppelin IV",
-        cover: "https://i.scdn.co/image/ab67616d00001e0277fb589d6b097775f1ce3dcd",
+        cover: "https://i.scdn.co/image/ab67616d00001e024509204d0860cc0cc67e83dc",
         rating: 5,
         link: "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX?si=nxtTnclWTy6f9wonxql75Q",
         kind: "album"
@@ -1008,10 +1001,10 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Tales Of Mystery And Imagination",
-        cover: "https://i.scdn.co/image/ab67616d00001e02dd7e9be4966d93c97906200d",
+        title: "Homework",
+        cover: "https://i.scdn.co/image/ab67616d00001e028ac778cc7d88779f74d33311",
         rating: 5,
-        link: "https://open.spotify.com/album/0ICEGX26wNqIKLmWRpZxwx?si=OGOypG1eQHOd5uP8Odfrxg",
+        link: "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y?si=33L7gQ2ISzWJlerFIB52JQ",
         kind: "album"
     },
     {
@@ -1226,7 +1219,7 @@ const mediaLibrary = [
     
     {
         title: "La Radiolina",
-        cover: "https://i.scdn.co/image/ab67616d00001e0209e4f5566d3d59864544b568",
+        cover: "https://open.spotify.com/album/3Gyn6McG8JN6dOFeQkQX2l?si=_KX1fwtfTou_8YcP8aCv9A",
         rating: 5,
         link: "https://i.scdn.co/image/ab67616d00001e02e37f9a3fdedc3d7dc2c49b26",
         kind: "album"
