@@ -194,6 +194,26 @@ const mediaLibrary = [
         kind: "movie"
     },
     {
+        title: "Good Morning England",
+        author: "Richard Curtis",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i3nKXWYOpC0dbIbAe4V92ocet64.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt1131729",
+        readDate: "2024-06-20",
+        kind: "movie"
+    },
+    {
+        title: "Phantom of the Paradise",
+        author: "Brian De Palma",
+        cover: "https://m.media-amazon.com/images/M/MV5BZDRjN2JkMDAtMTNjNS00ZDFhLTk3NDgtMzhjOGE3Zjg4NzY3XkEyXkFqcGc@._V1_FMjpg_UX1204_.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/fr/title/tt0071994/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
         title: "Heat",
         author: "Wes Anderson",
         cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
