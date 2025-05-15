@@ -601,10 +601,10 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Mirage",
-        cover: "https://i.scdn.co/image/ab67616d00001e0211537abd008a150b3f88dcaf",
+        title: "Sibérie m'était contée",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f297cbcd2d78559c38273e35",
         rating: 5,
-        link: "https://open.spotify.com/album/2DZEwt8Lhz6PuqxsJWF7Ap?si=zcrWZGCVSv2uxk5hqnnkgQ",
+        link: "https://open.spotify.com/album/7EZSOlWZFjsLLZkDwtFCPS?si=Qqfs4a3RQYGs1X1UgfaTcQ",
         kind: "album"
     },
     {
