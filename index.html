@@ -386,6 +386,9 @@
                         </a>
                         <div class="media-info">
                             <div class="media-title">${item.title}</div>
+                            <div class="media-author">${item.author}</div>
+                                                            <div class="media-date">${getActionVerb(item.kind)} le ${formatDate(item.readDate)}</div>
+
                             <div class="media-rating">
                                 ${createStarRating(item.rating, item.favorite, item.reRead, 'album')}
                             </div>
