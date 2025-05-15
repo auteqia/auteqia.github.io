@@ -375,7 +375,7 @@
             
             const albums = mediaLibrary
                 .filter(item => item.kind === 'album')
-                .sort((a, b) => a.author.localeCompare(b.author)); // sort by author alphabetical order
+                .sort((a, b) => a.title.localeCompare(b.title)); // sort by author alphabetical order
                 
             container.innerHTML = `
             <div class="media-grid">
