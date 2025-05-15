@@ -587,10 +587,10 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Beats, Rhymes & Life",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        title: "Masana Temples",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a765313b610423c0f13aa59e",
         rating: 5,
-        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        link: "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS?si=lRMv3fZSSX2IrtQRGyHwyg",
         kind: "album"
     },
     {
@@ -650,10 +650,10 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Beats, Rhymes & Life",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        title: "OIL OF EVERY PEARL'S UN-INSIDES",
+        cover: "https://i.scdn.co/image/ab67616d00001e029517eea594dfb828ec793e09",
         rating: 5,
-        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        link: "https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN?si=7qhdjV7nTp2qNlfyOk5aJA",
         kind: "album"
     },
     {
@@ -661,6 +661,13 @@ const mediaLibrary = [
         cover: "https://i.scdn.co/image/ab67616d00001e028688e410538bc27972791f4c",
         rating: 5,
         link: "https://open.spotify.com/album/4fdgcEVMdJe0KVgupMNJAP?si=KCpxnGK0S7aF-XBANk2CpA",
+        kind: "album"
+    },
+    {
+        title: "Superunknown",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ae6d8e36136353d550b2587d",
+        rating: 5,
+        link: "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA?si=I92NpNDDT9at3DdOYdR-0Q",
         kind: "album"
     },
     {
