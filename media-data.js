@@ -570,6 +570,7 @@ const mediaLibrary = [
         title: "Solid State Survivor",
         cover: "https://i.scdn.co/image/ab67616d00001e02c70aa05c55b6fb116863f6f5",
         rating: 5,
+        author: "Yellow Magic Orchestra",
         link: "https://open.spotify.com/intl-fr/album/5TmpFE7Xus70ko1QYGxFIe?si=f92037d9a5bc4e15",
         kind: "album"
     },
@@ -611,6 +612,7 @@ const mediaLibrary = [
         title: "Full Circle",
         cover: "https://i.scdn.co/image/ab67616d00001e02a217433125ab8324ce5f7e09",
         rating: 5,
+        author: "The Doors",
         link: "https://open.spotify.com/intl-fr/album/26Fac6kNgB6MLeoGVkmpKN?si=f5e677050459423d",
         kind: "album"
     },
@@ -698,6 +700,7 @@ const mediaLibrary = [
         title: "Experience",
         cover: "https://i.scdn.co/image/ab67616d00001e028cd856419c4f5ac9994c64fe",
         rating: 5,
+        author: "The Prodigy",
         link: "https://open.spotify.com/album/2hEyYIrm4e6gVgfaYLY00x?si=fNhxTJP0S0aSwH7nreBIUQ",
         kind: "album"
     },
@@ -818,6 +821,7 @@ const mediaLibrary = [
         title: "R Plus Seven",
         cover: "https://i.scdn.co/image/ab67616d00001e02550e1f33331271473e05b0f0",
         rating: 5,
+        author: "Oneohtrix Point Never",
         link: "https://open.spotify.com/album/6MEswIpaIGVN8M68FGr550?si=VVB_MMZ2TR6KiqVt_zeITg",
         kind: "album"
     },
@@ -945,6 +949,7 @@ const mediaLibrary = [
         title: "Mezzanine",
         cover: "https://i.scdn.co/image/ab67616d00001e022fcb0a3c7a66e516b11cd26e",
         rating: 5,
+        author: "Massive Attack",
         link: "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR?si=CAocdMtRQB6xMVTbkgmjcw",
         kind: "album"
     },
@@ -952,6 +957,7 @@ const mediaLibrary = [
         title: "Dance Hall Style",
         cover: "https://i.scdn.co/image/ab67616d00001e020ddf1762d8c79514aaf317af",
         rating: 5,
+        author: "Horace Handy",
         link: "https://open.spotify.com/album/7rjTtjpSy2SzL8cydh1W5s?si=NZGf_kUVQBaUzlBWVpBJKQ",
         kind: "album"
     },
