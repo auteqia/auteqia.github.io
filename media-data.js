@@ -745,6 +745,7 @@ const mediaLibrary = [
         title: "10000 lépés",
         cover: "https://i.scdn.co/image/ab67616d00001e021a8105b6d15067a8a81435c2",
         rating: 5,
+        author: "Omega",
         link: "https://open.spotify.com/album/5GVrqNePT3Rek05os9fegp?si=KK2xBDnaQbi92-uO35UGXQ",
         kind: "album"
     },
@@ -840,6 +841,7 @@ const mediaLibrary = [
         title: "1584660650",
         cover: "https://i.scdn.co/image/ab67616d00001e024fa0196ad0b1435563fbd4ab",
         rating: 5,
+        author: "Fine-Sir-1584660650",
         link: "https://open.spotify.com/album/4JY1a8QLSJD0JNSOZ2ekJ2?si=OSkXs36ETGKL2egce4SfWw",
         kind: "album"
     },
@@ -965,6 +967,7 @@ const mediaLibrary = [
         title: "Never Mind The Bollocks, Here's The Sex Pistols",
         cover: "https://i.scdn.co/image/ab67616d00001e0260d17b40194e90e1dd6bc5fd",
         rating: 5,
+        author: "Sex Pistols",
         link: "https://open.spotify.com/album/17lv1Ruxq46ZK5xAINAX8J?si=TgLXqqzoS1ewV0lMT6_mCg",
         kind: "album"
     },
@@ -972,6 +975,7 @@ const mediaLibrary = [
         title: "In The Court Of The Crimson King",
         cover: "https://i.scdn.co/image/ab67616d00001e02da7b326bd7ffa7b6b95b0660",
         rating: 5,
+        author: "King Crimson",
         link: "https://open.spotify.com/album/75ol9OP8bJaRqzGimpFHDm?si=V7M_LdjIS2GH5AGjtPOvyA",
         kind: "album"
     },
@@ -979,6 +983,7 @@ const mediaLibrary = [
         title: "Parachute",
         cover: "https://i.scdn.co/image/ab67616d00001e0277fb589d6b097775f1ce3dcd",
         rating: 5,
+        author: "The Pretty Things",
         link: "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK?si=34alwmBrQvWilRyjLXdyVA",
         kind: "album"
     },
@@ -986,6 +991,7 @@ const mediaLibrary = [
         title: "She Wants Revenge",
         cover: "https://i.scdn.co/image/ab67616d00001e02717f38200c8370df83f6364b",
         rating: 5,
+        author: "She Wants Revenge",
         link: "https://open.spotify.com/album/3S41D3x5NUwlVOuUNwoZ16?si=n5USH2MnS_GaE6lC62CZSg",
         kind: "album"
     },
@@ -993,6 +999,7 @@ const mediaLibrary = [
         title: "Up And Down",
         cover: "https://i.scdn.co/image/ab67616d00001e0256f3f4957adbe9677d92f015",
         rating: 5,
+        author: "She Wants Revenge",
         link: "https://open.spotify.com/album/5vhJlo8GF4hfoFexjo3zZu?si=Xy4dMMQNSt6-X_szs5SU8Q",
         kind: "album"
     },
@@ -1000,6 +1007,7 @@ const mediaLibrary = [
         title: "Ice 'n' Green",
         cover: "https://i.scdn.co/image/ab67616d00001e02d57a0c3e3023c3e05d061960",
         rating: 5,
+        author: "Ice Mc",
         link: "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML?si=FBq39oLwRjix70befvVXDw",
         kind: "album"
     },
@@ -1007,6 +1015,7 @@ const mediaLibrary = [
         title: "Inside",
         cover: "https://i.scdn.co/image/ab67616d00001e0262929dd943cfaaa0a6f0879c",
         rating: 5,
+        author: "Eloy",
         link: "https://open.spotify.com/album/6mnhtrfvfW4kW6XrxCsD3T?si=431HAZdDQQqJ5k8CYJ7RvA",
         kind: "album"
     },
@@ -1014,6 +1023,7 @@ const mediaLibrary = [
         title: "Led Zeppelin II",
         cover: "https://i.scdn.co/image/ab67616d00001e02f396ea414b735ef23e2ed1a9",
         rating: 5,
+        author: "Led Zeppelin",
         link: "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y?si=TRjRZiZ-Qt-rvqlAMKbvqw",
         kind: "album"
     },
@@ -1021,6 +1031,7 @@ const mediaLibrary = [
         title: "Led Zeppelin III",
         cover: "https://i.scdn.co/image/ab67616d00001e0290a50cfe99a4c19ff3cbfbdb",
         rating: 5,
+        author: "Led Zeppelin",
         link: "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut?si=xD6mjjclS2WD9qGLC7PVNg",
         kind: "album"
     },
@@ -1028,6 +1039,7 @@ const mediaLibrary = [
         title: "Led Zeppelin IV",
         cover: "https://i.scdn.co/image/ab67616d00001e024509204d0860cc0cc67e83dc",
         rating: 5,
+        author: "Led Zeppelin",
         link: "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX?si=nxtTnclWTy6f9wonxql75Q",
         kind: "album"
     },
@@ -1035,6 +1047,7 @@ const mediaLibrary = [
         title: "Silent Cries And Mighty Echoes",
         cover: "https://i.scdn.co/image/ab67616d00001e02b4fb31db30c04a9e2f7626eb",
         rating: 5,
+        author: "Eloy",
         link: "https://open.spotify.com/album/2r2xRCQbhNanjDfa6YunIR?si=3WLms4qCRrmrnI9Z7XNrEw",
         kind: "album"
     },
@@ -1042,6 +1055,7 @@ const mediaLibrary = [
         title: "choke enough",
         cover: "https://i.scdn.co/image/ab67616d00001e0282cd01439c783e21898a9f84",
         rating: 5,
+        author: "oklou",
         link: "https://open.spotify.com/album/4TQqRcEliluExEwsmWVenF?si=X5gM6X2oT0GO-K660wLHnQ",
         kind: "album"
     },
@@ -1049,6 +1063,7 @@ const mediaLibrary = [
         title: "Perfectly Blue",
         cover: "https://i.scdn.co/image/ab67616d00001e0209e4f5566d3d59864544b568",
         rating: 5,
+        author: "RIP Swirl",
         link: "https://open.spotify.com/album/41QqoYgZKBZyd74WtB0vq2?si=bmFYJHRRQNCwsq-FnCYs5g",
         kind: "album"
     },
@@ -1254,6 +1269,7 @@ const mediaLibrary = [
         title: "Vicious Delicious",
         cover: "https://i.scdn.co/image/ab67616d00001e022946296b5df89b2601732d8c",
         rating: 5,
+        author: "Infected Mushrooms",
         link: "https://open.spotify.com/album/0xihL8xT18rsBwjuYPhnme?si=OQsiUYZIRLiYWWOtFFCASg",
         kind: "album"
     },
@@ -1261,6 +1277,7 @@ const mediaLibrary = [
         title: "The Lost Ship",
         cover: "https://i.scdn.co/image/ab67616d00001e02687087ac514d54f724e45f4d",
         rating: 5,
+        author: "Panda Dub",
         link: "https://open.spotify.com/album/2o926sodjWyP9IBahD5YoF?si=bntg5ZSZTBOslu76RKtDsg",
         kind: "album"
     },
@@ -1268,6 +1285,7 @@ const mediaLibrary = [
         title: "Shapes and Shadows",
         cover: "https://i.scdn.co/image/ab67616d00001e02f62264d635b334a3c29cd8cb",
         rating: 5,
+        author: "Panda Dub",
         link: "https://open.spotify.com/album/229OeMBJWAf2xy7aom3aTQ?si=YRycQGJ0ShWpeT-pUVgGcg",
         kind: "album"
     },
@@ -1275,6 +1293,7 @@ const mediaLibrary = [
         title: "Buena Vista Social Club",
         cover: "https://i.scdn.co/image/ab67616d00001e02e14a9fa0dd781bff247116b3",
         rating: 5,
+        author: "Buena Vista Social Club",
         link: "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt?si=a1NegqHAQDGuCU6qCtdZbw",
         kind: "album"
     },
@@ -1282,6 +1301,7 @@ const mediaLibrary = [
         title: "Loaded: Re-Loaded",
         cover: "https://i.scdn.co/image/ab67616d00001e025816a37263f88929907c2dbd",
         rating: 5,
+        author: "The Velvet Underground",
         link: "https://open.spotify.com/album/1jYzTZV1cQXE89zA9ZSUpE?si=ZCPLSVpDRpq4bJoHy1cIng",
         kind: "album"
     },
@@ -1289,6 +1309,7 @@ const mediaLibrary = [
         title: "Forest of Lost Children",
         cover: "https://i.scdn.co/image/ab67616d00001e02fd632c6df018130724e2fc57",
         rating: 5,
+        author: "Kikagaku Moyo",
         link: "https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA?si=fK-A6xteRpWhh89ZMGfh6g",
         kind: "album"
     },
@@ -1296,6 +1317,7 @@ const mediaLibrary = [
         title: "House in the Tall Grass",
         cover: "https://i.scdn.co/image/ab67616d00001e02a938f8d61319e7ca724ddd8c",
         rating: 5,
+        author: "Kikagaku Moyo",
         link: "https://open.spotify.com/album/0A6hLzACLoB32gRz2UFTYu?si=S9vlzWKfT6q8kUtLGJbLqQ",
         kind: "album"
     },
@@ -1304,6 +1326,7 @@ const mediaLibrary = [
         title: "La Radiolina",
         cover: "https://open.spotify.com/album/3Gyn6McG8JN6dOFeQkQX2l?si=_KX1fwtfTou_8YcP8aCv9A",
         rating: 5,
+        author: "Manu Chao",
         link: "https://i.scdn.co/image/ab67616d00001e02e37f9a3fdedc3d7dc2c49b26",
         kind: "album"
     },
@@ -1311,6 +1334,7 @@ const mediaLibrary = [
         title: "King of The Bongo",
         cover: "https://i.scdn.co/image/ab67616d00001e0210bcce9ccaccc979d7358a17",
         rating: 5,
+        author: "Manu Chao",
         link: "https://open.spotify.com/album/5VMwAEtDGtNchZp8PCnx50?si=UAJLs9UVT7-OoEHiVagD8A",
         kind: "album"
     },
@@ -1318,6 +1342,7 @@ const mediaLibrary = [
         title: "No Eartly Connection",
         cover: "https://i.scdn.co/image/ab67616d00001e027e0d3cafd5232d6ccb975946",
         rating: 5,
+        author: "Rick Wakeman",
         link: "https://open.spotify.com/album/7Kw6q6WZhz0BC7SJN99PLB?si=Xc8uFsLRRWepDXXN-BloNQ",
         kind: "album"
     },
@@ -1326,6 +1351,7 @@ const mediaLibrary = [
         title: "Toxicity",
         cover: "https://i.scdn.co/image/ab67616d00001e0207bc7d2a745636c356b4d0aa",
         rating: 5,
+        author: "System of a Down",
         link: "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh?si=OV78jCZzRaikT1IJCO508Q",
         kind: "album"
     },
@@ -1333,13 +1359,15 @@ const mediaLibrary = [
         title: "Civilized Evil",
         cover: "https://i.scdn.co/image/ab67616d00001e026880ca96312ca84020009730",
         rating: 5,
+        author: "Jean-Luc Ponty",
         link: "https://open.spotify.com/album/3HfjIGx8MTHt9pmL1rJyL9?si=UzNme3eVQdeXPx6vddzyYQ",
         kind: "album"
     },
     {
-        title: "Tales Of Mystery And Imagination (Original 1976 Version)",
+        title: "Tales Of Mystery And Imagination",
         cover: "https://i.scdn.co/image/ab67616d00001e02dd7e9be4966d93c97906200d",
         rating: 5,
+        author: "The Alan Parsons Project",
         link: "https://open.spotify.com/album/0ICEGX26wNqIKLmWRpZxwx?si=2JVjRk5fS2SfB-kqSaJClQ",
         kind: "album"
     },
@@ -1347,6 +1375,7 @@ const mediaLibrary = [
         title: "Volcano",
         cover: "https://i.scdn.co/image/ab67616d00001e021bd8726f0326ce113038a1f4",
         rating: 5,
+        author: "Temples",
         link: "https://open.spotify.com/album/0Mrv2YvHtRgyn3j3S38mEF?si=PAgPEZziSlqg7_-MfI624Q",
         kind: "album"
     },
@@ -1354,6 +1383,7 @@ const mediaLibrary = [
         title: "No Pussyfooting",
         cover: "https://i.scdn.co/image/ab67616d00001e0268e33726e53c01d42a6d1f3c",
         rating: 5,
+        author: "Brian Eno & Robert Fripp",
         link: "https://open.spotify.com/album/7090pUnNlv1lklI2lI2X6J?si=iz68yPc_SMiO4Y6Zun4XFg",
         kind: "album"
     },
@@ -1361,6 +1391,7 @@ const mediaLibrary = [
         title: "Led Zeppelin",
         cover: "https://i.scdn.co/image/ab67616d00001e02c77c73285cc5cb64d97e1b0f",
         rating: 5,
+        author: "Led Zeppelin",
         link: "https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU?si=a9QKyyywQvq6JmnVn7n2IQ",
         kind: "album"
     },
@@ -1368,6 +1399,7 @@ const mediaLibrary = [
         title: "Sun Structures",
         cover: "https://i.scdn.co/image/ab67616d00001e02f35c8b47c52ab1f3668a6927",
         rating: 5,
+        author: "Temples",
         link: "https://open.spotify.com/album/0bJvWkM6E03FI8DEHiCuUU?si=32TCfO9tShCCzzBNHWpyHA",
         kind: "album"
     },
@@ -1375,6 +1407,7 @@ const mediaLibrary = [
         title: "Music Has The Right To Children",
         cover: "https://i.scdn.co/image/ab67616d00001e029effb26eea559ce6f3fed751",
         rating: 5,
+        author: "Boards of Canada",
         link: "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU?si=ROCuqIgWRK2DOyHS-RwArg",
         kind: "album"
     },
@@ -1382,6 +1415,7 @@ const mediaLibrary = [
         title: "Quoth",
         cover: "https://i.scdn.co/image/ab67616d00001e02576800526554c66833197d76",
         rating: 3.6,
+        author: "Aphex Twin",
         link: "https://open.spotify.com/album/4F83Th71IEwecavhxGFGzN?si=_iEnUFVSTOOkMrHMvcNAnw",
         kind: "album"
     },
@@ -1389,6 +1423,7 @@ const mediaLibrary = [
         title: "Undertow",
         cover: "https://i.scdn.co/image/ab67616d00001e0282298636c94b8167c4793db2",
         rating: 3.6,
+        author: "TOOL",
         link: "https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0?si=PLR3N6J3Say_gAPqxM-NvQ",
         kind: "album"
     },
@@ -1396,6 +1431,7 @@ const mediaLibrary = [
         title: "The Pearl",
         cover: "https://i.scdn.co/image/ab67616d00001e02a00536b039aaefb64040d8dd",
         rating: 4.8,
+        author: "Harold Budd",
         link: "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP?si=yKHckzBnTQ2hX4yj1MlCew",
         kind: "album"
     },
@@ -1403,6 +1439,7 @@ const mediaLibrary = [
         title: "Ambiant 4: On Land",
         cover: "https://i.scdn.co/image/ab67616d00001e02c83fef08b45f1784b4e916ba",
         rating: 5,
+        author: "Brian Eno",
         link: "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh?si=Luh5los9SM24YNpVPSzKdg",
         kind: "album"
     },
@@ -1410,6 +1447,7 @@ const mediaLibrary = [
         title: "Getz/Gilberto",
         cover: "https://i.scdn.co/image/ab67616d00001e02417cc363d7286a88489dee3c",
         rating: 3.6,
+        author: "Stan Getz",
         link: "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP?si=9hU3UJ6MR7ayQ4RGCBLGKA",
         kind: "album"
     },
@@ -1417,6 +1455,7 @@ const mediaLibrary = [
         title: "The Fame Monster",
         cover: "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa",
         rating: 4,
+        author: "Lady Gaga",
         link: "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4?si=YvHpcrHmTbyvl2mhHtnHMg",
         kind: "album"
     },
@@ -1424,6 +1463,7 @@ const mediaLibrary = [
         title: "Ambient 2: The Plateaux Of Mirror",
         cover: "https://i.scdn.co/image/ab67616d00001e02eba05344ff7ca99e2fd35545",
         rating: 4.2,
+        author: "Brian Eno",
         link: "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO?si=Rpwja9KdSnGPdAdSks7yUQ",
         kind: "album"
     },
@@ -1431,6 +1471,7 @@ const mediaLibrary = [
         title: "Howl's Moving Castle",
         cover: "https://i.scdn.co/image/ab67616d00001e0262c1f3370811c52ae2d26d24",
         rating: 5,
+        author: "Joe Hisaishi",
         link: "https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl?si=JQVhwslmSl2Rd2kUfwRL_w",
         kind: "album"
     },
@@ -1438,6 +1479,7 @@ const mediaLibrary = [
         title: "The Wind Rises",
         cover: "https://i.scdn.co/image/ab67616d00001e02c853c5a8535cc3dc394efc58",
         rating: 5,
+        author: "Joe Hisaishi",
         link: "https://open.spotify.com/album/59U5FQ4kDEt11Q2UcFu1dK?si=RmU-9e3RRMaaPbcepRClkQ",
         kind: "album"
     },
