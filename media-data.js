@@ -601,10 +601,10 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Beats, Rhymes & Life",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        title: "Mirage",
+        cover: "https://i.scdn.co/image/ab67616d00001e0211537abd008a150b3f88dcaf",
         rating: 5,
-        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        link: "https://open.spotify.com/album/2DZEwt8Lhz6PuqxsJWF7Ap?si=zcrWZGCVSv2uxk5hqnnkgQ",
         kind: "album"
     },
     {
@@ -615,10 +615,10 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Beats, Rhymes & Life",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        title: "One Step Beyond",
+        cover: "https://i.scdn.co/image/ab67616d00001e026238b055ec362d2eea9beb26",
         rating: 5,
-        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        link: "https://open.spotify.com/album/0scFCb0HjpQvWaJ7fu16hn?si=29dmeqtKRI6MMM2Zblm7fA",
         kind: "album"
     },
     {
@@ -629,10 +629,10 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Beats, Rhymes & Life",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        title: "(III)",
+        cover: "https://i.scdn.co/image/ab67616d00001e028c4fcffc07dd98ad89c0f383",
         rating: 5,
-        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        link: "https://open.spotify.com/album/2KYBzzK8L9yvBe0k5GeoD8?si=DSRw2NNLSv6KMz6EpceGww",
         kind: "album"
     },
     {
@@ -707,7 +707,7 @@ const mediaLibrary = [
     },
     {
         title: "R Plus Seven",
-        cover: "https://i.scdn.co/image/ab67616d00001e026219cb49fe3b85a56c416e5e",
+        cover: "https://i.scdn.co/image/ab67616d00001e02550e1f33331271473e05b0f0",
         rating: 5,
         link: "https://open.spotify.com/album/6MEswIpaIGVN8M68FGr550?si=VVB_MMZ2TR6KiqVt_zeITg",
         kind: "album"
