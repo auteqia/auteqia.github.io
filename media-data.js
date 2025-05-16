@@ -215,7 +215,7 @@ const mediaLibrary = [
     },
     {
         title: "Heat",
-        author: "Wes Anderson",
+        author: "Michael Mann",
         cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
         rating: 4.7,
         reRead: false,
