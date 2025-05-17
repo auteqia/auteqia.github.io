@@ -1726,4 +1726,296 @@ const mediaLibrary = [
     },
 
 
+
+    {
+        title: "Ocean II",
+        cover: "https://i.scdn.co/image/ab67616d00001e0281466203fc1587fa677ae084",
+        rating: 5,
+        author: "Eloy",
+        link: "https://open.spotify.com/album/28ayZSBRiNwn3BqmcpThHd?si=p9QbA1YhRn2NyhvIMtxPOQ",
+        kind: "album"
+    },
+    {
+        title: "L.W",
+        cover: "https://i.scdn.co/image/ab67616d00001e021f0fd0835e055d96b82ccaf0",
+        rating: 5,
+        author: "King Gizzard & The Lizard Wizard",
+        link: "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx?si=V28w2cKJTK-L_BfYl5qe_A",
+        kind: "album"
+    },
+    {
+        title: "Extra-Lucide",
+        cover: "https://i.scdn.co/image/ab67616d00001e023bada981b0fdd5c948256d3c",
+        rating: 5,
+        author: "Disiz",
+        link: "https://open.spotify.com/album/1FZzmpp4D4mDVqnm6ffwkP?si=E89rabRfT0yTlAZWyzLUvw",
+        kind: "album"
+    },
+    {
+        title: "Disizilla",
+        cover: "https://i.scdn.co/image/ab67616d00001e0220f839e57854a45d495b29b8",
+        rating: 5,
+        author: "Disiz",
+        link: "https://open.spotify.com/album/2vVDeIVO3ja0RdlQf20NOB?si=kDfPyLjxRu6-LtTvpbJQ1Q",
+        kind: "album"
+    },
+    {
+        title: "L'Amour",
+        cover: "https://i.scdn.co/image/ab67616d00001e020a3418c7d155f8974eee9c7f",
+        rating: 5,
+        author: "Disiz",
+        link: "https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6?si=_1Mfcv68QtKBazyu20jC6w",
+        kind: "album"
+    },
+    {
+        title: "Diamond Dogs",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ad22c83a6e1567f8453c32b3",
+        rating: 5,
+        author: "David Bowie",
+        link: "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3?si=n97jZPfBRYu4G1100wMD7g",
+        kind: "album"
+    },
+    {
+        title: "Hunky Dory",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e464904cc3fed2b40fc55120",
+        rating: 5,
+        author: "David Bowie",
+        link: "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l?si=Qy4swGxXST2qBPSB-oJwcQ",
+        kind: "album"
+    },
+    {
+        title: "Heroes",
+        cover: "https://i.scdn.co/image/ab67616d00001e02204f41d52743c6a9efd62985",
+        rating: 5,
+        author: "David Bowie",
+        link: "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk?si=psS1yFWxQFSk92vAm7kgeg",
+        kind: "album"
+    },
+    {
+        title: "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c41f4e1133b0e6c5fcf58680",
+        rating: 5,
+        author: "David Bowie",
+        link: "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56?si=ew-4S5-qRx-eah7bQiCvgQ",
+        kind: "album"
+    },
+    {
+        title: "Discovery",
+        cover: "https://i.scdn.co/image/ab67616d00001e022c25dad9f8fd54652f7ba5df",
+        rating: 5,
+        author: "Daft Punk",
+        link: "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc?si=K9Q5aoIsTrm2jOEryUVGrA",
+        kind: "album"
+    },
+    {
+        title: "Human After All",
+        cover: "https://i.scdn.co/image/ab67616d00001e022ed719bad67261c7bf090c70",
+        rating: 5,
+        author: "Daft Punk",
+        link: "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu?si=t0G8PcXGScKxQkEHEbe8vQ",
+        kind: "album"
+    },
+    {
+        title: "TRON: Legacy",
+        cover: "https://i.scdn.co/image/ab67616d00001e028323143296ff7b2801e32789",
+        rating: 5,
+        author: "Daft Punk",
+        link: "https://open.spotify.com/album/3AMXFnwHWXCvNr5NCCpLZI?si=N4K_JL3_S2WgOGnd0Ew92A",
+        kind: "album"
+    },
+    {
+        title: "Random Access Memories",
+        cover: "https://i.scdn.co/image/ab67616d00001e029b9b36b0e22870b9f542d937",
+        rating: 5,
+        author: "Daft Punk",
+        link: "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa?si=zqreMKkATW2ApqyyWenY-w",
+        kind: "album"
+    },
+    {
+        title: "Amnesty (I)",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a51ae277980fbf5b2bd2c7e8",
+        rating: 5,
+        author: "Crystal Castles",
+        link: "https://open.spotify.com/album/60f7DBZ5BIKTlaGak6ooUU?si=g2gTVi9tRmqSq7IHP0mP-A",
+        kind: "album"
+    },
+    {
+        title: "Crystal Castles (II)",
+        cover: "https://i.scdn.co/image/ab67616d00001e02af54621b48da9687dc86011b",
+        rating: 5,
+        author: "Crystal Castles",
+        link: "https://open.spotify.com/album/3VsZ5nZGgyH30IDaCP4GeQ?si=TbTIfqlZRWGxq55r9H7EgQ",
+        kind: "album"
+    },
+    {
+        title: "Head Over Heels",
+        cover: "https://i.scdn.co/image/ab67616d00001e02dd69a64d46d35725c47df19c",
+        rating: 5,
+        author: "Cocteau Twins",
+        link: "https://open.spotify.com/album/52MMrcUtar0coGVHULkuQ9?si=1WkrBy6fRzK1uzlvjfb7ug",
+        kind: "album"
+    },
+    {
+        title: "Blue Bell Knoll",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ed2637f59f3f5eb1c049a005",
+        rating: 5,
+        author: "Cocteau Twins",
+        link: "https://open.spotify.com/album/3SXCY4kFMM4T4egq5DSUTa?si=hVbtb0pnSe6fVDRgpAXj1Q",
+        kind: "album"
+    },
+    {
+        title: "Heaven or Las Vegas",
+        cover: "https://i.scdn.co/image/ab67616d00001e025d2fdd1564ccab97e60c656f",
+        rating: 5,
+        author: "Cocteau Twins",
+        link: "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E?si=cOLIRKmgSxmU3vV_oXWvKw",
+        kind: "album"
+    },
+    {
+        title: "I Can See Your House From Here",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a5a422526541417ff7c19d94",
+        rating: 5,
+        author: "Camel",
+        link: "https://open.spotify.com/album/2UzcBmNQt45lrGuwIYEjec?si=bjW_foCSRMyZcNMPeATHNQ",
+        kind: "album"
+    },
+    {
+        title: "Pressure Points",
+        cover: "https://i.scdn.co/image/ab67616d00001e027a68cb2771173ca87cc09346",
+        rating: 5,
+        author: "Camel",
+        link: "https://open.spotify.com/album/5nPm3Gykzwe9Cvjc8xGLdA?si=eEAarYvHTWucC0_Xeudi9g",
+        kind: "album"
+    },
+    {
+        title: "Chameloen",
+        cover: "https://i.scdn.co/image/ab67616d00001e0206e561fa7e5bd67c95631217",
+        rating: 5,
+        author: "Camel",
+        link: "https://open.spotify.com/album/6o8DatzTclI30aDIewJJi7?si=3SzuBrJdTWWsn2HaL22pUg",
+        kind: "album"
+    },
+    {
+        title: "Stationary Traveller",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ea50f573eb4bdc6c304c5344",
+        rating: 5,
+        author: "Camel",
+        link: "https://open.spotify.com/album/78XGNvqT155xictf3VChQh?si=sWcldeUlREmnq-aIx29HRQ",
+        kind: "album"
+    },
+    {
+        title: "Camel",
+        cover: "https://i.scdn.co/image/ab67616d00001e02572a2c8c8092c82b9dfd48fc",
+        rating: 5,
+        author: "Camel",
+        link: "https://open.spotify.com/album/2WO6VIu5x3rMXWcMzH36jl?si=9cfalbDFRPiaQD9QguqG4A",
+        kind: "album"
+    },
+    {
+        title: "Moonmadness",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ecbc7b6ca15b79ca7ff05bd2",
+        rating: 5,
+        author: "Camel",
+        link: "https://open.spotify.com/album/5Q6eKTQNsOyu0fCpAFxuHR?si=t8CXuw8aS2GnAQm1OMc8Lw",
+        kind: "album"
+    },
+    {
+        title: "Ambiant 2: Music For Airports",
+        cover: "https://i.scdn.co/image/ab67616d00001e0237a379ca6520eaf191de6ff2",
+        rating: 5,
+        author: "Brian Eno",
+        link: "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa?si=Fa9D9Hb_RAi7_f5fIyeB4g",
+        kind: "album"
+    },
+    {
+        title: "Le Monde Instrumental d'Alain Goraguer",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a7d7628d791e61527116c08c",
+        rating: 5,
+        author: "Alain Goraguer",
+        link: "https://open.spotify.com/album/3y1n62vanHyeV6Qsva9Kva?si=aojXvAlRTzyDMREXFd1kKg",
+        kind: "album"
+    },
+    {
+        title: "Faust: The Lost Recording",
+        cover: "https://i.scdn.co/image/ab67616d00001e0224ea58d5c5ac0de56bf06845",
+        rating: 5,
+        author: "Alain Goraguer",
+        link: "https://open.spotify.com/album/7AIiDdtf016wPSrTG950Cd?si=oWE6EpwFSriSE0TS6ZqRWw",
+        kind: "album"
+    },
+    {
+        title: "Rare Soundtracks & Lost Tapes",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ef23f01be6f55d4dc0cbaf82",
+        rating: 5,
+        author: "Alain Goraguer",
+        link: "https://open.spotify.com/album/3Cg46JE3tWPhlWsjBA0LU1?si=iqezQJr0RTqk0rTCEV51rg",
+        kind: "album"
+    },
+    {
+        title: "Selected Ambient Works 85-92",
+        cover: "https://i.scdn.co/image/ab67616d00001e0238906032688bb13b135ce19a",
+        rating: 5,
+        author: "Aphex Twin",
+        link: "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k?si=olVcOfhsQBW4X0RrSHsK_g",
+        kind: "album"
+    },
+    {
+        title: "Selected Ambient Works Volume II",
+        cover: "https://i.scdn.co/image/ab67616d00001e028155dc4dae262f31d39d8296",
+        rating: 5,
+        author: "Aphex Twin",
+        link: "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH?si=5XMZD_jrRmCl8gRAxmS4og",
+        kind: "album"
+    },
+    {
+        title: "Syro",
+        cover: "https://i.scdn.co/image/ab67616d00001e026ea96ba633bead24af562890",
+        rating: 5,
+        author: "Aphew Twin",
+        link: "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w?si=rXsUwY2wTUGe23Plv9OLqQ",
+        kind: "album"
+    },
+    {
+        title: "...I Care Because You Do",
+        cover: "https://i.scdn.co/image/ab67616d00001e024bcecb123363f1f0f869257c",
+        rating: 5,
+        author: "Aphex Twin",
+        link: "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE?si=dq-c2vu5QjS6qUHawmKZ9A",
+        kind: "album"
+    },
+    {
+        title: "Computer Controlled Acoustic Instruments pt2 EP",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c3de1c7467803876a809df16",
+        rating: 5,
+        author: "Aphex Twin",
+        link: "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01?si=nXrV6ftDToS26f0nwfNODQ",
+        kind: "album"
+    },
+    {
+        title: "Windowlicker",
+        cover: "https://i.scdn.co/image/ab67616d00001e02478bfd5562acad46103b858a",
+        rating: 5,
+        author: "Aphex Twin",
+        link: "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh?si=O2086kozSb2bunVod6-3Qw",
+        kind: "album"
+    },
+    {
+        title: "Xylem Tube EP",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d5ebffe9d4c1279ca0fc8e48",
+        rating: 5,
+        author: "Aphex Twin",
+        link: "https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX?si=TcBCPRWARzyBeqq8SIgrdQ",
+        kind: "album"
+    },
+    {
+        title: "Billy Idol",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        rating: 5,
+        author: "Billy Idol",
+        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        kind: "album"
+    },
+    
+    
+
 ];
