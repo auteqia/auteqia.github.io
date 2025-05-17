@@ -1330,7 +1330,7 @@ const mediaLibrary = [
     
     {
         title: "La Radiolina",
-        cover: "https://open.spotify.com/album/3Gyn6McG8JN6dOFeQkQX2l?si=_KX1fwtfTou_8YcP8aCv9A",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e37f9a3fdedc3d7dc2c49b26",
         rating: 5,
         author: "Manu Chao",
         link: "https://i.scdn.co/image/ab67616d00001e02e37f9a3fdedc3d7dc2c49b26",
