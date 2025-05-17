@@ -1490,4 +1490,240 @@ const mediaLibrary = [
         kind: "album"
     },
 
+
+    
+    {
+        title: "Debut",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737a94db8056a761764c01dd84",
+        rating: 5,
+        author: "Björk",
+        link: "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr?si=Ti59RX9bSi6bjU4MPmOQpg",
+        kind: "album"
+    },
+    {
+        title: "Breakfast In America",
+        cover: "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e",
+        rating: 5,
+        author: "Björk",
+        link: "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna?si=Wu8Gn14gTBOlXa_-sF1soA",
+        kind: "album"
+    },
+    {
+        title: "Black Sabbath",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e61731abae915074b93416e9",
+        rating: 5,
+        author: "Black Sabbath",
+        link: "https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ?si=sPnyHdvbRJigpy91TFBOrA",
+        kind: "album"
+    },
+    {
+        title: "Maggot Brain",
+        cover: "https://i.scdn.co/image/ab67616d00001e0252573463beeda67fe242cab5",
+        rating: 5,
+        author: "Funkadelic",
+        link: "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm?si=G6NBgEIMS_qI0HR63Hp2dg",
+        kind: "album"
+    },
+    {
+        title: "Close To The Edge",
+        cover: "https://i.scdn.co/image/ab67616d00001e020b4444fe9bc1a73ccbb949db",
+        rating: 5,
+        author: "Yes",
+        link: "https://open.spotify.com/album/6344rkGqCBDenGoS7eJlBN?si=SD3VdiSHTmqMNNYkFRDGxA",
+        kind: "album"
+    },
+    {
+        title: "The Wall",
+        cover: "https://i.scdn.co/image/ab67616d00001e025d48e2f56d691f9a4e4b0bdf",
+        rating: 5,
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F?si=z31lmmq7TnizDDEPkp1xVQ",
+        kind: "album"
+    },
+    {
+        title: "Are You Experienced",
+        cover: "https://i.scdn.co/image/ab67616d00001e028d0212a10cc2d93289d29b32",
+        rating: 5,
+        author: "Jimi Hendrix",
+        link: "https://open.spotify.com/album/719ELjvRzp0lHiLyAuAGj3?si=r7XNAlq9QiemA9xjjxZSnA",
+        kind: "album"
+    },
+    {
+        title: "Electric Ladyland",
+        cover: "https://i.scdn.co/image/ab67616d00001e0219dcd95d28b63d10164327f2",
+        rating: 5,
+        author: "Jimi Hendrix",
+        link: "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ?si=Y79Zvg-mS9K9VLIkkC5YHQ",
+        kind: "album"
+    },
+    {
+        title: "Axis: Bold as Love",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737a94db8056a761764c01dd84",
+        rating: 5,
+        author: "Jimi Hendrix",
+        link: "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r?si=FIwYZPDpRaOr4QMjdtpF9Q",
+        kind: "album"
+    },
+    {
+        title: "D>E>A>T>H>M>E>T>A>L",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e045aa197ada995407bf92fc",
+        rating: 5,
+        author: "Panchiko",
+        link: "https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q?si=7mK_UAjiSKKF_ArZN9V4mg",
+        kind: "album"
+    },
+    {
+        title: "The Roaring Silence",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f7a46588d1f34cd32e670bb4",
+        rating: 5,
+        author: "Manfred Mann's Earth Band",
+        link: "https://open.spotify.com/album/2DNW1VVywtxEtfay126Sk9?si=3cJWzF7gTfW5nkZqjut56g",
+        kind: "album"
+    },
+    {
+        title: "Live In Budapest",
+        cover: "https://i.scdn.co/image/ab67616d00001e0218288532ca2c12a2ac322a3b",
+        rating: 5,
+        author: "Manfred Mann's Earth Band",
+        link: "https://open.spotify.com/album/6Xdk0p7kXM11mb1GWA0Ji3?si=k8cZKogbQfaPxpB0U9LTQg",
+        kind: "album"
+    },
+    {
+        title: "Watch",
+        cover: "https://i.scdn.co/image/ab67616d00001e02687dcfc2eb9309eb5eab7f1e",
+        rating: 5,
+        author: "Manfred Mann's Earth Band",
+        link: "https://open.spotify.com/album/1uFT6dAxYrfRdWnGDJAKZO?si=pEB0lT1MRzeqr-f9IZoL9A",
+        kind: "album"
+    },
+    {
+        title: "Puta's Fever",
+        cover: "https://i.scdn.co/image/ab67616d00001e02af054b09905136eb98c7a08c",
+        rating: 5,
+        author: "Mano Negra",
+        link: "https://open.spotify.com/album/5RRl8EN39JgDo5QsDOFTXz?si=3qHpcRg-TDO2ayO50aLYdA",
+        kind: "album"
+    },
+    {
+        title: "Patchanka",
+        cover: "https://i.scdn.co/image/ab67616d00001e020b9fca80401e636137c2fc8d",
+        rating: 5,
+        author: "Mano Negra",
+        link: "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ?si=RRiJLgMFRruDRE_EjxlYYw",
+        kind: "album"
+    },
+    {
+        title: "Próxima Estación: Esperanza",
+        cover: "https://i.scdn.co/image/ab67616d00001e021dcba4a728ca0b17cbd204a5",
+        rating: 5,
+        author: "Manu Chao",
+        link: "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo?si=IxAyEvGvTnywYz7f00yXbQ",
+        kind: "album"
+    },
+    {
+        title: "Viva Tu",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a2cab830efd2a509743ff230",
+        rating: 5,
+        author: "Manu Chao",
+        link: "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2?si=-DfMFG1oRlO9XETHC0WEEQ",
+        kind: "album"
+    },
+    {
+        title: "EL ÚLTIMO TOUR DEL MUNDO",
+        cover: "https://i.scdn.co/image/ab67616d00001e02005ee342f4eef2cc6e8436ab",
+        rating: 5,
+        author: "Bad Bunny",
+        link: "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW?si=q_SP1uVNSr6-M9FQcXSA4w",
+        kind: "album"
+    },
+    {
+        title: "DeBÍ TiRAR MáS FOToS",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+        rating: 5,
+        author: "Bad Bunny",
+        link: "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb?si=3faFnFucTkiz2gBRWPjsNw",
+        kind: "album"
+    },
+    {
+        title: "Lizard",
+        cover: "https://i.scdn.co/image/ab67616d00001e028f4652132e153badd7017df4",
+        rating: 5,
+        author: "King Crimson",
+        link: "https://open.spotify.com/album/4vvx8uOeJE7YR4tORVtYV4?si=IjqeOp9eQkCRDLto66JKIw",
+        kind: "album"
+    },
+    {
+        title: "Starless and Bible Black",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ebb799f3ca90f59bd04f6a72",
+        rating: 5,
+        author: "King Crimson",
+        link: "https://open.spotify.com/album/4ttC4XUinZXn3GMIQNrjFZ?si=XPlihMrMSgGrvMAyMSs87w",
+        kind: "album"
+    },
+    {
+        title: "Discipline",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ff2d2448a42a43c281b6f556",
+        rating: 5,
+        author: "King Crimson",
+        link: "https://open.spotify.com/album/20dTbQRkxuOTkf3SFyaT2m?si=QbnaMFlYR1e9kDxhwpnCrA",
+        kind: "album"
+    },
+    {
+        title: "Kink",
+        cover: "https://i.scdn.co/image/ab67616d00001e023b662e4bab01440eb4f31793",
+        rating: 5,
+        author: "The Kinks",
+        link: "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ?si=ScKwUtXaRHmH6JkIuVwafg",
+        kind: "album"
+    },
+    {
+        title: "Jefferson Airplane Takes Off",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a75f75c5194839fb77a4dcf7",
+        rating: 5,
+        author: "Jefferson Airplane",
+        link: "https://open.spotify.com/album/4WqJrAJCPjmYTzvN1PTWaB?si=5SNInSViQZW0n--IDRa36w",
+        kind: "album"
+    },
+    {
+        title: "Jefferson Airplane: The Woodstock Experience",
+        cover: "https://i.scdn.co/image/ab67616d00001e0240fefb6812399847a8b8713c",
+        rating: 5,
+        author: "Jefferson Airplane",
+        link: "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a?si=1t2QC89bSpeX7MM_M7Uu3w",
+        kind: "album"
+    },
+    {
+        title: "La Vie Augmente, Vol.3",
+        cover: "https://i.scdn.co/image/ab67616d00001e021670ddf236cd50f995b0ce9e",
+        rating: 5,
+        author: "ISHA",
+        link: "https://open.spotify.com/album/2vG3FiOIQqk8l0gG7p6jYf?si=9AVPekXxRiqoKRPHo-6VIQ",
+        kind: "album"
+    },
+    {
+        title: "La Vie Augmente, Vol.2",
+        cover: "https://i.scdn.co/image/ab67616d00001e021d3f20d0a9be55b758c816a9",
+        rating: 5,
+        author: "ISHA",
+        link: "https://open.spotify.com/album/0HGsUbxth45uHwhtD8nFR1?si=E03D7waBSq2ujj5OE0CSsw",
+        kind: "album"
+    },
+    {
+        title: "La Vie Augmente, Vol.1",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d6f5b51ef29252f8817201b6",
+        rating: 5,
+        author: "ISHA",
+        link: "https://open.spotify.com/album/7cXkwH5Q96UKBtlGuFbkpK?si=P1m3YhjOSFqMkVYjnAAntw",
+        kind: "album"
+    },
+    {
+        title: "Ocean",
+        cover: "https://i.scdn.co/image/ab67616d00001e02352a540820179ba257800b6b",
+        rating: 5,
+        author: "Eloy",
+        link: "https://open.spotify.com/album/055oBGhGjcZixkBREWdav2?si=lfiCED-USBmuWK7vM2ArHw",
+        kind: "album"
+    },
+
+
 ];
