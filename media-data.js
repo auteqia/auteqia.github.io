@@ -10,7 +10,16 @@ const mediaLibrary = [
         link: 'https://www.themoviedb.org/tv/4607-lost'
     },
     // BOOKS \\
-
+    {
+        title: "L'herbier merveilleux",
+        author: "Jean-Michel Othoniel",
+        cover: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560189765i/46252156.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.goodreads.com/book/show/46252156-l-herbier-merveilleux",
+        readDate: "2024-05-18",
+        kind: "book"
+    },
     {
         title: "Walden",
         author: "Henry David Thoreau",
