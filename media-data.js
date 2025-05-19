@@ -63,6 +63,26 @@ const mediaLibrary = [
         kind: "movie"
     },
     {
+        title: "Une Femme Est Une Femme",
+        author: "Jean-Luc Godard",
+        cover: "https://m.media-amazon.com/images/M/MV5BMmIwMDg0N2EtZTRiZi00MTA2LWE1MDItOTJjNjA2MDViZDU1XkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+        rating: 4.2,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0055572/",
+        readDate: "2025-05-19",
+        kind: "movie"
+    },
+    {
+        title: "Cléo de 5 à 7",
+        author: "Agnès Varda",
+        cover: "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/oelBStY4xpguaplRv15P3Za7Xsr.jpg",
+        rating: 4.3,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0055852/",
+        readDate: "2024-06-19",
+        kind: "movie"
+    },
+    {
         title: "Drunk",
         author: "Thomas Vinterberg",
         cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
