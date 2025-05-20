@@ -3378,51 +3378,99 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "Delaware",
+        cover: "https://i.scdn.co/image/ab67616d00001e02327dd408e63cfe266e5186b2",
         rating: 5,
-        author: "",
-        link: "",
+        author: "Drop Ninteens",
+        link: "https://open.spotify.com/intl-fr/album/0kAlEeID2MPd2JYT3Iwegp?si=IFXMdBf6SLmr5mnCdGUmOw",
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "III Communication",
+        cover: "https://i.scdn.co/image/ab67616d00001e02436a305db8bd85b820da3e5a",
         rating: 5,
-        author: "",
-        link: "",
+        author: "Beasty Boys",
+        link: "https://open.spotify.com/intl-fr/album/6lfjbwFGzQ6aSNP1N3JlT8?si=mFVJpF_xQZq3Cd_OVm_GZQ",
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "Substance",
+        cover: "https://i.scdn.co/image/ab67616d00001e023c182241fcd86aeca2c68a63",
         rating: 5,
-        author: "",
-        link: "",
+        author: "New Order",
+        link: "https://open.spotify.com/intl-fr/album/6iHuSGy6pq4tNGFV3ZVPtl?si=YZGtIPoIRtehX6_k_sQM6A",
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "Power Corruption",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a0bb93884823982d57cb2004",
         rating: 5,
-        author: "",
-        link: "",
+        author: "New Order",
+        link: "https://open.spotify.com/intl-fr/album/6NTrwu1XJ56jBPx7HMksbZ?si=L3YpHUXKQ6GrRq9PYOkizA",
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "Brotherhood",
+        cover: "https://i.scdn.co/image/ab67616d00001e02530a2c5dd17d2ddf8edc2978",
         rating: 5,
-        author: "",
-        link: "",
+        author: "New Order",
+        link: "https://open.spotify.com/intl-fr/album/0PSWY4XyjTWppfBb0tBtqu?si=lz_S9S7OTy65Tz4tejOpkQ",
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "REpublic",
+        cover: "https://i.scdn.co/image/ab67616d00001e028120870086c90b8de2309ef0",
         rating: 5,
-        author: "",
-        link: "",
+        author: "New Order",
+        link: "https://open.spotify.com/intl-fr/album/7mIOgbore2HTzdh2ZyS4rH?si=q8pyEbF_TvG818BFZU4dSA",
+        kind: "album"
+    },
+    {
+        title: "Instrumental Soundtrack",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bd8b0af490f57ec1e55513cf",
+        rating: 5,
+        author: "Fugazi",
+        link: "https://open.spotify.com/intl-fr/album/1owNOVlXTqmDVo4M2Z20uk?si=HjZxjH1iTMKv5RPRevG4TQ",
+        kind: "album"
+    },
+    {
+        title: "13 Songs",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f18ce5dc5f6b0843d3acb3a1",
+        rating: 5,
+        author: "Fugazi",
+        link: "https://open.spotify.com/intl-fr/album/1FcRwT7uoNdO8L9wbYsfAY?si=hCbB_gbwSvCN4uWh5VJb_w",
+        kind: "album"
+    },
+    {
+        title: "The 5000 Spirits or The Layer Of The Onion",
+        cover: "https://i.scdn.co/image/ab67616d00001e020987b713f60b59957f2681fe",
+        rating: 5,
+        author: "The Incredible String Band",
+        link: "https://open.spotify.com/intl-fr/album/3htu0UsV5JuouSfugMHNgS?si=ES79SVt8QN6g91ttE5KFkg",
+        kind: "album"
+    },
+    {
+        title: "Evangelion Finally",
+        cover: "https://i.scdn.co/image/ab67616d00001e026df828bb10343f7bad08d4fe",
+        rating: 5,
+        author: "Various Artists",
+        link: "https://open.spotify.com/intl-fr/album/3MRZ3T8TutKAlQK0d7mqho?si=cfsWk4kEQ12BBFz-CytTOw",
+        kind: "album"
+    },
+    {
+        title: "After Hours",
+        cover: "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+        rating: 5,
+        author: "The Weeknd",
+        link: "https://open.spotify.com/intl-fr/album/4yP0hdKOZPNshxUOjY0cZj?si=aGKq-7wPQbCBRjjX4TkmYg",
+        kind: "album"
+    },
+    {
+        title: "I Have Seen You Through the Years, Worn by Different Faces",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c62bafc4d8831296ddde5c5b",
+        rating: 5,
+        author: "SS-Say",
+        link: "https://open.spotify.com/intl-fr/album/5WQVSRM5BBxq8FA5SaKqRg?si=emMl-gayQKy0KSdrQnuJnA",
         kind: "album"
     },
 ];
