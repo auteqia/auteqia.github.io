@@ -3018,107 +3018,219 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "Who Really Cares",
+        cover: "https://i.scdn.co/image/ab67616d00001e0232f5fec7a879ed6ef28f0dfd",
         rating: 5,
-        author: "",
-        link: "",
+        author: "TV Girl",
+        link: "https://open.spotify.com/intl-fr/album/4oL7pMxnb04uuRI7ReXmuh?si=Spk68dBMQ9qdY3KrUtvVaw",
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "Death of a Party Girl",
+        cover: "https://i.scdn.co/image/ab67616d00001e021556d166d0ed059b34a00e1b",
         rating: 5,
-        author: "",
-        link: "",
+        author: "TV Girl",
+        link: "https://open.spotify.com/intl-fr/album/5kFjYk3umY8Pu1lymIJLVy?si=_4ftZ75bRkq4SWhG6YxbIg",
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "French Exit",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e1bc1af856b42dd7fdba9f84",
         rating: 5,
-        author: "",
-        link: "",
+        author: "TV Girl",
+        link: "https://open.spotify.com/intl-fr/album/4Hai0uVzRbyTSaTPzxTY4e?si=QBuIHBnGRnWlIQod4ukWag",
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "Creedence Clearwater Revival",
+        cover: "https://i.scdn.co/image/ab67616d00001e020ef0c90eac4d5fd129a6c441",
         rating: 5,
-        author: "",
-        link: "",
+        author: "Creedence Clearwater Revival",
+        link: "https://i.scdn.co/image/ab67616d00001e020ef0c90eac4d5fd129a6c441",
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "Pendelum",
+        cover: "https://i.scdn.co/image/ab67616d00001e029b7a4a59ac03447db7491f37",
         rating: 5,
-        author: "",
-        link: "",
+        author: "Creedence Clearwater Revival",
+        link: "https://open.spotify.com/intl-fr/album/3tbpe74iBR23O8uiQlLrXC?si=jmQCvm7wRZmQXxPRuu_TKQ",
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "Mellon Collie And The Infinite Sadness",
+        cover: "https://i.scdn.co/image/ab67616d00001e02431ac6e6f393acf475730ec6",
         rating: 5,
-        author: "",
-        link: "",
+        author: "The Smashing Pumpkins",
+        link: "https://open.spotify.com/intl-fr/album/55RhFRyQFihIyGf61MgcfV?si=h_OkqsBmTXKN9ZOuOMYJXQ",
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "Grace",
+        cover: "https://i.scdn.co/image/ab67616d00001e026a760642a56847027428cb61",
         rating: 5,
-        author: "",
-        link: "",
+        author: "Jeff Buckley",
+        link: "https://open.spotify.com/intl-fr/album/7yQtjAjhtNi76KRu05XWFS?si=fKsQb5KBS3WhPIkRSFcv1g",
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "The Virgin Suicides",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d255944dd08e7fba8197aff8",
         rating: 5,
-        author: "",
-        link: "",
+        author: "Air",
+        link: "https://open.spotify.com/intl-fr/album/0Dv4ArPFwSFPWrubYdExKq?si=Comgn0SJQ3-CkPivbicw9w",
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "Moon Safari",
+        cover: "https://i.scdn.co/image/ab67616d00001e021216e4f7e84af70ef18146ed",
         rating: 5,
-        author: "",
-        link: "",
+        author: "Air",
+        link: "https://open.spotify.com/intl-fr/album/5dmYtZVJ1bG9RyrZBRrkOA?si=5stSqoMcTVi2omb2uM7niw",
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "Talkie Walkie",
+        cover: "https://i.scdn.co/image/ab67616d00001e026400fab74f28e90759ac8815",
         rating: 5,
-        author: "",
-        link: "",
+        author: "Air",
+        link: "https://open.spotify.com/intl-fr/album/0hQOqvZv1nQvPiBjzyn363?si=-WUUYwAlSz2plZdyND2KLA",
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "El Silencio",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bc4d989c48ad5b154fb0781d",
         rating: 5,
-        author: "",
-        link: "",
+        author: "Caifanes",
+        link: "https://open.spotify.com/intl-fr/album/1WrK98KVZxkTgMD3a9Kpnl?si=MwQ4TQtTSJuF2Q6ey-vOow",
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "El Nervio Del Volcan",
+        cover: "https://i.scdn.co/image/ab67616d00001e0236aeaab4dc91a8dea53a2d8f",
         rating: 5,
-        author: "",
-        link: "",
+        author: "Caifanes",
+        link: "https://open.spotify.com/intl-fr/album/2mPZNQNgW1zrkIPyL9XJcf?si=QBEYYMgiTxaC0r91sQcKYw",
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "Mexican Spaghetti Western",
+        cover: "https://i.scdn.co/image/ab67616d00001e0290300d07d1a39796b7acb59e",
         rating: 5,
-        author: "",
-        link: "",
+        author: "Chingon",
+        link: "https://open.spotify.com/intl-fr/album/6Cml5uWyReGMYgqUzmk5jv?si=TSBTdtsBR9KdIMJZsxO1Xw",
+        kind: "album"
+    },
+    {
+        title: "Crest",
+        cover: "https://i.scdn.co/image/ab67616d00001e028504a0836dfaa61b28930505",
+        rating: 5,
+        author: "Bladee",
+        link: "https://open.spotify.com/intl-fr/album/3j75sKW2Lw9gUEhjNzPKn4?si=9hFqrY9ST9CsEZfW-apGgQ",
+        kind: "album"
+    },
+    {
+        title: "Caravanserai",
+        cover: "https://i.scdn.co/image/ab67616d00001e02800bb150ac0079c20c4f8a81",
+        rating: 5,
+        author: "Santana",
+        link: "https://open.spotify.com/intl-fr/album/0abfpuzzbTUNxasNmX04RU?si=kmxBXf6ERpOETrTmyG7qOQ",
+        kind: "album"
+    },
+    {
+        title: "Abraxas",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f1594eeff2ea90e0f3873919",
+        rating: 5,
+        author: "Santana",
+        link: "https://open.spotify.com/intl-fr/album/1CHUXwuge9A7L2KiA3vnR6?si=l_4SLM0nQJSeIDbDLFJx2w",
+        kind: "album"
+    },
+    {
+        title: "Re",
+        cover: "https://i.scdn.co/image/ab67616d00001e023b9211139eb247b12f6ba6c5",
+        rating: 5,
+        author: "Café Tacvba",
+        link: "https://open.spotify.com/intl-fr/album/7EJ5pXrSqqfybKyfbvlz84?si=aAJ72QR2TuOuLQReqaLikg",
+        kind: "album"
+    },
+    {
+        title: "MTV Unplugged",
+        cover: "https://i.scdn.co/image/ab67616d00001e024eb669154c003f29c74be01d",
+        rating: 5,
+        author: "Café Tacvba",
+        link: "https://open.spotify.com/intl-fr/album/0fO8mzViUoz12iCHrPppE9?si=bWxCNYjqSqKbvbnUwmmIyA",
+        kind: "album"
+    },
+    {
+        title: "White Light / White Heat",
+        cover: "https://i.scdn.co/image/ab67616d00001e027195c4f5f2f4a8236748baaf",
+        rating: 5,
+        author: "The Velvet Underground",
+        link: "https://open.spotify.com/intl-fr/album/0HHmJpwOXXRJu9HI9iQiEO?si=YewDA53CSi6J0glrn_Oygw",
+        kind: "album"
+    },
+    {
+        title: "The Velvet Underground & Nico",
+        cover: "https://i.scdn.co/image/ab67616d00001e0298260c528e6eec9dd431c1d7",
+        rating: 5,
+        author: "The Velvet Underground",
+        link: "https://open.spotify.com/intl-fr/album/4xwx0x7k6c5VuThz5qVqmV?si=SDccqI_WSW6g66e2CwxK7w",
+        kind: "album"
+    },
+    {
+        title: "1969 Velvet Underground Live With Lou Reed",
+        cover: "https://i.scdn.co/image/ab67616d00001e024636cb38b21d2db52a4cdc5b",
+        rating: 5,
+        author: "Velvet Underground",
+        link: "https://open.spotify.com/intl-fr/album/2ChY6jtKcJAxCBN5Lu6nx8?si=Am2b8mEPT8-QGSaDANpLjg",
+        kind: "album"
+    },
+    {
+        title: "BLOOD",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e6e272a6c2b1f4e8a1686030",
+        rating: 5,
+        author: "GRLwood",
+        link: "https://open.spotify.com/intl-fr/album/1PJP79JocpUirWseaHNiWe?si=ts8igeRHTFGRv7IIPwiS0A",
+        kind: "album"
+    },
+    {
+        title: "Daddy",
+        cover: "https://i.scdn.co/image/ab67616d00001e027b42371ee0855db5ecebee55",
+        rating: 5,
+        author: "GRLwood",
+        link: "https://open.spotify.com/intl-fr/album/6DtauZkytPy57lb3goadQ0?si=3UynCqCZS1yI6c4Urn1oLQ",
+        kind: "album"
+    },
+    {
+        title: "I Sold My Soul to the Devil When I Was 12",
+        cover: "https://i.scdn.co/image/ab67616d00001e022d79736c62f1e6d966357dcd",
+        rating: 5,
+        author: "GRLwood",
+        link: "https://open.spotify.com/intl-fr/album/7h0jldis2wj4JUTNWG8gIq?si=37pFB5uNQS6UnN-pvwdLQg",
+        kind: "album"
+    },
+    {
+        title: "Par Les Fils De Mandarin",
+        cover: "https://i.scdn.co/image/ab67616d00001e02059c67254b844bff24410442",
+        rating: 5,
+        author: "Ange",
+        link: "https://open.spotify.com/intl-fr/album/3EqySsFNjDWa6xORz8apbS?si=Rd0PyCFIQLeDwM5Z0hKjpg",
+        kind: "album"
+    },
+    {
+        title: "Au-Delà Du Délire",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c68cec7085f742088254d3dd",
+        rating: 5,
+        author: "Ange",
+        link: "https://open.spotify.com/intl-fr/album/3X6ZYhmu0k29UmNw2zcCrL?si=atgLz6dtRwC-r_ANCjIKXA",
+        kind: "album"
+    },
+    {
+        title: "haha",
+        cover: "https://i.scdn.co/image/ab67616d00001e0265ad4e52938360a5b6eb4b04",
+        rating: 5,
+        author: "The Garden",
+        link: "https://open.spotify.com/intl-fr/album/2tH1S9Q2RUcLrOizMy9I1K?si=rG9SNoo_TVO8aHnkwnVQlQ",
         kind: "album"
     },
     {
