@@ -3181,7 +3181,7 @@ const mediaLibrary = [
         title: "1969 Velvet Underground Live With Lou Reed",
         cover: "https://i.scdn.co/image/ab67616d00001e024636cb38b21d2db52a4cdc5b",
         rating: 5,
-        author: "Velvet Underground",
+        author: "The Velvet Underground",
         link: "https://open.spotify.com/intl-fr/album/2ChY6jtKcJAxCBN5Lu6nx8?si=Am2b8mEPT8-QGSaDANpLjg",
         kind: "album"
     },
