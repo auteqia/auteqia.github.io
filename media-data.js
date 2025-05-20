@@ -2140,7 +2140,7 @@ const mediaLibrary = [
     
     {
         title: "Dure Limite",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        cover: "https://i.scdn.co/image/ab67616d00001e0266d63e400881e134337ead54",
         rating: 5,
         author: "Téléphone",
         link: "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf?si=SdHDpAR6SAyIbf0vqxJe2w",
