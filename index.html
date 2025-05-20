@@ -271,7 +271,10 @@
     <main>
         <section id="books-section" class="content-section active"></section>
         <section id="movies-section" class="content-section"></section>
-        <section id="albums-section" class="content-section"></section>
+        <section id="albums-section" class="content-section">
+            <h2 class="count-header">tttt</h2>
+        </section>
+        
     </main>
     <script src="media-data.js"></script>
     <script>
@@ -371,7 +374,9 @@
 
         function generateAlbumSection() {
             const container = document.getElementById('albums-section');
+            
             container.innerHTML = '';
+
             
             const albums = mediaLibrary
                 .filter(item => item.kind === 'album')
