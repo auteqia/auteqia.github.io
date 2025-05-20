@@ -1555,7 +1555,7 @@ const mediaLibrary = [
     },
     {
         title: "Close To The Edge",
-        cover: "https://i.scdn.co/image/ab67616d00001e020b4444fe9bc1a73ccbb949db",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a4df8db3f73e5258951a8b3c",
         rating: 5,
         author: "Yes",
         link: "https://open.spotify.com/album/6344rkGqCBDenGoS7eJlBN?si=SD3VdiSHTmqMNNYkFRDGxA",
@@ -2766,6 +2766,383 @@ const mediaLibrary = [
         rating: 5,
         author: "Lou Reed",
         link: "https://open.spotify.com/intl-fr/album/4iaDgkP0M6ahEHrBynAFei?si=Iab9X0pVQWuFjsSuDdPDfQ",
+        kind: "album"
+    },
+
+    {
+        title: "Fragile",
+        cover: "https://i.scdn.co/image/ab67616d00001e02fb00f7be0eca020bb5c05911",
+        rating: 5,
+        author: "Yes",
+        link: "https://open.spotify.com/intl-fr/album/78tN6vBPHHyNk4sZYnS5X4?si=Gg7AoziVSJOJ1ZbabXARsg",
+        kind: "album"
+    },
+    {
+        title: "Going for the One",
+        cover: "https://i.scdn.co/image/ab67616d00001e02370f0969aca636b22cc98eed",
+        rating: 5,
+        author: "Yes",
+        link: "https://open.spotify.com/intl-fr/album/2U4JHXMiBxsKH4dnYEQg2g?si=ZQya5j1yTESaNIUpwg9zBg",
+        kind: "album"
+    },
+    {
+        title: "Post Cyber-Death Voxel Infinity",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a1a8a14bcc49fe1f679fc907",
+        rating: 5,
+        author: "Fine-Sir-1584660650",
+        link: "https://open.spotify.com/intl-fr/album/6n98ZzKufMhVJpAFwIh5Vj?si=GovgE0kPS8urohQc47Zs-w",
+        kind: "album"
+    },
+    {
+        title: "ᚍᚑᚄᚆᚁᚑᚃᚋᚘᚚᚒᚄᚁᚅᚑᚇᚃᚒᚙᚁᚈᚋᚅᚖᚇᚗᚁᚐᚊᚏᚈᚘ",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b3702d67b1208fb909c0a5c1",
+        rating: 5,
+        author: "Fine-Sir-1584660650",
+        link: "https://open.spotify.com/intl-fr/album/1gTSDOZCzJqmEzH6efpwyc?si=9Bh8f3TqTgOAFEpvpGmqew",
+        kind: "album"
+    },
+    {
+        title: "to hell with it",
+        cover: "https://i.scdn.co/image/ab67616d00001e0212c2eefb1d28509c632d915d",
+        rating: 5,
+        author: "PinkPanthress",
+        link: "https://open.spotify.com/intl-fr/album/65YAjLCn7Jp33nJpOxIPMe?si=A_m175teQIaNQ_JlQunEMQ",
+        kind: "album"
+    },
+    {
+        title: "Heaven knows",
+        cover: "https://i.scdn.co/image/ab67616d00001e0212e36c27d935e955b44c6581",
+        rating: 5,
+        author: "PinkPanthress",
+        link: "https://open.spotify.com/intl-fr/album/2pOEFqvfxp5uUQ8vQEmVA0?si=6GPYWoWJSK2XAXItTFyeew",
+        kind: "album"
+    },
+    {
+        title: "Hatful of Hollow",
+        cover: "https://i.scdn.co/image/ab67616d00001e02786b44c75ebf915866523f5b",
+        rating: 5,
+        author: "The Smiths",
+        link: "https://open.spotify.com/intl-fr/album/1j57Q5ntVi7crpibb0h4sv?si=F7AsIIWqT7S5iNKRF12xtA",
+        kind: "album"
+    },
+    {
+        title: "The Queen Is Dead",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ada101c2e9e97feb8fae37a9",
+        rating: 5,
+        author: "The Smiths",
+        link: "https://open.spotify.com/intl-fr/album/5Y0p2XCgRRIjna91aQE8q7?si=S5IKZE_1Qcqx-F1SRk35fg",
+        kind: "album"
+    },
+    {
+        title: "Louder Than Bombs",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ed3953f8af1f764a146b7583",
+        rating: 5,
+        author: "The Smiths",
+        link: "https://open.spotify.com/intl-fr/album/45StnugV9WQMQwk4rRoTy8?si=E_bjphSWRzmO0H4nYpTzkQ",
+        kind: "album"
+    },
+    {
+        title: "Meat Is Murder",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ac345598e7697a319cb5b460",
+        rating: 5,
+        author: "The Smiths",
+        link: "https://open.spotify.com/intl-fr/album/5DM1qCdgGt2zbknnsVn1Ca?si=phq0t-qnQ2qcyHMIy3oZWA",
+        kind: "album"
+    },
+    {
+        title: "Night Time, My Time",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d39843a4927d1dd474978d23",
+        rating: 5,
+        author: "Sky Ferreira",
+        link: "https://open.spotify.com/intl-fr/album/0DucmDrdJM4evPXMbFJXBS?si=MWX63hPzTTi4INRWhftPNw",
+        kind: "album"
+    },
+    {
+        title: "Ghost",
+        cover: "https://i.scdn.co/image/ab67616d00001e02af1115d3ae5dad6cf7210dbe",
+        rating: 5,
+        author: "Sky Ferreira",
+        link: "https://open.spotify.com/intl-fr/album/0ktookQxpwDrShMBr1U4Sf?si=xOcgAZksRNeFWefYhe4n0w",
+        kind: "album"
+    },
+    {
+        title: "Hellbilly",
+        cover: "https://i.scdn.co/image/ab67616d00001e0213d4adf9e4b938f88266f4e4",
+        rating: 5,
+        author: "Rob Zombie",
+        link: "https://open.spotify.com/intl-fr/album/2B4lHoTCpWbxQPTZmCOjnH?si=ojLNQw0uTRaASgYlJM1Lhg",
+        kind: "album"
+    },
+    {
+        title: "Past, Present & Future",
+        cover: "https://i.scdn.co/image/ab67616d00001e027375f246747aaf6e265ceb78",
+        rating: 5,
+        author: "Rob Zombie",
+        link: "https://open.spotify.com/intl-fr/album/3RjfiKRsIHB7wQ1L6KoDEz?si=A8WJQYpIQEq5vk8rM16aFg",
+        kind: "album"
+    },
+    {
+        title: "Leisure",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a355f0a8cd8324394ac166c0",
+        rating: 5,
+        author: "Blur",
+        link: "https://open.spotify.com/intl-fr/album/0cTdvscLZjCTEKxYUlJFwa?si=PBlu68oWSWuWyqN42hkCxQ",
+        kind: "album"
+    },
+    {
+        title: "The Great Escape",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d6edad0d4fc3448ccc61c13c",
+        rating: 5,
+        author: "Blur",
+        link: "https://open.spotify.com/intl-fr/album/7BiMMjtvTX0OiB8Yi7CFB1?si=KTWigiL-RbCXHt1sgINbcg",
+        kind: "album"
+    },
+    {
+        title: "Blur",
+        cover: "https://i.scdn.co/image/ab67616d00001e02de114203356c1f7b136960b6",
+        rating: 5,
+        author: "Blur",
+        link: "https://open.spotify.com/intl-fr/album/7HvIrSkKGJCzd8AKyjTJ6Q?si=mxBpIksgTt-QFgjvlVz4NQ",
+        kind: "album"
+    },
+    {
+        title: "Blur: The Best Of",
+        cover: "https://i.scdn.co/image/ab67616d00001e0234cbf7013afccc7df67fa43f",
+        rating: 5,
+        author: "Blur",
+        link: "https://open.spotify.com/intl-fr/album/1bgkxe4t0HNeLn9rhrx79x?si=iclqO33ERS2oy0iMvbLUAw",
+        kind: "album"
+    },
+    {
+        title: "Elastica",
+        cover: "https://i.scdn.co/image/ab67616d00001e025ac670b8c48b7446c8aade5e",
+        rating: 5,
+        author: "Elastica",
+        link: "https://open.spotify.com/intl-fr/album/00MAXeszCotk3g9q8KYJlZ?si=qhhaQW1XTQe-8lSxcTNhyw",
+        kind: "album"
+    },
+    {
+        title: "The Age Of Understatement",
+        cover: "https://i.scdn.co/image/ab67616d00001e0256e4e3118af9dec4a5670a33",
+        rating: 5,
+        author: "The Last Shadow Puppets",
+        link: "https://open.spotify.com/intl-fr/album/2y3Rm0cT1xbf2NoTQwKv99?si=HItPvms-SRK2Y0eEQcljsA",
+        kind: "album"
+    },
+    {
+        title: "Everything You've Come to Expect",
+        cover: "https://i.scdn.co/image/ab67616d00001e0299845928b10d57ec9f95e953",
+        rating: 5,
+        author: "The Last Shadown Puppets",
+        link: "https://open.spotify.com/intl-fr/album/6q1ZuWCnYTQb7KhXHZo947?si=pIkNmTDBQXqqpAw4qx-4Gw",
+        kind: "album"
+    },
+    {
+        title: "Tell Me I'm Pretty",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e7dd69ac32cf313fde62cbad",
+        rating: 5,
+        author: "Cage The Elephant",
+        link: "https://open.spotify.com/intl-fr/album/0nW0w37lrQ87k7PLZvC4qJ?si=1Mu8JI-VQseDDi-w3pH77g",
+        kind: "album"
+    },
+    {
+        title: "Melophobia",
+        cover: "https://i.scdn.co/image/ab67616d00001e02415b79227c6cee25f42fbf41",
+        rating: 5,
+        author: "Cage The Elephant",
+        link: "https://open.spotify.com/intl-fr/album/5nJ9B1KiydXoYWAcyqlG76?si=Lz2kz3uYR_eW_j9zNbWGag",
+        kind: "album"
+    },
+    {
+        title: "Social Cues",
+        cover: "https://i.scdn.co/image/ab67616d00001e0288883701231713b18429f80b",
+        rating: 5,
+        author: "Cage The Elephant",
+        link: "https://open.spotify.com/intl-fr/album/2VuZJsJBPLwg9BeQFQle8G?si=7KMoo4esRlKc4MNr97llUA",
+        kind: "album"
+    },
+    {
+        title: "Unpeeled",
+        cover: "https://i.scdn.co/image/ab67616d00001e0272b478dedd009d6b8d6e7971",
+        rating: 5,
+        author: "Cage The Elephant",
+        link: "https://open.spotify.com/intl-fr/album/4zpN41aGAYPWX3dzE19rH7?si=gIZQACjdSW2iGfDZLIE-Aw",
+        kind: "album"
+    },
+    {
+        title: "Cage The Elephant",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ce6b979ca98da4c27157dc17",
+        rating: 5,
+        author: "Cage The Elephant",
+        link: "https://open.spotify.com/intl-fr/album/0c1yNi1MuGlcNrCzU2kDVE?si=qi2to3HcTmWQtVHQT0f18Q",
+        kind: "album"
+    },
+    {
+        title: "Around the Fur",
+        cover: "https://i.scdn.co/image/ab67616d00001e020b1129853982ea17845d4eb6",
+        rating: 5,
+        author: "Deftones",
+        link: "https://open.spotify.com/intl-fr/album/7o4UsmV37Sg5It2Eb7vHzu?si=xqOAdNSvQS2j2iwnOGwpew",
+        kind: "album"
+    },
+    {
+        title: "White Pony",
+        cover: "https://i.scdn.co/image/ab67616d00001e025c53799f473fa3e1a48c00ed",
+        rating: 5,
+        author: "Deftones",
+        link: "https://open.spotify.com/intl-fr/album/5LEXck3kfixFaA3CqVE7bC?si=xPbOoJa-QLGqVNsTiYarZA",
+        kind: "album"
+    },
+    {
+        title: "Diamond Eyes",
+        cover: "https://i.scdn.co/image/ab67616d00001e0272c2145d48f68917a7361b15",
+        rating: 5,
+        author: "Deftones",
+        link: "https://open.spotify.com/intl-fr/album/1GjjBpY2iDwSQs5bykQI5e?si=DrEpUE0xTxSM3qVhFTUtqA",
+        kind: "album"
+    },
+    {
+        title: "Koi No Yokan",
+        cover: "https://i.scdn.co/image/ab67616d00001e0273652b7a0dc388dd1d044b69",
+        rating: 5,
+        author: "Deftones",
+        link: "https://open.spotify.com/intl-fr/album/4PIVdqvL1Rc7T7Vfsr8n8Q?si=HJ1wOvLtQtaD-9wAgPPYMw",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
         kind: "album"
     },
 ];
