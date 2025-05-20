@@ -2569,11 +2569,11 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "The Hurting",
+        cover: "https://i.scdn.co/image/ab67616d00001e0245546ed4af1a0d4c58a8ff50",
         rating: 5,
-        author: "",
-        link: "",
+        author: "Tears For Fears",
+        link: "https://open.spotify.com/intl-fr/album/3sIFpEctox1XOs3FEkqrgr?si=zrEt5_pIQ2yIjZtnyFd15w",
         kind: "album"
     },
     {
