@@ -2157,77 +2157,286 @@ const mediaLibrary = [
     },
     
     {
-        title: "Billy Idol",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        title: "Steppenwolf",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e2aacda30b100cc33d523be0",
         rating: 5,
-        author: "Billy Idol",
-        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        author: "Steppenwolf",
+        link: "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8?si=mJlG7lkvQSuYYP9pz7DefQ",
         kind: "album"
     },
     
     {
-        title: "Billy Idol",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        title: "90125",
+        cover: "https://i.scdn.co/image/ab67616d00001e029d9a49f795b4340538f43435",
         rating: 5,
-        author: "Billy Idol",
-        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        author: "Yes",
+        link: "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz?si=ld7O_H9LR_WNayHzQzVXTw",
         kind: "album"
     },
     
     {
-        title: "Billy Idol",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        title: "Who's Next",
+        cover: "https://i.scdn.co/image/ab67616d00001e02fe24dcd263c08c6dd84b6e8c",
         rating: 5,
         author: "Billy Idol",
-        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        link: "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ?si=Fdj7OzbxRQa8jUarpo1Nzw",
         kind: "album"
     },
     
     {
-        title: "Billy Idol",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        title: "Toto IV",
+        cover: "https://i.scdn.co/image/ab67616d00001e024a052b99c042dc15f933145b",
         rating: 5,
-        author: "Billy Idol",
-        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        author: "TOTO",
+        link: "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D?si=JWrEE3ccTGWm4AG915Wp7w",
         kind: "album"
     },
     
     {
-        title: "Billy Idol",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        title: "Even In The Quietest Moments",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bddcc30c6a3288e725aec2df",
         rating: 5,
-        author: "Billy Idol",
-        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        author: "Supertramp",
+        link: "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w?si=VTN7JJUZTzu443nJakpHfg",
         kind: "album"
     },
     
     {
-        title: "Billy Idol",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        title: "Breakfast in America",
+        cover: "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e",
         rating: 5,
-        author: "Billy Idol",
-        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        author: "Supertramp",
+        link: "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna?si=ngL83KYRR-OXUviUnFPBsQ",
         kind: "album"
     },
     
     {
-        title: "Billy Idol",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        title: "'...Famous Last Words...'",
+        cover: "https://i.scdn.co/image/ab67616d00001e02093c6e7d6069b3c958071f73",
         rating: 5,
-        author: "Billy Idol",
-        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        author: "Supertramp",
+        link: "https://open.spotify.com/album/58JuUAfKGh6bKphiBtp7Nc?si=XLC9Or68Qdm6SzKwphjT3Q",
         kind: "album"
     },
     
     {
-        title: "Billy Idol",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        title: "Surfer Rosa",
+        cover: "https://i.scdn.co/image/ab67616d00001e028aa545a0ea869940cce358b5",
         rating: 5,
-        author: "Billy Idol",
-        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        author: "Pixies",
+        link: "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9?si=IidMUac3SciKLRnm2E7faw",
         kind: "album"
     },
+
+
     
+        {
+        title: "Easter",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a28eabe111f67a386e75a31a",
+        rating: 5,
+        author: "Patti Smith",
+        link: "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd?si=dDM3Gd56RoCjPAhvh78V8w",
+        kind: "album"
+    },
+        {
+        title: "Rage Against The Machine",
+        cover: "https://i.scdn.co/image/ab67616d00001e0254ab617bc2d4974ab6ffbece",
+        rating: 5,
+        author: "Rage Against The Machine",
+        link: "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4?si=cbe1rkXARnOvNGBWVJKU1Q",
+        kind: "album"
+    },
+    {
+        title: "Machine Head",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a729c9c3dec04b99d889c66f",
+        rating: 5,
+        author: "Deep Purple",
+        link: "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN?si=bOkCDDxsSjC5rEgi7I_JoQ",
+        kind: "album"
+    },
+
+
+
+
+
+    {
+        title: "Perfect Strangers",
+        cover: "https://i.scdn.co/image/ab67616d00001e021d742027836d2d03cb5e0c4b",
+        rating: 5,
+        author: "Deep Purple",
+        link: "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO?si=PQyEc2HISlykRGRlSgXbsA",
+        kind: "album"
+    },
+
+    {
+        title: "Made In Japan",
+        cover: "https://i.scdn.co/image/ab67616d00001e0255b8ce9be020127f7b8a76f3",
+        rating: 5,
+        author: "Deep Purple",
+        link: "https://open.spotify.com/album/1IY4BdLApVlVa8xid34zJm?si=P-Ncq2xtQAyWN-b0XJXxsA",
+        kind: "album"
+    },
+    {
+        title: "Made in Europe",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d912296cb5ef2a91339db1f4",
+        rating: 5,
+        author: "Deep Purple",
+        link: "https://open.spotify.com/album/7hlg6rtIzw56qQbUVkwADH?si=tD8qhxuxTOSLDSKkqWis9w",
+        kind: "album"
+    },
+    {
+        title: "Pablo Honey",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ec548c00d3ac2f10be73366d",
+        rating: 5,
+        author: "Deep Purple",
+        link: "https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8?si=Vv57sT2zS5qk5fYAiKMRSw",
+        kind: "album"
+    },
+    {
+        title: "OK Computer",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c8b444df094279e70d0ed856",
+        rating: 5,
+        author: "Radiohead",
+        link: "https://open.spotify.com/intl-fr/album/6dVIqQ8qmQ5GBnJ9shOYGE?si=m7imrwS1TWKMU4RNRS57CQ",
+        kind: "album"
+    },
+    {
+        title: "In Rainbows",
+        cover: "https://i.scdn.co/image/ab67616d00001e02de3c04b5fc750b68899b20a9    ",
+        rating: 5,
+        author: "Radiohead",
+        link: "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK?si=Cx8rH_QFQFCUPSVnH58e4g",
+        kind: "album"
+    },
+    {
+        title: "The Bends",
+        cover: "https://i.scdn.co/image/ab67616d00001e029293c743fa542094336c5e12",
+        rating: 5,
+        author: "Radiohead",
+        link: "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg?si=Kw3t9NC-SMOH8lqDXthnNA",
+        kind: "album"
+    },
+    {
+        title: "KID A MNESIA",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bbaaa8bf9aedb07135d2c6d3",
+        rating: 5,
+        author: "Radiohead",
+        link: "https://open.spotify.com/album/6ofEQubaL265rIW6WnCU8y?si=WNd74DHLT_qTTvpMmTP5Jw",
+        kind: "album"
+    },
+    {
+        title: "Hail To The Thief",
+        cover: "https://i.scdn.co/image/ab67616d00001e020da53e8f58e59f28a79c10c7",
+        rating: 5,
+        author: "Radiohead",
+        link: "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy?si=Ns71DdJlS3WBARLnjMi0Fw",
+        kind: "album"
+    },
+    {
+        title: "Kid A",
+        cover: "https://i.scdn.co/image/ab67616d00001e026c7112082b63beefffe40151",
+        rating: 5,
+        author: "Radiohead",
+        link: "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7?si=BdvopOvsTia1r3AhQW2MMQ",
+        kind: "album"
+    },
+    {
+        title: "Amnesiac",
+        cover: "https://i.scdn.co/image/ab67616d00001e02863e0e305637100311c91aa7",
+        rating: 5,
+        author: "Radiohead",
+        link: "https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0?si=LYuywpoLQC22NAtPdRs03g",
+        kind: "album"
+    },
+    {
+        title: "Atomic/Atomix",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ebc918cfb51e9ced7349f436",
+        rating: 5,
+        author: "Blondie",
+        link: "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6?si=5iXar409RHiiu3qZ5XlHIQ",
+        kind: "album"
+    },
+    {
+        title: "Parallel Lines",
+        cover: "https://i.scdn.co/image/ab67616d00001e026d23211741238ed227699c9d",
+        rating: 5,
+        author: "Blondie",
+        link: "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU?si=_c-tvMv-Tbyr-HJZv1ikvw",
+        kind: "album"
+    },
+    {
+        title: "Plastic Letters",
+        cover: "https://i.scdn.co/image/ab67616d00001e02fe3f12dccf7a927630d33d08",
+        rating: 5,
+        author: "Blondie",
+        link: "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl?si=IPMHAnhNQmqXysZZh7wfuA",
+        kind: "album"
+    },
+    {
+        title: "Blondie",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d377fa9b12ba09ee525b60a8",
+        rating: 5,
+        author: "Blondie",
+        link: "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co?si=zlTqSZ5uT-2L3v1V9AZuiQ",
+        kind: "album"
+    },
+    {
+        title: "Autoamerican",
+        cover: "https://i.scdn.co/image/ab67616d00001e026d2ee1965b70ef59d1f1f778",
+        rating: 5,
+        author: "",
+        link: "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya?si=MCJ3aJ7oQP6L6TpX4fO2yQ",
+        kind: "album"
+    },
+    {
+        title: "War",
+        cover: "https://i.scdn.co/image/ab67616d00001e02673526fcf35ab235e1a9d94c",
+        rating: 5,
+        author: "U2",
+        link: "https://open.spotify.com/intl-fr/album/6GaqU0TlYBKHUiSJ0AT9A2?si=IhLKthuqS7yJJcRXFJJwKg",
+        kind: "album"
+    },
+    {
+        title: "Most of the Animals",
+        cover: "https://i.scdn.co/image/ab67616d00001e02128b823a82be808648739034",
+        rating: 5,
+        author: "The Animals",
+        link: "https://open.spotify.com/intl-fr/album/0Vhk3dVT59LnhwSHFXLIXA?si=chkDvw3xRDmUWUSjc3ihUw",
+        kind: "album"
+    },
+    {
+        title: "Combat Rock",
+        cover: "https://i.scdn.co/image/ab67616d00001e0225a4df452a3c42ccc2e9288b",
+        rating: 5,
+        author: "The Clash",
+        link: "https://open.spotify.com/intl-fr/album/1ZH5g1RDq3GY1OvyD0w0s2?si=6s_sQWILRSyUI2RnmQzdcw",
+        kind: "album"
+    },
+    {
+        title: "London Calling",
+        cover: "https://i.scdn.co/image/ab67616d00001e02cd9d8bc9ef04014b6e90e182",
+        rating: 5,
+        author: "The Clash",
+        link: "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a?si=cSXQhNh1TH6f0aqxr8RdLQ",
+        kind: "album"
+    },
+    {
+        title: "The Wall",
+        cover: "https://i.scdn.co/image/ab67616d00001e025d48e2f56d691f9a4e4b0bdf",
+        rating: 5,
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F?si=pLOKaLGRQNeythrXmV1tYA",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: ""
+    },
+
     
 
 ];
