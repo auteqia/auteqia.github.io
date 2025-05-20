@@ -2104,7 +2104,7 @@ const mediaLibrary = [
     
     {
         title: "Cigarette After Sex",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        cover: "https://i.scdn.co/image/ab67616d00001e02dfed999f959177dfc4f33cdc",
         rating: 5,
         author: "Cigarette After Sex",
         link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
