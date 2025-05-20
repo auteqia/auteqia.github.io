@@ -2044,6 +2044,189 @@ const mediaLibrary = [
         link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
         kind: "album"
     },
+
+
+
+
+    {
+        title: "Beneath The Lilypad",
+        cover: "https://i.scdn.co/image/ab67616d00001e020235684750e40b7e5210b559",
+        rating: 5,
+        author: "Alexandra Savior",
+        link: "https://open.spotify.com/intl-fr/album/2inSjrL3SWgaUIIXxChNPd?si=rfgPDOJqQFmaUIQlqmVeOw",
+        kind: "album"
+    },
+    
+    {
+        title: "24 Cumbias Pa Bailar",
+        cover: "https://i.scdn.co/image/ab67616d00001e023e2396de5282580f00d3d897",
+        rating: 5,
+        author: "Billy Idol",
+        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        kind: "album"
+    },
+    
+    {
+        title: "Little Dark Age",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b47d309281c66820b7137f5d",
+        rating: 5,
+        author: "MGMT",
+        link: "https://open.spotify.com/intl-fr/album/7GjVWG39IOj4viyWplJV4H?si=L41q5_hWQSCZobzgDB0nYw",
+        kind: "album"
+    },
+    
+    {
+        title: "Ocular Spectacular",
+        cover: "https://i.scdn.co/image/ab67616d00001e028b32b139981e79f2ebe005eb",
+        rating: 5,
+        author: "MGMT",
+        link: "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv?si=9WwAoqF9Q9ivqMh-naBTkQ",
+        kind: "album"
+    },
+    
+    {
+        title: "Thirteen Tales Of Love And Revenge",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c81e8d3a686ea9d982c18330",
+        rating: 5,
+        author: "The Pierces",
+        link: "https://open.spotify.com/intl-fr/album/6Ymyr8aoX1jHVvrbGpyL24?si=pn_lLsCzRgW61Vx4HuGF6w",
+        kind: "album"
+    },
+    
+    {
+        title: "Cry",
+        cover: "https://i.scdn.co/image/ab67616d00001e02fd275af89cec73d6287f9cbf",
+        rating: 5,
+        author: "Cigarette After Sex",
+        link: "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy?si=OHa2aZiOTfWxosB3pN4iWQ",
+        kind: "album"
+    },
+    
+    {
+        title: "Cigarette After Sex",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        rating: 5,
+        author: "Cigarette After Sex",
+        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        kind: "album"
+    },
+    
+    {
+        title: "The Captain and Me",
+        cover: "https://i.scdn.co/image/ab67616d00001e027d419ac975423c069995c7bb",
+        rating: 5,
+        author: "The Doobie Brother",
+        link: "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt?si=WfpEoxTpSpOa1_bGjjyNNA",
+        kind: "album"
+    },
+    
+    {
+        title: "Ten",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d400d27cba05bb0545533864",
+        rating: 5,
+        author: "Pearl Jam",
+        link: "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a?si=mGrWK5rxRA-h5EyLsiEncg",
+        kind: "album"
+    },
+    
+    {
+        title: "Agent Of Fortune",
+        cover: "https://i.scdn.co/image/ab67616d00001e023ac318439ae56ce048d7bf5d",
+        rating: 5,
+        author: "Blue Öyster Cult",
+        link: "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt?si=hrgyfjUtQfuP9uAPf9tUKA",
+        kind: "album"
+    },
+    
+    {
+        title: "Dure Limite",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        rating: 5,
+        author: "Téléphone",
+        link: "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf?si=SdHDpAR6SAyIbf0vqxJe2w",
+        kind: "album"
+    },
+    
+    {
+        title: "Une Autre Monde",
+        cover: "https://i.scdn.co/image/ab67616d00001e021b1b30513f7158a6c77733d7",
+        rating: 5,
+        author: "Téléphone",
+        link: "https://open.spotify.com/album/5DiavRKmdRpqdzgBjoNEF3?si=uRcr1u43RgOldDyLm7lV_w",
+        kind: "album"
+    },
+    
+    {
+        title: "Billy Idol",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        rating: 5,
+        author: "Billy Idol",
+        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        kind: "album"
+    },
+    
+    {
+        title: "Billy Idol",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        rating: 5,
+        author: "Billy Idol",
+        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        kind: "album"
+    },
+    
+    {
+        title: "Billy Idol",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        rating: 5,
+        author: "Billy Idol",
+        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        kind: "album"
+    },
+    
+    {
+        title: "Billy Idol",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        rating: 5,
+        author: "Billy Idol",
+        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        kind: "album"
+    },
+    
+    {
+        title: "Billy Idol",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        rating: 5,
+        author: "Billy Idol",
+        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        kind: "album"
+    },
+    
+    {
+        title: "Billy Idol",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        rating: 5,
+        author: "Billy Idol",
+        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        kind: "album"
+    },
+    
+    {
+        title: "Billy Idol",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        rating: 5,
+        author: "Billy Idol",
+        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        kind: "album"
+    },
+    
+    {
+        title: "Billy Idol",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        rating: 5,
+        author: "Billy Idol",
+        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        kind: "album"
+    },
     
     
 
