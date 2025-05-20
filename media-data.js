@@ -3473,4 +3473,12 @@ const mediaLibrary = [
         link: "https://open.spotify.com/intl-fr/album/5WQVSRM5BBxq8FA5SaKqRg?si=emMl-gayQKy0KSdrQnuJnA",
         kind: "album"
     },
+    {
+        title: "Daydream Nation",
+        cover: "https://i.scdn.co/image/ab67616d00001e02dae82a57e7385bc847f9f495",
+        rating: 5,
+        author: "Sonic Youth",
+        link: "https://open.spotify.com/album/3BYlBcND6PeKoW6ZODjZO3?si=ngVEY_jDQ92ZzDRcZCve6w",
+        kind: "album"
+    },
 ];
