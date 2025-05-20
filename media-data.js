@@ -3234,6 +3234,174 @@ const mediaLibrary = [
         kind: "album"
     },
     {
+        title: "Mother Love Bone",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f4c3c50d65af0a1d94ae182c",
+        rating: 5,
+        author: "Mother Love Bone",
+        link: "https://open.spotify.com/intl-fr/album/24UTTxVO1B0956xXWmtpab?si=xs2lYestT0qO4BDNXeoICA",
+        kind: "album"
+    },
+    {
+        title: "Exorcising Ghosts",
+        cover: "https://i.scdn.co/image/ab67616d00001e0216e5e41582b326aa3832da8e",
+        rating: 5,
+        author: "Japan",
+        link: "https://open.spotify.com/intl-fr/album/0ezKQuRSkTDJSgwJ6iL4Jq?si=ZH8Uqa6sQyWNWlqdR4mQDQ",
+        kind: "album"
+    },
+    {
+        title: "DÉFILE MOI",
+        cover: "https://i.scdn.co/image/ab67616d00001e02cc0997ac7613088939cc48f2",
+        rating: 5,
+        author: "CHELABÔM",
+        link: "https://open.spotify.com/intl-fr/album/0mClhYHZCiTEDyvravTPsU?si=rh3e1loZS2eN0DUsdGuwjg",
+        kind: "album"
+    },
+    {
+        title: "Mimosa",
+        cover: "https://i.scdn.co/image/ab67616d00001e023e3d67168ebae6faca68c2a2",
+        rating: 5,
+        author: "CHELABÔM",
+        link: "https://open.spotify.com/intl-fr/album/1ms1LL4S7ug6xDm5eELmvD?si=HzrjVY5TRhCu-1P2_r6sdQ",
+        kind: "album"
+    },
+    {
+        title: "Different Class",
+        cover: "https://i.scdn.co/image/ab67616d00001e02fd952bece8f049dbcd7df93f",
+        rating: 5,
+        author: "Pulp",
+        link: "https://open.spotify.com/intl-fr/album/3ly9T2L4pqTZijFgQssd3x?si=ZXbl1O4fQcC4xvGXrwRzvg",
+        kind: "album"
+    },
+    {
+        title: "Asleep Among Endives",
+        cover: "https://i.scdn.co/image/ab67616d00001e0298b1c6c0d05f8841f08a9eca",
+        rating: 5,
+        author: "Ichiko Aoba",
+        link: "https://open.spotify.com/intl-fr/album/6pKCyXWoV7zhgDczCO0H6S?si=qqt17ndBQCezuvlIDf7s4A",
+        kind: "album"
+    },
+    {
+        title: "Windswept Adan",
+        cover: "https://i.scdn.co/image/ab67616d00001e02404c42c88f33617818cee490",
+        rating: 5,
+        author: "Ichiko Aoba",
+        link: "https://open.spotify.com/intl-fr/album/0LxeUCxtPfUtnHTKbW52MB?si=Ui1z4sLwTNqmLpgEhLnh7A",
+        kind: "album"
+    },
+    {
+        title: "Mid90's",
+        cover: "https://i.scdn.co/image/ab67616d00001e0282f3ec9eeac611e88131b8ba",
+        rating: 5,
+        author: "Trent Reznor and Atticus Ross",
+        link: "https://open.spotify.com/intl-fr/album/23DEG8PRHL10qHKtWk71gI?si=N4GxS0K-QnC2Dgmpm20kEQ",
+        kind: "album"
+    },
+    {
+        title: "Challengers",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b08b724b35455ddf8e385546",
+        rating: 5,
+        author: "Trent Reznor and Atticus Ross",
+        link: "https://open.spotify.com/intl-fr/album/2NHhf3qtcoVPDEb03G8RFv?si=oUJ4BQt8THyj-7rzs82w3g",
+        kind: "album"
+    },
+    {
+        title: "Life's Too Good",
+        cover: "https://i.scdn.co/image/ab67616d00001e02745d98c66e95e30e60f97962",
+        rating: 5,
+        author: "The Sugarcubes",
+        link: "https://open.spotify.com/intl-fr/album/4H4MkUPiL7qlpZfO2SYO1u?si=XMkvFR3ETDm53iBtNvEhkw",
+        kind: "album"
+    },
+    {
+        title: "Twin Fantasy (Mirror To Mirror)",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b64aa786c2c71462d39b3060",
+        rating: 5,
+        author: "Car Seat Headrest",
+        link: "https://open.spotify.com/intl-fr/album/5aqXdOgdhpSfYcCde4SHgI?si=_USeLeXPSbG2Ztiai5-7-g",
+        kind: "album"
+    },
+    {
+        title: "Teens Of Denial",
+        cover: "https://i.scdn.co/image/ab67616d00001e024094272fe172643edfdbba48",
+        rating: 5,
+        author: "Car Seat Headrest",
+        link: "https://open.spotify.com/intl-fr/album/3KpYyDP8q8sUBxatHaYEsP?si=K72EX1tuQ1uk8ITbAe0Quw",
+        kind: "album"
+    },
+    {
+        title: "Living While Starving",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c04293e38055ac0554c0ff05",
+        rating: 5,
+        author: "Car Seat Headrest",
+        link: "https://open.spotify.com/intl-fr/album/3egPQUSqrInRvbXxPqXQYm?si=XpExK4DQSWmh1rIgSTdlzQ",
+        kind: "album"
+    },
+    {
+        title: "Twin Fantasy",
+        cover: "https://i.scdn.co/image/ab67616d00001e022764cdf400a1d859640539a9",
+        rating: 5,
+        author: "Car Seat Headrest",
+        link: "https://open.spotify.com/intl-fr/album/6gDtROOIYa6OQxwhDNkDRM?si=Tn3PcxeJTsKfY-XifPH2FQ",
+        kind: "album"
+    },
+    {
+        title: "Liquid Tension Experiment 2",
+        cover: "https://i.scdn.co/image/ab67616d00001e02343678efb69ad96f2c65f938",
+        rating: 5,
+        author: "Liquid Tension Experiment",
+        link: "https://open.spotify.com/intl-fr/album/25JdFEbKXocMQyJdlBzD5d?si=n3KX0o2LSHCXfGNIJMDrWg",
+        kind: "album"
+    },
+    {
+        title: "Bohemian Rap Story",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bda6cf84cde8c5de3b90c772",
+        rating: 5,
+        author: "Dooz Kawa",
+        link: "https://open.spotify.com/intl-fr/album/0CuVqlqPNuMUWudiXEilS9?si=r0IYsi8TTkejA4jzVNaUgw",
+        kind: "album"
+    },
+    {
+        title: "Emerson, Lake & Palmer",
+        cover: "https://i.scdn.co/image/ab67616d00001e0299fa44c27dfac9beda628082",
+        rating: 5,
+        author: "Emerson, Lake & Palmer",
+        link: "https://open.spotify.com/intl-fr/album/5A3JOh1ushS67m2JZ0QF6b?si=sz8dR0KsTVu4ZOv2zfvUbQ",
+        kind: "album"
+    },
+    {
+        title: "Sucez-moi avant l'album",
+        cover: "https://i.scdn.co/image/ab67616d00001e022ec18d6ddffd40a583cf6d85",
+        rating: 5,
+        author: "Alkpote",
+        link: "https://open.spotify.com/intl-fr/album/0wmaktOeWhlWhmimgowoMH?si=7rv_zWIZT8SmXDAN32bYPQ",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
         title: "",
         cover: "",
         rating: 5,
