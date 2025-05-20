@@ -2612,7 +2612,7 @@ const mediaLibrary = [
         title: "Master Of Puppets",
         cover: "https://i.scdn.co/image/ab67616d00001e02668e3aca3167e6e569a9aa20",
         rating: 5,
-        author: "",
+        author: "Metallica",
         link: "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21?si=Pn_cu7aGScaRpSLywOn34g",
         kind: "album"
     },
