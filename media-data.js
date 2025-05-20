@@ -2489,24 +2489,24 @@ const mediaLibrary = [
         title: "More",
         cover: "https://i.scdn.co/image/ab67616d00001e023500cd4e948a9de16b733ffa",
         rating: 5,
-        author: "https://open.spotify.com/intl-fr/album/6AccmjV8Q5cEUZ2tvS8s6c?si=Lw03vZ6LRc2fn_5Zt1g_wA",
-        link: "Pink Floyd",
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/intl-fr/album/6AccmjV8Q5cEUZ2tvS8s6c?si=Lw03vZ6LRc2fn_5Zt1g_wA",
         kind: "album"
     },
     {
         title: "Ummagumma",
         cover: "https://i.scdn.co/image/ab67616d00001e02998c4770e46521fd268d1943",
         rating: 5,
-        author: "https://open.spotify.com/intl-fr/album/3IPhWIXHOAhS2npnq6FiCG?si=q4oKCDmwRaK1v2vazFahkw",
-        link: "Pink Floyd",
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/intl-fr/album/3IPhWIXHOAhS2npnq6FiCG?si=q4oKCDmwRaK1v2vazFahkw",
         kind: "album"
     },
     {
         title: "Atom Heart Mother",
         cover: "https://i.scdn.co/image/ab67616d00001e02c32e12829fb960100a3257c6",
         rating: 5,
-        author: "https://open.spotify.com/album/2cUpAOlQjV5uSjkWj5bEQY?si=JQSjW-vLRsi11JcESERpEw",
-        link: "Pink Floyd",
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/album/2cUpAOlQjV5uSjkWj5bEQY?si=JQSjW-vLRsi11JcESERpEw",
         kind: "album"
     },
 
