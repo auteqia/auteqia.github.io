@@ -2384,7 +2384,7 @@ const mediaLibrary = [
         title: "Autoamerican",
         cover: "https://i.scdn.co/image/ab67616d00001e026d2ee1965b70ef59d1f1f778",
         rating: 5,
-        author: "",
+        author: "Blondie",
         link: "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya?si=MCJ3aJ7oQP6L6TpX4fO2yQ",
         kind: "album"
     },
