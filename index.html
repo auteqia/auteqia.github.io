@@ -377,7 +377,8 @@
             const container = document.getElementById('albums-section');
             const countHeading = container.querySelector('.count-header'); //selection du H2 pour le count total des albums
             const sectionContent = container.querySelector('.section-content'); // selection de la div content à l'interieur de la section
-            sectionContent.innerText = mediaLibrary.length
+            sectionContent.innerText = mediaLibrary.lenght;
+            console.log(sectionContent, mediaLibrary.lenght);
             
             
             const albums = mediaLibrary
