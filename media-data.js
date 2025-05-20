@@ -3010,11 +3010,11 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "",
-        cover: "",
+        title: "The Night In Question: French Exist Outtakes",
+        cover: "https://i.scdn.co/image/ab67616d00001e02870138983fee24fe052d12af",
         rating: 5,
-        author: "",
-        link: "",
+        author: "TV Girl",
+        link: "https://open.spotify.com/intl-fr/album/4p3eRdoK7W7z0tz8OWA3JM?si=I5naLZkZSKSzfrgglOWgdA",
         kind: "album"
     },
     {
