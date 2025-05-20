@@ -2061,7 +2061,7 @@ const mediaLibrary = [
         title: "24 Cumbias Pa Bailar",
         cover: "https://i.scdn.co/image/ab67616d00001e023e2396de5282580f00d3d897",
         rating: 5,
-        author: "Billy Idol",
+        author: "A Mover La Colita Cumbias",
         link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
         kind: "album"
     },
@@ -2178,7 +2178,7 @@ const mediaLibrary = [
         title: "Who's Next",
         cover: "https://i.scdn.co/image/ab67616d00001e02fe24dcd263c08c6dd84b6e8c",
         rating: 5,
-        author: "Billy Idol",
+        author: "The Who",
         link: "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ?si=Fdj7OzbxRQa8jUarpo1Nzw",
         kind: "album"
     },
