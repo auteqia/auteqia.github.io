@@ -377,9 +377,8 @@
             const container = document.getElementById('albums-section');
             const countHeading = container.querySelector('.count-header'); //selection du H2 pour le count total des albums
             const sectionContent = container.querySelector('.section-content'); // selection de la div content à l'interieur de la section
+            sectionContent.innerText = mediaLibrary.length
             
-            //container.innerHTML = '';
-
             
             const albums = mediaLibrary
                 .filter(item => item.kind === 'album')
@@ -402,8 +401,7 @@
                         </div>
                     </div>
                 `).join('')}
-            </div>
-        `;
+            </div>`;
         }
 
         // Function to generate media grid (updated)
