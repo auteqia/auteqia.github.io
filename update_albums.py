@@ -74,6 +74,7 @@ def get_spotify_album_info(token, artist, album):
         "cover": result["images"][0]["url"] if result["images"] else "",
         "kind": "album",
         "link": result["external_urls"]["spotify"],
+        "comment": "Github Action",
     }
 
 def read_existing_titles():
