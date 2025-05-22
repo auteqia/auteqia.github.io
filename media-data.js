@@ -4153,4 +4153,252 @@ const mediaLibrary = [
         link: "https://open.spotify.com/intl-fr/album/177zsuUvUqnNBV3Vyc7AlV?si=4Nmhas-PTX-MoWW39Em-yA",
         kind: "album"
     },
+    {
+        title: "808s & Heartbreak",
+        cover: "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
+        rating: 5,
+        author: "Kanye West",
+        link: "https://open.spotify.com/intl-fr/album/3WFTGIO6E3Xh4paEOBY9OU?si=sOl8iwBzTT20cGQRzhq85Q",
+        kind: "album"
+    },
+    {
+        title: "Graduation",
+        cover: "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
+        rating: 5,
+        author: "Kanye West",
+        link: "https://open.spotify.com/intl-fr/album/4SZko61aMnmgvNhfhgTuD3?si=NKKHylV-Qmu_iSWZorL1Vg",
+        kind: "album"
+    },
+    {
+        title: "My Beautiful Dark Twisted Fantasy",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f",
+        rating: 5,
+        author: "Kanye West",
+        link: "https://open.spotify.com/intl-fr/album/20r762YmB5HeofjMCiPMLv?si=bwNof2SVRIWpNusiy-sKow",
+        kind: "album"
+    },
+    {
+        title: "The College Dropout",
+        cover: "https://i.scdn.co/image/ab67616d00001e0225b055377757b3cdd6f26b78",
+        rating: 5,
+        author: "Kanye West",
+        link: "https://open.spotify.com/intl-fr/album/4Uv86qWpGTxf7fU7lG5X6F?si=1ZMrfItOR02QUnCLR8talA",
+        kind: "album"
+    },
+    {
+        title: "Late Registration",
+        cover: "https://i.scdn.co/image/ab67616d00001e02428d2255141c2119409a31b2",
+        rating: 5,
+        author: "Kanye West",
+        link: "https://open.spotify.com/intl-fr/album/5ll74bqtkcXlKE7wwkMq4g?si=NatrOiydRoC_daAtV3X90A",
+        kind: "album"
+    },
+    {
+        title: "Yeezus",
+        cover: "https://i.scdn.co/image/ab67616d00001e021dacfbc31cc873d132958af9",
+        rating: 5,
+        author: "Kanye West",
+        link: "https://open.spotify.com/intl-fr/album/7D2NdGvBHIavgLhmcwhluK?si=jHnyy_0-RR2oGjqMiC_WJA",
+        kind: "album"
+    },
+    {
+        title: "Life Of Pablo",
+        cover: "https://i.scdn.co/image/ab67616d00001e022a7db835b912dc5014bd37f4",
+        rating: 5,
+        author: "Kanye West",
+        link: "https://open.spotify.com/intl-fr/album/7gsWAHLeT0w7es6FofOXk1?si=Vl8FUumjTT63BAEeNZBcDw",
+        kind: "album"
+    },
+    {
+        title: "Ye",
+        cover: "https://i.scdn.co/image/ab67616d00001e020cd942c1a864afa4e92d04f2",
+        rating: 5,
+        author: "Kanye West",
+        link: "https://open.spotify.com/intl-fr/album/2Ek1q2haOnxVqhvVKqMvJe?si=HiohV0LIQr252ERcCoqAnA",
+        kind: "album"
+    },
+    {
+        title: "Twilight",
+        cover: "https://i.scdn.co/image/ab67616d00001e02948506eef3b3350b2385ef51",
+        rating: 5,
+        author: "bôa",
+        link: "https://open.spotify.com/intl-fr/album/7sGYAV0xv7ZfAMzIpMl8m1?si=yAKITbPMRMawbb5KCipwaQ",
+        kind: "album"
+    },
+    {
+        title: "Outer Wilds",
+        cover: "https://i.scdn.co/image/ab67616d00001e02db6b8ae97f69fee1d432334d",
+        rating: 5,
+        author: "Andrew Pharlow",
+        link: "https://open.spotify.com/intl-fr/album/1U0A6RPNJB05PtuBcaTM7o?si=m9aVgfcqRD6p8PVwh1sydg",
+        kind: "album"
+    },
+    {
+        title: "Sarah's Crime",
+        cover: "https://i.scdn.co/image/ab67616d00001e0279c4ef3f19aeea339a4e9552",
+        rating: 5,
+        author: "Toshifumi Hinata",
+        link: "https://open.spotify.com/intl-fr/album/0PI2S21wPmojTHDHZC1SdE?si=lVX0VCp4Ry6k0akiTOYCxw",
+        kind: "album"
+    },
+    {
+        title: "ひとつぶの海",
+        cover: "https://i.scdn.co/image/ab67616d00001e02fb4aac6e97e78983ac5f6280",
+        rating: 5,
+        author: "Toshifumi Hinata",
+        link: "https://open.spotify.com/intl-fr/album/0k4j3uetJHFATIt4VxwCPz?si=X8E4u4ZxTGmxfsX3m_KMVg",
+        kind: "album"
+    },
+    {
+        title: "Israeli Salad",
+        cover: "https://i.scdn.co/image/ab67616d00001e02394784bfe372086a3c091cee",
+        rating: 5,
+        author: "The Alchemist",
+        link: "https://open.spotify.com/intl-fr/album/7ntqAx8PbkYHwjeZnliXRV?si=nH9g-H0lSBOXaDHAJOWPgw",
+        kind: "album"
+    },
+    {
+        title: "Moonlust Demos",
+        cover: "https://i.scdn.co/image/ab67616d00001e0299e96bc3a8934f228cd34dec",
+        rating: 5,
+        author: "The Holydrug Couple",
+        link: "https://open.spotify.com/intl-fr/album/3SC1up17l1zGlOtZbrPkvv?si=I950ys1CRoadrbVSchUxvQ",
+        kind: "album"
+    },
+    {
+        title: "Moonlust",
+        cover: "https://i.scdn.co/image/ab67616d00001e021a36493cdc3087836874421d",
+        rating: 5,
+        author: "The Holydrug Couple",
+        link: "https://open.spotify.com/intl-fr/album/5dsTu76YBUMKIvgjrswqpF?si=nByu2S1bQMqfAyNnHOK92w",
+        kind: "album"
+    },
+    {
+        title: "Deadly Poison Sting",
+        cover: "https://i.scdn.co/image/ab67616d00001e02aeb44e431e6792e8c79f71f5",
+        rating: 5,
+        author: "Baby Hayabusa",
+        link: "https://open.spotify.com/intl-fr/album/4ZBG4lOW57ekJjHjXGxxMU?si=_PhmWeQBSDeuFCQ8fZicHw",
+        kind: "album"
+    },
+    {
+        title: "omar chappier",
+        cover: "https://i.scdn.co/image/ab67616d00001e029127367ad406522575a673d5",
+        rating: 5,
+        author: "Mairo",
+        link: "https://open.spotify.com/intl-fr/album/7kJlepBMOiYWXApfqI5P7T?si=ISy3Pa_tSGiMFSqeVcLrHA",
+        kind: "album"
+    },
+    {
+        title: "95 monde libre",
+        cover: "https://i.scdn.co/image/ab67616d00001e02dd0a92b8b8f0e937a7c36757",
+        rating: 5,
+        author: "Mairo",
+        link: "https://open.spotify.com/intl-fr/album/06QFGWAc65bXCHFh283jZ7?si=R8vB8Eu-RO-o3qByQAqpIQ",
+        kind: "album"
+    },
+    {
+        title: "Du rire aux larmes",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b0be7a588d2562592029db53",
+        rating: 5,
+        author: "SNIPER",
+        link: "https://open.spotify.com/intl-fr/album/58exV0JVglskuAfyXOoNae?si=T8_JnqSzSCeScx_5a3jQhg",
+        kind: "album"
+    },
+    {
+        title: "Gravé dans la roche",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c20c2d775a423e281cb66f47",
+        rating: 5,
+        author: "SNIPER",
+        link: "https://open.spotify.com/intl-fr/album/6chD9SocKyshylTuhbKV2O?si=_KCOIeWTRNicdWtcACr9yQ",
+        kind: "album"
+    },
+    {
+        title: "Trait pour trait",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bc417c0ea3eb8427f467243a",
+        rating: 5,
+        author: "SNIPER",
+        link: "https://open.spotify.com/intl-fr/album/7wWV7fPoyYnj5u8y7zqg5S?si=G9SFalInT8C5TmLwM9MiPg",
+        kind: "album"
+    },
+    {
+        title: "200",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ba4b43f860254eaa6db1f3c4",
+        rating: 5,
+        author: "abel31",
+        link: "https://open.spotify.com/intl-fr/album/3l0uMjF4GqslOXGER0R2Dd?si=375wqHdPTOCkeOxKcrwsEg",
+        kind: "album"
+    },
+    {
+        title: "G.L.O.CC",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b4aabe0dfe95645931996a2d",
+        rating: 5,
+        author: "wasting shit",
+        link: "https://open.spotify.com/intl-fr/album/6jTSJBbvls2sT3BETMWlrm?si=Et1iMhV4S-yoUixtgMnYPw",
+        kind: "album"
+    },
+    {
+        title: "berdlycore chapter 3",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f3e66fed6f928691c4a45279",
+        rating: 5,
+        author: "xaev",
+        link: "https://open.spotify.com/intl-fr/album/0m6kc29nRTIRiJirbsSuCC?si=YHDcDmx7QCGZYYHMuHu2vQ",
+        kind: "album"
+    },
+    {
+        title: "Pénitence & Flagellations",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e1810fc30aa627ebe14501f9",
+        rating: 5,
+        author: "MCOCHET",
+        link: "https://open.spotify.com/intl-fr/album/1knVxhCjdrMwXTsXn80rNt?si=-QjE2j7ERa-0WHg2CAapbg",
+        kind: "album"
+    },
+    {
+        title: "Modal Soul",
+        cover: "https://i.scdn.co/image/ab67616d00001e02912cc8fe2e9a53d328757a41",
+        rating: 5,
+        author: "Nujabes",
+        link: "https://open.spotify.com/intl-fr/album/6nVACH6a27eOWiumAJhDWS?si=BAdNaYjjSDeVnkDW1DzTiw",
+        kind: "album"
+    },
+    {
+        title: "ULTRAKUNST",
+        cover: "https://i.scdn.co/image/ab67616d00001e020fe005e66bd2e46300045656",
+        rating: 5,
+        author: "Brutalismus 3000",
+        link: "https://open.spotify.com/intl-fr/album/1OegF0mIizsl36EVw1y1SW?si=zF8ncUv_Q3C1MbtSUjtE9g",
+        kind: "album"
+    },
+    {
+        title: "Eros Massacre",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b092dfab00dcf0ca5daf59b8",
+        rating: 5,
+        author: "https://open.spotify.com/intl-fr/album/0ZVpEzmv3wYLL1waCPPf7V?si=1lCZPVGsQ9-ex6sxRs9cpA",
+        link: "Brutalismus 3000",
+        kind: "album"
+    },
+    {
+        title: "J'accuse (Extraits)",
+        cover: "https://i.scdn.co/image/ab67616d00001e02220b392ea57076e45d5d2e2f",
+        rating: 5,
+        author: "Saez",
+        link: "https://open.spotify.com/intl-fr/album/0L2xEEPcotXmt6IPql1iwO?si=j8q8kWsIStmvc1H20DPdew",
+        kind: "album"
+    },
+    {
+        title: "PUBG",
+        cover: "https://i.scdn.co/image/ab67616d00001e021ffd8c61e71764261a0bcba3",
+        rating: 5,
+        author: "Sully",
+        link: "https://open.spotify.com/intl-fr/album/02LhQdVX706kIrTX1mvqok?si=JWnieg6uT1aQssZ1a0S91w",
+        kind: "album"
+    },
+    {
+        title: "if they don't love these songs they won't love me",
+        cover: "https://i.scdn.co/image/ab67616d00001e02520a1651926e1af555a5c8d1",
+        rating: 5,
+        author: "I Hate Myself Because",
+        link: "https://open.spotify.com/intl-fr/album/7IDO5NSLzCoHfNOCJICTZc?si=0euPWRYxTKypgl7SYjGUWg",
+        kind: "album"
+    },
 ];
