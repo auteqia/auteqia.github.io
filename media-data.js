@@ -1,5 +1,12 @@
 const mediaLibrary = [
     {
+        title: "Kazuma Kiryu Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        author: "SEGA SOUND TEAM",
+        cover: "assets/albums/sega_sound_team_kazuma_kiryu_karaoke_hit_song_collectionryu_ga_gotoku7_hikari_to_yami_no_yukue.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj"
+    },
+    {
         title: "24 Cumbias Pa Bailar",
         author: "A Mover La Colita Cumbias",
         cover: "https://i.scdn.co/image/ab67616d0000b2733e2396de5282580f00d3d897",
