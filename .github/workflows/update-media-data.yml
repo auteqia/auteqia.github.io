@@ -36,6 +36,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add media-data.js
+          git add media-data.js assets/albums/
           git diff --cached --quiet || git commit -m "Update media-data.json from GitHub Action"
           git push
         env:
