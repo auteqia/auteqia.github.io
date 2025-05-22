@@ -2216,7 +2216,7 @@ const mediaLibrary = [
         cover: "https://i.scdn.co/image/ab67616d00001e023e2396de5282580f00d3d897",
         rating: 5,
         author: "A Mover La Colita Cumbias",
-        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        link: "https://open.spotify.com/intl-fr/album/2inSjrL3SWgaUIIXxChNPd?si=62481741d9b047bf",
         kind: "album"
     },
     
@@ -4213,7 +4213,7 @@ const mediaLibrary = [
     },
     {
         title: "Endorphine",
-        cover: "https://open.spotify.com/intl-fr/album/4j6w0f8TkSXinWfnFWPB9b?si=7AurMo1XRRuQBB5a1J-dKA",
+        cover: "https://i.scdn.co/image/ab67616d00001e021e5bf2b136e00c8658e845da",
         rating: 5,
         author: "Shooda",
         link: "https://open.spotify.com/intl-fr/album/4j6w0f8TkSXinWfnFWPB9b?si=aIkhjbIxSKe6NHyeKB6LDA",
