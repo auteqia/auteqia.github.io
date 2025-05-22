@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>auto last.fm albumz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4f4f4;
+    }
+    h1 {
+      text-align: center;
+      margin: 20px;
+    }
+    .album-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+      gap: 20px;
+      padding: 20px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .album-card {
+      background-color: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 10px;
+    }
+    .album-card img {
+      width: 100%;
+      height: auto;
+      border-radius: 5px;
+    }
+    .album-info {
+      text-align: center;
+      margin-top: 10px;
+    }
+    .album-info h3, .album-info p {
+      margin: 4px 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>My Last.fm Albums</h1>
+  <div class="album-grid" id="albumGrid"></div>
+
+  <script>
+    const USERNAME = 'oteqia';
+    const API_KEY = '26fe9d2f82037be3c93afb99eba007a0';
+    const LIMIT = 50;
+
+    async function fetchAlbums() {
+      const res = await fetch(`https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=${USERNAME}&api_key=${API_KEY}&format=json&limit=${LIMIT}`);
+      const data = await res.json();
+      const tracks = data.recenttracks.track;
+      const albumsSeen = new Set();
+      const albums = [];
+
+      for (const track of tracks) {
+        const artist = track.artist['#text'];
+        const album = track.album['#text'];
+        const image = track.image?.[2]?.['#text'] || '';
+        const key = `${artist} - ${album}`;
+        if (album && !albumsSeen.has(key)) {
+          albumsSeen.add(key);
+          albums.push({ artist, album, image });
+        }
+      }
+
+      return albums;
+    }
+
+    function renderAlbums(albums) {
+      const grid = document.getElementById('albumGrid');
+      albums.forEach(({ artist, album, image }) => {
+        const card = document.createElement('div');
+        card.className = 'album-card';
+        card.innerHTML = `
+          <img src="${image}" alt="${album}">
+          <div class="album-info">
+            <h3>${album}</h3>
+            <p>${artist}</p>
+          </div>
+        `;
+        grid.appendChild(card);
+      });
+    }
+
+    fetchAlbums().then(renderAlbums);
+  </script>
+</body>
+</html>
