@@ -51,10 +51,8 @@ def get_spotify_album_info(token, artist, album):
         "title": result["name"],
         "author": result["artists"][0]["name"],
         "cover": result["images"][0]["url"] if result["images"] else "",
-        "rating": 3,
         "kind": "album",
         "link": result["external_urls"]["spotify"],
-        "readDate": datetime.now().date().isoformat(),
     }
 
 
