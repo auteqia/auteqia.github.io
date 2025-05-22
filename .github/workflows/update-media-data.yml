@@ -1,0 +1,39 @@
+name: Update Media Data from Last.fm and Spotify
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-media:
+    runs-on: ubuntu-latest
+
+    env:
+      LASTFM_USER: oteqia
+      LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+      SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+      SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install axios
+
+      - name: Update media-data.js
+        run: node .github/scripts/update-media-data.js
+
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "actions@github.com"
+          git add media-data.js
+          git commit -m "Auto update media-data from Last.fm + Spotify" || echo "No changes"
+          git push
