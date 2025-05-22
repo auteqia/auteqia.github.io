@@ -10,6 +10,7 @@ SPOTIFY_CLIENT_SECRET = os.environ['SPOTIFY_CLIENT_SECRET']
 
 print(LASTFM_USER,LASTFM_API_KEY,SPOTIFY_CLIENT_ID,SPOTIFY_CLIENT_SECRET)
 
+MEDIA_FILE = 'media-data.js' 
 
 if not all([LASTFM_USER, LASTFM_API_KEY, SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET]):
     raise Exception("Il manque une ou plusieurs variables d'environnement nécessaires.")
