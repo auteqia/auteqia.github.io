@@ -1,5 +1,12 @@
 const mediaLibrary = [
     {
+        title: "Years of Struggle Against the Lies, the Stupidity and the Cowardice",
+        author: "Pesteg Dred",
+        cover: "assets/albums/pesteg_dred_years_of_struggle_against_the_lies_the_stupidity_and_the_cowardice.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/4ZiojlMTC9mMD6CZhmdBx6"
+    },
+    {
         title: "Kazuma Kiryu Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
         author: "SEGA SOUND TEAM",
         cover: "assets/albums/sega_sound_team_kazuma_kiryu_karaoke_hit_song_collectionryu_ga_gotoku7_hikari_to_yami_no_yukue.jpg",
