@@ -1,39 +1,42 @@
-name: Update Media Data from Last.fm and Spotify
+name: Update Spotify Albums
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
-  workflow_dispatch:
+    - cron: '0 8 * * *'  # tous les jours à 08h00 UTC
+  workflow_dispatch:     # possibilité de lancer manuellement
 
 jobs:
-  update-media:
+  update-albums:
     runs-on: ubuntu-latest
-
-    env:
-      LASTFM_USER: oteqia
-      LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
-      SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-      SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v4
         with:
-          node-version: 20
+          python-version: '3.10'
 
       - name: Install dependencies
-        run: npm install axios
-
-      - name: Update media-data.js
-        run: node .github/update-media-data.js
-
-      - name: Commit changes
         run: |
-          git config user.name "GitHub Action"
-          git config user.email "actions@github.com"
-          git add media-data.js
-          git commit -m "Auto update media-data from Last.fm + Spotify" || echo "No changes"
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run update_albums.py
+        env:
+          LASTFM_USER: ${{ env.LASTFM_USER }}
+          LASTFM_API_KEY: ${{ env.LASTFM_API_KEY }}
+          SPOTIFY_CLIENT_ID: ${{ env.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ env.SPOTIFY_CLIENT_SECRET }}
+        run: python update_albums.py
+
+      - name: Commit and push updated media-data.json if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add media-data.json
+          git diff --cached --quiet || git commit -m "Update media-data.json from GitHub Action"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
