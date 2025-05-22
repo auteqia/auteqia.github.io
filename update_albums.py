@@ -3,10 +3,10 @@ import json
 import os
 import requests # type: ignore
 
-LASTFM_USER = os.getenv('LASTFM_USER')
-LASTFM_API_KEY = os.getenv('LASTFM_API_KEY')
-SPOTIFY_CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID')
-SPOTIFY_CLIENT_SECRET = os.getenv('SPOTIFY_CLIENT_SECRET')
+LASTFM_USER = os.environ('LASTFM_USER')
+LASTFM_API_KEY = os.environ('LASTFM_API_KEY')
+SPOTIFY_CLIENT_ID = os.environ('SPOTIFY_CLIENT_ID')
+SPOTIFY_CLIENT_SECRET = os.environ('SPOTIFY_CLIENT_SECRET')
 
 MEDIA_FILE = 'media-data.json' 
 
