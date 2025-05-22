@@ -97,20 +97,23 @@ def main():
     lastfm_albums = get_lastfm_albums()
     print(f"{len(lastfm_albums)} albums uniques récupérés de Last.fm.")
 
-    existing_links = read_existing_links()
-    print(f"{len(existing_links)} liens déjà présents dans mediaLibrary.")
+    existing_titles = read_existing_titles()
+    print(f"{len(existing_titles)} albums déjà présents dans mediaLibrary.")
 
     added = 0
     for artist, album in lastfm_albums:
+        key = (album.lower(), artist.lower())
+        if key in existing_titles:
+            continue
+
         info = get_spotify_album_info(token, artist, album)
-        if info and info["link"] not in existing_links:
+        if info:
             append_to_media_file(info)
-            existing_links.add(info["link"])
+            existing_titles.add(key)
             added += 1
             print(f"Ajouté: {artist} - {album}")
 
     print(f"Ajouts terminés. {added} nouveaux albums insérés.")
-
 
 if __name__ == "__main__":
     main()
