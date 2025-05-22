@@ -28,7 +28,7 @@ jobs:
         run: npm install axios
 
       - name: Update media-data.js
-        run: node .github/scripts/update-media-data.js
+        run: node .github/update-media-data.js
 
       - name: Commit changes
         run: |
