@@ -84,7 +84,7 @@ def append_to_media_file(album):
         cover: \"{album['cover']}\",
         kind: \"{album['kind']}\",
         link: \"{album['link']}\"
-    }},""""
+    }},"""
 
         updated = content[:insert_pos] + new_entry + content[insert_pos:]
         f.seek(0)
