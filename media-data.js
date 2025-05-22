@@ -1,5 +1,159 @@
 const mediaLibrary = [
     {
+        title: "Not Your Kind of People",
+        author: "Garbage",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737a2d8fab5842a8073e62783e",
+        kind: "album",
+        link: "https://open.spotify.com/album/1CJDAVFRfgHbwyAv4yVutN"
+    },
+    {
+        title: "Songs Of Leonard Cohen",
+        author: "Leonard Cohen",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730633b57b08b40f3e776e7151",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+    },
+    {
+        title: "Origin of Symmetry (XX Anniversary RemiXX)",
+        author: "Muse",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732372f35706e3b7f5564ea8d9",
+        kind: "album",
+        link: "https://open.spotify.com/album/5EIVoKtfgnSc0nPzJS6lzy"
+    },
+    {
+        title: "LSD and the Search for God",
+        author: "LSD and the Search for God",
+        cover: "https://i.scdn.co/image/ab67616d0000b273be9bb007638d6e2a0f64cab0",
+        kind: "album",
+        link: "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
+    },
+    {
+        title: "She Hangs Brightly",
+        author: "Mazzy Star",
+        cover: "https://i.scdn.co/image/ab67616d0000b273afce4c9cd3313302c0a16ed1",
+        kind: "album",
+        link: "https://open.spotify.com/album/2ZAcLWdHBHrdybwws1PVuA"
+    },
+    {
+        title: "The Dino Soars",
+        author: "Stegosaurus Rex",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730a29856bf1c65d2f1b72990e",
+        kind: "album",
+        link: "https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg"
+    },
+    {
+        title: "Love For The Streets",
+        author: "Caesars",
+        cover: "https://i.scdn.co/image/ab67616d0000b27346ed4ae9343359e5965baf7b",
+        kind: "album",
+        link: "https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal"
+    },
+    {
+        title: "Player Non Player",
+        author: "Agar Agar",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e34e56bc2b4fc50c095757cf",
+        kind: "album",
+        link: "https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K"
+    },
+    {
+        title: "The Queen Is Dead",
+        author: "The Smiths",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9",
+        kind: "album",
+        link: "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+    },
+    {
+        title: "Naxatras",
+        author: "Naxatras",
+        cover: "https://i.scdn.co/image/ab67616d0000b273037fb18ebb0315b5721cf3fe",
+        kind: "album",
+        link: "https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv"
+    },
+    {
+        title: "American Beauty (2013 Remaster)",
+        author: "Grateful Dead",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fd3f66a9ce4371f7ffa0346f",
+        kind: "album",
+        link: "https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS"
+    },
+    {
+        title: "L.W.",
+        author: "King Gizzard & The Lizard Wizard",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731f0fd0835e055d96b82ccaf0",
+        kind: "album",
+        link: "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
+    },
+    {
+        title: "Hatful of Hollow",
+        author: "The Smiths",
+        cover: "https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b",
+        kind: "album",
+        link: "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+    },
+    {
+        title: "Daydream Nation (Remastered Original Album)",
+        author: "Sonic Youth",
+        cover: "https://i.scdn.co/image/ab67616d0000b273dae82a57e7385bc847f9f495",
+        kind: "album",
+        link: "https://open.spotify.com/album/3BYlBcND6PeKoW6ZODjZO3"
+    },
+    {
+        title: "Beneath The Lilypad",
+        author: "Alexandra Savior",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730235684750e40b7e5210b559",
+        kind: "album",
+        link: "https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf"
+    },
+    {
+        title: "I Have Seen You Through the Years, Worn by Different Faces (1981-85)",
+        author: "Pesteg Dred",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c62bafc4d8831296ddde5c5b",
+        kind: "album",
+        link: "https://open.spotify.com/album/5WQVSRM5BBxq8FA5SaKqRg"
+    },
+    {
+        title: "I Can See Your House From Here (Expanded Edition)",
+        author: "Camel",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a5a422526541417ff7c19d94",
+        kind: "album",
+        link: "https://open.spotify.com/album/2UzcBmNQt45lrGuwIYEjec"
+    },
+    {
+        title: "Teen Dream",
+        author: "Beach House",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739ba6a1b973e91955ab23c50c",
+        kind: "album",
+        link: "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
+    },
+    {
+        title: "Shed",
+        author: "Title Fight",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733e378f6f76942740e239df0d",
+        kind: "album",
+        link: "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
+    },
+    {
+        title: "Kinks (Deluxe Edition)",
+        author: "The Kinks",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733b662e4bab01440eb4f31793",
+        kind: "album",
+        link: "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
+    },
+    {
+        title: "Bloom",
+        author: "Beach House",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bb9f22f4b196fa10308d77a7",
+        kind: "album",
+        link: "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
+    },
+    {
+        title: "Heaven or Las Vegas",
+        author: "Cocteau Twins",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735d2fdd1564ccab97e60c656f",
+        kind: "album",
+        link: "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+    },
+    {
         title: 'Lost (S1-2)',
         author: 'J. J. Abrams',
         cover: 'assets/series/lost.jpg',
