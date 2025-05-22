@@ -67,6 +67,31 @@ def read_existing_links():
                 existing_links.add(match.group(1))
     return existing_links
 
+def read_existing_titles():
+    with open(MEDIA_FILE, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    # Extraire le tableau JS
+    match = re.search(r"const mediaLibrary = \[(.*?)]\s*;", content, re.DOTALL)
+    if not match:
+        raise Exception("Impossible de trouver le tableau mediaLibrary.")
+
+    array_str = match.group(1)
+    
+    # Convertir en JSON compatible
+    json_str = "[" + array_str + "]"
+    json_str = json_str.replace("false", "false").replace("true", "true").replace("\\\\", "\\")
+    json_str = re.sub(r'(\w+):', r'"\1":', json_str)  # Ajouter des guillemets autour des clés
+    json_str = json_str.replace("'", '"')  # Convertir les quotes simples en doubles
+
+    try:
+        items = json.loads(json_str)
+    except json.JSONDecodeError:
+        raise Exception("Erreur de parsing de mediaLibrary.")
+
+    # Retourner un set des (titre, auteur) en minuscules
+    return set((item["title"].lower(), item["author"].lower()) for item in items if item["kind"] == "album")
+
 
 def append_to_media_file(album):
     with open(MEDIA_FILE, "r+", encoding="utf-8") as f:
