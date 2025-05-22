@@ -67,32 +67,6 @@ def read_existing_links():
                 existing_links.add(match.group(1))
     return existing_links
 
-def read_existing_titles():
-    with open(MEDIA_FILE, "r", encoding="utf-8") as f:
-        content = f.read()
-
-    # Extraire le tableau JS
-    match = re.search(r"const mediaLibrary = \[(.*?)]\s*;", content, re.DOTALL)
-    if not match:
-        raise Exception("Impossible de trouver le tableau mediaLibrary.")
-
-    array_str = match.group(1)
-    
-    # Convertir en JSON compatible
-    json_str = "[" + array_str + "]"
-    json_str = json_str.replace("false", "false").replace("true", "true").replace("\\\\", "\\")
-    json_str = re.sub(r'(\w+):', r'"\1":', json_str)  # Ajouter des guillemets autour des clés
-    json_str = json_str.replace("'", '"')  # Convertir les quotes simples en doubles
-
-    try:
-        items = json.loads(json_str)
-    except json.JSONDecodeError:
-        raise Exception("Erreur de parsing de mediaLibrary.")
-
-    # Retourner un set des (titre, auteur) en minuscules
-    return set((item["title"].lower(), item["author"].lower()) for item in items if item["kind"] == "album")
-
-
 def append_to_media_file(album):
     with open(MEDIA_FILE, "r+", encoding="utf-8") as f:
         content = f.read()
@@ -122,23 +96,20 @@ def main():
     lastfm_albums = get_lastfm_albums()
     print(f"{len(lastfm_albums)} albums uniques récupérés de Last.fm.")
 
-    existing_titles = read_existing_titles()
-    print(f"{len(existing_titles)} albums déjà présents dans mediaLibrary.")
+    existing_links = read_existing_links()
+    print(f"{len(existing_links)} liens déjà présents dans mediaLibrary.")
 
     added = 0
     for artist, album in lastfm_albums:
-        key = (album.lower(), artist.lower())
-        if key in existing_titles:
-            continue
-
         info = get_spotify_album_info(token, artist, album)
-        if info:
+        if info and info["link"] not in existing_links:
             append_to_media_file(info)
-            existing_titles.add(key)
+            existing_links.add(info["link"])
             added += 1
             print(f"Ajouté: {artist} - {album}")
 
     print(f"Ajouts terminés. {added} nouveaux albums insérés.")
+
 
 if __name__ == "__main__":
     main()
