@@ -25,10 +25,10 @@ jobs:
 
       - name: Run update_albums.py
         env:
-          LASTFM_USER: ${{ env.LASTFM_USER }}
-          LASTFM_API_KEY: ${{ env.LASTFM_API_KEY }}
-          SPOTIFY_CLIENT_ID: ${{ env.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_CLIENT_SECRET: ${{ env.SPOTIFY_CLIENT_SECRET }}
+          LASTFM_USER: ${{ secrets.LASTFM_USER }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: python update_albums.py
 
       - name: Commit and push updated media-data.json if changed
