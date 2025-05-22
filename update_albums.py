@@ -10,12 +10,10 @@ SPOTIFY_CLIENT_SECRET = os.environ['SPOTIFY_CLIENT_SECRET']
 
 print(LASTFM_USER,LASTFM_API_KEY,SPOTIFY_CLIENT_ID,SPOTIFY_CLIENT_SECRET)
 
-MEDIA_FILE = 'media-data.json' 
 
 if not all([LASTFM_USER, LASTFM_API_KEY, SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET]):
     raise Exception("Il manque une ou plusieurs variables d'environnement nécessaires.")
 
-# --- Fonction pour récupérer token Spotify ---
 def get_spotify_token():
     auth_str = f"{SPOTIFY_CLIENT_ID}:{SPOTIFY_CLIENT_SECRET}"
     b64_auth = base64.b64encode(auth_str.encode()).decode()
@@ -51,7 +49,6 @@ def get_recent_albums():
     print(f"{len(unique_albums)} albums uniques récupérés de Last.fm.")
     return list(unique_albums.values())
 
-# --- Chercher album sur Spotify ---
 def get_spotify_album_info(token, artist, album):
     q = f'album:{album} artist:{artist}'
     headers = {"Authorization": f"Bearer {token}"}
@@ -75,15 +72,42 @@ def get_spotify_album_info(token, artist, album):
 
 def read_media_data():
     if not os.path.exists(MEDIA_FILE):
-        print(f"{MEDIA_FILE} non trouvé, création d'une liste vide.")
+        print(f"{MEDIA_FILE} not found.")
         return []
-    with open(MEDIA_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
 
+    with open(MEDIA_FILE, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    # Extract JS array with regex
+    match = re.search(r"const mediaLibrary\s*=\s*(\[\s*[\s\S]*?\s*]);", content)
+    if not match:
+        raise Exception("mediaLibrary array not found in JS file.")
+
+    array_str = match.group(1)
+    try:
+        # Replace single quotes with double quotes, fix trailing commas
+        json_compatible = re.sub(r"//.*?\n", "", array_str)  # remove comments
+        json_compatible = json_compatible.replace("'", '"')
+        json_compatible = re.sub(r",\s*}", "}", json_compatible)
+        json_compatible = re.sub(r",\s*]", "]", json_compatible)
+        return json.loads(json_compatible)
+    except Exception as e:
+        raise Exception("Failed to parse mediaLibrary array.") from e
+
+# --- Écriture du fichier media-data.json ---
 def write_media_data(data):
+    js_array_entries = []
+    for item in data:
+        lines = [f"    {k}: {json.dumps(v)}" for k, v in item.items()]
+        entry = "    {\n" + ",\n".join(lines) + "\n    }"
+        js_array_entries.append(entry)
+
+    final_js = "const mediaLibrary = [\n" + ",\n".join(js_array_entries) + "\n];\n"
+
     with open(MEDIA_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-    print(f"{MEDIA_FILE} mis à jour.")
+        f.write(final_js)
+
+    print(f"{MEDIA_FILE} updated with {len(data)} entries.")
 
 def main():
     token = get_spotify_token()
@@ -113,3 +137,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
