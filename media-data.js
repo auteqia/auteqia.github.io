@@ -1,5 +1,12 @@
 const mediaLibrary = [
     {
+        title: "24 Cumbias Pa Bailar",
+        author: "A Mover La Colita Cumbias",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733e2396de5282580f00d3d897",
+        kind: "album",
+        link: "https://open.spotify.com/album/2inSjrL3SWgaUIIXxChNPd"
+    },
+    {
         title: "Not Your Kind of People",
         author: "Garbage",
         cover: "https://i.scdn.co/image/ab67616d0000b2737a2d8fab5842a8073e62783e",
