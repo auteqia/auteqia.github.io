@@ -3659,7 +3659,7 @@ const mediaLibrary = [
     },
     {
         title: "Turn On The Bright Light",
-        cover: "https://open.spotify.com/intl-fr/album/2OhUWm2KJay2YWeItU9YcH?si=aypETV_BQxmOMgIecu06ZA",
+        cover: "https://i.scdn.co/image/ab67616d00001e0258e444706a30b99f8d5fd8c9",
         rating: 5,
         author: "Interpol",
         link: "https://open.spotify.com/intl-fr/album/2OhUWm2KJay2YWeItU9YcH?si=0ASy3lFyR2qHov7wDHqRyw",
@@ -3667,7 +3667,7 @@ const mediaLibrary = [
     },
     {
         title: "Our Love To Admire",
-        cover: "https://open.spotify.com/intl-fr/album/1gsoIHeBan6QywhysNgApK?si=SSe7exZqRfydj9Rg9KcllQ",
+        cover: "https://i.scdn.co/image/ab67616d00001e0249240ebf0c49e2d758fe6373",
         rating: 5,
         author: "Interpol",
         link: "https://open.spotify.com/intl-fr/album/1gsoIHeBan6QywhysNgApK?si=6t8THeZIRVGlrRTbZHcEJw",
@@ -4399,6 +4399,326 @@ const mediaLibrary = [
         rating: 5,
         author: "I Hate Myself Because",
         link: "https://open.spotify.com/intl-fr/album/7IDO5NSLzCoHfNOCJICTZc?si=0euPWRYxTKypgl7SYjGUWg",
+        kind: "album"
+    },
+    {
+        title: "L'Étrange Histoire de Mr.Anderson",
+        cover: "https://i.scdn.co/image/ab67616d00001e029bbbf5ca66b29b25236379cb",
+        rating: 5,
+        author: "Laylow",
+        link: "https://open.spotify.com/intl-fr/album/1LtG5P8cNErCsn1DZMVbrz?si=lLyfkio0SUu1mLVS0M3Cww",
+        kind: "album"
+    },
+    {
+        title: "TRINITY",
+        cover: "https://i.scdn.co/image/ab67616d00001e028a4869eaf9f003ab73df0ec2",
+        rating: 5,
+        author: "Laylow",
+        link: "https://open.spotify.com/intl-fr/album/0JMZmkRaNLaGUWayBrHOMa?si=H0wInnazQOKBpQKOyD304Q",
+        kind: "album"
+    },
+    {
+        title: "Mercy",
+        cover: "https://i.scdn.co/image/ab67616d00001e0231318386aa2981082278d26c",
+        rating: 5,
+        author: "Laylow",
+        link: "https://open.spotify.com/intl-fr/album/0ZyQiJx1TejxM3pIJPF5B9?si=G0hV3kN_QyCOHLqM6jMJZw",
+        kind: "album"
+    },
+    {
+        title: ".RAW-Z",
+        cover: "https://i.scdn.co/image/ab67616d00001e0286697db3407c82cf02d54828",
+        rating: 5,
+        author: "Laylow",
+        link: "https://open.spotify.com/intl-fr/album/2ajjfCNXbVNf15QHhFDjTy?si=TGIZexSDTky7HEjRMI8JQA",
+        kind: "album"
+    },
+    {
+        title: ".RAW",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ee8973c811aa5f0a43f3964e",
+        rating: 5,
+        author: "Laylow",
+        link: "https://open.spotify.com/intl-fr/album/0HAecq9wdhdVvrIl7ya0K4?si=61CEQsRhSraHhoktefAPCw",
+        kind: "album"
+    },
+    {
+        title: "Digitalova",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f77b07f87077d27963fc4bee",
+        rating: 5,
+        author: "Laylow",
+        link: "https://open.spotify.com/intl-fr/album/5eYkNzm2ZtkC9Ks27gp9yp?si=287byGBrSZuL3WLutSfT6g",
+        kind: "album"
+    },
+    {
+        title: "Ombre Est Lumière",
+        cover: "https://i.scdn.co/image/ab67616d00001e020598bbed97d3d73ea0ecd835",
+        rating: 5,
+        author: "IAM",
+        link: "https://open.spotify.com/intl-fr/album/2soc1D7Ym6sGp4A4d2pbWU?si=H_SUr9kXR9utUP-a59JdrA",
+        kind: "album"
+    },
+    {
+        title: "L'école du micro d'argent",
+        cover: "https://i.scdn.co/image/ab67616d00001e0265716918209ccc6bac2af278",
+        rating: 5,
+        author: "IAM",
+        link: "https://open.spotify.com/intl-fr/album/3atPIVCVIIgak6KeB1ANnK?si=_etDAzswSimyEBhGfib47Q",
+        kind: "album"
+    },
+    {
+        title: "don dada mixtape vol 1",
+        cover: "https://i.scdn.co/image/ab67616d00001e024e2eba88eda4ded5e590ba6b",
+        rating: 5,
+        author: "Alpha Wann",
+        link: "https://open.spotify.com/intl-fr/album/0Wd9loAJUFFGJ6mGyTL00I?si=I2t06-hoRMWyQMr1R9k2tg",
+        kind: "album"
+    },
+    {
+        title: "UNE MAIN LAVE L'AUTRE",
+        cover: "https://i.scdn.co/image/ab67616d00001e02842b2c6c258fbaa254ff3b2c",
+        rating: 5,
+        author: "Alpha Wann",
+        link: "https://open.spotify.com/intl-fr/album/6wXBrJU2DZt5Ga9nUZYXcg?si=QHKzExCSTwGAdNoLEjhR_A",
+        kind: "album"
+    },
+    {
+        title: "Alph Lauren",
+        cover: "https://i.scdn.co/image/ab67616d00001e02048a9023975d0995f0f87910",
+        rating: 5,
+        author: "Alpha Wann",
+        link: "https://open.spotify.com/intl-fr/album/00m6peeCuQ5bzFfkaAior7?si=afvZZ7bJTY6DIIu_Jz1JpA",
+        kind: "album"
+    },
+    {
+        title: "Alph Laurent 2",
+        cover: "https://i.scdn.co/image/ab67616d00001e02757c47be7338c71f6c8b7cc7",
+        rating: 5,
+        author: "Alpha Wann",
+        link: "https://open.spotify.com/intl-fr/album/6tlPwCxu7DTBxzFqwnyhgJ?si=8npAdKWfTwOcQXssAzzp-w",
+        kind: "album"
+    },
+    {
+        title: "Alph Lauren 3",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e08371d7196b3a7919af61f9",
+        rating: 5,
+        author: "Alpha Wann",
+        link: "https://open.spotify.com/intl-fr/album/4JkiKZpr66KXmCAqywoT91?si=Cv2gD3KnTI23T_34YNxEAA",
+        kind: "album"
+    },
+    {
+        title: "Legend",
+        cover: "https://i.scdn.co/image/ab67616d00001e0285b36be7fd94864efc4b008f",
+        rating: 5,
+        author: "Bob Marley & The Wailers",
+        link: "https://open.spotify.com/intl-fr/album/04VRfesff9bgDA2Q8J2oDo?si=brlvx_PdRmi3jp2nZWkHLQ",
+        kind: "album"
+    },
+    {
+        title: "Exodus",
+        cover: "https://i.scdn.co/image/ab67616d00001e02420b2459f35e0fc98bcab288",
+        rating: 5,
+        author: "Bob Marley & The Wailers",
+        link: "https://open.spotify.com/intl-fr/album/1vHvJVBK0WnpbYFw4f4UTD?si=yskWXxBOQF6KScRYvV6DJQ",
+        kind: "album"
+    },
+    {
+        title: "BLO",
+        cover: "https://i.scdn.co/image/ab67616d00001e023c64c9c5faee7ffbcd8ec1f5",
+        rating: 5,
+        author: "13 Block",
+        link: "https://open.spotify.com/intl-fr/album/066KMwi7fZaAqmJTtMXvu9?si=Oyr4yCdDThqrpOrvJoseBw",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
+        kind: "album"
+    },
+    {
+        title: "",
+        cover: "",
+        rating: 5,
+        author: "",
+        link: "",
         kind: "album"
     },
 ];
