@@ -1,5 +1,117 @@
 const mediaLibrary = [
     {
+        title: "Logique, Pt. 1",
+        author: "Limsa d'Aulnay",
+        cover: "assets/albums/limsa_daulnay_logique_pt_1.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/69614CWnaYuSsao7zkbNo8"
+    },
+    {
+        title: "Sound of Silver",
+        author: "LCD Soundsystem",
+        cover: "assets/albums/lcd_soundsystem_sound_of_silver.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+    },
+    {
+        title: "Paradise for All (Deluxe Edition)",
+        author: "Guts",
+        cover: "assets/albums/guts_paradise_for_all_deluxe_edition.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/0NLdUA0vjQP8pQr4CkO3pE"
+    },
+    {
+        title: "J.O.$",
+        author: "Josman",
+        cover: "assets/albums/josman_jo.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/6gFQ3NglYiCz8SrU8RZXgO"
+    },
+    {
+        title: "Le cactus de Sibérie (Remasterisé)",
+        author: "Oxmo Puccino",
+        cover: "assets/albums/oxmo_puccino_le_cactus_de_sibérie_remasterisé.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/3YFrnrH1JTP5VkTDYjlg1l"
+    },
+    {
+        title: "2003 Toyota Corolla",
+        author: "2003 Toyota Corolla",
+        cover: "assets/albums/2003_toyota_corolla_2003_toyota_corolla.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/4oOr6KBLtpEF3zjlK5HMYx"
+    },
+    {
+        title: "Unknown Pleasures (Collector's Edition)",
+        author: "Joy Division",
+        cover: "assets/albums/joy_division_unknown_pleasures_collectors_edition.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+    },
+    {
+        title: "Deo Favente",
+        author: "SCH",
+        cover: "assets/albums/sch_deo_favente.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/1PeObz1EYSZFjTC2pEXMuO"
+    },
+    {
+        title: "Cheese",
+        author: "Stromae",
+        cover: "assets/albums/stromae_cheese.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
+    },
+    {
+        title: "W.A.R",
+        author: "Roshi",
+        cover: "assets/albums/roshi_war.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/7rJ02tLX70NdopwLjEBNYs"
+    },
+    {
+        title: "Love Is Here",
+        author: "Starsailor",
+        cover: "assets/albums/starsailor_love_is_here.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/4PyGvXTMf0PmsWsDWohFZw"
+    },
+    {
+        title: "Dans ma paranoïa",
+        author: "Jul",
+        cover: "assets/albums/jul_dans_ma_paranoïa.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/3yMDPzPjM2VqLHENlVgiEF"
+    },
+    {
+        title: "Chaise pliante",
+        author: "Hatik",
+        cover: "assets/albums/hatik_chaise_pliante.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/4e7p7DZxOgJBms0uNr4z1t"
+    },
+    {
+        title: "RORSCHACH",
+        author: "23wa",
+        cover: "assets/albums/23wa_rorschach.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/6ym0ak9Ei2tSLfJm5Eu4Kq"
+    },
+    {
+        title: "Adios Bahamas",
+        author: "Népal",
+        cover: "assets/albums/népal_adios_bahamas.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/3VsBRRKlb3f8oGxkVOkK5e"
+    },
+    {
+        title: "The Resistance",
+        author: "Muse",
+        cover: "assets/albums/muse_the_resistance.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+    },
+    {
         title: "The Greatest Hits: Why Try Harder",
         author: "Fatboy Slim",
         cover: "assets/albums/fatboy_slim_the_greatest_hits_why_try_harder.jpg",
