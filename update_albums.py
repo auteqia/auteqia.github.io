@@ -76,6 +76,7 @@ def get_spotify_album_info(token, artist, album):
         "author": item['artists'][0]['name'],
         "cover": item['images'][0]['url'] if item['images'] else None,  # Lien direct
         "link": item['external_urls']['spotify'],
+        "kind": "album",
         "comment": "Github Action",
     }
 
