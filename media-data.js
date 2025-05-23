@@ -1,5 +1,69 @@
 const mediaLibrary = [
     {
+        title: "Troupeau bleu",
+        author: "Cortex",
+        cover: "assets/albums/cortex_troupeau_bleu.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB"
+        comment: "Github Action"
+    },
+    {
+        title: "BALLADS 1",
+        author: "Joji",
+        cover: "assets/albums/joji_ballads_1.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
+        comment: "Github Action"
+    },
+    {
+        title: "The Dog and the Future",
+        author: "Agar Agar",
+        cover: "assets/albums/agar_agar_the_dog_and_the_future.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/1S5GLfv8Lmn4vmRMImheVu"
+        comment: "Github Action"
+    },
+    {
+        title: "Acedia",
+        author: "ELOI",
+        cover: "assets/albums/eloi_acedia.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/3qOrl1u2TZIgiKWl96GJvu"
+        comment: "Github Action"
+    },
+    {
+        title: "Hotel California (2013 Remaster)",
+        author: "Eagles",
+        cover: "assets/albums/eagles_hotel_california_2013_remaster.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+        comment: "Github Action"
+    },
+    {
+        title: "A Different Age",
+        author: "Current Joys",
+        cover: "assets/albums/current_joys_a_different_age.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/00we7Dqa5Y4Z1MBv2z9bUd"
+        comment: "Github Action"
+    },
+    {
+        title: "Freaks",
+        author: "Surf Curse",
+        cover: "assets/albums/surf_curse_freaks.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5"
+        comment: "Github Action"
+    },
+    {
+        title: "Cornerstone",
+        author: "Arctic Monkeys",
+        cover: "assets/albums/arctic_monkeys_cornerstone.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Kq71zM5PE6IB5X5zOwo6d"
+        comment: "Github Action"
+    },
+    {
         title: "Amor Chiquito",
         author: "Fobia",
         cover: "assets/albums/fobia_amor_chiquito.jpg",
