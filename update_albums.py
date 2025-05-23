@@ -71,6 +71,7 @@ def get_spotify_album_info(token, artist, album):
     if not results:
         return None
     result = results[0]
+    print(result["images"][0]["url"])
     return {
         "title": result["name"],
         "author": result["artists"][0]["name"],
