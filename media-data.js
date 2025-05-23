@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Agents Of Fortune",
+        author: "Blue Öyster Cult",
+        cover: "assets/albums/blue_öyster_cult_agents_of_fortune.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+        comment: "Github Action"
+    },
+    {
+        title: "Cry",
+        author: "Cigarettes After Sex",
+        cover: "assets/albums/cigarettes_after_sex_cry.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/63yRRBtLX8eqbOLD6f0y9U"
+        comment: "Github Action"
+    },
+    {
         title: "13",
         author: "Blur",
         cover: "assets/albums/blur_13.jpg",
