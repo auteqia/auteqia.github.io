@@ -1,5 +1,19 @@
 const mediaLibrary = [
     {
+        title: "Blonde",
+        author: "Frank Ocean",
+        cover: "assets/albums/frank_ocean_blonde.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+    },
+    {
+        title: "Block Beater",
+        author: "lil13",
+        cover: "assets/albums/lil13_block_beater.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/2llpBbc8elPVRNMNzYafUK"
+    },
+    {
         title: "Panthéon",
         author: "Booba",
         cover: "assets/albums/booba_panthéon.jpg",
