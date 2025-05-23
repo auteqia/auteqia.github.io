@@ -100,7 +100,7 @@ const mediaLibrary = [
     {
         title: "2003 Toyota Corolla",
         author: "2003 Toyota Corolla",
-        cover: "assets/albums/2003_toyota_corolla_2003_toyota_corolla.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02092cecf16e143d56e7c2080e",
         kind: "album",
         link: "https://open.spotify.com/album/4oOr6KBLtpEF3zjlK5HMYx"
     },
@@ -149,7 +149,7 @@ const mediaLibrary = [
     {
         title: "Chaise pliante",
         author: "Hatik",
-        cover: "assets/albums/hatik_chaise_pliante.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0295201394ccc16fc4f1bf1455",
         kind: "album",
         link: "https://open.spotify.com/album/4e7p7DZxOgJBms0uNr4z1t"
     },
@@ -177,7 +177,7 @@ const mediaLibrary = [
     {
         title: "The Greatest Hits: Why Try Harder",
         author: "Fatboy Slim",
-        cover: "assets/albums/fatboy_slim_the_greatest_hits_why_try_harder.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bec2d7f1e2e518ccf4af1ce1",
         kind: "album",
         link: "https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ"
     },
@@ -205,14 +205,14 @@ const mediaLibrary = [
     {
         title: "Panthéon",
         author: "Booba",
-        cover: "assets/albums/booba_panthéon.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0270b08c12e162911c37e3026d",
         kind: "album",
         link: "https://open.spotify.com/album/2wQSope9RpLMqr5AXrQibc"
     },
     {
         title: "Years of Struggle Against the Lies, the Stupidity and the Cowardice",
         author: "Pesteg Dred",
-        cover: "assets/albums/pesteg_dred_years_of_struggle_against_the_lies_the_stupidity_and_the_cowardice.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02110b300d38ef6b80a40035dd",
         kind: "album",
         link: "https://open.spotify.com/album/4ZiojlMTC9mMD6CZhmdBx6"
     },
@@ -3203,14 +3203,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Hatful of Hollow",
-        cover: "https://i.scdn.co/image/ab67616d00001e02786b44c75ebf915866523f5b",
-        rating: 5,
-        author: "The Smiths",
-        link: "https://open.spotify.com/intl-fr/album/1j57Q5ntVi7crpibb0h4sv?si=F7AsIIWqT7S5iNKRF12xtA",
-        kind: "album"
-    },
-    {
         title: "The Queen Is Dead",
         cover: "https://i.scdn.co/image/ab67616d00001e02ada101c2e9e97feb8fae37a9",
         rating: 5,
@@ -3907,14 +3899,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "She Hangs Brightly",
-        cover: "https://i.scdn.co/image/ab67616d00001e02afce4c9cd3313302c0a16ed1",
-        rating: 5,
-        author: "Mazzy Star",
-        link: "https://open.spotify.com/intl-fr/album/2ZAcLWdHBHrdybwws1PVuA?si=dERCU5MwTs-1wRrhsWmbzQ",
-        kind: "album"
-    },
-    {
         title: "So Tonight That I Might See",
         cover: "https://i.scdn.co/image/ab67616d00001e0289a392107ebd79818022b3ea",
         rating: 5,
@@ -3968,14 +3952,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Bb trickz",
         link: "https://open.spotify.com/intl-fr/album/67YvgeZeleDvyK1sdaxi6G?si=jN1vl84_TIeF9XUFwvMtsA",
-        kind: "album"
-    },
-    {
-        title: "LSD and the Search for God",
-        cover: "https://i.scdn.co/image/ab67616d00001e02be9bb007638d6e2a0f64cab0",
-        rating: 5,
-        author: "LSD and the Search for God",
-        link: "https://open.spotify.com/intl-fr/album/46q859znSzYPVwz7OaO7GS?si=RZNoJMAFSkWM6aQZdFFrJA",
         kind: "album"
     },
     {
