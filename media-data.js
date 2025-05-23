@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Abbey Road (Remastered)",
+        author: "The Beatles",
+        cover: "assets/albums/the_beatles_abbey_road_remastered.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+        comment: "Github Action"
+    },
+    {
+        title: "Doolittle",
+        author: "Pixies",
+        cover: "assets/albums/pixies_doolittle.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
+        comment: "Github Action"
+    },
+    {
+        title: "Comfort To Me",
+        author: "Amyl and The Sniffers",
+        cover: "assets/albums/amyl_and_the_sniffers_comfort_to_me.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c"
+        comment: "Github Action"
+    },
+    {
         title: "Surfer Rosa (2007 Remaster)",
         author: "Pixies",
         cover: "assets/albums/pixies_surfer_rosa_2007_remaster.jpg",
