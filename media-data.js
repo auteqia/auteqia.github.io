@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Work And Non Work",
+        author: "Broadcast",
+        cover: "assets/albums/broadcast_work_and_non_work.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/6BwEy6Zz4U5y09nbSJQE2j"
+        comment: "Github Action"
+    },
+    {
+        title: "23",
+        author: "Blonde Redhead",
+        cover: "assets/albums/blonde_redhead_23.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+        comment: "Github Action"
+    },
+    {
+        title: "80'z",
+        author: "Bb trickz",
+        cover: "assets/albums/bb_trickz_80z.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G"
+        comment: "Github Action"
+    },
+    {
+        title: "Depression Cherry",
+        author: "Beach House",
+        cover: "assets/albums/beach_house_depression_cherry.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+        comment: "Github Action"
+    },
+    {
+        title: "Souvenirs d'un autre monde",
+        author: "Alcest",
+        cover: "assets/albums/alcest_souvenirs_dun_autre_monde.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/1zQQoViMwTIXwmidyqTXdF"
+        comment: "Github Action"
+    },
+    {
         title: "Troupeau bleu",
         author: "Cortex",
         cover: "assets/albums/cortex_troupeau_bleu.jpg",
