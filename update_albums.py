@@ -59,25 +59,23 @@ def get_spotify_token():
     return response.json()["access_token"]
 
 def get_spotify_album_info(token, artist, album):
+    q = f'album:{album} artist:{artist}'
     headers = {"Authorization": f"Bearer {token}"}
-    query = f"album:{album} artist:{artist}"
-    url = f"https://api.spotify.com/v1/search?q={requests.utils.quote(query)}&type=album&limit=1"
-    print(url)
-    response = requests.get(url, headers=headers)
-    if response.status_code != 200:
+    params = {"q": q, "type": "album", "limit": 1}
+    resp = requests.get("https://api.spotify.com/v1/search", headers=headers, params=params)
+    if resp.status_code != 200:
+        print(f"Erreur Spotify recherche album {album} - {artist}: {resp.text}")
         return None
-    results = response.json()["albums"]["items"]
-    print("results: ", results)
-    if not results:
+    items = resp.json()['albums']['items']
+    if not items:
         return None
-    result = results[0]
-    print(result["images"][0]["url"])
+    item = items[0]
+
     return {
-        "title": result["name"],
-        "author": result["artists"][0]["name"],
-        "cover": result["images"][0]["url"] if result["images"] else "",
-        "kind": "album",
-        "link": result["external_urls"]["spotify"],
+        "title": item['name'],
+        "author": item['artists'][0]['name'],
+        "cover": item['images'][0]['url'] if item['images'] else None,  # Lien direct
+        "link": item['external_urls']['spotify'],
         "comment": "Github Action",
     }
 
