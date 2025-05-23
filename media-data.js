@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Toxicity",
+        author: "System Of A Down",
+        cover: "assets/albums/system_of_a_down_toxicity.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+        comment: "Github Action"
+    },
+    {
+        title: "Thirteen Tales Of Love And Revenge",
+        author: "The Pierces",
+        cover: "assets/albums/the_pierces_thirteen_tales_of_love_and_revenge.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/6Ymyr8aoX1jHVvrbGpyL24"
+        comment: "Github Action"
+    },
+    {
         title: "Abbey Road (Remastered)",
         author: "The Beatles",
         cover: "assets/albums/the_beatles_abbey_road_remastered.jpg",
