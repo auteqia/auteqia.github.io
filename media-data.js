@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "13",
+        author: "Blur",
+        cover: "assets/albums/blur_13.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+        comment: "Github Action"
+    },
+    {
+        title: "Treasure",
+        author: "Cocteau Twins",
+        cover: "assets/albums/cocteau_twins_treasure.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
+        comment: "Github Action"
+    },
+    {
         title: "Work And Non Work",
         author: "Broadcast",
         cover: "assets/albums/broadcast_work_and_non_work.jpg",
