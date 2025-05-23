@@ -1,5 +1,54 @@
 const mediaLibrary = [
     {
+        title: "Clash the Truth",
+        author: "Beach Fossils",
+        cover: "assets/albums/beach_fossils_clash_the_truth.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/4qC8mysA680i7chkL3JQQw"
+    },
+    {
+        title: "Spreading Rumours",
+        author: "GROUPLOVE",
+        cover: "assets/albums/grouplove_spreading_rumours.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
+    },
+    {
+        title: "Circles",
+        author: "Mac Miller",
+        cover: "assets/albums/mac_miller_circles.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+    },
+    {
+        title: "Strange Cacti",
+        author: "Angel Olsen",
+        cover: "assets/albums/angel_olsen_strange_cacti.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/3aKb3OOjVyEUHda8q7futV"
+    },
+    {
+        title: "Imagine",
+        author: "John Lennon",
+        cover: "assets/albums/john_lennon_imagine.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+    },
+    {
+        title: "Down the Way",
+        author: "Angus & Julia Stone",
+        cover: "assets/albums/angus_julia_stone_down_the_way.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+    },
+    {
+        title: "Neon Bible",
+        author: "Arcade Fire",
+        cover: "assets/albums/arcade_fire_neon_bible.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/4GT6uZod4p5RiDMOVHOMme"
+    },
+    {
         title: "Logique, Pt. 1",
         author: "Limsa d'Aulnay",
         cover: "assets/albums/limsa_daulnay_logique_pt_1.jpg",
