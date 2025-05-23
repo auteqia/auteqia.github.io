@@ -2,7 +2,7 @@ name: Update Spotify Albums
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # tous les jours à 08h00 UTC
+    - cron: '0 * * * *'  # every hour
   workflow_dispatch:     # possibilité de lancer manuellement
 
 jobs:
