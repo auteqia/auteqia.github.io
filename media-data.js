@@ -1,5 +1,12 @@
 const mediaLibrary = [
     {
+        title: "Panthéon",
+        author: "Booba",
+        cover: "assets/albums/booba_panthéon.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/2wQSope9RpLMqr5AXrQibc"
+    },
+    {
         title: "Block Beater",
         author: "lil13",
         cover: "assets/albums/lil13_block_beater.jpg",
