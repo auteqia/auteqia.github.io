@@ -1,5 +1,19 @@
 const mediaLibrary = [
     {
+        title: "Amor Chiquito",
+        author: "Fobia",
+        cover: "assets/albums/fobia_amor_chiquito.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u"
+    },
+    {
+        title: "Post",
+        author: "Björk",
+        cover: "assets/albums/björk_post.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs"
+    },
+    {
         title: "Clash the Truth",
         author: "Beach Fossils",
         cover: "assets/albums/beach_fossils_clash_the_truth.jpg",
