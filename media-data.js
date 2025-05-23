@@ -1,5 +1,19 @@
 const mediaLibrary = [
     {
+        title: "The Greatest Hits: Why Try Harder",
+        author: "Fatboy Slim",
+        cover: "assets/albums/fatboy_slim_the_greatest_hits_why_try_harder.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ"
+    },
+    {
+        title: ".RAW-Z",
+        author: "Laylow",
+        cover: "assets/albums/laylow_raw-z.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/7elzBxdl3pFOAwN0cqvYsW"
+    },
+    {
         title: "Blonde",
         author: "Frank Ocean",
         cover: "assets/albums/frank_ocean_blonde.jpg",
