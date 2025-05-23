@@ -62,12 +62,12 @@ def get_spotify_album_info(token, artist, album):
     headers = {"Authorization": f"Bearer {token}"}
     query = f"album:{album} artist:{artist}"
     url = f"https://api.spotify.com/v1/search?q={requests.utils.quote(query)}&type=album&limit=1"
-    print("Spotify URL to query: " + url)
+    print("Spotify URL to query: ", url)
     response = requests.get(url, headers=headers)
     if response.status_code != 200:
         return None
     results = response.json()["albums"]["items"]
-    print("results: " + results)
+    print("results: ", results)
     if not results:
         return None
     result = results[0]
