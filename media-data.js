@@ -1,5 +1,53 @@
 const mediaLibrary = [
     {
+        title: "Surfer Rosa (2007 Remaster)",
+        author: "Pixies",
+        cover: "assets/albums/pixies_surfer_rosa_2007_remaster.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
+        comment: "Github Action"
+    },
+    {
+        title: "Come To Daddy",
+        author: "Aphex Twin",
+        cover: "assets/albums/aphex_twin_come_to_daddy.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
+        comment: "Github Action"
+    },
+    {
+        title: "Easter",
+        author: "Patti Smith",
+        cover: "assets/albums/patti_smith_easter.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+        comment: "Github Action"
+    },
+    {
+        title: "Shapes and Shadows",
+        author: "Panda Dub",
+        cover: "assets/albums/panda_dub_shapes_and_shadows.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/229OeMBJWAf2xy7aom3aTQ"
+        comment: "Github Action"
+    },
+    {
+        title: "Computer Controlled Acoustic Instruments pt2 EP",
+        author: "Aphex Twin",
+        cover: "assets/albums/aphex_twin_computer_controlled_acoustic_instruments_pt2_ep.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01"
+        comment: "Github Action"
+    },
+    {
+        title: "Marre marre marre",
+        author: "Sexy Sushi",
+        cover: "assets/albums/sexy_sushi_marre_marre_marre.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/1UWUn2N5ni5VuC14rNHqhK"
+        comment: "Github Action"
+    },
+    {
         title: "Agents Of Fortune",
         author: "Blue Öyster Cult",
         cover: "assets/albums/blue_öyster_cult_agents_of_fortune.jpg",
