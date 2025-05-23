@@ -41,7 +41,7 @@ def download_cover_image(url, artist, album):
 def get_lastfm_albums():
     url = f"https://ws.audioscrobbler.com/2.0/?method=user.gettopalbums&user={LASTFM_USER}&api_key={LASTFM_API_KEY}&format=json&limit=50"
     response = requests.get(url)
-    print("lastfm reponse: " + response)
+    print(response)
     response.raise_for_status()
     data = response.json()
     albums = data.get("topalbums", {}).get("album", [])
@@ -62,7 +62,7 @@ def get_spotify_album_info(token, artist, album):
     headers = {"Authorization": f"Bearer {token}"}
     query = f"album:{album} artist:{artist}"
     url = f"https://api.spotify.com/v1/search?q={requests.utils.quote(query)}&type=album&limit=1"
-    print("Spotify URL to query: ", url)
+    print(url)
     response = requests.get(url, headers=headers)
     if response.status_code != 200:
         return None
