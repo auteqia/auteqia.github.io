@@ -1,5 +1,12 @@
 const mediaLibrary = [
     {
+        title: "Block Beater",
+        author: "lil13",
+        cover: "assets/albums/lil13_block_beater.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/2llpBbc8elPVRNMNzYafUK"
+    },
+    {
         title: "Years of Struggle Against the Lies, the Stupidity and the Cowardice",
         author: "Pesteg Dred",
         cover: "assets/albums/pesteg_dred_years_of_struggle_against_the_lies_the_stupidity_and_the_cowardice.jpg",
