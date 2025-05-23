@@ -1,0 +1,4743 @@
+const mediaLibrary = [
+    {
+        title: "The Greatest Hits: Why Try Harder",
+        author: "Fatboy Slim",
+        cover: "assets/albums/fatboy_slim_the_greatest_hits_why_try_harder.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ"
+    },
+    {
+        title: ".RAW-Z",
+        author: "Laylow",
+        cover: "assets/albums/laylow_raw-z.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/7elzBxdl3pFOAwN0cqvYsW"
+    },
+    {
+        title: "Blonde",
+        author: "Frank Ocean",
+        cover: "assets/albums/frank_ocean_blonde.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+    },
+    {
+        title: "Block Beater",
+        author: "lil13",
+        cover: "assets/albums/lil13_block_beater.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/2llpBbc8elPVRNMNzYafUK"
+    },
+    {
+        title: "Panthéon",
+        author: "Booba",
+        cover: "assets/albums/booba_panthéon.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/2wQSope9RpLMqr5AXrQibc"
+    },
+    {
+        title: "Years of Struggle Against the Lies, the Stupidity and the Cowardice",
+        author: "Pesteg Dred",
+        cover: "assets/albums/pesteg_dred_years_of_struggle_against_the_lies_the_stupidity_and_the_cowardice.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/4ZiojlMTC9mMD6CZhmdBx6"
+    },
+    {
+        title: "Kazuma Kiryu Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        author: "SEGA SOUND TEAM",
+        cover: "assets/albums/sega_sound_team_kazuma_kiryu_karaoke_hit_song_collectionryu_ga_gotoku7_hikari_to_yami_no_yukue.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj"
+    },
+    {
+        title: "24 Cumbias Pa Bailar",
+        author: "A Mover La Colita Cumbias",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733e2396de5282580f00d3d897",
+        kind: "album",
+        link: "https://open.spotify.com/album/2inSjrL3SWgaUIIXxChNPd"
+    },
+    {
+        title: "Not Your Kind of People",
+        author: "Garbage",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737a2d8fab5842a8073e62783e",
+        kind: "album",
+        link: "https://open.spotify.com/album/1CJDAVFRfgHbwyAv4yVutN"
+    },
+    {
+        title: "Songs Of Leonard Cohen",
+        author: "Leonard Cohen",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730633b57b08b40f3e776e7151",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+    },
+    {
+        title: "Origin of Symmetry (XX Anniversary RemiXX)",
+        author: "Muse",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732372f35706e3b7f5564ea8d9",
+        kind: "album",
+        link: "https://open.spotify.com/album/5EIVoKtfgnSc0nPzJS6lzy"
+    },
+    {
+        title: "LSD and the Search for God",
+        author: "LSD and the Search for God",
+        cover: "https://i.scdn.co/image/ab67616d0000b273be9bb007638d6e2a0f64cab0",
+        kind: "album",
+        link: "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
+    },
+    {
+        title: "She Hangs Brightly",
+        author: "Mazzy Star",
+        cover: "https://i.scdn.co/image/ab67616d0000b273afce4c9cd3313302c0a16ed1",
+        kind: "album",
+        link: "https://open.spotify.com/album/2ZAcLWdHBHrdybwws1PVuA"
+    },
+    {
+        title: "The Dino Soars",
+        author: "Stegosaurus Rex",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730a29856bf1c65d2f1b72990e",
+        kind: "album",
+        link: "https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg"
+    },
+    {
+        title: "Love For The Streets",
+        author: "Caesars",
+        cover: "https://i.scdn.co/image/ab67616d0000b27346ed4ae9343359e5965baf7b",
+        kind: "album",
+        link: "https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal"
+    },
+    {
+        title: "Player Non Player",
+        author: "Agar Agar",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e34e56bc2b4fc50c095757cf",
+        kind: "album",
+        link: "https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K"
+    },
+    {
+        title: "The Queen Is Dead",
+        author: "The Smiths",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9",
+        kind: "album",
+        link: "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+    },
+    {
+        title: "Naxatras",
+        author: "Naxatras",
+        cover: "https://i.scdn.co/image/ab67616d0000b273037fb18ebb0315b5721cf3fe",
+        kind: "album",
+        link: "https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv"
+    },
+    {
+        title: "American Beauty (2013 Remaster)",
+        author: "Grateful Dead",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fd3f66a9ce4371f7ffa0346f",
+        kind: "album",
+        link: "https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS"
+    },
+    {
+        title: "L.W.",
+        author: "King Gizzard & The Lizard Wizard",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731f0fd0835e055d96b82ccaf0",
+        kind: "album",
+        link: "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
+    },
+    {
+        title: "Hatful of Hollow",
+        author: "The Smiths",
+        cover: "https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b",
+        kind: "album",
+        link: "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+    },
+    {
+        title: "Daydream Nation (Remastered Original Album)",
+        author: "Sonic Youth",
+        cover: "https://i.scdn.co/image/ab67616d0000b273dae82a57e7385bc847f9f495",
+        kind: "album",
+        link: "https://open.spotify.com/album/3BYlBcND6PeKoW6ZODjZO3"
+    },
+    {
+        title: "Beneath The Lilypad",
+        author: "Alexandra Savior",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730235684750e40b7e5210b559",
+        kind: "album",
+        link: "https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf"
+    },
+    {
+        title: "I Have Seen You Through the Years, Worn by Different Faces (1981-85)",
+        author: "Pesteg Dred",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c62bafc4d8831296ddde5c5b",
+        kind: "album",
+        link: "https://open.spotify.com/album/5WQVSRM5BBxq8FA5SaKqRg"
+    },
+    {
+        title: "I Can See Your House From Here (Expanded Edition)",
+        author: "Camel",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a5a422526541417ff7c19d94",
+        kind: "album",
+        link: "https://open.spotify.com/album/2UzcBmNQt45lrGuwIYEjec"
+    },
+    {
+        title: "Teen Dream",
+        author: "Beach House",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739ba6a1b973e91955ab23c50c",
+        kind: "album",
+        link: "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
+    },
+    {
+        title: "Shed",
+        author: "Title Fight",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733e378f6f76942740e239df0d",
+        kind: "album",
+        link: "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
+    },
+    {
+        title: "Kinks (Deluxe Edition)",
+        author: "The Kinks",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733b662e4bab01440eb4f31793",
+        kind: "album",
+        link: "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
+    },
+    {
+        title: "Bloom",
+        author: "Beach House",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bb9f22f4b196fa10308d77a7",
+        kind: "album",
+        link: "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
+    },
+    {
+        title: "Heaven or Las Vegas",
+        author: "Cocteau Twins",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735d2fdd1564ccab97e60c656f",
+        kind: "album",
+        link: "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+    },
+    {
+        title: 'Lost (S1-2)',
+        author: 'J. J. Abrams',
+        cover: 'assets/series/lost.jpg',
+        rating: 3,
+        favorite: false,
+        readDate: '2024-09-01',
+        kind: 'serie',
+        link: 'https://www.themoviedb.org/tv/4607-lost'
+    },
+    // BOOKS \\
+    {
+        title: "L'herbier merveilleux",
+        author: "Jean-Michel Othoniel",
+        cover: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560189765i/46252156.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.goodreads.com/book/show/46252156-l-herbier-merveilleux",
+        readDate: "2025-05-18",
+        kind: "book"
+    },
+    {
+        title: "Walden",
+        author: "Henry David Thoreau",
+        cover: "assets/books/walden.jpg",
+        rating: 4,
+        reRead: true,
+        link: "https://www.goodreads.com/book/show/16902.Walden",
+        readDate: "2024-03-20",
+        kind: "book"
+    },
+    {
+        title: 'Du côté de chez Swann',
+        author: 'Marcel Proust',
+        cover: 'assets/books/du-cote-de-chez-swann.jpg',
+        rating: 2,
+        favorite: false,
+        readDate: '2025-02-05',
+        kind: 'book',
+        link: 'https://www.goodreads.com/book/show/865069'
+    },
+    {
+        title: 'War and Punishment',
+        author: 'Mikhail Zygar',
+        cover: 'assets/books/war-and-punishment.jpg',
+        rating: 2.5,
+        favorite: false,
+        readDate: '2025-03-20',
+        kind: 'book',
+        link: 'https://www.goodreads.com/book/show/63923934-war-and-punishment'
+    },
+    // END OF BOOKS
+    // MOVIES \\
+    {
+        title: "Requiem of a dream",
+        author: "Darren Aronofsky",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ucEzdVnn3vb3fKugIgedJxyykag.jpg",
+        rating: 4.5,
+        reRead: false,
+        link: "http://www.imdb.com/title/tt0180093/",
+        readDate: "2025-05-05",
+        kind: "movie"
+    },
+    {
+        title: "Une Femme Est Une Femme",
+        author: "Jean-Luc Godard",
+        cover: "https://m.media-amazon.com/images/M/MV5BMmIwMDg0N2EtZTRiZi00MTA2LWE1MDItOTJjNjA2MDViZDU1XkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+        rating: 4.2,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0055572/",
+        readDate: "2025-05-19",
+        kind: "movie"
+    },
+    {
+        title: "Cléo de 5 à 7",
+        author: "Agnès Varda",
+        cover: "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/oelBStY4xpguaplRv15P3Za7Xsr.jpg",
+        rating: 4.3,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0055852/",
+        readDate: "2024-06-19",
+        kind: "movie"
+    },
+    {
+        title: "Drunk",
+        author: "Thomas Vinterberg",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
+        rating: 4.2,
+        reRead: false,
+        link: "http://www.imdb.com/title/tt10288566/",
+        readDate: "2025-05-04",
+        kind: "movie"
+    },
+    {
+        title: "Bonnie and Clyde",
+        author: "Arthur Penn",
+        cover: "https://m.media-amazon.com/images/M/MV5BYWI3ZmM1NmEtMDk4Yi00MzYzLTk0MDctYWJlZjY4MGViNDFiXkEyXkFqcGc@._V1_FMjpg_UY2204_.jpg",
+        rating: 4.8,
+        reRead: false,
+        link: "http://www.imdb.com/title/tt0061418/",
+        readDate: "2025-04-27",
+        kind: "movie"
+    },
+    {
+        title: "The Last Temptation of Christ",
+        author: "Martin Scorsese",
+        cover: "https://m.media-amazon.com/images/M/MV5BZjE2MWE2NDQtMjIzYy00OGY4LTk3YjktZTE2MWExYmEzMjM5XkEyXkFqcGc@._V1_FMjpg_UX981_.jpg",
+        rating: 4.2,
+        reRead: false,
+        link: "http://www.imdb.com/title/tt0095497/",
+        readDate: "2025-04-21",
+        kind: "movie"
+    },
+    {
+        title: "After Hours",
+        author: "Martin Scorsese",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "http://www.imdb.com/title/tt0088680/",
+        readDate: "2025-04-19",
+        kind: "movie"
+    },
+    {
+        title: "Gangs of New York",
+        author: "Martin Scorsese",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "http://www.imdb.com/title/tt0217505/",
+        readDate: "2025-04-19",
+        kind: "movie"
+    },
+    {
+        title: "Jurassic Park: The Lost World",
+        author: "Steven Spielberg",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jElpCJkSaRPYwIMwZY28gOKV7BK.jpg",
+        rating: 4.7,
+        reRead: true,
+        link: "https://www.imdb.com/fr-ca/title/tt0119567/",
+        readDate: "2025-04-01",
+        kind: "movie"
+    },
+    {
+        title: "Jurassic Park",
+        author: "Steven Spielberg",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fjTU1Bgh3KJu4aatZil3sofR2zC.jpg",
+        rating: 4.7,
+        reRead: true,
+        link: "https://www.imdb.com/title/tt0107290/",
+        readDate: "2025-04-01",
+        kind: "movie"
+    },
+    {
+        title: "The Grand Budapest Hotel",
+        author: "Wes Anderson",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt2278388/",
+        readDate: "2025-04-01",
+        kind: "movie"
+    },
+    {
+        title: "Eraserhead",
+        author: "David Lynch",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0074486/",
+        readDate: "2025-04-01",
+        kind: "movie"
+    },
+    {
+        title: "Twin Peaks, Fire walk with me",
+        author: "David Lynch",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rol5H6loAojd6tH2VXQYEXzGQk1.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0105665",
+        readDate: "2025-04-01",
+        kind: "movie"
+    },
+    {
+        title: "Muholland Drive",
+        author: "David Lynch",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+        rating: 4.2,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0166924/",
+        readDate: "2025-04-01",
+        kind: "movie"
+    },
+    {
+        title: "Trainspotting",
+        author: "Danny Boyle",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+        rating: 4.7,
+        reRead: true,
+        link: "https://www.imdb.com/title/tt0117951/",
+        readDate: "2025-03-21",
+        kind: "movie"
+    },
+    {
+        title: "The Royal Tenenbaums",
+        author: "Wes Anderson",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/syaECBy6irxSgeF0m5ltGPNTWXL.jpg",
+        rating: 4.7,
+        reRead: true,
+        link: "https://www.imdb.com/title/tt0265666/",
+        readDate: "2025-03-20",
+        kind: "movie"
+    },
+    {
+        title: "Belladonna of Sadness",
+        author: "Eiichi Yamamoto",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lsgaGlGVIRXLj9xRqPQgzvlcffP.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0071203/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "Good Morning England",
+        author: "Richard Curtis",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i3nKXWYOpC0dbIbAe4V92ocet64.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt1131729",
+        readDate: "2024-06-20",
+        kind: "movie"
+    },
+    {
+        title: "Phantom of the Paradise",
+        author: "Brian De Palma",
+        cover: "https://m.media-amazon.com/images/M/MV5BZDRjN2JkMDAtMTNjNS00ZDFhLTk3NDgtMzhjOGE3Zjg4NzY3XkEyXkFqcGc@._V1_FMjpg_UX1204_.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/fr/title/tt0071994/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "Heat",
+        author: "Michael Mann",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0113277/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "Where The Buffalo Roam",
+        author: "Art Linson",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRMeb4LN416PGvSgG0n063bc5ez.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0081748/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "The Rhum Diary",
+        author: "Bruce Robinson",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uErFROiMrpk7owQWKK3bpD4hSJs.jpg",
+        rating: 4.7,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0376136/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "Fear and Loathing in Las Vegas",
+        author: "Terry Gilliam",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tisNLcMkxryU2zxhi0PiyDFqhm0.jpg",
+        rating: 4.9,
+        reRead: true,
+        link: "https://www.imdb.com/title/tt0120669/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "28 days later",
+        author: "Danny Boyle",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+        rating: 4.9,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/170-28-days-later",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "Blue Velvet",
+        author: "David Lynch",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tzXuURjPzCqtA6eL0Cswq9wzFx0.jpg",
+        rating: 4.1,
+        reRead: false,
+        link: "https://www.imdb.com/title/tt0090756/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "Wild at Heart",
+        author: "David Lynch",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+        rating: 4.1,
+        reRead: true,
+        link: "https://www.imdb.com/title/tt0100935/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "Lost Highway",
+        author: "David Lynch",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fdTtij6H0sX9AzIjUeynh5zbfm7.jpg",
+        rating: 4.1,
+        reRead: true,
+        link: "https://www.imdb.com/title/tt0116922/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "Pokemon - The first movie",
+        author: "Kunihiko Yuyama",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xPW3AeK3iQi1Zd9dCbdNLijE48o.jpg",
+        rating: 4.1,
+        reRead: true,
+        link: "https://www.imdb.com/title/tt0190641/",
+        readDate: "2024-09-09",
+        kind: "movie"
+    },
+    {
+        title: "Kill Bill: Vol. 1",
+        author: "Quentin Tarantino",
+        cover: "assets/movies/kill-bill-vol-1.jpg",
+        rating: 4.5,
+        reRead: true,
+        link: "http://www.imdb.com/title/tt0266697/",
+        readDate: "2024-01-27",
+        kind: "movie"
+    },
+    {
+        title: "Kill Bill: Vol. 2",
+        author: "Quentin Tarantino",
+        cover: "assets/movies/kill-bill-vol-2.jpg",
+        rating: 4,
+        reRead: true,
+        link: "http://www.imdb.com/title/tt0378194/",
+        readDate: "2024-01-28",
+        kind: "movie"
+    },
+    {
+        title: "Reservoir Dogs",
+        author: "Quentin Tarantino",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+        rating: 3.5,
+        reRead: true,
+        link: "http://www.imdb.com/title/tt0105236/",
+        readDate: "2024-01-28",
+        kind: "movie"
+    },
+    {
+        title: "Paris, Texas",
+        author: "Wim Wenders",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYYdCi54E2xVbUxCr03tMookv9Z.jpg",
+        rating: 5,
+        reRead: true,
+        link: "https://www.imdb.com/fr-ca/title/tt0087884/",
+        readDate: "2024-01-28",
+        kind: "movie"
+    },
+    {
+        title: "John Wick 2",
+        author: "Chad Stahelski",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+        rating: 4.5,
+        reRead: true,
+        link: "https://www.imdb.com/title/tt4425200/",
+        readDate: "2024-11-03",
+        kind: "movie"
+    },
+    {
+        title: "John Wick",
+        author: "Chad Stahelski",
+        cover: "assets/movies/john-wick.jpg",
+        rating: 4.5,
+        reRead: true,
+        link: "http://www.imdb.com/title/tt2911666/",
+        readDate: "2024-11-01",
+        kind: "movie"
+    },
+    {
+        title: "Parasite",
+        author: "Bong Joon-ho",
+        cover: "assets/movies/parasite.jpg",
+        rating: 4,
+        link: "https://www.themoviedb.org/movie/496243",
+        readDate: "2022-02-25",
+        kind: "movie"
+    },
+    {
+        title: "Snatch",
+        author: "Guy Ritchie",
+        cover: "assets/movies/snatch.jpg",
+        rating: 5,
+        reRead: true,
+        favorite: true,
+        link: "https://www.themoviedb.org/movie/107-snatch",
+        readDate: "2025-03-13",
+        kind: "movie"
+    },
+    {
+        title: "Her",
+        author: "Spike Jonze",
+        cover: "assets/movies/her.jpg",
+        rating: 3.5,
+        favorite: false,
+        link: "https://www.themoviedb.org/movie/152601-her",
+        readDate: "2025-03-19",
+        kind: "movie"
+    },
+    {
+        title: "Cloverfield",
+        author: "Matt Reeves",
+        cover: "assets/movies/cloverfield.jpg",
+        rating: 1.5,
+        favorite: false,
+        link: "https://www.themoviedb.org/movie/7191-cloverfield",
+        readDate: "2022-03-24",
+        kind: "movie"
+    },
+    {
+        title: "Lost in Translation",
+        author: "Sofia Coppola",
+        cover: "assets/movies/lost-in-translation.jpg",
+        rating: 5,
+        favorite: true,
+        link: "https://www.themoviedb.org/movie/153-lost-in-translation",
+        readDate: "2025-03-26",
+        kind: "movie"
+    },
+    {
+        title: "Coup de foudre à Notting Hill",
+        author: "Roger Michell",
+        cover: "assets/movies/notting-hill.jpg",
+        rating: 4,
+        favorite: false,
+        link: "https://www.themoviedb.org/movie/509-notting-hill",
+        readDate: "2024-04-28",
+        kind: "movie"
+    },
+
+    // END OF MOVIES //
+
+
+    
+    // album \\
+    {
+        title: "Aladdin Sane",
+        cover: "https://i.scdn.co/image/ab67616d00001e025db6dbaca8678527e643a866",
+        rating: 5,
+        author: "David Bowie",
+        link: "https://open.spotify.com/intl-fr/album/3HZKOk1knxrUU3y5ZIOdbz?si=61010ee7401041fb",
+        kind: "album"
+    },
+    {
+        title: "Loveless",
+        cover: "https://i.scdn.co/image/ab67616d00001e02db8e38addb58131f77b48377",
+        rating: 5,
+        author: "My Bloody Valentine",
+        link: "https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb?si=Lik-Z2JNRH6k5N_cJ3tNgA",
+        kind: "album"
+    },
+    {
+        title: "Funhouse",
+        cover: "https://i.scdn.co/image/ab67616d00001e022c7d41ae194ef7aaaba3fee3",
+        rating: 5,
+        author: "The Stooges",
+        link: "https://open.spotify.com/intl-fr/album/5qhXaVIC5BdE4a5Kq1FMZG?si=6b747032c4da4e97",
+        kind: "album"
+    },
+    {
+        title: "The Man Who Sold The World",
+        cover: "https://i.scdn.co/image/ab67616d00001e0246926e777bd6665f03128d29",
+        rating: 5,
+        author: "David Bowie",
+        link: "https://open.spotify.com/intl-fr/album/4h9rWFWhgCSSrvIEQ0YhYG?si=23352ecbf67f45b6",
+        kind: "album"
+    },
+    {
+        title: "David Bowie aka Space Oddity",
+        cover: "https://i.scdn.co/image/ab67616d00001e023395f3e809dfbc2b1101d464",
+        rating: 5,
+        author: "David Bowie",
+        link: "https://open.spotify.com/intl-fr/album/1ay9Z4R5ZYI2TY7WiDhNYQ?si=3a8beea060e34190",
+        kind: "album"
+    },
+    {
+        title: "Arkhaiomelisidonophunikheratos",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a04ab67781fd7f5fcd9f243f",
+        rating: 3,
+        author: "Satanicpornocultshop",
+        link: "https://open.spotify.com/intl-fr/album/3Sb2zffOmDnzLhDrMboXAq?si=6a9fe4969f774c2d",
+        kind: "album"
+    },
+    {
+        title: "No Mercy for Love",
+        cover: "https://i.scdn.co/image/ab67616d00001e02cde247dcf57d9e5d4974ed34",
+        rating: 5,
+        author: "CANNIBALE",
+        link: "https://open.spotify.com/intl-fr/album/2lSiu7i14zUsuhEmMgZEX0?si=3818cf25474841e5",
+        kind: "album"
+    },    
+    {
+        title: "The Low End Theory",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f38c6b37a21334e22005b1f7",
+        rating: 5,
+        author: "A Tribe Called Quest",
+        link: "https://open.spotify.com/intl-fr/album/1p12OAWwudgMqfMzjMvl2a?si=19defa6fa4a54d9e",
+        kind: "album"
+    },
+    {
+        title: "Here are the Sonics",
+        cover: "https://i.scdn.co/image/ab67616d00001e023b8f9c148e9eead1143c78e6",
+        rating: 5,
+        author: "The Sonics",
+        link: "https://open.spotify.com/intl-fr/album/4vqaqoTEbNyeeSHJA6KpdM?si=8c82b91884ec4397",
+        kind: "album"
+    },
+    {
+        title: "The Gilded Palace of Sin",
+        cover: "https://i.scdn.co/image/ab67616d0000b27353ba02e4c3b1b6a297002afa",
+        rating: 5,
+        author: "The Flying Burrito Brothers",
+        link: "https://open.spotify.com/intl-fr/album/6VWKy5o2OcdeWa7yolazjU?si=5cfea26c58554fbb",
+        kind: "album"
+    },
+
+    {
+        title: "In the Aeroplane over the Sea",
+        cover: "https://i.scdn.co/image/ab67616d00001e02589ce9a911c6e65b1f80c558",
+        rating: 5,
+        author: "Neutral Milk Hotel",
+        link: "https://open.spotify.com/intl-fr/album/0vVekV45lOaVKs6RZQQNob?si=bf237fda8c7e45a9",
+        kind: "album"
+    },
+    {
+        title: "Goo",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b690940b6544fb39bf3653d2",
+        rating: 5,
+        author: "Sonic Youth",
+        link: "https://open.spotify.com/intl-fr/album/5iYYQwB0oH9FVyVlaOXZdr?si=1e921b075c6f4485",
+        kind: "album"
+    },
+    {
+        title: "Druks",
+        cover: "https://i.scdn.co/image/ab67616d00001e022e261a0b1b19d0ff95e346b3",
+        rating: 5,
+        author: "Aphex Twin",
+        link: "https://open.spotify.com/intl-fr/album/2oJo7cB45gMVuRsaWNwDq2?si=c69b3876898d474b",
+        kind: "album"
+    },
+    {
+        title: "eps 1988-1991 and rare tracks",
+        cover: "https://i.scdn.co/image/ab67616d00001e02140e779a7eae66860d27e79d",
+        rating: 5,
+        author: "My Bloody Valentine",
+        link: "https://open.spotify.com/album/3OKQrIvUbcJN9kcFLmycsk?si=X-140myRRn6zniaYJiernA",
+        kind: "album"
+    },
+    {
+        title: "Swimming",
+        cover: "https://i.scdn.co/image/ab67616d00001e02175c577a61aa13d4fb4b6534",
+        rating: 5,
+        author: "Mac Miller",
+        link: "https://open.spotify.com/intl-fr/album/5wtE5aLX5r7jOosmPhJhhk?si=22a007c77f4c4fc5",
+        kind: "album"
+    },
+    {
+        title: "The Doors",
+        cover: "https://i.scdn.co/image/ab67616d00001e025b96a8c5d61be8878452f8f1",
+        rating: 5,
+        author: "The Doors",
+        link: "https://open.spotify.com/intl-fr/album/1jWmEhn3ggaL6isoyLfwBn?si=a3a5526ec6fe4204",
+        kind: "album"
+    },
+    {
+        title: "Bury Me at Makeout Creek",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e90db8983ebd43b776694179",
+        rating: 5,
+        author: "Mitski",
+        link: "https://open.spotify.com/intl-fr/album/3I2KkX13lHXuYqfBjSOopo?si=1e824ad77e684c94",
+        kind: "album"
+    },
+    {
+        title: "Solid State Survivor",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c70aa05c55b6fb116863f6f5",
+        rating: 5,
+        author: "Yellow Magic Orchestra",
+        link: "https://open.spotify.com/intl-fr/album/5TmpFE7Xus70ko1QYGxFIe?si=f92037d9a5bc4e15",
+        kind: "album"
+    },
+    {
+        title: "Puberty 2",
+        cover: "https://i.scdn.co/image/ab67616d00001e0229eb9ad9b9af34bbb54eb053",
+        rating: 5,
+        author: "Mitski",
+        link: "https://open.spotify.com/intl-fr/album/4Coa8Eb9SzjrkwWEom963Q?si=de5f6256fdac4974",
+        kind: "album"
+    },
+    {
+        title: "Beats, Rhymes & Life",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
+        rating: 5,
+        author: "A Tribe Called Quest",
+        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
+        kind: "album"
+    },
+
+    
+    {
+        title: "Mirage",
+        cover: "https://i.scdn.co/image/ab67616d00001e0211537abd008a150b3f88dcaf",
+        rating: 5,
+        author: "Camel",
+        link: "https://open.spotify.com/album/2DZEwt8Lhz6PuqxsJWF7Ap?si=nj6WFi71R92obD4pdH3VKg",
+        kind: "album"
+    },
+    {
+        title: "Masana Temples",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a765313b610423c0f13aa59e",
+        rating: 5,
+        author: "Kikagaku Moyo",
+        link: "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS?si=lRMv3fZSSX2IrtQRGyHwyg",
+        kind: "album"
+    },
+    {
+        title: "Full Circle",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a217433125ab8324ce5f7e09",
+        rating: 5,
+        author: "The Doors",
+        link: "https://open.spotify.com/intl-fr/album/26Fac6kNgB6MLeoGVkmpKN?si=f5e677050459423d",
+        kind: "album"
+    },
+    {
+        title: "Sibérie m'était contée",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f297cbcd2d78559c38273e35",
+        rating: 5,
+        author: "Manu Chao",
+        link: "https://open.spotify.com/album/7EZSOlWZFjsLLZkDwtFCPS?si=Qqfs4a3RQYGs1X1UgfaTcQ",
+        kind: "album"
+    },
+    {
+        title: "Contemporary Movement",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f2905338b1e6e07e167ee305",
+        rating: 5,
+        author: "Duster",
+        link: "https://open.spotify.com/album/6CYyrh3J08jXacgo9wHwsU?si=OBIYn1QdSICoWQG1UT-JPg",
+        kind: "album"
+    },
+    {
+        title: "One Step Beyond",
+        cover: "https://i.scdn.co/image/ab67616d00001e026238b055ec362d2eea9beb26",
+        rating: 5,
+        author: "Madness",
+        link: "https://open.spotify.com/album/0scFCb0HjpQvWaJ7fu16hn?si=29dmeqtKRI6MMM2Zblm7fA",
+        kind: "album"
+    },
+    {
+        title: "Be the Cowboy",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c428f67b4a9b7e1114dfc117",
+        rating: 5,
+        author: "Mitski",
+        link: "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq?si=Zd_BhXz8R6ClaxVcb-LegA",
+        kind: "album"
+    },
+    {
+        title: "(III)",
+        cover: "https://i.scdn.co/image/ab67616d00001e028c4fcffc07dd98ad89c0f383",
+        rating: 5,
+        author: "Crystal Castles",
+        link: "https://open.spotify.com/album/2KYBzzK8L9yvBe0k5GeoD8?si=DSRw2NNLSv6KMz6EpceGww",
+        kind: "album"
+    },
+    {
+        title: "Lush",
+        cover: "https://i.scdn.co/image/ab67616d00001e0218bbdba0da26e4ae050fb1b8",
+        rating: 5,
+        author: "Mitski",
+        link: "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga?si=yhGLr03lSV2xJV8xh6kd6g8",
+        kind: "album"
+    },
+    {
+        title: "Pyramid",
+        cover: "https://i.scdn.co/image/ab67616d00001e0242165edf668b41cb531722b0",
+        rating: 5,
+        author: "The Alan Parsons Project",
+        link: "https://open.spotify.com/album/3GwhihLKs0eZmgUUrshE9k?si=5bf81ea8e36a4b9b",
+        kind: "album"
+    },
+    {
+        title: "OIL OF EVERY PEARL'S UN-INSIDES",
+        cover: "https://i.scdn.co/image/ab67616d00001e029517eea594dfb828ec793e09",
+        rating: 5,
+        author: "Sophie",
+        link: "https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN?si=7qhdjV7nTp2qNlfyOk5aJA",
+        kind: "album"
+    },
+    {
+        title: "The Fat of The Land",
+        cover: "https://i.scdn.co/image/ab67616d00001e028688e410538bc27972791f4c",
+        rating: 5,
+        author: "The Prodigy",
+        link: "https://open.spotify.com/album/4fdgcEVMdJe0KVgupMNJAP?si=KCpxnGK0S7aF-XBANk2CpA",
+        kind: "album"
+    },
+    {
+        title: "Superunknown",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ae6d8e36136353d550b2587d",
+        rating: 5,
+        author: "Soundgarden",
+        link: "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA?si=I92NpNDDT9at3DdOYdR-0Q",
+        kind: "album"
+    },
+    {
+        title: "Experience",
+        cover: "https://i.scdn.co/image/ab67616d00001e028cd856419c4f5ac9994c64fe",
+        rating: 5,
+        author: "The Prodigy",
+        link: "https://open.spotify.com/album/2hEyYIrm4e6gVgfaYLY00x?si=fNhxTJP0S0aSwH7nreBIUQ",
+        kind: "album"
+    },
+    {
+        title: "Rock 'n' Roll Animal",
+        cover: "https://i.scdn.co/image/ab67616d00001e026f45f8b4aaf3ee06469c9f5b",
+        rating: 5,
+        author: "Lou Reed",
+        link: "https://open.spotify.com/album/7ibv6MJHfkq0al0QRmoCd6?si=99zZhi5vRjy1sFQSd1RDrg",
+        kind: "album"
+    },
+    {
+        title: "Transformer",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d55149748dca0e5a1f40778e",
+        rating: 5,
+        author: "Lou Reed",
+        link: "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St?si=8j_Pc0BxRG2lfZZeAjMrRA",
+        kind: "album"
+    },
+    {
+        title: "New York",
+        cover: "https://i.scdn.co/image/ab67616d00001e026386bf63d1326306c9b168ef",
+        rating: 5,
+        author: "Lou Reed",
+        link: "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t?si=2WRQSy_OQ8ONWS7jIT59tA",
+        kind: "album"
+    },
+    {
+        title: "Lust For Life",
+        cover: "https://i.scdn.co/image/ab67616d00001e024aa5f679427e35409a06f225",
+        rating: 5,
+        author: "Iggy Pop",
+        link: "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz?si=UGiYTvJoS2W22eukQn-DQw",
+        kind: "album"
+    },
+    {
+        title: "The Idiot",
+        cover: "https://i.scdn.co/image/ab67616d00001e022023cfc4febdbe8213a41f8a",
+        rating: 5,
+        author: "Iggy Pop",
+        link: "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6?si=ECxctRs3S9q7_syvHONApQ",
+        kind: "album"
+    },
+    {
+        title: "10000 lépés",
+        cover: "https://i.scdn.co/image/ab67616d00001e021a8105b6d15067a8a81435c2",
+        rating: 5,
+        author: "Omega",
+        link: "https://open.spotify.com/album/5GVrqNePT3Rek05os9fegp?si=KK2xBDnaQbi92-uO35UGXQ",
+        kind: "album"
+    },
+    {
+        title: "Mothership",
+        cover: "https://i.scdn.co/image/ab67616d00001e0222f1b6c28ce5735646b2e569",
+        rating: 5,
+        author: "Led Zeppelin",
+        link: "https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh?si=DxABFJLwRYq2LssHDM23JA",
+        kind: "album"
+    },
+    {
+        title: "Amigos",
+        cover: "https://i.scdn.co/image/ab67616d00001e029dbda89d303ef548c712570f",
+        rating: 5,
+        author: "Santana",
+        link: "https://open.spotify.com/album/1xlThGcidi851d3NwHfjQH?si=3O4StAlcQReR-koH53jeKA",
+        kind: "album"
+    },
+
+    {
+        title: "Soaring",
+        cover: "https://i.scdn.co/image/ab67616d00001e029e54c15c0947e01e0e7238c7",
+        rating: 5,
+        author: "Puzzle",
+        link: "https://open.spotify.com/intl-fr/album/3piPM3MXYU1wmB9yz7UHcQ?si=82ea0eaaf7124533",
+        kind: "album"
+    },
+    {
+        title: "The Downward Spiral",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734078c255069c0e7a2553fa4a",
+        rating: 5,
+        author: "Nine Inch Nails",
+        link: "https://open.spotify.com/intl-fr/album/5I7lLu8xXJfGRdFUqHaLQU?si=1d16103fcdfb43c2",
+        kind: "album"
+    },
+    {
+        title: "Sacco e Vanzetti",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bd278960137489531c98c8b1",
+        rating: 5,
+        author: "Ennio Morricone",
+        link: "https://open.spotify.com/intl-fr/album/5Kh97XNvwMEk6hl4ZrOtKK?si=1495a513013a4105",
+        kind: "album"
+    },
+    {
+        title: "Its alive",
+        cover: "https://i.scdn.co/image/ab67616d00001e025fb94199e9cef141cba5c038",
+        rating: 5,
+        author: "La Luz",
+        link: "https://open.spotify.com/intl-fr/album/3B2xgIcoHjm1HdHYDydoUu?si=bfc7458767c841a0",
+        kind: "album"
+    },
+    {
+        title: "Plaisirs d'amour",
+        cover: "https://i.scdn.co/image/ab67616d00001e026219cb49fe3b85a56c416e5e",
+        rating: 5,
+        author: "René Aubry",
+        link: "https://open.spotify.com/intl-fr/album/4qOpd4VHIeXU8W2yAay4XL?si=25d2c14247714602",
+        kind: "album"
+    },
+    {
+        title: "The Smiths",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a09b231129ab1cb1a6efc57f",
+        rating: 5,
+        author: "The Smiths",
+        link: "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN?si=rYF7oUjrQg2TVdYhpD1EBw",
+        kind: "album"
+    },
+    {
+        title: "R Plus Seven",
+        cover: "https://i.scdn.co/image/ab67616d00001e02550e1f33331271473e05b0f0",
+        rating: 5,
+        author: "Oneohtrix Point Never",
+        link: "https://open.spotify.com/album/6MEswIpaIGVN8M68FGr550?si=VVB_MMZ2TR6KiqVt_zeITg",
+        kind: "album"
+    },
+    {
+        title: "Surrender",
+        cover: "https://i.scdn.co/image/ab67616d00001e0229dc59785f4c767fcbfc9e38",
+        rating: 5,
+        author: "The Chemical Brothers",
+        link: "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3?si=WC0PeknAQMypuS2G06yIyA",
+        kind: "album"
+    },
+    {
+        title: "La Planète Sauvage",
+        cover: "https://i.scdn.co/image/ab67616d00001e02da435c0e7c069c4b8cd90eff",
+        rating: 5,
+        author: "Alain Goraguer",
+        link: "https://open.spotify.com/album/4BF1mMXkDo1NcJCgEBXKEk?si=3V72a01FT6-x8OU7BrNHtg",
+        kind: "album"
+    },
+    {
+        title: "1584660650",
+        cover: "https://i.scdn.co/image/ab67616d00001e024fa0196ad0b1435563fbd4ab",
+        rating: 5,
+        author: "Fine-Sir-1584660650",
+        link: "https://open.spotify.com/album/4JY1a8QLSJD0JNSOZ2ekJ2?si=OSkXs36ETGKL2egce4SfWw",
+        kind: "album"
+    },
+    {
+        title: "Crystal Castles",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b01fea159227ea845c2bd72e",
+        rating: 5,
+        author: "Crystal Castles",
+        link: "https://open.spotify.com/album/3LnVvIeiLCngvwEnbdxwCT?si=FCs_ESPuRt6YxjlbXZWFPw",
+        kind: "album"
+    },
+    {
+        title: "Rebell Yell",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ea07dca8b4ca808c1e5b17fb",
+        rating: 5,
+        author: "Billy Idol",
+        link: "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj?si=Zs0zvPmnSAmEIBsI2Yk8bA",
+        kind: "album"
+    },
+    {
+        title: "Alive 2007",
+        cover: "https://i.scdn.co/image/ab67616d00001e02673288fb985e5c194536ae27",
+        rating: 5,
+        author: "Daft Punk",
+        link: "https://open.spotify.com/album/7u6zL7kqpgLPISZYXNTgYk?si=ErzPjP0ARDK_2CXet0udCg",
+        kind: "album"
+    },
+    {
+        title: "Cosmic Messenger",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b5d4374a23ae05bbc834f78d",
+        rating: 5,
+        author: "Jean-Luc Ponty",
+        link: "https://open.spotify.com/album/6EfLu75i2jqhN4s4xlqh6m?si=L1nB73J_R0CtfwTMKULNIA",
+        kind: "album"
+    },
+    {
+        title: "Enigmatic Ocean",
+        cover: "https://i.scdn.co/image/ab67616d00001e024b5090050309c67110e2640a",
+        rating: 5,
+        author: "Jean-Luc Ponty",
+        link: "https://open.spotify.com/album/7Der8eY3aiNi3cieeMBRFB?si=QL0w_a7JQQmHViDVFW6TqA",
+        kind: "album"
+    },
+    {
+        title: "Mystical Adventures",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c1426c6c8d232c3f989d1eea",
+        rating: 5,
+        author: "Jean-Luc Ponty",
+        link: "https://open.spotify.com/album/3sRDigE2YdvQxHHJBYzVOT?si=rEC9XF5wQZ-Ly4h9iALegw",
+        kind: "album"
+    },
+    {
+        title: "More Than Meets The Ear",
+        cover: "https://i.scdn.co/image/ab67616d00001e025a2b32c26554809c65fcebdd",
+        rating: 5,
+        author: "Jean-Luc Ponty",
+        link: "https://open.spotify.com/album/5iBrOoF7NWcWAwqvUlp3vF?si=9STQkJfsQy-XRKhW-cYuRw",
+        kind: "album"
+    },
+    {
+        title: "The Gift Of Time",
+        cover: "https://i.scdn.co/image/ab67616d00001e022a3051e76d4d80294d63dd70",
+        rating: 5,
+        author: "Jean-Luc Ponty",
+        link: "https://open.spotify.com/album/62Qyi10NujVY0LGOAgA5nc?si=O2qPtBnwRYukAS11iBuecQ",
+        kind: "album"
+    },
+    {
+        title: "It Began In Afrika",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c2a3ee68e62d2c2cf9853576",
+        rating: 5,
+        author: "The Chemical Brothers",
+        link: "https://open.spotify.com/album/1XThG0D6l2avQMhMSXtY1P?si=7500gbHGQOiXoQ8cCcQftg",
+        kind: "album"
+    },
+    {
+        title: "My Generation",
+        cover: "https://i.scdn.co/image/ab67616d00001e0234658b1827b64a1d4d5a5ca9",
+        rating: 5,
+        author: "The Who",
+        link: "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy?si=kN63MpSXTd-z2aTlqEw0vg",
+        kind: "album"
+    },
+    {
+        title: "Herb Alpert Presents Sergio Mendes & Brasil '66",
+        cover: "https://i.scdn.co/image/ab67616d00001e02669997c50e4896d14c469a02",
+        rating: 5,
+        author: "Herb Alpert",
+        link: "https://open.spotify.com/album/0bPYHZxK1WgszwiNnCa79U?si=2vbEr6zFR2iKWYhRMjH1eQ",
+        kind: "album"
+    },
+    {
+        title: "Twoism",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f49a49ce8736c14f4d4990fb",
+        rating: 5,
+        author: "Boards of Canada",
+        link: "https://open.spotify.com/album/46YfeDd8YhuAcywdxZkRqf?si=1F1P-UjQTIu9pTDXUv8RYQ",
+        kind: "album"
+    },
+    {
+        title: "Mezzanine",
+        cover: "https://i.scdn.co/image/ab67616d00001e022fcb0a3c7a66e516b11cd26e",
+        rating: 5,
+        author: "Massive Attack",
+        link: "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR?si=CAocdMtRQB6xMVTbkgmjcw",
+        kind: "album"
+    },
+    {
+        title: "Dance Hall Style",
+        cover: "https://i.scdn.co/image/ab67616d00001e020ddf1762d8c79514aaf317af",
+        rating: 5,
+        author: "Horace Handy",
+        link: "https://open.spotify.com/album/7rjTtjpSy2SzL8cydh1W5s?si=NZGf_kUVQBaUzlBWVpBJKQ",
+        kind: "album"
+    },
+    {
+        title: "Deathconsciousness",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a54f2b401501b3569990c256",
+        rating: 5,
+        author: "Have A Nice Life",
+        link: "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM?si=rCrFI7A8Skqp2fqU_GzCkQ",
+        kind: "album"
+    },
+    {
+        title: "Never Mind The Bollocks, Here's The Sex Pistols",
+        cover: "https://i.scdn.co/image/ab67616d00001e0260d17b40194e90e1dd6bc5fd",
+        rating: 5,
+        author: "Sex Pistols",
+        link: "https://open.spotify.com/album/17lv1Ruxq46ZK5xAINAX8J?si=TgLXqqzoS1ewV0lMT6_mCg",
+        kind: "album"
+    },
+    {
+        title: "In The Court Of The Crimson King",
+        cover: "https://i.scdn.co/image/ab67616d00001e02da7b326bd7ffa7b6b95b0660",
+        rating: 5,
+        author: "King Crimson",
+        link: "https://open.spotify.com/album/75ol9OP8bJaRqzGimpFHDm?si=V7M_LdjIS2GH5AGjtPOvyA",
+        kind: "album"
+    },
+    {
+        title: "Parachute",
+        cover: "https://i.scdn.co/image/ab67616d00001e0277fb589d6b097775f1ce3dcd",
+        rating: 5,
+        author: "The Pretty Things",
+        link: "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK?si=34alwmBrQvWilRyjLXdyVA",
+        kind: "album"
+    },
+    {
+        title: "She Wants Revenge",
+        cover: "https://i.scdn.co/image/ab67616d00001e02717f38200c8370df83f6364b",
+        rating: 5,
+        author: "She Wants Revenge",
+        link: "https://open.spotify.com/album/3S41D3x5NUwlVOuUNwoZ16?si=n5USH2MnS_GaE6lC62CZSg",
+        kind: "album"
+    },
+    {
+        title: "Up And Down",
+        cover: "https://i.scdn.co/image/ab67616d00001e0256f3f4957adbe9677d92f015",
+        rating: 5,
+        author: "She Wants Revenge",
+        link: "https://open.spotify.com/album/5vhJlo8GF4hfoFexjo3zZu?si=Xy4dMMQNSt6-X_szs5SU8Q",
+        kind: "album"
+    },
+    {
+        title: "Ice 'n' Green",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d57a0c3e3023c3e05d061960",
+        rating: 5,
+        author: "Ice Mc",
+        link: "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML?si=FBq39oLwRjix70befvVXDw",
+        kind: "album"
+    },
+    {
+        title: "Inside",
+        cover: "https://i.scdn.co/image/ab67616d00001e0262929dd943cfaaa0a6f0879c",
+        rating: 5,
+        author: "Eloy",
+        link: "https://open.spotify.com/album/6mnhtrfvfW4kW6XrxCsD3T?si=431HAZdDQQqJ5k8CYJ7RvA",
+        kind: "album"
+    },
+    {
+        title: "Led Zeppelin II",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f396ea414b735ef23e2ed1a9",
+        rating: 5,
+        author: "Led Zeppelin",
+        link: "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y?si=TRjRZiZ-Qt-rvqlAMKbvqw",
+        kind: "album"
+    },
+    {
+        title: "Led Zeppelin III",
+        cover: "https://i.scdn.co/image/ab67616d00001e0290a50cfe99a4c19ff3cbfbdb",
+        rating: 5,
+        author: "Led Zeppelin",
+        link: "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut?si=xD6mjjclS2WD9qGLC7PVNg",
+        kind: "album"
+    },
+    {
+        title: "Led Zeppelin IV",
+        cover: "https://i.scdn.co/image/ab67616d00001e024509204d0860cc0cc67e83dc",
+        rating: 5,
+        author: "Led Zeppelin",
+        link: "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX?si=nxtTnclWTy6f9wonxql75Q",
+        kind: "album"
+    },
+    {
+        title: "Silent Cries And Mighty Echoes",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b4fb31db30c04a9e2f7626eb",
+        rating: 5,
+        author: "Eloy",
+        link: "https://open.spotify.com/album/2r2xRCQbhNanjDfa6YunIR?si=3WLms4qCRrmrnI9Z7XNrEw",
+        kind: "album"
+    },
+    {
+        title: "choke enough",
+        cover: "https://i.scdn.co/image/ab67616d00001e0282cd01439c783e21898a9f84",
+        rating: 5,
+        author: "oklou",
+        link: "https://open.spotify.com/album/4TQqRcEliluExEwsmWVenF?si=X5gM6X2oT0GO-K660wLHnQ",
+        kind: "album"
+    },
+    {
+        title: "Perfectly Blue",
+        cover: "https://i.scdn.co/image/ab67616d00001e0209e4f5566d3d59864544b568",
+        rating: 5,
+        author: "RIP Swirl",
+        link: "https://open.spotify.com/album/41QqoYgZKBZyd74WtB0vq2?si=bmFYJHRRQNCwsq-FnCYs5g",
+        kind: "album"
+    },
+    {
+        title: "The Turn Of A Friendly Card",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b4d76c01778a41bcd993f550",
+        rating: 5,
+        author: "The Alan Parsons Project",
+        link: "https://open.spotify.com/album/1yPaTI4UxwbhZYbRkyZrFR?si=K3JNyC3_QxagpxRm5dyqJQ",
+        kind: "album"
+    },
+    {
+        title: "Homework",
+        cover: "https://i.scdn.co/image/ab67616d00001e028ac778cc7d88779f74d33311",
+        rating: 5,
+        author: "Daft Punk",
+        link: "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y?si=33L7gQ2ISzWJlerFIB52JQ",
+        kind: "album"
+    },
+    {
+        title: "Herp Alpert & the Tijuana Brass",
+        cover: "https://i.scdn.co/image/ab67616d00001e021586c0813e5ce5559d696d17",
+        rating: 5,
+        author: "Herp Alpert",
+        link: "https://open.spotify.com/album/1gKrnjjDM8R3RD7iwg0tGM?si=7iMLBO6ARku9yUHj2jJFug",
+        kind: "album"
+    },
+    {
+        title: "Steal This Album!",
+        cover: "https://i.scdn.co/image/ab67616d00001e027cf4c0d42c5b62c9deebdcd8",
+        rating: 5,
+        author: "System of a Down",
+        link: "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT?si=ubPAR9V-QkOZjFsZ1zpx_Q",
+        kind: "album"
+    },
+    {
+        title: "EUSEXUA",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bd5d937814595eeb925ab03f",
+        rating: 5,
+        author: "FKA Twigs",
+        link: "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF?si=B0V64BADRuaAMuFnjj9RGw",
+        kind: "album"
+    },
+
+
+
+
+
+    
+    {
+        title: "The Moon and the Melodies",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f510b1ab6184d8eecf6ba4bc",
+        rating: 5,
+        author: "Cocteau Twins",
+        link: "https://open.spotify.com/album/3qEiWhSF2HO1NhVJVsGyZm?si=TCHXHszjSE2PyDj3c8ikwA",
+        kind: "album"
+    },
+    {
+        title: "Come To Daddy",
+        cover: "https://i.scdn.co/image/ab67616d00001e0223ac84a525286001770abc8e",
+        rating: 5,
+        author: "Aphex Twin",
+        link: "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx?si=RSoqnkBySH65GzWJ_cgelw",
+        kind: "album"
+    },
+    {
+        title: "Richard D. James Album",
+        cover: "https://i.scdn.co/image/ab67616d00001e021298f1ce7b0e4fb6a3caba57",
+        rating: 5,
+        author: "Aphex Twin",
+        link: "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO?si=_4TnvI58SwiUpBS7pekzMA",
+        kind: "album"
+    },
+    {
+        title: "Chick Habit",
+        cover: "https://i.scdn.co/image/ab67616d00001e020cd486a347167c9c39d92342",
+        rating: 5,
+        author: "April March",
+        link: "https://open.spotify.com/album/4Xn3fY5S63b736UT4MN4mk?si=jcs2j2g8TDa8Y0Ikg970eg",
+        kind: "album"
+    },
+    {
+        title: "The No Comprendo",
+        cover: "https://i.scdn.co/image/ab67616d00001e0212a5afee4ffdefdc65cbc441",
+        rating: 5,
+        author: "Les Rita Mitsouko",
+        link: "https://open.spotify.com/album/3VnFLQ6pO9MSvVeKv5DHjY?si=wsnzszGISg6IJxS0DlHdEQ",
+        kind: "album"
+    },
+    {
+        title: "The Piper At The Gates Of Dawn",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ebf2ba3431fa5fdbffaff684",
+        rating: 5,
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/album/0Fke5eiQ6lszQHlwiFygqn?si=zyuXENnVQka0emuQCzPovQ",
+        kind: "album"
+    },
+    {
+        title: "Bitume Caviar (Vol.1)",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a7f9118d82700a41c3b3d82d",
+        rating: 5,
+        author: "Isha et Lisma d'Aulnay",
+        link: "https://open.spotify.com/album/3Fr9OWBaK5i1nZh0BT38jN?si=MRH6uo7ASPaCP4y10FgXDA",
+        kind: "album"
+    },
+    {
+        title: "Vertical Smiles",
+        cover: "https://i.scdn.co/image/ab67616d00001e02379cdcd991ccb22e7ad6711f",
+        rating: 5,
+        author: "Blackfoot",
+        link: "https://open.spotify.com/album/59DGwDQ1Ce7UiAsoztOOM1?si=k9STYpn9SBOIvzT3Dja4MA",
+        kind: "album"
+    },
+    {
+        title: "Jours Etranges",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e045585a947eb63798ad8538",
+        rating: 5,
+        author: "Saez",
+        link: "https://open.spotify.com/album/2bg7qOhAn5apkOzX5v2SHg?si=5AkVcPXSQU6O5XeKk0XbRA",
+        kind: "album"
+    },
+    {
+        title: "CHROMAKOPIA",
+        cover: "https://i.scdn.co/image/ab67616d00001e02124e9249fada4ff3c3a0739c",
+        rating: 5,
+        author: "Tyler, The Creator",
+        link: "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH?si=72f1TMzKSv6qeC-ys1K5_g",
+        kind: "album"
+    },
+    {
+        title: "The Snow Goose",
+        cover: "https://i.scdn.co/image/ab67616d00001e02efb0c17ee823ccfa2a091663",
+        rating: 5,
+        author: "Camel",
+        link: "https://open.spotify.com/album/7ny9OWZ336Y4gGSSgHlkFB?si=wW36eHA3SE2ywG0UQJMvLg",
+        kind: "album"
+    },
+    {
+        title: "Bless Its Pointed Little Head",
+        cover: "https://i.scdn.co/image/ab67616d00001e025b9cb32582085ecbd5ecceaf",
+        rating: 5,
+        author: "Jefferson Airplane",
+        link: "https://open.spotify.com/album/2ZkdTV6IV5arY4hS6ztM2g?si=hI7g5lYnScaebGow9Yof-g",
+        kind: "album"
+    },
+    {
+        title: "Disintegration",
+        cover: "https://i.scdn.co/image/ab67616d00001e02858ed9e2832801189187391a",
+        rating: 5,
+        author: "The Cure",
+        link: "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS?si=zR40bTZaTrKkeUfK-ozeDw",
+        kind: "album"
+    },
+    {
+        title: "The Head On The Door",
+        cover: "https://i.scdn.co/image/ab67616d00001e021dda5f57ba5c203f775ea2dd",
+        rating: 5,
+        author: "The Cure",
+        link: "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx?si=RsYuHtDLS_-pXZiYo8nxww",
+        kind: "album"
+    },
+    {
+        title: "Pornography",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bc895ce03f0a5dfd2f1597b5",
+        rating: 5,
+        author: "The Cure",
+        link: "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm?si=ac50deb581c94344",
+        kind: "album"
+    },
+    {
+        title: "Этажи",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d4549c0e601fbe7e8622a2f5",
+        rating: 5,
+        author: "Molchat Doma",
+        link: "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc?si=aqRD2z0IR5K0wu4eVZUliQ",
+        kind: "album"
+    },
+    {
+        title: "Pacifique",
+        cover: "https://i.scdn.co/image/ab67616d00001e0212c59264bf24b263b27b8dc7",
+        rating: 5,
+        author: "Disiz",
+        link: "https://open.spotify.com/album/0h9tYZeKtjZ8rsfGknVqwF?si=wvo0oRCFRZ2PaHtscakgYw",
+        kind: "album"
+    },
+    {
+        title: "Ferric Oxide",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c43ee2c59d5d6b0d4b3a2075",
+        rating: 5,
+        author: "Panchiko",
+        link: "https://open.spotify.com/album/2XEgoiYtf35w31ZZm3isN0?si=zmsKvJUdQUGaqbNkY4N76A",
+        kind: "album"
+    },
+    {
+        title: "Reminiscence",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f3fc61d2bba6b57b80607c5e",
+        rating: 5,
+        author: "Wink",
+        link: "https://open.spotify.com/album/1sWt7D8SIqILz7LLUP3iHR?si=XWjtFOI5TfW6gwwA3DY5qA",
+        kind: "album"
+    },
+    {
+        title: "Vicious Delicious",
+        cover: "https://i.scdn.co/image/ab67616d00001e022946296b5df89b2601732d8c",
+        rating: 5,
+        author: "Infected Mushrooms",
+        link: "https://open.spotify.com/album/0xihL8xT18rsBwjuYPhnme?si=OQsiUYZIRLiYWWOtFFCASg",
+        kind: "album"
+    },
+    {
+        title: "The Lost Ship",
+        cover: "https://i.scdn.co/image/ab67616d00001e02687087ac514d54f724e45f4d",
+        rating: 5,
+        author: "Panda Dub",
+        link: "https://open.spotify.com/album/2o926sodjWyP9IBahD5YoF?si=bntg5ZSZTBOslu76RKtDsg",
+        kind: "album"
+    },
+    {
+        title: "Shapes and Shadows",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f62264d635b334a3c29cd8cb",
+        rating: 5,
+        author: "Panda Dub",
+        link: "https://open.spotify.com/album/229OeMBJWAf2xy7aom3aTQ?si=YRycQGJ0ShWpeT-pUVgGcg",
+        kind: "album"
+    },
+    {
+        title: "Buena Vista Social Club",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e14a9fa0dd781bff247116b3",
+        rating: 5,
+        author: "Buena Vista Social Club",
+        link: "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt?si=a1NegqHAQDGuCU6qCtdZbw",
+        kind: "album"
+    },
+    {
+        title: "Loaded: Re-Loaded",
+        cover: "https://i.scdn.co/image/ab67616d00001e025816a37263f88929907c2dbd",
+        rating: 5,
+        author: "The Velvet Underground",
+        link: "https://open.spotify.com/album/1jYzTZV1cQXE89zA9ZSUpE?si=ZCPLSVpDRpq4bJoHy1cIng",
+        kind: "album"
+    },
+    {
+        title: "Forest of Lost Children",
+        cover: "https://i.scdn.co/image/ab67616d00001e02fd632c6df018130724e2fc57",
+        rating: 5,
+        author: "Kikagaku Moyo",
+        link: "https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA?si=fK-A6xteRpWhh89ZMGfh6g",
+        kind: "album"
+    },
+    {
+        title: "House in the Tall Grass",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a938f8d61319e7ca724ddd8c",
+        rating: 5,
+        author: "Kikagaku Moyo",
+        link: "https://open.spotify.com/album/0A6hLzACLoB32gRz2UFTYu?si=S9vlzWKfT6q8kUtLGJbLqQ",
+        kind: "album"
+    },
+    
+    {
+        title: "La Radiolina",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e37f9a3fdedc3d7dc2c49b26",
+        rating: 5,
+        author: "Manu Chao",
+        link: "https://i.scdn.co/image/ab67616d00001e02e37f9a3fdedc3d7dc2c49b26",
+        kind: "album"
+    },
+    {
+        title: "King of The Bongo",
+        cover: "https://i.scdn.co/image/ab67616d00001e0210bcce9ccaccc979d7358a17",
+        rating: 5,
+        author: "Manu Chao",
+        link: "https://open.spotify.com/album/5VMwAEtDGtNchZp8PCnx50?si=UAJLs9UVT7-OoEHiVagD8A",
+        kind: "album"
+    },
+    {
+        title: "No Eartly Connection",
+        cover: "https://i.scdn.co/image/ab67616d00001e027e0d3cafd5232d6ccb975946",
+        rating: 5,
+        author: "Rick Wakeman",
+        link: "https://open.spotify.com/album/7Kw6q6WZhz0BC7SJN99PLB?si=Xc8uFsLRRWepDXXN-BloNQ",
+        kind: "album"
+    },
+
+    {
+        title: "Toxicity",
+        cover: "https://i.scdn.co/image/ab67616d00001e0207bc7d2a745636c356b4d0aa",
+        rating: 5,
+        author: "System of a Down",
+        link: "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh?si=OV78jCZzRaikT1IJCO508Q",
+        kind: "album"
+    },
+    {
+        title: "Civilized Evil",
+        cover: "https://i.scdn.co/image/ab67616d00001e026880ca96312ca84020009730",
+        rating: 5,
+        author: "Jean-Luc Ponty",
+        link: "https://open.spotify.com/album/3HfjIGx8MTHt9pmL1rJyL9?si=UzNme3eVQdeXPx6vddzyYQ",
+        kind: "album"
+    },
+    {
+        title: "Tales Of Mystery And Imagination",
+        cover: "https://i.scdn.co/image/ab67616d00001e02dd7e9be4966d93c97906200d",
+        rating: 5,
+        author: "The Alan Parsons Project",
+        link: "https://open.spotify.com/album/0ICEGX26wNqIKLmWRpZxwx?si=2JVjRk5fS2SfB-kqSaJClQ",
+        kind: "album"
+    },
+    {
+        title: "Volcano",
+        cover: "https://i.scdn.co/image/ab67616d00001e021bd8726f0326ce113038a1f4",
+        rating: 5,
+        author: "Temples",
+        link: "https://open.spotify.com/album/0Mrv2YvHtRgyn3j3S38mEF?si=PAgPEZziSlqg7_-MfI624Q",
+        kind: "album"
+    },
+    {
+        title: "No Pussyfooting",
+        cover: "https://i.scdn.co/image/ab67616d00001e0268e33726e53c01d42a6d1f3c",
+        rating: 5,
+        author: "Brian Eno & Robert Fripp",
+        link: "https://open.spotify.com/album/7090pUnNlv1lklI2lI2X6J?si=iz68yPc_SMiO4Y6Zun4XFg",
+        kind: "album"
+    },
+    {
+        title: "Led Zeppelin",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c77c73285cc5cb64d97e1b0f",
+        rating: 5,
+        author: "Led Zeppelin",
+        link: "https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU?si=a9QKyyywQvq6JmnVn7n2IQ",
+        kind: "album"
+    },
+    {
+        title: "Sun Structures",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f35c8b47c52ab1f3668a6927",
+        rating: 5,
+        author: "Temples",
+        link: "https://open.spotify.com/album/0bJvWkM6E03FI8DEHiCuUU?si=32TCfO9tShCCzzBNHWpyHA",
+        kind: "album"
+    },
+    {
+        title: "Music Has The Right To Children",
+        cover: "https://i.scdn.co/image/ab67616d00001e029effb26eea559ce6f3fed751",
+        rating: 5,
+        author: "Boards of Canada",
+        link: "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU?si=ROCuqIgWRK2DOyHS-RwArg",
+        kind: "album"
+    },
+    {
+        title: "Quoth",
+        cover: "https://i.scdn.co/image/ab67616d00001e02576800526554c66833197d76",
+        rating: 3.6,
+        author: "Aphex Twin",
+        link: "https://open.spotify.com/album/4F83Th71IEwecavhxGFGzN?si=_iEnUFVSTOOkMrHMvcNAnw",
+        kind: "album"
+    },
+    {
+        title: "Undertow",
+        cover: "https://i.scdn.co/image/ab67616d00001e0282298636c94b8167c4793db2",
+        rating: 3.6,
+        author: "TOOL",
+        link: "https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0?si=PLR3N6J3Say_gAPqxM-NvQ",
+        kind: "album"
+    },
+    {
+        title: "The Pearl",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a00536b039aaefb64040d8dd",
+        rating: 4.8,
+        author: "Harold Budd",
+        link: "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP?si=yKHckzBnTQ2hX4yj1MlCew",
+        kind: "album"
+    },
+    {
+        title: "Ambient 4: On Land",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c83fef08b45f1784b4e916ba",
+        rating: 5,
+        author: "Brian Eno",
+        link: "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh?si=Luh5los9SM24YNpVPSzKdg",
+        kind: "album"
+    },
+    {
+        title: "Getz/Gilberto",
+        cover: "https://i.scdn.co/image/ab67616d00001e02417cc363d7286a88489dee3c",
+        rating: 3.6,
+        author: "Stan Getz",
+        link: "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP?si=9hU3UJ6MR7ayQ4RGCBLGKA",
+        kind: "album"
+    },
+    {
+        title: "The Fame Monster",
+        cover: "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa",
+        rating: 4,
+        author: "Lady Gaga",
+        link: "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4?si=YvHpcrHmTbyvl2mhHtnHMg",
+        kind: "album"
+    },
+    {
+        title: "Ambient 2: The Plateaux Of Mirror",
+        cover: "https://i.scdn.co/image/ab67616d00001e02eba05344ff7ca99e2fd35545",
+        rating: 4.2,
+        author: "Brian Eno",
+        link: "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO?si=Rpwja9KdSnGPdAdSks7yUQ",
+        kind: "album"
+    },
+    {
+        title: "Howl's Moving Castle",
+        cover: "https://i.scdn.co/image/ab67616d00001e0262c1f3370811c52ae2d26d24",
+        rating: 5,
+        author: "Joe Hisaishi",
+        link: "https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl?si=JQVhwslmSl2Rd2kUfwRL_w",
+        kind: "album"
+    },
+    {
+        title: "The Wind Rises",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c853c5a8535cc3dc394efc58",
+        rating: 5,
+        author: "Joe Hisaishi",
+        link: "https://open.spotify.com/album/59U5FQ4kDEt11Q2UcFu1dK?si=RmU-9e3RRMaaPbcepRClkQ",
+        kind: "album"
+    },
+
+
+    
+    {
+        title: "Debut",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737a94db8056a761764c01dd84",
+        rating: 5,
+        author: "Björk",
+        link: "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr?si=Ti59RX9bSi6bjU4MPmOQpg",
+        kind: "album"
+    },
+    {
+        title: "Breakfast In America",
+        cover: "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e",
+        rating: 5,
+        author: "Björk",
+        link: "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna?si=Wu8Gn14gTBOlXa_-sF1soA",
+        kind: "album"
+    },
+    {
+        title: "Black Sabbath",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e61731abae915074b93416e9",
+        rating: 5,
+        author: "Black Sabbath",
+        link: "https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ?si=sPnyHdvbRJigpy91TFBOrA",
+        kind: "album"
+    },
+    {
+        title: "Maggot Brain",
+        cover: "https://i.scdn.co/image/ab67616d00001e0252573463beeda67fe242cab5",
+        rating: 5,
+        author: "Funkadelic",
+        link: "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm?si=G6NBgEIMS_qI0HR63Hp2dg",
+        kind: "album"
+    },
+    {
+        title: "Close To The Edge",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a4df8db3f73e5258951a8b3c",
+        rating: 5,
+        author: "Yes",
+        link: "https://open.spotify.com/album/6344rkGqCBDenGoS7eJlBN?si=SD3VdiSHTmqMNNYkFRDGxA",
+        kind: "album"
+    },
+    {
+        title: "The Wall",
+        cover: "https://i.scdn.co/image/ab67616d00001e025d48e2f56d691f9a4e4b0bdf",
+        rating: 5,
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F?si=z31lmmq7TnizDDEPkp1xVQ",
+        kind: "album"
+    },
+    {
+        title: "Are You Experienced",
+        cover: "https://i.scdn.co/image/ab67616d00001e028d0212a10cc2d93289d29b32",
+        rating: 5,
+        author: "Jimi Hendrix",
+        link: "https://open.spotify.com/album/719ELjvRzp0lHiLyAuAGj3?si=r7XNAlq9QiemA9xjjxZSnA",
+        kind: "album"
+    },
+    {
+        title: "Electric Ladyland",
+        cover: "https://i.scdn.co/image/ab67616d00001e0219dcd95d28b63d10164327f2",
+        rating: 5,
+        author: "Jimi Hendrix",
+        link: "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ?si=Y79Zvg-mS9K9VLIkkC5YHQ",
+        kind: "album"
+    },
+    {
+        title: "Axis: Bold as Love",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737a94db8056a761764c01dd84",
+        rating: 5,
+        author: "Jimi Hendrix",
+        link: "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r?si=FIwYZPDpRaOr4QMjdtpF9Q",
+        kind: "album"
+    },
+    {
+        title: "D>E>A>T>H>M>E>T>A>L",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e045aa197ada995407bf92fc",
+        rating: 5,
+        author: "Panchiko",
+        link: "https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q?si=7mK_UAjiSKKF_ArZN9V4mg",
+        kind: "album"
+    },
+    {
+        title: "The Roaring Silence",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f7a46588d1f34cd32e670bb4",
+        rating: 5,
+        author: "Manfred Mann's Earth Band",
+        link: "https://open.spotify.com/album/2DNW1VVywtxEtfay126Sk9?si=3cJWzF7gTfW5nkZqjut56g",
+        kind: "album"
+    },
+    {
+        title: "Live In Budapest",
+        cover: "https://i.scdn.co/image/ab67616d00001e0218288532ca2c12a2ac322a3b",
+        rating: 5,
+        author: "Manfred Mann's Earth Band",
+        link: "https://open.spotify.com/album/6Xdk0p7kXM11mb1GWA0Ji3?si=k8cZKogbQfaPxpB0U9LTQg",
+        kind: "album"
+    },
+    {
+        title: "Watch",
+        cover: "https://i.scdn.co/image/ab67616d00001e02687dcfc2eb9309eb5eab7f1e",
+        rating: 5,
+        author: "Manfred Mann's Earth Band",
+        link: "https://open.spotify.com/album/1uFT6dAxYrfRdWnGDJAKZO?si=pEB0lT1MRzeqr-f9IZoL9A",
+        kind: "album"
+    },
+    {
+        title: "Puta's Fever",
+        cover: "https://i.scdn.co/image/ab67616d00001e02af054b09905136eb98c7a08c",
+        rating: 5,
+        author: "Mano Negra",
+        link: "https://open.spotify.com/album/5RRl8EN39JgDo5QsDOFTXz?si=3qHpcRg-TDO2ayO50aLYdA",
+        kind: "album"
+    },
+    {
+        title: "Patchanka",
+        cover: "https://i.scdn.co/image/ab67616d00001e020b9fca80401e636137c2fc8d",
+        rating: 5,
+        author: "Mano Negra",
+        link: "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ?si=RRiJLgMFRruDRE_EjxlYYw",
+        kind: "album"
+    },
+    {
+        title: "Próxima Estación: Esperanza",
+        cover: "https://i.scdn.co/image/ab67616d00001e021dcba4a728ca0b17cbd204a5",
+        rating: 5,
+        author: "Manu Chao",
+        link: "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo?si=IxAyEvGvTnywYz7f00yXbQ",
+        kind: "album"
+    },
+    {
+        title: "Viva Tu",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a2cab830efd2a509743ff230",
+        rating: 5,
+        author: "Manu Chao",
+        link: "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2?si=-DfMFG1oRlO9XETHC0WEEQ",
+        kind: "album"
+    },
+    {
+        title: "EL ÚLTIMO TOUR DEL MUNDO",
+        cover: "https://i.scdn.co/image/ab67616d00001e02005ee342f4eef2cc6e8436ab",
+        rating: 5,
+        author: "Bad Bunny",
+        link: "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW?si=q_SP1uVNSr6-M9FQcXSA4w",
+        kind: "album"
+    },
+    {
+        title: "DeBÍ TiRAR MáS FOToS",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+        rating: 5,
+        author: "Bad Bunny",
+        link: "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb?si=3faFnFucTkiz2gBRWPjsNw",
+        kind: "album"
+    },
+    {
+        title: "Lizard",
+        cover: "https://i.scdn.co/image/ab67616d00001e028f4652132e153badd7017df4",
+        rating: 5,
+        author: "King Crimson",
+        link: "https://open.spotify.com/album/4vvx8uOeJE7YR4tORVtYV4?si=IjqeOp9eQkCRDLto66JKIw",
+        kind: "album"
+    },
+    {
+        title: "Starless and Bible Black",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ebb799f3ca90f59bd04f6a72",
+        rating: 5,
+        author: "King Crimson",
+        link: "https://open.spotify.com/album/4ttC4XUinZXn3GMIQNrjFZ?si=XPlihMrMSgGrvMAyMSs87w",
+        kind: "album"
+    },
+    {
+        title: "Discipline",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ff2d2448a42a43c281b6f556",
+        rating: 5,
+        author: "King Crimson",
+        link: "https://open.spotify.com/album/20dTbQRkxuOTkf3SFyaT2m?si=QbnaMFlYR1e9kDxhwpnCrA",
+        kind: "album"
+    },
+    {
+        title: "Kink",
+        cover: "https://i.scdn.co/image/ab67616d00001e023b662e4bab01440eb4f31793",
+        rating: 5,
+        author: "The Kinks",
+        link: "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ?si=ScKwUtXaRHmH6JkIuVwafg",
+        kind: "album"
+    },
+    {
+        title: "Jefferson Airplane Takes Off",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a75f75c5194839fb77a4dcf7",
+        rating: 5,
+        author: "Jefferson Airplane",
+        link: "https://open.spotify.com/album/4WqJrAJCPjmYTzvN1PTWaB?si=5SNInSViQZW0n--IDRa36w",
+        kind: "album"
+    },
+    {
+        title: "Jefferson Airplane: The Woodstock Experience",
+        cover: "https://i.scdn.co/image/ab67616d00001e0240fefb6812399847a8b8713c",
+        rating: 5,
+        author: "Jefferson Airplane",
+        link: "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a?si=1t2QC89bSpeX7MM_M7Uu3w",
+        kind: "album"
+    },
+    {
+        title: "La Vie Augmente, Vol.3",
+        cover: "https://i.scdn.co/image/ab67616d00001e021670ddf236cd50f995b0ce9e",
+        rating: 5,
+        author: "ISHA",
+        link: "https://open.spotify.com/album/2vG3FiOIQqk8l0gG7p6jYf?si=9AVPekXxRiqoKRPHo-6VIQ",
+        kind: "album"
+    },
+    {
+        title: "La Vie Augmente, Vol.2",
+        cover: "https://i.scdn.co/image/ab67616d00001e021d3f20d0a9be55b758c816a9",
+        rating: 5,
+        author: "ISHA",
+        link: "https://open.spotify.com/album/0HGsUbxth45uHwhtD8nFR1?si=E03D7waBSq2ujj5OE0CSsw",
+        kind: "album"
+    },
+    {
+        title: "La Vie Augmente, Vol.1",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d6f5b51ef29252f8817201b6",
+        rating: 5,
+        author: "ISHA",
+        link: "https://open.spotify.com/album/7cXkwH5Q96UKBtlGuFbkpK?si=P1m3YhjOSFqMkVYjnAAntw",
+        kind: "album"
+    },
+    {
+        title: "Ocean",
+        cover: "https://i.scdn.co/image/ab67616d00001e02352a540820179ba257800b6b",
+        rating: 5,
+        author: "Eloy",
+        link: "https://open.spotify.com/album/055oBGhGjcZixkBREWdav2?si=lfiCED-USBmuWK7vM2ArHw",
+        kind: "album"
+    },
+
+
+
+    {
+        title: "Ocean II",
+        cover: "https://i.scdn.co/image/ab67616d00001e0281466203fc1587fa677ae084",
+        rating: 5,
+        author: "Eloy",
+        link: "https://open.spotify.com/album/28ayZSBRiNwn3BqmcpThHd?si=p9QbA1YhRn2NyhvIMtxPOQ",
+        kind: "album"
+    },
+    {
+        title: "L.W",
+        cover: "https://i.scdn.co/image/ab67616d00001e021f0fd0835e055d96b82ccaf0",
+        rating: 5,
+        author: "King Gizzard & The Lizard Wizard",
+        link: "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx?si=V28w2cKJTK-L_BfYl5qe_A",
+        kind: "album"
+    },
+    {
+        title: "Extra-Lucide",
+        cover: "https://i.scdn.co/image/ab67616d00001e023bada981b0fdd5c948256d3c",
+        rating: 5,
+        author: "Disiz",
+        link: "https://open.spotify.com/album/1FZzmpp4D4mDVqnm6ffwkP?si=E89rabRfT0yTlAZWyzLUvw",
+        kind: "album"
+    },
+    {
+        title: "Disizilla",
+        cover: "https://i.scdn.co/image/ab67616d00001e0220f839e57854a45d495b29b8",
+        rating: 5,
+        author: "Disiz",
+        link: "https://open.spotify.com/album/2vVDeIVO3ja0RdlQf20NOB?si=kDfPyLjxRu6-LtTvpbJQ1Q",
+        kind: "album"
+    },
+    {
+        title: "L'Amour",
+        cover: "https://i.scdn.co/image/ab67616d00001e020a3418c7d155f8974eee9c7f",
+        rating: 5,
+        author: "Disiz",
+        link: "https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6?si=_1Mfcv68QtKBazyu20jC6w",
+        kind: "album"
+    },
+    {
+        title: "Diamond Dogs",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ad22c83a6e1567f8453c32b3",
+        rating: 5,
+        author: "David Bowie",
+        link: "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3?si=n97jZPfBRYu4G1100wMD7g",
+        kind: "album"
+    },
+    {
+        title: "Hunky Dory",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e464904cc3fed2b40fc55120",
+        rating: 5,
+        author: "David Bowie",
+        link: "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l?si=Qy4swGxXST2qBPSB-oJwcQ",
+        kind: "album"
+    },
+    {
+        title: "Heroes",
+        cover: "https://i.scdn.co/image/ab67616d00001e02204f41d52743c6a9efd62985",
+        rating: 5,
+        author: "David Bowie",
+        link: "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk?si=psS1yFWxQFSk92vAm7kgeg",
+        kind: "album"
+    },
+    {
+        title: "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c41f4e1133b0e6c5fcf58680",
+        rating: 5,
+        author: "David Bowie",
+        link: "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56?si=ew-4S5-qRx-eah7bQiCvgQ",
+        kind: "album"
+    },
+    {
+        title: "Discovery",
+        cover: "https://i.scdn.co/image/ab67616d00001e022c25dad9f8fd54652f7ba5df",
+        rating: 5,
+        author: "Daft Punk",
+        link: "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc?si=K9Q5aoIsTrm2jOEryUVGrA",
+        kind: "album"
+    },
+    {
+        title: "Human After All",
+        cover: "https://i.scdn.co/image/ab67616d00001e022ed719bad67261c7bf090c70",
+        rating: 5,
+        author: "Daft Punk",
+        link: "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu?si=t0G8PcXGScKxQkEHEbe8vQ",
+        kind: "album"
+    },
+    {
+        title: "TRON: Legacy",
+        cover: "https://i.scdn.co/image/ab67616d00001e028323143296ff7b2801e32789",
+        rating: 5,
+        author: "Daft Punk",
+        link: "https://open.spotify.com/album/3AMXFnwHWXCvNr5NCCpLZI?si=N4K_JL3_S2WgOGnd0Ew92A",
+        kind: "album"
+    },
+    {
+        title: "Random Access Memories",
+        cover: "https://i.scdn.co/image/ab67616d00001e029b9b36b0e22870b9f542d937",
+        rating: 5,
+        author: "Daft Punk",
+        link: "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa?si=zqreMKkATW2ApqyyWenY-w",
+        kind: "album"
+    },
+    {
+        title: "Amnesty (I)",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a51ae277980fbf5b2bd2c7e8",
+        rating: 5,
+        author: "Crystal Castles",
+        link: "https://open.spotify.com/album/60f7DBZ5BIKTlaGak6ooUU?si=g2gTVi9tRmqSq7IHP0mP-A",
+        kind: "album"
+    },
+    {
+        title: "Crystal Castles (II)",
+        cover: "https://i.scdn.co/image/ab67616d00001e02af54621b48da9687dc86011b",
+        rating: 5,
+        author: "Crystal Castles",
+        link: "https://open.spotify.com/album/3VsZ5nZGgyH30IDaCP4GeQ?si=TbTIfqlZRWGxq55r9H7EgQ",
+        kind: "album"
+    },
+    {
+        title: "Head Over Heels",
+        cover: "https://i.scdn.co/image/ab67616d00001e02dd69a64d46d35725c47df19c",
+        rating: 5,
+        author: "Cocteau Twins",
+        link: "https://open.spotify.com/album/52MMrcUtar0coGVHULkuQ9?si=1WkrBy6fRzK1uzlvjfb7ug",
+        kind: "album"
+    },
+    {
+        title: "Blue Bell Knoll",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ed2637f59f3f5eb1c049a005",
+        rating: 5,
+        author: "Cocteau Twins",
+        link: "https://open.spotify.com/album/3SXCY4kFMM4T4egq5DSUTa?si=hVbtb0pnSe6fVDRgpAXj1Q",
+        kind: "album"
+    },
+    {
+        title: "Heaven or Las Vegas",
+        cover: "https://i.scdn.co/image/ab67616d00001e025d2fdd1564ccab97e60c656f",
+        rating: 5,
+        author: "Cocteau Twins",
+        link: "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E?si=cOLIRKmgSxmU3vV_oXWvKw",
+        kind: "album"
+    },
+    {
+        title: "I Can See Your House From Here",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a5a422526541417ff7c19d94",
+        rating: 5,
+        author: "Camel",
+        link: "https://open.spotify.com/album/2UzcBmNQt45lrGuwIYEjec?si=bjW_foCSRMyZcNMPeATHNQ",
+        kind: "album"
+    },
+    {
+        title: "Pressure Points",
+        cover: "https://i.scdn.co/image/ab67616d00001e027a68cb2771173ca87cc09346",
+        rating: 5,
+        author: "Camel",
+        link: "https://open.spotify.com/album/5nPm3Gykzwe9Cvjc8xGLdA?si=eEAarYvHTWucC0_Xeudi9g",
+        kind: "album"
+    },
+    {
+        title: "Chameloen",
+        cover: "https://i.scdn.co/image/ab67616d00001e0206e561fa7e5bd67c95631217",
+        rating: 5,
+        author: "Camel",
+        link: "https://open.spotify.com/album/6o8DatzTclI30aDIewJJi7?si=3SzuBrJdTWWsn2HaL22pUg",
+        kind: "album"
+    },
+    {
+        title: "Stationary Traveller",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ea50f573eb4bdc6c304c5344",
+        rating: 5,
+        author: "Camel",
+        link: "https://open.spotify.com/album/78XGNvqT155xictf3VChQh?si=sWcldeUlREmnq-aIx29HRQ",
+        kind: "album"
+    },
+    {
+        title: "Camel",
+        cover: "https://i.scdn.co/image/ab67616d00001e02572a2c8c8092c82b9dfd48fc",
+        rating: 5,
+        author: "Camel",
+        link: "https://open.spotify.com/album/2WO6VIu5x3rMXWcMzH36jl?si=9cfalbDFRPiaQD9QguqG4A",
+        kind: "album"
+    },
+    {
+        title: "Moonmadness",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ecbc7b6ca15b79ca7ff05bd2",
+        rating: 5,
+        author: "Camel",
+        link: "https://open.spotify.com/album/5Q6eKTQNsOyu0fCpAFxuHR?si=t8CXuw8aS2GnAQm1OMc8Lw",
+        kind: "album"
+    },
+    {
+        title: "Ambient 1: Music For Airports",
+        cover: "https://i.scdn.co/image/ab67616d00001e0237a379ca6520eaf191de6ff2",
+        rating: 5,
+        author: "Brian Eno",
+        link: "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa?si=Fa9D9Hb_RAi7_f5fIyeB4g",
+        kind: "album"
+    },
+    {
+        title: "Le Monde Instrumental d'Alain Goraguer",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a7d7628d791e61527116c08c",
+        rating: 5,
+        author: "Alain Goraguer",
+        link: "https://open.spotify.com/album/3y1n62vanHyeV6Qsva9Kva?si=aojXvAlRTzyDMREXFd1kKg",
+        kind: "album"
+    },
+    {
+        title: "Faust: The Lost Recording",
+        cover: "https://i.scdn.co/image/ab67616d00001e0224ea58d5c5ac0de56bf06845",
+        rating: 5,
+        author: "Alain Goraguer",
+        link: "https://open.spotify.com/album/7AIiDdtf016wPSrTG950Cd?si=oWE6EpwFSriSE0TS6ZqRWw",
+        kind: "album"
+    },
+    {
+        title: "Rare Soundtracks & Lost Tapes",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ef23f01be6f55d4dc0cbaf82",
+        rating: 5,
+        author: "Alain Goraguer",
+        link: "https://open.spotify.com/album/3Cg46JE3tWPhlWsjBA0LU1?si=iqezQJr0RTqk0rTCEV51rg",
+        kind: "album"
+    },
+    {
+        title: "Selected Ambient Works 85-92",
+        cover: "https://i.scdn.co/image/ab67616d00001e0238906032688bb13b135ce19a",
+        rating: 5,
+        author: "Aphex Twin",
+        link: "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k?si=olVcOfhsQBW4X0RrSHsK_g",
+        kind: "album"
+    },
+    {
+        title: "Selected Ambient Works Volume II",
+        cover: "https://i.scdn.co/image/ab67616d00001e028155dc4dae262f31d39d8296",
+        rating: 5,
+        author: "Aphex Twin",
+        link: "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH?si=5XMZD_jrRmCl8gRAxmS4og",
+        kind: "album"
+    },
+    {
+        title: "Syro",
+        cover: "https://i.scdn.co/image/ab67616d00001e026ea96ba633bead24af562890",
+        rating: 5,
+        author: "Aphew Twin",
+        link: "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w?si=rXsUwY2wTUGe23Plv9OLqQ",
+        kind: "album"
+    },
+    {
+        title: "...I Care Because You Do",
+        cover: "https://i.scdn.co/image/ab67616d00001e024bcecb123363f1f0f869257c",
+        rating: 5,
+        author: "Aphex Twin",
+        link: "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE?si=dq-c2vu5QjS6qUHawmKZ9A",
+        kind: "album"
+    },
+    {
+        title: "Computer Controlled Acoustic Instruments pt2 EP",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c3de1c7467803876a809df16",
+        rating: 5,
+        author: "Aphex Twin",
+        link: "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01?si=nXrV6ftDToS26f0nwfNODQ",
+        kind: "album"
+    },
+    {
+        title: "Windowlicker",
+        cover: "https://i.scdn.co/image/ab67616d00001e02478bfd5562acad46103b858a",
+        rating: 5,
+        author: "Aphex Twin",
+        link: "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh?si=O2086kozSb2bunVod6-3Qw",
+        kind: "album"
+    },
+    {
+        title: "Xylem Tube EP",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d5ebffe9d4c1279ca0fc8e48",
+        rating: 5,
+        author: "Aphex Twin",
+        link: "https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX?si=TcBCPRWARzyBeqq8SIgrdQ",
+        kind: "album"
+    },
+    {
+        title: "Billy Idol",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
+        rating: 5,
+        author: "Billy Idol",
+        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        kind: "album"
+    },
+
+
+
+
+    {
+        title: "Beneath The Lilypad",
+        cover: "https://i.scdn.co/image/ab67616d00001e020235684750e40b7e5210b559",
+        rating: 5,
+        author: "Alexandra Savior",
+        link: "https://open.spotify.com/intl-fr/album/2inSjrL3SWgaUIIXxChNPd?si=rfgPDOJqQFmaUIQlqmVeOw",
+        kind: "album"
+    },
+    
+    {
+        title: "24 Cumbias Pa Bailar",
+        cover: "https://i.scdn.co/image/ab67616d00001e023e2396de5282580f00d3d897",
+        rating: 5,
+        author: "A Mover La Colita Cumbias",
+        link: "https://open.spotify.com/intl-fr/album/2inSjrL3SWgaUIIXxChNPd?si=62481741d9b047bf",
+        kind: "album"
+    },
+    
+    {
+        title: "Little Dark Age",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b47d309281c66820b7137f5d",
+        rating: 5,
+        author: "MGMT",
+        link: "https://open.spotify.com/intl-fr/album/7GjVWG39IOj4viyWplJV4H?si=L41q5_hWQSCZobzgDB0nYw",
+        kind: "album"
+    },
+    
+    {
+        title: "Ocular Spectacular",
+        cover: "https://i.scdn.co/image/ab67616d00001e028b32b139981e79f2ebe005eb",
+        rating: 5,
+        author: "MGMT",
+        link: "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv?si=9WwAoqF9Q9ivqMh-naBTkQ",
+        kind: "album"
+    },
+    
+    {
+        title: "Thirteen Tales Of Love And Revenge",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c81e8d3a686ea9d982c18330",
+        rating: 5,
+        author: "The Pierces",
+        link: "https://open.spotify.com/intl-fr/album/6Ymyr8aoX1jHVvrbGpyL24?si=pn_lLsCzRgW61Vx4HuGF6w",
+        kind: "album"
+    },
+    
+    {
+        title: "Cry",
+        cover: "https://i.scdn.co/image/ab67616d00001e02fd275af89cec73d6287f9cbf",
+        rating: 5,
+        author: "Cigarette After Sex",
+        link: "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy?si=OHa2aZiOTfWxosB3pN4iWQ",
+        kind: "album"
+    },
+    
+    {
+        title: "Cigarette After Sex",
+        cover: "https://i.scdn.co/image/ab67616d00001e02dfed999f959177dfc4f33cdc",
+        rating: 5,
+        author: "Cigarette After Sex",
+        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
+        kind: "album"
+    },
+    
+    {
+        title: "The Captain and Me",
+        cover: "https://i.scdn.co/image/ab67616d00001e027d419ac975423c069995c7bb",
+        rating: 5,
+        author: "The Doobie Brother",
+        link: "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt?si=WfpEoxTpSpOa1_bGjjyNNA",
+        kind: "album"
+    },
+    
+    {
+        title: "Ten",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d400d27cba05bb0545533864",
+        rating: 5,
+        author: "Pearl Jam",
+        link: "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a?si=mGrWK5rxRA-h5EyLsiEncg",
+        kind: "album"
+    },
+    
+    {
+        title: "Agent Of Fortune",
+        cover: "https://i.scdn.co/image/ab67616d00001e023ac318439ae56ce048d7bf5d",
+        rating: 5,
+        author: "Blue Öyster Cult",
+        link: "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt?si=hrgyfjUtQfuP9uAPf9tUKA",
+        kind: "album"
+    },
+    
+    {
+        title: "Dure Limite",
+        cover: "https://i.scdn.co/image/ab67616d00001e0266d63e400881e134337ead54",
+        rating: 5,
+        author: "Téléphone",
+        link: "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf?si=SdHDpAR6SAyIbf0vqxJe2w",
+        kind: "album"
+    },
+    
+    {
+        title: "Une Autre Monde",
+        cover: "https://i.scdn.co/image/ab67616d00001e021b1b30513f7158a6c77733d7",
+        rating: 5,
+        author: "Téléphone",
+        link: "https://open.spotify.com/album/5DiavRKmdRpqdzgBjoNEF3?si=uRcr1u43RgOldDyLm7lV_w",
+        kind: "album"
+    },
+    
+    {
+        title: "Steppenwolf",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e2aacda30b100cc33d523be0",
+        rating: 5,
+        author: "Steppenwolf",
+        link: "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8?si=mJlG7lkvQSuYYP9pz7DefQ",
+        kind: "album"
+    },
+    
+    {
+        title: "90125",
+        cover: "https://i.scdn.co/image/ab67616d00001e029d9a49f795b4340538f43435",
+        rating: 5,
+        author: "Yes",
+        link: "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz?si=ld7O_H9LR_WNayHzQzVXTw",
+        kind: "album"
+    },
+    
+    {
+        title: "Who's Next",
+        cover: "https://i.scdn.co/image/ab67616d00001e02fe24dcd263c08c6dd84b6e8c",
+        rating: 5,
+        author: "The Who",
+        link: "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ?si=Fdj7OzbxRQa8jUarpo1Nzw",
+        kind: "album"
+    },
+    
+    {
+        title: "Toto IV",
+        cover: "https://i.scdn.co/image/ab67616d00001e024a052b99c042dc15f933145b",
+        rating: 5,
+        author: "TOTO",
+        link: "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D?si=JWrEE3ccTGWm4AG915Wp7w",
+        kind: "album"
+    },
+    
+    {
+        title: "Even In The Quietest Moments",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bddcc30c6a3288e725aec2df",
+        rating: 5,
+        author: "Supertramp",
+        link: "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w?si=VTN7JJUZTzu443nJakpHfg",
+        kind: "album"
+    },
+    
+    {
+        title: "Breakfast in America",
+        cover: "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e",
+        rating: 5,
+        author: "Supertramp",
+        link: "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna?si=ngL83KYRR-OXUviUnFPBsQ",
+        kind: "album"
+    },
+    
+    {
+        title: "'...Famous Last Words...'",
+        cover: "https://i.scdn.co/image/ab67616d00001e02093c6e7d6069b3c958071f73",
+        rating: 5,
+        author: "Supertramp",
+        link: "https://open.spotify.com/album/58JuUAfKGh6bKphiBtp7Nc?si=XLC9Or68Qdm6SzKwphjT3Q",
+        kind: "album"
+    },
+    
+    {
+        title: "Surfer Rosa",
+        cover: "https://i.scdn.co/image/ab67616d00001e028aa545a0ea869940cce358b5",
+        rating: 5,
+        author: "Pixies",
+        link: "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9?si=IidMUac3SciKLRnm2E7faw",
+        kind: "album"
+    },
+
+
+    
+        {
+        title: "Easter",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a28eabe111f67a386e75a31a",
+        rating: 5,
+        author: "Patti Smith",
+        link: "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd?si=dDM3Gd56RoCjPAhvh78V8w",
+        kind: "album"
+    },
+        {
+        title: "Rage Against The Machine",
+        cover: "https://i.scdn.co/image/ab67616d00001e0254ab617bc2d4974ab6ffbece",
+        rating: 5,
+        author: "Rage Against The Machine",
+        link: "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4?si=cbe1rkXARnOvNGBWVJKU1Q",
+        kind: "album"
+    },
+    {
+        title: "Machine Head",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a729c9c3dec04b99d889c66f",
+        rating: 5,
+        author: "Deep Purple",
+        link: "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN?si=bOkCDDxsSjC5rEgi7I_JoQ",
+        kind: "album"
+    },
+
+
+
+
+
+    {
+        title: "Perfect Strangers",
+        cover: "https://i.scdn.co/image/ab67616d00001e021d742027836d2d03cb5e0c4b",
+        rating: 5,
+        author: "Deep Purple",
+        link: "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO?si=PQyEc2HISlykRGRlSgXbsA",
+        kind: "album"
+    },
+
+    {
+        title: "Made In Japan",
+        cover: "https://i.scdn.co/image/ab67616d00001e0255b8ce9be020127f7b8a76f3",
+        rating: 5,
+        author: "Deep Purple",
+        link: "https://open.spotify.com/album/1IY4BdLApVlVa8xid34zJm?si=P-Ncq2xtQAyWN-b0XJXxsA",
+        kind: "album"
+    },
+    {
+        title: "Made in Europe",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d912296cb5ef2a91339db1f4",
+        rating: 5,
+        author: "Deep Purple",
+        link: "https://open.spotify.com/album/7hlg6rtIzw56qQbUVkwADH?si=tD8qhxuxTOSLDSKkqWis9w",
+        kind: "album"
+    },
+    {
+        title: "Pablo Honey",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ec548c00d3ac2f10be73366d",
+        rating: 5,
+        author: "Deep Purple",
+        link: "https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8?si=Vv57sT2zS5qk5fYAiKMRSw",
+        kind: "album"
+    },
+    {
+        title: "OK Computer",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c8b444df094279e70d0ed856",
+        rating: 5,
+        author: "Radiohead",
+        link: "https://open.spotify.com/intl-fr/album/6dVIqQ8qmQ5GBnJ9shOYGE?si=m7imrwS1TWKMU4RNRS57CQ",
+        kind: "album"
+    },
+    {
+        title: "In Rainbows",
+        cover: "https://i.scdn.co/image/ab67616d00001e02de3c04b5fc750b68899b20a9    ",
+        rating: 5,
+        author: "Radiohead",
+        link: "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK?si=Cx8rH_QFQFCUPSVnH58e4g",
+        kind: "album"
+    },
+    {
+        title: "The Bends",
+        cover: "https://i.scdn.co/image/ab67616d00001e029293c743fa542094336c5e12",
+        rating: 5,
+        author: "Radiohead",
+        link: "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg?si=Kw3t9NC-SMOH8lqDXthnNA",
+        kind: "album"
+    },
+    {
+        title: "KID A MNESIA",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bbaaa8bf9aedb07135d2c6d3",
+        rating: 5,
+        author: "Radiohead",
+        link: "https://open.spotify.com/album/6ofEQubaL265rIW6WnCU8y?si=WNd74DHLT_qTTvpMmTP5Jw",
+        kind: "album"
+    },
+    {
+        title: "Hail To The Thief",
+        cover: "https://i.scdn.co/image/ab67616d00001e020da53e8f58e59f28a79c10c7",
+        rating: 5,
+        author: "Radiohead",
+        link: "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy?si=Ns71DdJlS3WBARLnjMi0Fw",
+        kind: "album"
+    },
+    {
+        title: "Kid A",
+        cover: "https://i.scdn.co/image/ab67616d00001e026c7112082b63beefffe40151",
+        rating: 5,
+        author: "Radiohead",
+        link: "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7?si=BdvopOvsTia1r3AhQW2MMQ",
+        kind: "album"
+    },
+    {
+        title: "Amnesiac",
+        cover: "https://i.scdn.co/image/ab67616d00001e02863e0e305637100311c91aa7",
+        rating: 5,
+        author: "Radiohead",
+        link: "https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0?si=LYuywpoLQC22NAtPdRs03g",
+        kind: "album"
+    },
+    {
+        title: "Atomic/Atomix",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ebc918cfb51e9ced7349f436",
+        rating: 5,
+        author: "Blondie",
+        link: "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6?si=5iXar409RHiiu3qZ5XlHIQ",
+        kind: "album"
+    },
+    {
+        title: "Parallel Lines",
+        cover: "https://i.scdn.co/image/ab67616d00001e026d23211741238ed227699c9d",
+        rating: 5,
+        author: "Blondie",
+        link: "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU?si=_c-tvMv-Tbyr-HJZv1ikvw",
+        kind: "album"
+    },
+    {
+        title: "Plastic Letters",
+        cover: "https://i.scdn.co/image/ab67616d00001e02fe3f12dccf7a927630d33d08",
+        rating: 5,
+        author: "Blondie",
+        link: "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl?si=IPMHAnhNQmqXysZZh7wfuA",
+        kind: "album"
+    },
+    {
+        title: "Blondie",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d377fa9b12ba09ee525b60a8",
+        rating: 5,
+        author: "Blondie",
+        link: "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co?si=zlTqSZ5uT-2L3v1V9AZuiQ",
+        kind: "album"
+    },
+    {
+        title: "Autoamerican",
+        cover: "https://i.scdn.co/image/ab67616d00001e026d2ee1965b70ef59d1f1f778",
+        rating: 5,
+        author: "Blondie",
+        link: "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya?si=MCJ3aJ7oQP6L6TpX4fO2yQ",
+        kind: "album"
+    },
+    {
+        title: "War",
+        cover: "https://i.scdn.co/image/ab67616d00001e02673526fcf35ab235e1a9d94c",
+        rating: 5,
+        author: "U2",
+        link: "https://open.spotify.com/intl-fr/album/6GaqU0TlYBKHUiSJ0AT9A2?si=IhLKthuqS7yJJcRXFJJwKg",
+        kind: "album"
+    },
+    {
+        title: "Most of the Animals",
+        cover: "https://i.scdn.co/image/ab67616d00001e02128b823a82be808648739034",
+        rating: 5,
+        author: "The Animals",
+        link: "https://open.spotify.com/intl-fr/album/0Vhk3dVT59LnhwSHFXLIXA?si=chkDvw3xRDmUWUSjc3ihUw",
+        kind: "album"
+    },
+    {
+        title: "Combat Rock",
+        cover: "https://i.scdn.co/image/ab67616d00001e0225a4df452a3c42ccc2e9288b",
+        rating: 5,
+        author: "The Clash",
+        link: "https://open.spotify.com/intl-fr/album/1ZH5g1RDq3GY1OvyD0w0s2?si=6s_sQWILRSyUI2RnmQzdcw",
+        kind: "album"
+    },
+    {
+        title: "London Calling",
+        cover: "https://i.scdn.co/image/ab67616d00001e02cd9d8bc9ef04014b6e90e182",
+        rating: 5,
+        author: "The Clash",
+        link: "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a?si=cSXQhNh1TH6f0aqxr8RdLQ",
+        kind: "album"
+    },
+    {
+        title: "The Wall",
+        cover: "https://i.scdn.co/image/ab67616d00001e025d48e2f56d691f9a4e4b0bdf",
+        rating: 5,
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F?si=pLOKaLGRQNeythrXmV1tYA",
+        kind: "album"
+    },
+
+
+
+
+
+    
+    {
+        title: "The Dark Side of the Moon",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ea7caaff71dea1051d49b2fe",
+        rating: 5,
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/intl-fr/album/4LH4d3cOWNNsVw41Gqt2kv?si=75aagTgNTKmeUVkMB-gLbQ",
+        kind: "album"
+    },
+
+    {
+        title: "Wish You Were Here",
+        cover: "https://i.scdn.co/image/ab67616d00001e021a84d71391df7469c5ab8539",
+        rating: 5,
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/intl-fr/album/0bCAjiUamIFqKJsekOYuRw?si=Nf26sVZpQSeQ2Jr5d2Jnyw",
+        kind: "album"
+    },
+    {
+        title: "Live at Knebworth",
+        cover: "https://i.scdn.co/image/ab67616d00001e02424262bef9168aeefedeb205",
+        rating: 5,
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/intl-fr/album/5JZxCVMYJqplJhJgfytng2?si=Ik6rXIygQQeeUNl2FSXEiA",
+        kind: "album"
+    },
+    {
+        title: "The Division Bell",
+        cover: "https://i.scdn.co/image/ab67616d00001e028431fb4cb38f8ee96d3434c0",
+        rating: 5,
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/intl-fr/album/5F0IQXuHfTV7SBvZVnXERl?si=Rh_14UOVQsu4CH2-DsvQMg",
+        kind: "album"
+    },
+    {
+        title: "The Piper at the Gates of Dawn",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d2ddaebb1819f5e07c784d7d",
+        rating: 5,
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC?si=As3p1DruTxytbg5pYlQHgw",
+        kind: "album"
+    },
+
+    {
+        title: "A Saucerful of Secrets",
+        cover: "https://i.scdn.co/image/ab67616d00001e024b4fcfed39d199fe50b20b7f",
+        rating: 5,
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/album/2vnJKtGjZXRUg0mYPZ3HGH?si=_ipikmYFSbCmEe__57PMjw",
+        kind: "album"
+    },
+
+    {
+        title: "More",
+        cover: "https://i.scdn.co/image/ab67616d00001e023500cd4e948a9de16b733ffa",
+        rating: 5,
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/intl-fr/album/6AccmjV8Q5cEUZ2tvS8s6c?si=Lw03vZ6LRc2fn_5Zt1g_wA",
+        kind: "album"
+    },
+    {
+        title: "Ummagumma",
+        cover: "https://i.scdn.co/image/ab67616d00001e02998c4770e46521fd268d1943",
+        rating: 5,
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/intl-fr/album/3IPhWIXHOAhS2npnq6FiCG?si=q4oKCDmwRaK1v2vazFahkw",
+        kind: "album"
+    },
+    {
+        title: "Atom Heart Mother",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c32e12829fb960100a3257c6",
+        rating: 5,
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/album/2cUpAOlQjV5uSjkWj5bEQY?si=JQSjW-vLRsi11JcESERpEw",
+        kind: "album"
+    },
+
+
+    
+    {
+        title: "Meddle",
+        cover: "https://i.scdn.co/image/ab67616d00001e029449d3adaa0f6e26af288c0d",
+        rating: 5,
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/intl-fr/album/468ZwCchVtzEbt9BHmXopb?si=LTbkxzaxTrOx50LfL6EPeg",
+        kind: "album"
+    },
+    {
+        title: "Obscured by Clouds",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e806fae51cd0fc57e59d52a3",
+        rating: 5,
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ?si=poxHoRBORACtR96qs7GJNA",
+        kind: "album"
+    },
+    {
+        title: "Animals",
+        cover: "https://i.scdn.co/image/ab67616d00001e02810168d54f85d48f07389237",
+        rating: 5,
+        author: "Pink Floyd",
+        link: "https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4?si=5VxMBk_jRE6gsPT-S6P2Ow",
+        kind: "album"
+    },
+    {
+        title: "Hotel California",
+        cover: "https://i.scdn.co/image/ab67616d00001e024637341b9f507521afa9a778",
+        rating: 5,
+        author: "Eagles",
+        link: "https://open.spotify.com/intl-fr/album/2widuo17g5CEC66IbzveRu?si=sIv-DqW3RMqyWBszoGaBVQ",
+        kind: "album"
+    },
+    {
+        title: "Appetite For Destruction",
+        cover: "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5",
+        rating: 5,
+        author: "Gun N' Roses",
+        link: "https://open.spotify.com/intl-fr/album/28yHV3Gdg30AiB8h8em1eW?si=UvhixlCaTXSv_MQf5xqRgg",
+        kind: "album"
+    },
+    {
+        title: "Outlandos D'amour",
+        cover: "https://i.scdn.co/image/ab67616d00001e022043dd3544a339547d04b436",
+        rating: 5,
+        author: "The Police",
+        link: "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf?si=igh8McaxQhSGVisOiX4Agg",
+        kind: "album"
+    },
+    {
+        title: "Aerosmith",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bbf0146981704a073405b6c2",
+        rating: 5,
+        author: "Aerosmith",
+        link: "https://open.spotify.com/intl-fr/album/1RDVdxPUaqC4o7Rkm8LoOE?si=B1hIaN52T6Kr6ORjOAsB7Q",
+        kind: "album"
+    },
+    {
+        title: "The Hurting",
+        cover: "https://i.scdn.co/image/ab67616d00001e0245546ed4af1a0d4c58a8ff50",
+        rating: 5,
+        author: "Tears For Fears",
+        link: "https://open.spotify.com/intl-fr/album/3sIFpEctox1XOs3FEkqrgr?si=zrEt5_pIQ2yIjZtnyFd15w",
+        kind: "album"
+    },
+    {
+        title: "Dynasty",
+        cover: "https://i.scdn.co/image/ab67616d00001e024384b6976cadaec272114022",
+        rating: 5,
+        author: "KISS",
+        link: "https://open.spotify.com/intl-fr/album/4FA68GsblSfvKZZRfM1tI1?si=i5kpg6qURyOzktlUzweolQ",
+        kind: "album"
+    },
+    {
+        title: "(What's The Story) Morning Glory?",
+        cover: "https://i.scdn.co/image/ab67616d00001e027a4c8c59851c88f6794c3cbf",
+        rating: 5,
+        author: "Oasis",
+        link: "https://open.spotify.com/intl-fr/album/6tOe4eAF8xNhEkl9WyvsE4?si=ioeqMunCTTe0XzUJuoh7SA",
+        kind: "album"
+    },
+    {
+        title: "Comeblack",
+        cover: "https://i.scdn.co/image/ab67616d00001e029f2023d391c3bd4acf4d51c6",
+        rating: 5,
+        author: "Scorpions",
+        link: "https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd?si=GyGAM399TDCsOZJomEFPvg",
+        kind: "album"
+    },
+    {
+        title: "Metallica",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c1a13209dfe146aef3296e34",
+        rating: 5,
+        author: "Metallica",
+        link: "https://open.spotify.com/intl-fr/album/7h5xn0Olvx2p0eQcSt1Osy?si=0u1UostvTECt9g5yCLD8NA",
+        kind: "album"
+    },
+    {
+        title: "Master Of Puppets",
+        cover: "https://i.scdn.co/image/ab67616d00001e02668e3aca3167e6e569a9aa20",
+        rating: 5,
+        author: "Metallica",
+        link: "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21?si=Pn_cu7aGScaRpSLywOn34g",
+        kind: "album"
+    },
+    {
+        title: "Nevermind",
+        cover: "https://i.scdn.co/image/ab67616d00001e02fbc71c99f9c1296c56dd51b6",
+        rating: 5,
+        author: "Nirvana",
+        link: "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk?si=296E_y6mSOOOB5DPinq1JQ",
+        kind: "album"
+    },
+    {
+        title: "MTV Unplugged in New York",
+        cover: "https://i.scdn.co/image/ab67616d00001e0236c5417732e53e23cb219246",
+        rating: 5,
+        author: "Nirvana",
+        link: "https://open.spotify.com/intl-fr/album/1To7kv722A8SpZF789MZy7?si=L-B1M0hvSXKvVXRvJ_5gTA",
+        kind: "album"
+    },
+    {
+        title: "In Utero",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c4f52ef8782f0e8ede4c1aaf",
+        rating: 5,
+        author: "Nirvana",
+        link: "https://open.spotify.com/intl-fr/album/7wOOA7l306K8HfBKfPoafr?si=IMmC4EDISIWvEhYMFbSdWA",
+        kind: "album"
+    },
+    {
+        title: "Incesticide",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e1f5fcef5fb5f70aa0a717fc",
+        rating: 5,
+        author: "Nirvana",
+        link: "https://open.spotify.com/intl-fr/album/6ICrBzsbHVluGHP8wGK4Y3?si=DpIWpjRMSEuNsD5eyBGn1A",
+        kind: "album"
+    },
+    {
+        title: "Bleach",
+        cover: "https://i.scdn.co/image/ab67616d00001e0242b32e43479b6aa2cdf93c92",
+        rating: 5,
+        author: "Nirvana",
+        link: "https://open.spotify.com/intl-fr/album/0CqchZDaOxckvjnKKfJh1w?si=THsbF4b6SOqaMf9sH7yunw",
+        kind: "album"
+    },
+    {
+        title: "Aftermath",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bad7062c3fd2f2d037989694",
+        rating: 5,
+        author: "The Rolling Stones",
+        link: "https://open.spotify.com/intl-fr/album/72qrnM4yUNMDDlWiqKc8iY?si=BDROcw_ATEu_8nccqPWSBg",
+        kind: "album"
+    },
+    {
+        title: "Abbey Road",
+        cover: "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25",
+        rating: 5,
+        author: "The Beatles",
+        link: "https://open.spotify.com/intl-fr/album/0ETFjACtuP2ADo6LFhL6HN?si=1DYbTi0hSiKTrjim1S8odw",
+        kind: "album"
+    },
+    {
+        title: "The Beatles",
+        cover: "https://i.scdn.co/image/ab67616d00001e024ce8b4e42588bf18182a1ad2",
+        rating: 5,
+        author: "The Beatles",
+        link: "https://open.spotify.com/intl-fr/album/1klALx0u4AavZNEvC4LrTL?si=j_5PHZsIQiS8xBZoG2M2OQ",
+        kind: "album"
+    },
+    {
+        title: "Let It Be",
+        cover: "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1",
+        rating: 5,
+        author: "The Beatles",
+        link: "https://open.spotify.com/intl-fr/album/0jTGHV5xqHPvEcwL8f6YU5?si=kareJA51Q6y5zGLCcMtdKw",
+        kind: "album"
+    },
+    {
+        title: "Rubber Soul",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ed801e58a9ababdea6ac7ce4",
+        rating: 5,
+        author: "The Beatles",
+        link: "https://open.spotify.com/intl-fr/album/50o7kf2wLwVmOTVYJOTplm?si=XGRKPpUHSM-jf9yB1_LL2A",
+        kind: "album"
+    },
+    {
+        title: "Please Please Me",
+        cover: "https://i.scdn.co/image/ab67616d00001e02dbeec63ad914c973e75c24df",
+        rating: 5,
+        author: "The Beatles",
+        link: "https://open.spotify.com/intl-fr/album/3KzAvEXcqJKBF97HrXwlgf?si=rZHAjUyDQEm8f0qWbTQwXg",
+        kind: "album"
+    },
+    {
+        title: "A Hard Day's Night",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e230f303815e82a86713eedd",
+        rating: 5,
+        author: "The Beatles",
+        link: "https://open.spotify.com/intl-fr/album/6wCttLq0ADzkPgtRnUihLV?si=LprK1_5zRhm0DDXSu16Rug",
+        kind: "album"
+    },
+    {
+        title: "Revolver",
+        cover: "https://i.scdn.co/image/ab67616d00001e0228b8b9b46428896e6491e97a",
+        rating: 5,
+        author: "The Beatles",
+        link: "https://open.spotify.com/intl-fr/album/3PRoXYsngSwjEQWR5PsHWR?si=-eecBURbRBWoVvL6WFraLw",
+        kind: "album"
+    },
+    {
+        title: "Sgt. Pepper's Lonely Heart Club Band",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c92b57b8307e5999ec2fed69",
+        rating: 5,
+        author: "The Beatles",
+        link: "https://open.spotify.com/intl-fr/album/1ntNLgaYCFCkeW4flGYlY2?si=VbB1z-cFTDiR4f8c3VM-BA",
+        kind: "album"
+    },
+    {
+        title: "Yellow Submarine",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d283808926ad3d2220e63c1c",
+        rating: 5,
+        author: "The Beatles",
+        link: "https://open.spotify.com/intl-fr/album/1gKZ5A1ndFqbcrWtW85cCy?si=zw6XXLR8SoGjpNrcvIKhjA",
+        kind: "album"
+    },
+    {
+        title: "The Beatles 1962 - 1966",
+        cover: "https://i.scdn.co/image/ab67616d00001e024a4c7445df9b3719a60eb53b",
+        rating: 5,
+        author: "The Beatles",
+        link: "https://open.spotify.com/intl-fr/album/39Ti6Be9Ak2d6YbxlQo0Ba?si=YmH4BajZSEuTSpuF3-DYLQ",
+        kind: "album"
+    },
+    {
+        title: "The Beatles 1967 - 1970",
+        cover: "https://i.scdn.co/image/ab67616d00001e022ad20d4688bdc999413ece39",
+        rating: 5,
+        author: "The Beatles",
+        link: "https://open.spotify.com/intl-fr/album/2AlPRfYeskAMxhJS00xjeP?si=We_B2pV5QLe8R8pWpFUqVA",
+        kind: "album"
+    },
+    {
+        title: "Sally Can't Dance",
+        cover: "https://i.scdn.co/image/ab67616d00001e0248d00c0ea1dfaf0530a4ec2a",
+        rating: 5,
+        author: "Lou Reed",
+        link: "https://open.spotify.com/intl-fr/album/7ue4oCRcvtAqp4Dx4MQq7I?si=zm3cWlCAR-yOJF8cndcyIQ",
+        kind: "album"
+    },
+    {
+        title: "Berlin",
+        cover: "https://i.scdn.co/image/ab67616d00001e0229ecf64a783a05d8d36bf1dc",
+        rating: 5,
+        author: "Lou Reed",
+        link: "https://open.spotify.com/intl-fr/album/4iaDgkP0M6ahEHrBynAFei?si=Iab9X0pVQWuFjsSuDdPDfQ",
+        kind: "album"
+    },
+
+    {
+        title: "Fragile",
+        cover: "https://i.scdn.co/image/ab67616d00001e02fb00f7be0eca020bb5c05911",
+        rating: 5,
+        author: "Yes",
+        link: "https://open.spotify.com/intl-fr/album/78tN6vBPHHyNk4sZYnS5X4?si=Gg7AoziVSJOJ1ZbabXARsg",
+        kind: "album"
+    },
+    {
+        title: "Going for the One",
+        cover: "https://i.scdn.co/image/ab67616d00001e02370f0969aca636b22cc98eed",
+        rating: 5,
+        author: "Yes",
+        link: "https://open.spotify.com/intl-fr/album/2U4JHXMiBxsKH4dnYEQg2g?si=ZQya5j1yTESaNIUpwg9zBg",
+        kind: "album"
+    },
+    {
+        title: "Post Cyber-Death Voxel Infinity",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a1a8a14bcc49fe1f679fc907",
+        rating: 5,
+        author: "Fine-Sir-1584660650",
+        link: "https://open.spotify.com/intl-fr/album/6n98ZzKufMhVJpAFwIh5Vj?si=GovgE0kPS8urohQc47Zs-w",
+        kind: "album"
+    },
+    {
+        title: "ᚍᚑᚄᚆᚁᚑᚃᚋᚘᚚᚒᚄᚁᚅᚑᚇᚃᚒᚙᚁᚈᚋᚅᚖᚇᚗᚁᚐᚊᚏᚈᚘ",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b3702d67b1208fb909c0a5c1",
+        rating: 5,
+        author: "Fine-Sir-1584660650",
+        link: "https://open.spotify.com/intl-fr/album/1gTSDOZCzJqmEzH6efpwyc?si=9Bh8f3TqTgOAFEpvpGmqew",
+        kind: "album"
+    },
+    {
+        title: "to hell with it",
+        cover: "https://i.scdn.co/image/ab67616d00001e0212c2eefb1d28509c632d915d",
+        rating: 5,
+        author: "PinkPanthress",
+        link: "https://open.spotify.com/intl-fr/album/65YAjLCn7Jp33nJpOxIPMe?si=A_m175teQIaNQ_JlQunEMQ",
+        kind: "album"
+    },
+    {
+        title: "Heaven knows",
+        cover: "https://i.scdn.co/image/ab67616d00001e0212e36c27d935e955b44c6581",
+        rating: 5,
+        author: "PinkPanthress",
+        link: "https://open.spotify.com/intl-fr/album/2pOEFqvfxp5uUQ8vQEmVA0?si=6GPYWoWJSK2XAXItTFyeew",
+        kind: "album"
+    },
+    {
+        title: "Hatful of Hollow",
+        cover: "https://i.scdn.co/image/ab67616d00001e02786b44c75ebf915866523f5b",
+        rating: 5,
+        author: "The Smiths",
+        link: "https://open.spotify.com/intl-fr/album/1j57Q5ntVi7crpibb0h4sv?si=F7AsIIWqT7S5iNKRF12xtA",
+        kind: "album"
+    },
+    {
+        title: "The Queen Is Dead",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ada101c2e9e97feb8fae37a9",
+        rating: 5,
+        author: "The Smiths",
+        link: "https://open.spotify.com/intl-fr/album/5Y0p2XCgRRIjna91aQE8q7?si=S5IKZE_1Qcqx-F1SRk35fg",
+        kind: "album"
+    },
+    {
+        title: "Louder Than Bombs",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ed3953f8af1f764a146b7583",
+        rating: 5,
+        author: "The Smiths",
+        link: "https://open.spotify.com/intl-fr/album/45StnugV9WQMQwk4rRoTy8?si=E_bjphSWRzmO0H4nYpTzkQ",
+        kind: "album"
+    },
+    {
+        title: "Meat Is Murder",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ac345598e7697a319cb5b460",
+        rating: 5,
+        author: "The Smiths",
+        link: "https://open.spotify.com/intl-fr/album/5DM1qCdgGt2zbknnsVn1Ca?si=phq0t-qnQ2qcyHMIy3oZWA",
+        kind: "album"
+    },
+    {
+        title: "Night Time, My Time",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d39843a4927d1dd474978d23",
+        rating: 5,
+        author: "Sky Ferreira",
+        link: "https://open.spotify.com/intl-fr/album/0DucmDrdJM4evPXMbFJXBS?si=MWX63hPzTTi4INRWhftPNw",
+        kind: "album"
+    },
+    {
+        title: "Ghost",
+        cover: "https://i.scdn.co/image/ab67616d00001e02af1115d3ae5dad6cf7210dbe",
+        rating: 5,
+        author: "Sky Ferreira",
+        link: "https://open.spotify.com/intl-fr/album/0ktookQxpwDrShMBr1U4Sf?si=xOcgAZksRNeFWefYhe4n0w",
+        kind: "album"
+    },
+    {
+        title: "Hellbilly",
+        cover: "https://i.scdn.co/image/ab67616d00001e0213d4adf9e4b938f88266f4e4",
+        rating: 5,
+        author: "Rob Zombie",
+        link: "https://open.spotify.com/intl-fr/album/2B4lHoTCpWbxQPTZmCOjnH?si=ojLNQw0uTRaASgYlJM1Lhg",
+        kind: "album"
+    },
+    {
+        title: "Past, Present & Future",
+        cover: "https://i.scdn.co/image/ab67616d00001e027375f246747aaf6e265ceb78",
+        rating: 5,
+        author: "Rob Zombie",
+        link: "https://open.spotify.com/intl-fr/album/3RjfiKRsIHB7wQ1L6KoDEz?si=A8WJQYpIQEq5vk8rM16aFg",
+        kind: "album"
+    },
+    {
+        title: "Leisure",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a355f0a8cd8324394ac166c0",
+        rating: 5,
+        author: "Blur",
+        link: "https://open.spotify.com/intl-fr/album/0cTdvscLZjCTEKxYUlJFwa?si=PBlu68oWSWuWyqN42hkCxQ",
+        kind: "album"
+    },
+    {
+        title: "The Great Escape",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d6edad0d4fc3448ccc61c13c",
+        rating: 5,
+        author: "Blur",
+        link: "https://open.spotify.com/intl-fr/album/7BiMMjtvTX0OiB8Yi7CFB1?si=KTWigiL-RbCXHt1sgINbcg",
+        kind: "album"
+    },
+    {
+        title: "Blur",
+        cover: "https://i.scdn.co/image/ab67616d00001e02de114203356c1f7b136960b6",
+        rating: 5,
+        author: "Blur",
+        link: "https://open.spotify.com/intl-fr/album/7HvIrSkKGJCzd8AKyjTJ6Q?si=mxBpIksgTt-QFgjvlVz4NQ",
+        kind: "album"
+    },
+    {
+        title: "Blur: The Best Of",
+        cover: "https://i.scdn.co/image/ab67616d00001e0234cbf7013afccc7df67fa43f",
+        rating: 5,
+        author: "Blur",
+        link: "https://open.spotify.com/intl-fr/album/1bgkxe4t0HNeLn9rhrx79x?si=iclqO33ERS2oy0iMvbLUAw",
+        kind: "album"
+    },
+    {
+        title: "Elastica",
+        cover: "https://i.scdn.co/image/ab67616d00001e025ac670b8c48b7446c8aade5e",
+        rating: 5,
+        author: "Elastica",
+        link: "https://open.spotify.com/intl-fr/album/00MAXeszCotk3g9q8KYJlZ?si=qhhaQW1XTQe-8lSxcTNhyw",
+        kind: "album"
+    },
+    {
+        title: "The Age Of Understatement",
+        cover: "https://i.scdn.co/image/ab67616d00001e0256e4e3118af9dec4a5670a33",
+        rating: 5,
+        author: "The Last Shadow Puppets",
+        link: "https://open.spotify.com/intl-fr/album/2y3Rm0cT1xbf2NoTQwKv99?si=HItPvms-SRK2Y0eEQcljsA",
+        kind: "album"
+    },
+    {
+        title: "Everything You've Come to Expect",
+        cover: "https://i.scdn.co/image/ab67616d00001e0299845928b10d57ec9f95e953",
+        rating: 5,
+        author: "The Last Shadown Puppets",
+        link: "https://open.spotify.com/intl-fr/album/6q1ZuWCnYTQb7KhXHZo947?si=pIkNmTDBQXqqpAw4qx-4Gw",
+        kind: "album"
+    },
+    {
+        title: "Tell Me I'm Pretty",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e7dd69ac32cf313fde62cbad",
+        rating: 5,
+        author: "Cage The Elephant",
+        link: "https://open.spotify.com/intl-fr/album/0nW0w37lrQ87k7PLZvC4qJ?si=1Mu8JI-VQseDDi-w3pH77g",
+        kind: "album"
+    },
+    {
+        title: "Melophobia",
+        cover: "https://i.scdn.co/image/ab67616d00001e02415b79227c6cee25f42fbf41",
+        rating: 5,
+        author: "Cage The Elephant",
+        link: "https://open.spotify.com/intl-fr/album/5nJ9B1KiydXoYWAcyqlG76?si=Lz2kz3uYR_eW_j9zNbWGag",
+        kind: "album"
+    },
+    {
+        title: "Social Cues",
+        cover: "https://i.scdn.co/image/ab67616d00001e0288883701231713b18429f80b",
+        rating: 5,
+        author: "Cage The Elephant",
+        link: "https://open.spotify.com/intl-fr/album/2VuZJsJBPLwg9BeQFQle8G?si=7KMoo4esRlKc4MNr97llUA",
+        kind: "album"
+    },
+    {
+        title: "Unpeeled",
+        cover: "https://i.scdn.co/image/ab67616d00001e0272b478dedd009d6b8d6e7971",
+        rating: 5,
+        author: "Cage The Elephant",
+        link: "https://open.spotify.com/intl-fr/album/4zpN41aGAYPWX3dzE19rH7?si=gIZQACjdSW2iGfDZLIE-Aw",
+        kind: "album"
+    },
+    {
+        title: "Cage The Elephant",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ce6b979ca98da4c27157dc17",
+        rating: 5,
+        author: "Cage The Elephant",
+        link: "https://open.spotify.com/intl-fr/album/0c1yNi1MuGlcNrCzU2kDVE?si=qi2to3HcTmWQtVHQT0f18Q",
+        kind: "album"
+    },
+    {
+        title: "Around the Fur",
+        cover: "https://i.scdn.co/image/ab67616d00001e020b1129853982ea17845d4eb6",
+        rating: 5,
+        author: "Deftones",
+        link: "https://open.spotify.com/intl-fr/album/7o4UsmV37Sg5It2Eb7vHzu?si=xqOAdNSvQS2j2iwnOGwpew",
+        kind: "album"
+    },
+    {
+        title: "White Pony",
+        cover: "https://i.scdn.co/image/ab67616d00001e025c53799f473fa3e1a48c00ed",
+        rating: 5,
+        author: "Deftones",
+        link: "https://open.spotify.com/intl-fr/album/5LEXck3kfixFaA3CqVE7bC?si=xPbOoJa-QLGqVNsTiYarZA",
+        kind: "album"
+    },
+    {
+        title: "Diamond Eyes",
+        cover: "https://i.scdn.co/image/ab67616d00001e0272c2145d48f68917a7361b15",
+        rating: 5,
+        author: "Deftones",
+        link: "https://open.spotify.com/intl-fr/album/1GjjBpY2iDwSQs5bykQI5e?si=DrEpUE0xTxSM3qVhFTUtqA",
+        kind: "album"
+    },
+    {
+        title: "Koi No Yokan",
+        cover: "https://i.scdn.co/image/ab67616d00001e0273652b7a0dc388dd1d044b69",
+        rating: 5,
+        author: "Deftones",
+        link: "https://open.spotify.com/intl-fr/album/4PIVdqvL1Rc7T7Vfsr8n8Q?si=HJ1wOvLtQtaD-9wAgPPYMw",
+        kind: "album"
+    },
+    {
+        title: "The Night In Question: French Exist Outtakes",
+        cover: "https://i.scdn.co/image/ab67616d00001e02870138983fee24fe052d12af",
+        rating: 5,
+        author: "TV Girl",
+        link: "https://open.spotify.com/intl-fr/album/4p3eRdoK7W7z0tz8OWA3JM?si=I5naLZkZSKSzfrgglOWgdA",
+        kind: "album"
+    },
+    {
+        title: "Who Really Cares",
+        cover: "https://i.scdn.co/image/ab67616d00001e0232f5fec7a879ed6ef28f0dfd",
+        rating: 5,
+        author: "TV Girl",
+        link: "https://open.spotify.com/intl-fr/album/4oL7pMxnb04uuRI7ReXmuh?si=Spk68dBMQ9qdY3KrUtvVaw",
+        kind: "album"
+    },
+    {
+        title: "Death of a Party Girl",
+        cover: "https://i.scdn.co/image/ab67616d00001e021556d166d0ed059b34a00e1b",
+        rating: 5,
+        author: "TV Girl",
+        link: "https://open.spotify.com/intl-fr/album/5kFjYk3umY8Pu1lymIJLVy?si=_4ftZ75bRkq4SWhG6YxbIg",
+        kind: "album"
+    },
+    {
+        title: "French Exit",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e1bc1af856b42dd7fdba9f84",
+        rating: 5,
+        author: "TV Girl",
+        link: "https://open.spotify.com/intl-fr/album/4Hai0uVzRbyTSaTPzxTY4e?si=QBuIHBnGRnWlIQod4ukWag",
+        kind: "album"
+    },
+    {
+        title: "Creedence Clearwater Revival",
+        cover: "https://i.scdn.co/image/ab67616d00001e020ef0c90eac4d5fd129a6c441",
+        rating: 5,
+        author: "Creedence Clearwater Revival",
+        link: "https://i.scdn.co/image/ab67616d00001e020ef0c90eac4d5fd129a6c441",
+        kind: "album"
+    },
+    {
+        title: "Pendelum",
+        cover: "https://i.scdn.co/image/ab67616d00001e029b7a4a59ac03447db7491f37",
+        rating: 5,
+        author: "Creedence Clearwater Revival",
+        link: "https://open.spotify.com/intl-fr/album/3tbpe74iBR23O8uiQlLrXC?si=jmQCvm7wRZmQXxPRuu_TKQ",
+        kind: "album"
+    },
+    {
+        title: "Mellon Collie And The Infinite Sadness",
+        cover: "https://i.scdn.co/image/ab67616d00001e02431ac6e6f393acf475730ec6",
+        rating: 5,
+        author: "The Smashing Pumpkins",
+        link: "https://open.spotify.com/intl-fr/album/55RhFRyQFihIyGf61MgcfV?si=h_OkqsBmTXKN9ZOuOMYJXQ",
+        kind: "album"
+    },
+    {
+        title: "Grace",
+        cover: "https://i.scdn.co/image/ab67616d00001e026a760642a56847027428cb61",
+        rating: 5,
+        author: "Jeff Buckley",
+        link: "https://open.spotify.com/intl-fr/album/7yQtjAjhtNi76KRu05XWFS?si=fKsQb5KBS3WhPIkRSFcv1g",
+        kind: "album"
+    },
+    {
+        title: "The Virgin Suicides",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d255944dd08e7fba8197aff8",
+        rating: 5,
+        author: "Air",
+        link: "https://open.spotify.com/intl-fr/album/0Dv4ArPFwSFPWrubYdExKq?si=Comgn0SJQ3-CkPivbicw9w",
+        kind: "album"
+    },
+    {
+        title: "Moon Safari",
+        cover: "https://i.scdn.co/image/ab67616d00001e021216e4f7e84af70ef18146ed",
+        rating: 5,
+        author: "Air",
+        link: "https://open.spotify.com/intl-fr/album/5dmYtZVJ1bG9RyrZBRrkOA?si=5stSqoMcTVi2omb2uM7niw",
+        kind: "album"
+    },
+    {
+        title: "Talkie Walkie",
+        cover: "https://i.scdn.co/image/ab67616d00001e026400fab74f28e90759ac8815",
+        rating: 5,
+        author: "Air",
+        link: "https://open.spotify.com/intl-fr/album/0hQOqvZv1nQvPiBjzyn363?si=-WUUYwAlSz2plZdyND2KLA",
+        kind: "album"
+    },
+    {
+        title: "El Silencio",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bc4d989c48ad5b154fb0781d",
+        rating: 5,
+        author: "Caifanes",
+        link: "https://open.spotify.com/intl-fr/album/1WrK98KVZxkTgMD3a9Kpnl?si=MwQ4TQtTSJuF2Q6ey-vOow",
+        kind: "album"
+    },
+    {
+        title: "El Nervio Del Volcan",
+        cover: "https://i.scdn.co/image/ab67616d00001e0236aeaab4dc91a8dea53a2d8f",
+        rating: 5,
+        author: "Caifanes",
+        link: "https://open.spotify.com/intl-fr/album/2mPZNQNgW1zrkIPyL9XJcf?si=QBEYYMgiTxaC0r91sQcKYw",
+        kind: "album"
+    },
+    {
+        title: "Mexican Spaghetti Western",
+        cover: "https://i.scdn.co/image/ab67616d00001e0290300d07d1a39796b7acb59e",
+        rating: 5,
+        author: "Chingon",
+        link: "https://open.spotify.com/intl-fr/album/6Cml5uWyReGMYgqUzmk5jv?si=TSBTdtsBR9KdIMJZsxO1Xw",
+        kind: "album"
+    },
+    {
+        title: "Crest",
+        cover: "https://i.scdn.co/image/ab67616d00001e028504a0836dfaa61b28930505",
+        rating: 5,
+        author: "Bladee",
+        link: "https://open.spotify.com/intl-fr/album/3j75sKW2Lw9gUEhjNzPKn4?si=9hFqrY9ST9CsEZfW-apGgQ",
+        kind: "album"
+    },
+    {
+        title: "Caravanserai",
+        cover: "https://i.scdn.co/image/ab67616d00001e02800bb150ac0079c20c4f8a81",
+        rating: 5,
+        author: "Santana",
+        link: "https://open.spotify.com/intl-fr/album/0abfpuzzbTUNxasNmX04RU?si=kmxBXf6ERpOETrTmyG7qOQ",
+        kind: "album"
+    },
+    {
+        title: "Abraxas",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f1594eeff2ea90e0f3873919",
+        rating: 5,
+        author: "Santana",
+        link: "https://open.spotify.com/intl-fr/album/1CHUXwuge9A7L2KiA3vnR6?si=l_4SLM0nQJSeIDbDLFJx2w",
+        kind: "album"
+    },
+    {
+        title: "Re",
+        cover: "https://i.scdn.co/image/ab67616d00001e023b9211139eb247b12f6ba6c5",
+        rating: 5,
+        author: "Café Tacvba",
+        link: "https://open.spotify.com/intl-fr/album/7EJ5pXrSqqfybKyfbvlz84?si=aAJ72QR2TuOuLQReqaLikg",
+        kind: "album"
+    },
+    {
+        title: "MTV Unplugged",
+        cover: "https://i.scdn.co/image/ab67616d00001e024eb669154c003f29c74be01d",
+        rating: 5,
+        author: "Café Tacvba",
+        link: "https://open.spotify.com/intl-fr/album/0fO8mzViUoz12iCHrPppE9?si=bWxCNYjqSqKbvbnUwmmIyA",
+        kind: "album"
+    },
+    {
+        title: "White Light / White Heat",
+        cover: "https://i.scdn.co/image/ab67616d00001e027195c4f5f2f4a8236748baaf",
+        rating: 5,
+        author: "The Velvet Underground",
+        link: "https://open.spotify.com/intl-fr/album/0HHmJpwOXXRJu9HI9iQiEO?si=YewDA53CSi6J0glrn_Oygw",
+        kind: "album"
+    },
+    {
+        title: "The Velvet Underground & Nico",
+        cover: "https://i.scdn.co/image/ab67616d00001e0298260c528e6eec9dd431c1d7",
+        rating: 5,
+        author: "The Velvet Underground",
+        link: "https://open.spotify.com/intl-fr/album/4xwx0x7k6c5VuThz5qVqmV?si=SDccqI_WSW6g66e2CwxK7w",
+        kind: "album"
+    },
+    {
+        title: "1969 Velvet Underground Live With Lou Reed",
+        cover: "https://i.scdn.co/image/ab67616d00001e024636cb38b21d2db52a4cdc5b",
+        rating: 5,
+        author: "The Velvet Underground",
+        link: "https://open.spotify.com/intl-fr/album/2ChY6jtKcJAxCBN5Lu6nx8?si=Am2b8mEPT8-QGSaDANpLjg",
+        kind: "album"
+    },
+    {
+        title: "BLOOD",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e6e272a6c2b1f4e8a1686030",
+        rating: 5,
+        author: "GRLwood",
+        link: "https://open.spotify.com/intl-fr/album/1PJP79JocpUirWseaHNiWe?si=ts8igeRHTFGRv7IIPwiS0A",
+        kind: "album"
+    },
+    {
+        title: "Daddy",
+        cover: "https://i.scdn.co/image/ab67616d00001e027b42371ee0855db5ecebee55",
+        rating: 5,
+        author: "GRLwood",
+        link: "https://open.spotify.com/intl-fr/album/6DtauZkytPy57lb3goadQ0?si=3UynCqCZS1yI6c4Urn1oLQ",
+        kind: "album"
+    },
+    {
+        title: "I Sold My Soul to the Devil When I Was 12",
+        cover: "https://i.scdn.co/image/ab67616d00001e022d79736c62f1e6d966357dcd",
+        rating: 5,
+        author: "GRLwood",
+        link: "https://open.spotify.com/intl-fr/album/7h0jldis2wj4JUTNWG8gIq?si=37pFB5uNQS6UnN-pvwdLQg",
+        kind: "album"
+    },
+    {
+        title: "Par Les Fils De Mandarin",
+        cover: "https://i.scdn.co/image/ab67616d00001e02059c67254b844bff24410442",
+        rating: 5,
+        author: "Ange",
+        link: "https://open.spotify.com/intl-fr/album/3EqySsFNjDWa6xORz8apbS?si=Rd0PyCFIQLeDwM5Z0hKjpg",
+        kind: "album"
+    },
+    {
+        title: "Au-Delà Du Délire",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c68cec7085f742088254d3dd",
+        rating: 5,
+        author: "Ange",
+        link: "https://open.spotify.com/intl-fr/album/3X6ZYhmu0k29UmNw2zcCrL?si=atgLz6dtRwC-r_ANCjIKXA",
+        kind: "album"
+    },
+    {
+        title: "haha",
+        cover: "https://i.scdn.co/image/ab67616d00001e0265ad4e52938360a5b6eb4b04",
+        rating: 5,
+        author: "The Garden",
+        link: "https://open.spotify.com/intl-fr/album/2tH1S9Q2RUcLrOizMy9I1K?si=rG9SNoo_TVO8aHnkwnVQlQ",
+        kind: "album"
+    },
+    {
+        title: "Mother Love Bone",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f4c3c50d65af0a1d94ae182c",
+        rating: 5,
+        author: "Mother Love Bone",
+        link: "https://open.spotify.com/intl-fr/album/24UTTxVO1B0956xXWmtpab?si=xs2lYestT0qO4BDNXeoICA",
+        kind: "album"
+    },
+    {
+        title: "Exorcising Ghosts",
+        cover: "https://i.scdn.co/image/ab67616d00001e0216e5e41582b326aa3832da8e",
+        rating: 5,
+        author: "Japan",
+        link: "https://open.spotify.com/intl-fr/album/0ezKQuRSkTDJSgwJ6iL4Jq?si=ZH8Uqa6sQyWNWlqdR4mQDQ",
+        kind: "album"
+    },
+    {
+        title: "DÉFILE MOI",
+        cover: "https://i.scdn.co/image/ab67616d00001e02cc0997ac7613088939cc48f2",
+        rating: 5,
+        author: "CHELABÔM",
+        link: "https://open.spotify.com/intl-fr/album/0mClhYHZCiTEDyvravTPsU?si=rh3e1loZS2eN0DUsdGuwjg",
+        kind: "album"
+    },
+    {
+        title: "Mimosa",
+        cover: "https://i.scdn.co/image/ab67616d00001e023e3d67168ebae6faca68c2a2",
+        rating: 5,
+        author: "CHELABÔM",
+        link: "https://open.spotify.com/intl-fr/album/1ms1LL4S7ug6xDm5eELmvD?si=HzrjVY5TRhCu-1P2_r6sdQ",
+        kind: "album"
+    },
+    {
+        title: "Different Class",
+        cover: "https://i.scdn.co/image/ab67616d00001e02fd952bece8f049dbcd7df93f",
+        rating: 5,
+        author: "Pulp",
+        link: "https://open.spotify.com/intl-fr/album/3ly9T2L4pqTZijFgQssd3x?si=ZXbl1O4fQcC4xvGXrwRzvg",
+        kind: "album"
+    },
+    {
+        title: "Asleep Among Endives",
+        cover: "https://i.scdn.co/image/ab67616d00001e0298b1c6c0d05f8841f08a9eca",
+        rating: 5,
+        author: "Ichiko Aoba",
+        link: "https://open.spotify.com/intl-fr/album/6pKCyXWoV7zhgDczCO0H6S?si=qqt17ndBQCezuvlIDf7s4A",
+        kind: "album"
+    },
+    {
+        title: "Windswept Adan",
+        cover: "https://i.scdn.co/image/ab67616d00001e02404c42c88f33617818cee490",
+        rating: 5,
+        author: "Ichiko Aoba",
+        link: "https://open.spotify.com/intl-fr/album/0LxeUCxtPfUtnHTKbW52MB?si=Ui1z4sLwTNqmLpgEhLnh7A",
+        kind: "album"
+    },
+    {
+        title: "Mid90's",
+        cover: "https://i.scdn.co/image/ab67616d00001e0282f3ec9eeac611e88131b8ba",
+        rating: 5,
+        author: "Trent Reznor and Atticus Ross",
+        link: "https://open.spotify.com/intl-fr/album/23DEG8PRHL10qHKtWk71gI?si=N4GxS0K-QnC2Dgmpm20kEQ",
+        kind: "album"
+    },
+    {
+        title: "Challengers",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b08b724b35455ddf8e385546",
+        rating: 5,
+        author: "Trent Reznor and Atticus Ross",
+        link: "https://open.spotify.com/intl-fr/album/2NHhf3qtcoVPDEb03G8RFv?si=oUJ4BQt8THyj-7rzs82w3g",
+        kind: "album"
+    },
+    {
+        title: "Life's Too Good",
+        cover: "https://i.scdn.co/image/ab67616d00001e02745d98c66e95e30e60f97962",
+        rating: 5,
+        author: "The Sugarcubes",
+        link: "https://open.spotify.com/intl-fr/album/4H4MkUPiL7qlpZfO2SYO1u?si=XMkvFR3ETDm53iBtNvEhkw",
+        kind: "album"
+    },
+    {
+        title: "Twin Fantasy (Mirror To Mirror)",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b64aa786c2c71462d39b3060",
+        rating: 5,
+        author: "Car Seat Headrest",
+        link: "https://open.spotify.com/intl-fr/album/5aqXdOgdhpSfYcCde4SHgI?si=_USeLeXPSbG2Ztiai5-7-g",
+        kind: "album"
+    },
+    {
+        title: "Teens Of Denial",
+        cover: "https://i.scdn.co/image/ab67616d00001e024094272fe172643edfdbba48",
+        rating: 5,
+        author: "Car Seat Headrest",
+        link: "https://open.spotify.com/intl-fr/album/3KpYyDP8q8sUBxatHaYEsP?si=K72EX1tuQ1uk8ITbAe0Quw",
+        kind: "album"
+    },
+    {
+        title: "Living While Starving",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c04293e38055ac0554c0ff05",
+        rating: 5,
+        author: "Car Seat Headrest",
+        link: "https://open.spotify.com/intl-fr/album/3egPQUSqrInRvbXxPqXQYm?si=XpExK4DQSWmh1rIgSTdlzQ",
+        kind: "album"
+    },
+    {
+        title: "Twin Fantasy",
+        cover: "https://i.scdn.co/image/ab67616d00001e022764cdf400a1d859640539a9",
+        rating: 5,
+        author: "Car Seat Headrest",
+        link: "https://open.spotify.com/intl-fr/album/6gDtROOIYa6OQxwhDNkDRM?si=Tn3PcxeJTsKfY-XifPH2FQ",
+        kind: "album"
+    },
+    {
+        title: "Liquid Tension Experiment 2",
+        cover: "https://i.scdn.co/image/ab67616d00001e02343678efb69ad96f2c65f938",
+        rating: 5,
+        author: "Liquid Tension Experiment",
+        link: "https://open.spotify.com/intl-fr/album/25JdFEbKXocMQyJdlBzD5d?si=n3KX0o2LSHCXfGNIJMDrWg",
+        kind: "album"
+    },
+    {
+        title: "Bohemian Rap Story",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bda6cf84cde8c5de3b90c772",
+        rating: 5,
+        author: "Dooz Kawa",
+        link: "https://open.spotify.com/intl-fr/album/0CuVqlqPNuMUWudiXEilS9?si=r0IYsi8TTkejA4jzVNaUgw",
+        kind: "album"
+    },
+    {
+        title: "Emerson, Lake & Palmer",
+        cover: "https://i.scdn.co/image/ab67616d00001e0299fa44c27dfac9beda628082",
+        rating: 5,
+        author: "Emerson, Lake & Palmer",
+        link: "https://open.spotify.com/intl-fr/album/5A3JOh1ushS67m2JZ0QF6b?si=sz8dR0KsTVu4ZOv2zfvUbQ",
+        kind: "album"
+    },
+    {
+        title: "Sucez-moi avant l'album",
+        cover: "https://i.scdn.co/image/ab67616d00001e022ec18d6ddffd40a583cf6d85",
+        rating: 5,
+        author: "Alkpote",
+        link: "https://open.spotify.com/intl-fr/album/0wmaktOeWhlWhmimgowoMH?si=7rv_zWIZT8SmXDAN32bYPQ",
+        kind: "album"
+    },
+    {
+        title: "Delaware",
+        cover: "https://i.scdn.co/image/ab67616d00001e02327dd408e63cfe266e5186b2",
+        rating: 5,
+        author: "Drop Ninteens",
+        link: "https://open.spotify.com/intl-fr/album/0kAlEeID2MPd2JYT3Iwegp?si=IFXMdBf6SLmr5mnCdGUmOw",
+        kind: "album"
+    },
+    {
+        title: "III Communication",
+        cover: "https://i.scdn.co/image/ab67616d00001e02436a305db8bd85b820da3e5a",
+        rating: 5,
+        author: "Beasty Boys",
+        link: "https://open.spotify.com/intl-fr/album/6lfjbwFGzQ6aSNP1N3JlT8?si=mFVJpF_xQZq3Cd_OVm_GZQ",
+        kind: "album"
+    },
+    {
+        title: "Substance",
+        cover: "https://i.scdn.co/image/ab67616d00001e023c182241fcd86aeca2c68a63",
+        rating: 5,
+        author: "New Order",
+        link: "https://open.spotify.com/intl-fr/album/6iHuSGy6pq4tNGFV3ZVPtl?si=YZGtIPoIRtehX6_k_sQM6A",
+        kind: "album"
+    },
+    {
+        title: "Power Corruption",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a0bb93884823982d57cb2004",
+        rating: 5,
+        author: "New Order",
+        link: "https://open.spotify.com/intl-fr/album/6NTrwu1XJ56jBPx7HMksbZ?si=L3YpHUXKQ6GrRq9PYOkizA",
+        kind: "album"
+    },
+    {
+        title: "Brotherhood",
+        cover: "https://i.scdn.co/image/ab67616d00001e02530a2c5dd17d2ddf8edc2978",
+        rating: 5,
+        author: "New Order",
+        link: "https://open.spotify.com/intl-fr/album/0PSWY4XyjTWppfBb0tBtqu?si=lz_S9S7OTy65Tz4tejOpkQ",
+        kind: "album"
+    },
+    {
+        title: "REpublic",
+        cover: "https://i.scdn.co/image/ab67616d00001e028120870086c90b8de2309ef0",
+        rating: 5,
+        author: "New Order",
+        link: "https://open.spotify.com/intl-fr/album/7mIOgbore2HTzdh2ZyS4rH?si=q8pyEbF_TvG818BFZU4dSA",
+        kind: "album"
+    },
+    {
+        title: "Instrumental Soundtrack",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bd8b0af490f57ec1e55513cf",
+        rating: 5,
+        author: "Fugazi",
+        link: "https://open.spotify.com/intl-fr/album/1owNOVlXTqmDVo4M2Z20uk?si=HjZxjH1iTMKv5RPRevG4TQ",
+        kind: "album"
+    },
+    {
+        title: "13 Songs",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f18ce5dc5f6b0843d3acb3a1",
+        rating: 5,
+        author: "Fugazi",
+        link: "https://open.spotify.com/intl-fr/album/1FcRwT7uoNdO8L9wbYsfAY?si=hCbB_gbwSvCN4uWh5VJb_w",
+        kind: "album"
+    },
+    {
+        title: "The 5000 Spirits or The Layer Of The Onion",
+        cover: "https://i.scdn.co/image/ab67616d00001e020987b713f60b59957f2681fe",
+        rating: 5,
+        author: "The Incredible String Band",
+        link: "https://open.spotify.com/intl-fr/album/3htu0UsV5JuouSfugMHNgS?si=ES79SVt8QN6g91ttE5KFkg",
+        kind: "album"
+    },
+    {
+        title: "Evangelion Finally",
+        cover: "https://i.scdn.co/image/ab67616d00001e026df828bb10343f7bad08d4fe",
+        rating: 5,
+        author: "Various Artists",
+        link: "https://open.spotify.com/intl-fr/album/3MRZ3T8TutKAlQK0d7mqho?si=cfsWk4kEQ12BBFz-CytTOw",
+        kind: "album"
+    },
+    {
+        title: "After Hours",
+        cover: "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+        rating: 5,
+        author: "The Weeknd",
+        link: "https://open.spotify.com/intl-fr/album/4yP0hdKOZPNshxUOjY0cZj?si=aGKq-7wPQbCBRjjX4TkmYg",
+        kind: "album"
+    },
+    {
+        title: "I Have Seen You Through the Years, Worn by Different Faces",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c62bafc4d8831296ddde5c5b",
+        rating: 5,
+        author: "SS-Say",
+        link: "https://open.spotify.com/intl-fr/album/5WQVSRM5BBxq8FA5SaKqRg?si=emMl-gayQKy0KSdrQnuJnA",
+        kind: "album"
+    },
+    {
+        title: "Daydream Nation",
+        cover: "https://i.scdn.co/image/ab67616d00001e02dae82a57e7385bc847f9f495",
+        rating: 5,
+        author: "Sonic Youth",
+        link: "https://open.spotify.com/album/3BYlBcND6PeKoW6ZODjZO3?si=ngVEY_jDQ92ZzDRcZCve6w",
+        kind: "album"
+    },
+    {
+        title: "A Different Age",
+        cover: "https://i.scdn.co/image/ab67616d00001e02df7a61e9fdf9fec7df7bd72a",
+        rating: 5,
+        author: "Current Joys",
+        link: "https://open.spotify.com/intl-fr/album/00we7Dqa5Y4Z1MBv2z9bUd?si=GJjPqckQTsGYwuKD_EZ3qA",
+        kind: "album"
+    },
+    {
+        title: "Live At Kilby Court",
+        cover: "https://i.scdn.co/image/ab67616d00001e0273303b2f8d1b42d5492342f6",
+        rating: 5,
+        author: "Current Joys",
+        link: "https://open.spotify.com/intl-fr/album/6v39Q9XBKxTfOqIgylueGP?si=iA6XegzMTzqiIk0lUxUi1A",
+        kind: "album"
+    },
+    {
+        title: "Dot And Loops",
+        cover: "https://i.scdn.co/image/ab67616d00001e025e70712e0193f7a9bbc23c0d",
+        rating: 5,
+        author: "Stereolab",
+        link: "https://open.spotify.com/intl-fr/album/151mT9g0fDHVfpmWeYk4Wx?si=W5-Bx04HTrGS2Jrhkdj7sw",
+        kind: "album"
+    },
+    {
+        title: "The Dog and the Future",
+        cover: "https://i.scdn.co/image/ab67616d00001e02868e32445c22b929ac78083d",
+        rating: 5,
+        author: "Agar Agar",
+        link: "https://open.spotify.com/intl-fr/album/1S5GLfv8Lmn4vmRMImheVu?si=_SMl31KURsWyDsRXdu68Cg",
+        kind: "album"
+    },
+    {
+        title: "Cardan",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e990c228791522717cb8b4e1",
+        rating: 5,
+        author: "Agar Agar",
+        link: "https://open.spotify.com/intl-fr/album/4ngCa16FS5to1pnRxucSu0?si=l1e7zzm9Td68EnPNs1M-Kw",
+        kind: "album"
+    },
+    {
+        title: "She Hangs Brightly",
+        cover: "https://i.scdn.co/image/ab67616d00001e02afce4c9cd3313302c0a16ed1",
+        rating: 5,
+        author: "Mazzy Star",
+        link: "https://open.spotify.com/intl-fr/album/2ZAcLWdHBHrdybwws1PVuA?si=dERCU5MwTs-1wRrhsWmbzQ",
+        kind: "album"
+    },
+    {
+        title: "So Tonight That I Might See",
+        cover: "https://i.scdn.co/image/ab67616d00001e0289a392107ebd79818022b3ea",
+        rating: 5,
+        author: "Mazzy Star",
+        link: "https://open.spotify.com/intl-fr/album/5K18gTgac0q6Jma5HkV1vA?si=iunwT4i2SKefSBouh7J8ag",
+        kind: "album"
+    },
+    {
+        title: "Among My Swan",
+        cover: "https://i.scdn.co/image/ab67616d00001e0240f8e560e743f9b5d382c0af",
+        rating: 5,
+        author: "Mazzy Star",
+        link: "https://open.spotify.com/intl-fr/album/4mhpbf7jYc0L1nBceoebIE?si=FIlLoQ-gQdWPpGzXzCN3MA",
+        kind: "album"
+    },
+    {
+        title: "Teen Dream",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a9a2f4dbb6ce31157d2e4783",
+        rating: 5,
+        author: "Beach House",
+        link: "https://open.spotify.com/intl-fr/album/7ejB3MHdDNcY3GzRsQRAHs?si=yNE427cPR-6Yn2E4zrOSTA",
+        kind: "album"
+    },
+    {
+        title: "Depression Cherry",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d1430224d631eaa5954f13c9",
+        rating: 5,
+        author: "Beach House",
+        link: "https://open.spotify.com/intl-fr/album/4SkZTSXdPpzTbf6C0m1UKv?si=O2_ClqitQea7iqcz2YysZg",
+        kind: "album"
+    },
+    {
+        title: "Bloom",
+        cover: "https://i.scdn.co/image/ab67616d00001e02fab2fadd4f2b3e54f8bfbc26",
+        rating: 5,
+        author: "Beach House",
+        link: "https://open.spotify.com/intl-fr/album/600BVck2XflTAsEo0KhIfm?si=tMFmK3SbTFicHTxxU7gK5w",
+        kind: "album"
+    },
+    {
+        title: "Shed",
+        cover: "https://i.scdn.co/image/ab67616d00001e023e378f6f76942740e239df0d",
+        rating: 5,
+        author: "Title Fight",
+        link: "https://open.spotify.com/intl-fr/album/1vA4pfmBUT9ei4Ukq8uTx1?si=CD2LSydRQhCD1G6z61kEww",
+        kind: "album"
+    },
+    {
+        title: "80'z",
+        cover: "https://i.scdn.co/image/ab67616d00001e0273eb8c98d55e4c31eb41135a",
+        rating: 5,
+        author: "Bb trickz",
+        link: "https://open.spotify.com/intl-fr/album/67YvgeZeleDvyK1sdaxi6G?si=jN1vl84_TIeF9XUFwvMtsA",
+        kind: "album"
+    },
+    {
+        title: "LSD and the Search for God",
+        cover: "https://i.scdn.co/image/ab67616d00001e02be9bb007638d6e2a0f64cab0",
+        rating: 5,
+        author: "LSD and the Search for God",
+        link: "https://open.spotify.com/intl-fr/album/46q859znSzYPVwz7OaO7GS?si=RZNoJMAFSkWM6aQZdFFrJA",
+        kind: "album"
+    },
+    {
+        title: "23",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d496f8e04a6d5c0f6a694af6",
+        rating: 5,
+        author: "Blonde Redhead",
+        link: "https://open.spotify.com/intl-fr/album/7iOloZrq72k9GsuJUUo1pO?si=5AtgLlFpSSCMvgZ8UoPQVA",
+        kind: "album"
+    },
+    {
+        title: "Work And Non Work",
+        cover: "https://i.scdn.co/image/ab67616d00001e02237803b061c3ff31f333c280",
+        rating: 5,
+        author: "Broadcast",
+        link: "https://open.spotify.com/intl-fr/album/6BwEy6Zz4U5y09nbSJQE2j?si=zGa1e64wR1G7PM5o_gxTOg",
+        kind: "album"
+    },
+    {
+        title: "Souvlaki",
+        cover: "https://i.scdn.co/image/ab67616d00001e0253da07db25e2543cce38abfe",
+        rating: 5,
+        author: "Slowdive",
+        link: "https://open.spotify.com/intl-fr/album/4i21O3uVh5palcfFhCjlT7?si=YDdBx_1nSoapzoOYauUuQQ",
+        kind: "album"
+    },
+    {
+        title: "Hurry up, We're Dreaming",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b3591763154a27326b3f431a",
+        rating: 5,
+        author: "M83",
+        link: "https://open.spotify.com/intl-fr/album/6EB14IXV5oyOiItGBv7mtG?si=-Zqo0TVXQ2OgcsXblUDT9A",
+        kind: "album"
+    },
+    {
+        title: "Dandys Rule OK",
+        cover: "https://i.scdn.co/image/ab67616d00001e0214c1fedd6578216826ced1a2",
+        rating: 5,
+        author: "The Dandy Warhols",
+        link: "https://open.spotify.com/intl-fr/album/5IYhB6cNGiCogm6tcMRhBW?si=X5xnn9M4SjijNBxlLTgJdw",
+        kind: "album"
+    },
+    {
+        title: "If I Were A Carpenter",
+        cover: "https://i.scdn.co/image/ab67616d00001e0258e762253dde898c519396bd",
+        rating: 5,
+        author: "Various Artists",
+        link: "https://open.spotify.com/intl-fr/album/2jzoM56c7kGgQKqFT7Ymu6?si=smFKBpVdTBWAWaDj7mz6pw",
+        kind: "album"
+    },
+    {
+        title: "Doolittle",
+        cover: "https://i.scdn.co/image/ab67616d00001e020ab3c2a306c614fae36ff1d6",
+        rating: 5,
+        author: "Pixies",
+        link: "https://open.spotify.com/intl-fr/album/0DQyTVcDhK9wm0f6RaErWO?si=0DBSkFQ6Q-yGqVEH0nXwLw",
+        kind: "album"
+    },
+    {
+        title: "Rather Ripped",
+        cover: "https://i.scdn.co/image/ab67616d00001e023a20c408851e76530edfa0b8",
+        rating: 5,
+        author: "Sonic Youth",
+        link: "https://open.spotify.com/intl-fr/album/57V5TA5DLxNvwPCPyXW1tB?si=HeUULV3kRQ2CHsMVQqbVWQ",
+        kind: "album"
+    },
+    {
+        title: "Turn On The Bright Light",
+        cover: "https://i.scdn.co/image/ab67616d00001e0258e444706a30b99f8d5fd8c9",
+        rating: 5,
+        author: "Interpol",
+        link: "https://open.spotify.com/intl-fr/album/2OhUWm2KJay2YWeItU9YcH?si=0ASy3lFyR2qHov7wDHqRyw",
+        kind: "album"
+    },
+    {
+        title: "Our Love To Admire",
+        cover: "https://i.scdn.co/image/ab67616d00001e0249240ebf0c49e2d758fe6373",
+        rating: 5,
+        author: "Interpol",
+        link: "https://open.spotify.com/intl-fr/album/1gsoIHeBan6QywhysNgApK?si=6t8THeZIRVGlrRTbZHcEJw",
+        kind: "album"
+    },
+    {
+        title: "Antics",
+        cover: "https://i.scdn.co/image/ab67616d00001e021c6c494c9e52debdded564d9",
+        rating: 5,
+        author: "Interpol",
+        link: "https://open.spotify.com/intl-fr/album/5NUna7cH8t5yLMgBxmW4NL?si=P5mRmdl5REmb32Pjla21wA",
+        kind: "album"
+    },
+    {
+        title: "Their Satanic Majesties' Second Request",
+        cover: "https://i.scdn.co/image/ab67616d00001e022557f5ed1ca07d5111d49b93",
+        rating: 5,
+        author: "The Brian Jonestown Massacre",
+        link: "https://open.spotify.com/intl-fr/album/4kXc4XcGYOpHpXRlWq1RFi?si=4vsYIbddTImVU9Fueauqdg",
+        kind: "album"
+    },
+    {
+        title: "Mini Album Thingy Wingy",
+        cover: "https://i.scdn.co/image/ab67616d00001e021af27257ffa4d5f68ab11318",
+        rating: 5,
+        author: "The Brian Jonestown Massacre",
+        link: "https://open.spotify.com/intl-fr/album/5RAEH1CQvn5kmPufRpycyt?si=g7y5cAsFRDuZNy3E-2bwGA",
+        kind: "album"
+    },
+    {
+        title: "Revelation",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c05791f9c0e5f5124d3240a5",
+        rating: 5,
+        author: "The Brian Jonestown Massacre",
+        link: "https://open.spotify.com/intl-fr/album/708s2EewEVFy0FZeOQYY3Y?si=gpFGKXgaRYqTPSxnuzqWsA",
+        kind: "album"
+    },
+    {
+        title: "Live Through This",
+        cover: "https://i.scdn.co/image/ab67616d00001e02be245e5b673371e6f95b19e2",
+        rating: 5,
+        author: "Hole",
+        link: "https://open.spotify.com/intl-fr/album/2Rwf2nPYZQ9aIe4QXACTC7?si=TVLt9GkqR1u0yNpugc6FSw",
+        kind: "album"
+    },
+    {
+        title: "Montage Of Heck: The Home Recordings",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c12bfed88d8f44ed506832e8",
+        rating: 5,
+        author: "Kurt Cobain",
+        link: "https://open.spotify.com/intl-fr/album/1nG8mArxQsJplIY6w50aQg?si=WbzOpESmRQeOb3bT8fNtyQ",
+        kind: "album"
+    },
+    {
+        title: "Montage Of Heck: The Home Recordings",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a4c50ce025b39993dea03d71",
+        rating: 5,
+        author: "Kurt Cobain",
+        link: "https://open.spotify.com/intl-fr/album/5UlRowLBWdNDdO17os804M?si=M638IcHVSu-Y62IDnZ0atw",
+        kind: "album"
+    },
+    {
+        title: "The Hidden Tapes",
+        cover: "https://open.spotify.com/intl-fr/album/4l7BW5uzwPhuKYP25X750E?si=0hpkyP1kSmC6LM8Ce30XkA",
+        rating: 5,
+        author: "Various Artists",
+        link: "https://open.spotify.com/intl-fr/album/4l7BW5uzwPhuKYP25X750E?si=_81VV6SgSiCCNLm5fD5gYg",
+        kind: "album"
+    },
+    {
+        title: "Is This It",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a388a3f20d1bf2123249cc79",
+        rating: 5,
+        author: "The Strokes",
+        link: "https://open.spotify.com/intl-fr/album/2yNaksHgeMQM9Quse463b5?si=g6P2DnhPQ8e9XvrVlkqUVw",
+        kind: "album"
+    },
+    {
+        title: "Room On Fire",
+        cover: "https://i.scdn.co/image/ab67616d00001e020f35726025e0f025da4c688f",
+        rating: 5,
+        author: "The Strokes",
+        link: "https://open.spotify.com/intl-fr/album/3HFbH1loOUbqCyPsLuHLLh?si=vudVP4cYREC_fWBj-tJZbA",
+        kind: "album"
+    },
+    {
+        title: "First Impressions Of Earth",
+        cover: "https://i.scdn.co/image/ab67616d00001e026898a982ff3c6049ba52586c",
+        rating: 5,
+        author: "The Strokes",
+        link: "https://open.spotify.com/intl-fr/album/1HQ61my1h3VWp2EBWKlp0n?si=s7ekW2cGSzKmsyeLWR9nMQ",
+        kind: "album"
+    },
+    {
+        title: "Angles",
+        cover: "https://i.scdn.co/image/ab67616d00001e02397d02cfe1aab2923f9d1697",
+        rating: 5,
+        author: "The Strokes",
+        link: "https://open.spotify.com/intl-fr/album/6Jx4cGhWHewTcfKDJKguBQ?si=Oii9krdyQQafPmon10EWRA",
+        kind: "album"
+    },
+    {
+        title: "Comedown Machine",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f07ef193e0bb6a238ea37f0a",
+        rating: 5,
+        author: "The Strokes",
+        link: "https://open.spotify.com/intl-fr/album/4WnkQO4xD9ljQooB3VIxCV?si=r8j0vCbfQaGr2QkXy7yI_A",
+        kind: "album"
+    },
+    {
+        title: "Future Present Past",
+        cover: "https://i.scdn.co/image/ab67616d00001e028509ba1ecd34e1d5410b9a22",
+        rating: 5,
+        author: "The Strokes",
+        link: "https://open.spotify.com/intl-fr/album/1SQjs5LxCj7J5WIZYg3h1D?si=7vj-Q74ISGeGCD8GOquz7Q",
+        kind: "album"
+    },
+    {
+        title: "The New Abnormal",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bfa99afb5ef0d26d5064b23b",
+        rating: 5,
+        author: "The Strokes",
+        link: "https://open.spotify.com/intl-fr/album/2xkZV2Hl1Omi8rk2D7t5lN?si=jS5-E4HfQlCVza19OcarPg",
+        kind: "album"
+    },
+    {
+        title: "The Glow, Pt. 2",
+        cover: "https://i.scdn.co/image/ab67616d00001e0200c91ccec6800014b8513717",
+        rating: 5,
+        author: "The Microphones",
+        link: "https://open.spotify.com/intl-fr/album/6QYoRO2sXThCORAifrP4Bl?si=o7IeNKHfSgSWzNeylJvY7Q",
+        kind: "album"
+    },
+    {
+        title: "MELTING MOMENT",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f78bb04e337eb2cb5e249cb4",
+        rating: 5,
+        author: "POiSON GiRL FRiEND",
+        link: "https://open.spotify.com/intl-fr/album/6asP1OdgPUjc7fSTvZxnaM?si=vFTE0ZgXTuSU0TXZ4jMyOg",
+        kind: "album"
+    },
+    {
+        title: "Stranger in the Alps",
+        cover: "https://i.scdn.co/image/ab67616d00001e0278d8e579122e4b9446954ee9",
+        rating: 5,
+        author: "Phoebe Bridgers",
+        link: "https://open.spotify.com/intl-fr/album/5rcJ5xCMYYLCgGilFDKRZl?si=3yjBRzHMT1KSffhhDnHszg",
+        kind: "album"
+    },
+    {
+        title: "O∆",
+        cover: "https://i.scdn.co/image/ab67616d00001e02101823c342ee40b0b4ca40fe",
+        rating: 5,
+        author: "London O'Connor",
+        link: "https://open.spotify.com/intl-fr/album/7EFc02drhNNSHOWS645Ide?si=K1H6ne5QQIKPpIEyrJGzAA",
+        kind: "album"
+    },
+    {
+        title: "2003 Toyota Corolla",
+        cover: "https://i.scdn.co/image/ab67616d00001e02092cecf16e143d56e7c2080e",
+        rating: 5,
+        author: "2003 Toyota Corolla",
+        link: "https://open.spotify.com/intl-fr/album/4oOr6KBLtpEF3zjlK5HMYx?si=tSiwqx2UR9SeOGpMj76lwQ",
+        kind: "album"
+    },
+    {
+        title: "LA COURSE",
+        cover: "https://i.scdn.co/image/ab67616d00001e02550b4528f31fd28007a97ab9",
+        rating: 5,
+        author: "NeS",
+        link: "https://open.spotify.com/intl-fr/album/4uwweIPWe2AIZknk4aL85E?si=FonQLrUtTxOLLwoZP276vA",
+        kind: "album"
+    },
+    {
+        title: "N.E.S vol.1",
+        cover: "https://i.scdn.co/image/ab67616d00001e02112351ca765fece385ea71c6",
+        rating: 5,
+        author: "NeS",
+        link: "https://open.spotify.com/intl-fr/album/3LQOpZ7lYz6UxhRxGAto9A?si=qFSdCmH9R7G1IcosS8SETw",
+        kind: "album"
+    },
+    {
+        title: "Au Baccara",
+        cover: "https://i.scdn.co/image/ab67616d00001e0217a41fd316b2f3107d4dc35f",
+        rating: 5,
+        author: "Odezenne",
+        link: "https://open.spotify.com/intl-fr/album/3FS3eNtEprLV3fUriJ7hU3?si=U5cRMDfnSwmv95vP7SUn0A",
+        kind: "album"
+    },
+    {
+        title: "1200 mètres tout en haut",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ff6ce2feb21770180abf00e0",
+        rating: 5,
+        author: "Odezenne",
+        link: "https://open.spotify.com/intl-fr/album/4rFLyaNnLXbh8OUmesVbYF?si=ht2R9lHVRDmK9r37a88Elw",
+        kind: "album"
+    },
+    {
+        title: "Dolziger Str. 2",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f65544cab7fc90bc4998505a",
+        rating: 5,
+        author: "Odezenne",
+        link: "https://open.spotify.com/intl-fr/album/0RRg2fVjqadGUxhTYQFCHn?si=95wIV0O8SUCnlt-zk1PMrw",
+        kind: "album"
+    },
+    {
+        title: "Pouchkine",
+        cover: "https://i.scdn.co/image/ab67616d00001e0236309b27bac028c9238e189a",
+        rating: 5,
+        author: "Odezenne",
+        link: "https://open.spotify.com/intl-fr/album/7rJGtJY0medXqW1tmIVqWk?si=WhJl13BNTWSZZy40eyyDTA",
+        kind: "album"
+    },
+    {
+        title: "sans. chantilly",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e129c5d6961bd909641b0c97",
+        rating: 5,
+        author: "Odezenne",
+        link: "https://open.spotify.com/intl-fr/album/22PKNzcAtIKtKasoJwu9tV?si=arj_iM9tS_WrxHlAwU2HsQ",
+        kind: "album"
+    },
+    {
+        title: "Gorillaz",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f6c46838e4425ea96e2562fe",
+        rating: 5,
+        author: "Gorillaz",
+        link: "https://open.spotify.com/intl-fr/album/4tUxQkrduOE8sfgwJ5BI2F?si=T8CDh3TuT3ytCZemW3iM9Q",
+        kind: "album"
+    },
+        {
+        title: "Demon Days",
+        cover: "https://i.scdn.co/image/ab67616d00001e0219d85a472f328a6ed9b704cf",
+        rating: 5,
+        author: "Gorillaz",
+        link: "https://open.spotify.com/intl-fr/album/0bUTHlWbkSQysoM3VsWldT?si=fZfFarE8QwSJL0J-T1LAhQ",
+        kind: "album"
+    },
+    {
+        title: "Plastic Beach",
+        cover: "https://i.scdn.co/image/ab67616d00001e02661d019f34569f79eae9e985",
+        rating: 5,
+        author: "Gorillaz",
+        link: "https://open.spotify.com/intl-fr/album/2dIGnmEIy1WZIcZCFSj6i8?si=FMQGemqjS5KykFKw9ZV2fQ",
+        kind: "album"
+    },
+    {
+        title: "The Now Now",
+        cover: "https://i.scdn.co/image/ab67616d00001e024d9f7b88e82db31d13ac6668",
+        rating: 5,
+        author: "Gorillaz",
+        link: "https://open.spotify.com/intl-fr/album/1amYhlukNF8WdaQC3gKkgL?si=vG1jw0qNSkuGih_RkAb86w",
+        kind: "album"
+    },
+    {
+        title: "D-Sides",
+        cover: "https://i.scdn.co/image/ab67616d00001e02efb135bbd7001e8ad73c7f72",
+        rating: 5,
+        author: "Gorillaz",
+        link: "https://open.spotify.com/intl-fr/album/0pdYY0CHFRVFLBZEPEKTMZ?si=6XNKI6TGTFqTONIWP68E1Q",
+        kind: "album"
+    },
+    {
+        title: "Man On The Moon II: The Legend Of Mr. Rager",
+        cover: "https://i.scdn.co/image/ab67616d00001e0259e842b6a3566a141f27f815",
+        rating: 5,
+        author: "Kid Cudi",
+        link: "https://open.spotify.com/intl-fr/album/08eM9GRdr5BCCHNqS3Wwud?si=OGm_kkwnS_ajovpMWsHXgA",
+        kind: "album"
+    },
+    {
+        title: "Man On The Moon: The End Of Day",
+        cover: "https://i.scdn.co/image/ab67616d00001e02713f297a7bdc1d48971062b2",
+        rating: 5,
+        author: "Kid Cudi",
+        link: "https://open.spotify.com/intl-fr/album/6oPPKtAwNNlkW4wwHfQDfM?si=YCK_rGgFQGKN5rqQLKTlzA",
+        kind: "album"
+    },
+    {
+        title: "KIDS SEE GHOSTS",
+        cover: "https://i.scdn.co/image/ab67616d00001e02013c00ee367dd85396f79c82",
+        rating: 5,
+        author: "Various Artists",
+        link: "https://open.spotify.com/intl-fr/album/6pwuKxMUkNg673KETsXPUV?si=yroTZ6DQQPWcczednBT9eQ",
+        kind: "album"
+    },
+    {
+        title: "Indicud",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b9ab5cc935d2327a7d2bc629",
+        rating: 5,
+        author: "Kid Cudi",
+        link: "https://open.spotify.com/intl-fr/album/262o5a05pMUDSV2uzo5EwQ?si=7kuA8eu7Rk6HPP9vsQ41Xg",
+        kind: "album"
+    },
+    {
+        title: "KiD CuDi presents SATELLITE FLIGHT: The journey to Mother Moon",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e2d1b3c2dbdfe07013fb91bb",
+        rating: 5,
+        author: "Kid Cudi",
+        link: "https://open.spotify.com/intl-fr/album/4u9kEyafQ7sW0Z1gpJrDxp?si=dbKH9c0hRXm0za7xBz55Hw",
+        kind: "album"
+    },
+    {
+        title: "Speedin' Bullet 2 Heaven",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a4ea8c76f78b72ce3bda7625",
+        rating: 5,
+        author: "Kid Cudi",
+        link: "https://open.spotify.com/intl-fr/album/6e8pwYKSF9iZjpPep1DVzx?si=nLEh5xb3RzyOr5uRjcxV5A",
+        kind: "album"
+    },
+    {
+        title: "Passion, Pain & Demon Slayin'",
+        cover: "https://i.scdn.co/image/ab67616d00001e025c8d9ad991d2a23eb039d8dd",
+        rating: 5,
+        author: "Kid Cudi",
+        link: "https://open.spotify.com/intl-fr/album/5bCk3kWAy2JbbTfHqzZCII?si=aTFrxFFnRjaXd9sHIXYTCg",
+        kind: "album"
+    },
+    {
+        title: "Man On The Moon III: The Chosen",
+        cover: "https://i.scdn.co/image/ab67616d00001e026ff25c2481eeaf6e7284d461",
+        rating: 5,
+        author: "Kid Cudi",
+        link: "https://open.spotify.com/intl-fr/album/64nbgEEIcY4g1ElVLONJ0w?si=Et6zxKUrSxS0zmisq5perg",
+        kind: "album"
+    },
+    {
+        title: "Cherry Bomb",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e4bf0d3d9e0224a30ca5f665",
+        rating: 5,
+        author: "Tyler, The Creator",
+        link: "https://open.spotify.com/intl-fr/album/621OhgnZJ7Pz8iUazct1In?si=LT5nXRpeSzK-ArYf1rbrQw",
+        kind: "album"
+    },
+    {
+        title: "IGOR",
+        cover: "https://i.scdn.co/image/ab67616d00001e027005885df706891a3c182a57",
+        rating: 5,
+        author: "Tyler, The Creator",
+        link: "https://open.spotify.com/intl-fr/album/5zi7WsKlIiUXv09tbGLKsE?si=21C1X7y3RkiGq6Fwfv5XVA",
+        kind: "album"
+    },
+    {
+        title: "Flower Boy",
+        cover: "https://i.scdn.co/image/ab67616d00001e028940ac99f49e44f59e6f7fb3",
+        rating: 5,
+        author: "Tyler, The Creator",
+        link: "https://open.spotify.com/intl-fr/album/2nkto6YNI4rUYTLqEwWJ3o?si=jSWWlVndTRiUEGOuTbf9Lw",
+        kind: "album"
+    },
+    {
+        title: "CALL ME IF YOU GET LOST",
+        cover: "https://i.scdn.co/image/ab67616d00001e02696b4e67423edd64784bfbb4",
+        rating: 5,
+        author: "Tyler, The Creator",
+        link: "https://open.spotify.com/intl-fr/album/45ba6QAtNrdv6Ke4MFOKk9?si=QRxXEk4HSeyeqfNWZTH7Ug",
+        kind: "album"
+    },
+    {
+        title: "Cherry Bomb + Instrumentals",
+        cover: "https://i.scdn.co/image/ab67616d00001e0237906edcfbfde42b203097f2",
+        rating: 5,
+        author: "Tyler, The Creator",
+        link: "https://open.spotify.com/album/5V3Chnpno9oTI7JSPXKUf3?si=aXiKZTHbQbyVEu9wu9eA6A",
+        kind: "album"
+    },
+    {
+        title: "Goblin",
+        cover: "https://i.scdn.co/image/ab67616d00001e025ea9799a88c0760ec03ac6b8",
+        rating: 5,
+        author: "Tyler, The Creator",
+        link: "https://open.spotify.com/intl-fr/album/3CxknRPQLbOJRwQrNekNyU?si=aAZHaYnWRyWux-xVPOA-9Q",
+        kind: "album"
+    },
+    {
+        title: "Wolf",
+        cover: "https://i.scdn.co/image/ab67616d00001e0222007a4aa8a55fe7b1de5632",
+        rating: 5,
+        author: "Tyler, The Creator",
+        link: "https://open.spotify.com/intl-fr/album/40QTqOBBxCEIQlLNdSjFQB?si=XdzdfP_gSoOLdm7er0jcuA",
+        kind: "album"
+    },
+    {
+        title: "Gemini Rights",
+        cover: "https://i.scdn.co/image/ab67616d00001e0268968350c2550e36d96344ee",
+        rating: 5,
+        author: "Steve Lacy",
+        link: "https://open.spotify.com/intl-fr/album/3Ks0eeH0GWpY4AU20D5HPD?si=gbk4WqZlTW2dsw3Kk8Xrrg",
+        kind: "album"
+    },
+    {
+        title: "Endorphine",
+        cover: "https://i.scdn.co/image/ab67616d00001e021e5bf2b136e00c8658e845da",
+        rating: 5,
+        author: "Shooda",
+        link: "https://open.spotify.com/intl-fr/album/4j6w0f8TkSXinWfnFWPB9b?si=aIkhjbIxSKe6NHyeKB6LDA",
+        kind: "album"
+    },
+    {
+        title: "stray",
+        cover: "https://i.scdn.co/image/ab67616d00001e02769dd5dc46f6f791db1d89e0",
+        rating: 5,
+        author: "meet computer",
+        link: "https://open.spotify.com/intl-fr/album/1R4WpKQix0crmrOUkM9ngd?si=1poYjrzDSH2k2CGi0YL3xA",
+        kind: "album"
+    },
+    {
+        title: "social distancing from reality",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e05c841cffef255cb4409987",
+        rating: 5,
+        author: "meet computer",
+        link: "https://open.spotify.com/intl-fr/album/2SX88PoZhRbgiOJUdhoegq?si=zwZT5jlqRHWf8DOaANY5ig",
+        kind: "album"
+    },
+    {
+        title: "glalie",
+        cover: "https://i.scdn.co/image/ab67616d00001e022bda04824ae61e3dabe925dd",
+        rating: 5,
+        author: "snorunt",
+        link: "https://open.spotify.com/intl-fr/album/35lySAzCjY5mhTEuyVEgPV?si=1jWaqFTPRAqRJQgq--EbCA",
+        kind: "album"
+    },
+    {
+        title: "no arnark, no noob",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b57aad5391bbe1a1377e6d41",
+        rating: 5,
+        author: "snorunt",
+        link: "https://open.spotify.com/intl-fr/album/2axV1vKpWysDUA8vX6zpw5?si=_4EJlvd2TBmKbb6AzZppFg",
+        kind: "album"
+    },
+    {
+        title: "Tomorrow Is Nearly Yesterday and Everyday Is Stupid",
+        cover: "https://i.scdn.co/image/ab67616d00001e0282556348caf99d57c5599f2a",
+        rating: 5,
+        author: "Crywank",
+        link: "https://open.spotify.com/intl-fr/album/6pOwAexagsTxRqolCPy7Vd?si=j5HPbQqZRamPD25n2N2PMA",
+        kind: "album"
+    },
+    {
+        title: "White Light",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bbaf9de6c418a0aa6cb7b938",
+        rating: 5,
+        author: "Sidewalks and Skeletons",
+        link: "https://open.spotify.com/intl-fr/album/0Iq6APTGuGPe875jV0rIw2?si=Huz6K0zORqmzdkgOgY_wgA",
+        kind: "album"
+    },
+    {
+        title: "Galion",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bb0d307d610551f551b64abe",
+        rating: 5,
+        author: "23wa",
+        link: "https://open.spotify.com/intl-fr/album/2EQ8o6DwMdWYbS6YfZgkM3?si=CmZVt7U_SO25hw5TGyRVlw",
+        kind: "album"
+    },
+    {
+        title: "3",
+        cover: "https://i.scdn.co/image/ab67616d00001e02559eccd81c6db625693ca9a6",
+        rating: 5,
+        author: "23wa",
+        link: "https://open.spotify.com/intl-fr/album/2dlwvDoGntR9eYov4q7xQA?si=NtJpstCbSzOpaTeCBBZRDA",
+        kind: "album"
+    },
+    {
+        title: "RORSCHACH",
+        cover: "https://i.scdn.co/image/ab67616d00001e0208b1b5011702612ae77e5a3f",
+        rating: 5,
+        author: "23wa",
+        link: "https://open.spotify.com/intl-fr/album/6ym0ak9Ei2tSLfJm5Eu4Kq?si=P-ZxC9PnT7CCHUOs_6FYwA",
+        kind: "album"
+    },
+    {
+        title: "Magenta",
+        cover: "https://i.scdn.co/image/ab67616d00001e0283e23186e500e9af597493c7",
+        rating: 5,
+        author: "23wa",
+        link: "https://open.spotify.com/intl-fr/album/4NwW6hnJQ9xnX9W0aYF9pn?si=DPyH61w2TY-qmZQCfc6UYw",
+        kind: "album"
+    },
+    {
+        title: "ULTRA",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b718199c035121fe709fe19a",
+        rating: 5,
+        author: "23wa",
+        link: "https://open.spotify.com/intl-fr/album/177zsuUvUqnNBV3Vyc7AlV?si=4Nmhas-PTX-MoWW39Em-yA",
+        kind: "album"
+    },
+    {
+        title: "808s & Heartbreak",
+        cover: "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
+        rating: 5,
+        author: "Kanye West",
+        link: "https://open.spotify.com/intl-fr/album/3WFTGIO6E3Xh4paEOBY9OU?si=sOl8iwBzTT20cGQRzhq85Q",
+        kind: "album"
+    },
+    {
+        title: "Graduation",
+        cover: "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
+        rating: 5,
+        author: "Kanye West",
+        link: "https://open.spotify.com/intl-fr/album/4SZko61aMnmgvNhfhgTuD3?si=NKKHylV-Qmu_iSWZorL1Vg",
+        kind: "album"
+    },
+    {
+        title: "My Beautiful Dark Twisted Fantasy",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f",
+        rating: 5,
+        author: "Kanye West",
+        link: "https://open.spotify.com/intl-fr/album/20r762YmB5HeofjMCiPMLv?si=bwNof2SVRIWpNusiy-sKow",
+        kind: "album"
+    },
+    {
+        title: "The College Dropout",
+        cover: "https://i.scdn.co/image/ab67616d00001e0225b055377757b3cdd6f26b78",
+        rating: 5,
+        author: "Kanye West",
+        link: "https://open.spotify.com/intl-fr/album/4Uv86qWpGTxf7fU7lG5X6F?si=1ZMrfItOR02QUnCLR8talA",
+        kind: "album"
+    },
+    {
+        title: "Late Registration",
+        cover: "https://i.scdn.co/image/ab67616d00001e02428d2255141c2119409a31b2",
+        rating: 5,
+        author: "Kanye West",
+        link: "https://open.spotify.com/intl-fr/album/5ll74bqtkcXlKE7wwkMq4g?si=NatrOiydRoC_daAtV3X90A",
+        kind: "album"
+    },
+    {
+        title: "Yeezus",
+        cover: "https://i.scdn.co/image/ab67616d00001e021dacfbc31cc873d132958af9",
+        rating: 5,
+        author: "Kanye West",
+        link: "https://open.spotify.com/intl-fr/album/7D2NdGvBHIavgLhmcwhluK?si=jHnyy_0-RR2oGjqMiC_WJA",
+        kind: "album"
+    },
+    {
+        title: "Life Of Pablo",
+        cover: "https://i.scdn.co/image/ab67616d00001e022a7db835b912dc5014bd37f4",
+        rating: 5,
+        author: "Kanye West",
+        link: "https://open.spotify.com/intl-fr/album/7gsWAHLeT0w7es6FofOXk1?si=Vl8FUumjTT63BAEeNZBcDw",
+        kind: "album"
+    },
+    {
+        title: "Ye",
+        cover: "https://i.scdn.co/image/ab67616d00001e020cd942c1a864afa4e92d04f2",
+        rating: 5,
+        author: "Kanye West",
+        link: "https://open.spotify.com/intl-fr/album/2Ek1q2haOnxVqhvVKqMvJe?si=HiohV0LIQr252ERcCoqAnA",
+        kind: "album"
+    },
+    {
+        title: "Twilight",
+        cover: "https://i.scdn.co/image/ab67616d00001e02948506eef3b3350b2385ef51",
+        rating: 5,
+        author: "bôa",
+        link: "https://open.spotify.com/intl-fr/album/7sGYAV0xv7ZfAMzIpMl8m1?si=yAKITbPMRMawbb5KCipwaQ",
+        kind: "album"
+    },
+    {
+        title: "Outer Wilds",
+        cover: "https://i.scdn.co/image/ab67616d00001e02db6b8ae97f69fee1d432334d",
+        rating: 5,
+        author: "Andrew Pharlow",
+        link: "https://open.spotify.com/intl-fr/album/1U0A6RPNJB05PtuBcaTM7o?si=m9aVgfcqRD6p8PVwh1sydg",
+        kind: "album"
+    },
+    {
+        title: "Sarah's Crime",
+        cover: "https://i.scdn.co/image/ab67616d00001e0279c4ef3f19aeea339a4e9552",
+        rating: 5,
+        author: "Toshifumi Hinata",
+        link: "https://open.spotify.com/intl-fr/album/0PI2S21wPmojTHDHZC1SdE?si=lVX0VCp4Ry6k0akiTOYCxw",
+        kind: "album"
+    },
+    {
+        title: "ひとつぶの海",
+        cover: "https://i.scdn.co/image/ab67616d00001e02fb4aac6e97e78983ac5f6280",
+        rating: 5,
+        author: "Toshifumi Hinata",
+        link: "https://open.spotify.com/intl-fr/album/0k4j3uetJHFATIt4VxwCPz?si=X8E4u4ZxTGmxfsX3m_KMVg",
+        kind: "album"
+    },
+    {
+        title: "Israeli Salad",
+        cover: "https://i.scdn.co/image/ab67616d00001e02394784bfe372086a3c091cee",
+        rating: 5,
+        author: "The Alchemist",
+        link: "https://open.spotify.com/intl-fr/album/7ntqAx8PbkYHwjeZnliXRV?si=nH9g-H0lSBOXaDHAJOWPgw",
+        kind: "album"
+    },
+    {
+        title: "Moonlust Demos",
+        cover: "https://i.scdn.co/image/ab67616d00001e0299e96bc3a8934f228cd34dec",
+        rating: 5,
+        author: "The Holydrug Couple",
+        link: "https://open.spotify.com/intl-fr/album/3SC1up17l1zGlOtZbrPkvv?si=I950ys1CRoadrbVSchUxvQ",
+        kind: "album"
+    },
+    {
+        title: "Moonlust",
+        cover: "https://i.scdn.co/image/ab67616d00001e021a36493cdc3087836874421d",
+        rating: 5,
+        author: "The Holydrug Couple",
+        link: "https://open.spotify.com/intl-fr/album/5dsTu76YBUMKIvgjrswqpF?si=nByu2S1bQMqfAyNnHOK92w",
+        kind: "album"
+    },
+    {
+        title: "Deadly Poison Sting",
+        cover: "https://i.scdn.co/image/ab67616d00001e02aeb44e431e6792e8c79f71f5",
+        rating: 5,
+        author: "Baby Hayabusa",
+        link: "https://open.spotify.com/intl-fr/album/4ZBG4lOW57ekJjHjXGxxMU?si=_PhmWeQBSDeuFCQ8fZicHw",
+        kind: "album"
+    },
+    {
+        title: "omar chappier",
+        cover: "https://i.scdn.co/image/ab67616d00001e029127367ad406522575a673d5",
+        rating: 5,
+        author: "Mairo",
+        link: "https://open.spotify.com/intl-fr/album/7kJlepBMOiYWXApfqI5P7T?si=ISy3Pa_tSGiMFSqeVcLrHA",
+        kind: "album"
+    },
+    {
+        title: "95 monde libre",
+        cover: "https://i.scdn.co/image/ab67616d00001e02dd0a92b8b8f0e937a7c36757",
+        rating: 5,
+        author: "Mairo",
+        link: "https://open.spotify.com/intl-fr/album/06QFGWAc65bXCHFh283jZ7?si=R8vB8Eu-RO-o3qByQAqpIQ",
+        kind: "album"
+    },
+    {
+        title: "Du rire aux larmes",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b0be7a588d2562592029db53",
+        rating: 5,
+        author: "SNIPER",
+        link: "https://open.spotify.com/intl-fr/album/58exV0JVglskuAfyXOoNae?si=T8_JnqSzSCeScx_5a3jQhg",
+        kind: "album"
+    },
+    {
+        title: "Gravé dans la roche",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c20c2d775a423e281cb66f47",
+        rating: 5,
+        author: "SNIPER",
+        link: "https://open.spotify.com/intl-fr/album/6chD9SocKyshylTuhbKV2O?si=_KCOIeWTRNicdWtcACr9yQ",
+        kind: "album"
+    },
+    {
+        title: "Trait pour trait",
+        cover: "https://i.scdn.co/image/ab67616d00001e02bc417c0ea3eb8427f467243a",
+        rating: 5,
+        author: "SNIPER",
+        link: "https://open.spotify.com/intl-fr/album/7wWV7fPoyYnj5u8y7zqg5S?si=G9SFalInT8C5TmLwM9MiPg",
+        kind: "album"
+    },
+    {
+        title: "200",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ba4b43f860254eaa6db1f3c4",
+        rating: 5,
+        author: "abel31",
+        link: "https://open.spotify.com/intl-fr/album/3l0uMjF4GqslOXGER0R2Dd?si=375wqHdPTOCkeOxKcrwsEg",
+        kind: "album"
+    },
+    {
+        title: "G.L.O.CC",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b4aabe0dfe95645931996a2d",
+        rating: 5,
+        author: "wasting shit",
+        link: "https://open.spotify.com/intl-fr/album/6jTSJBbvls2sT3BETMWlrm?si=Et1iMhV4S-yoUixtgMnYPw",
+        kind: "album"
+    },
+    {
+        title: "berdlycore chapter 3",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f3e66fed6f928691c4a45279",
+        rating: 5,
+        author: "xaev",
+        link: "https://open.spotify.com/intl-fr/album/0m6kc29nRTIRiJirbsSuCC?si=YHDcDmx7QCGZYYHMuHu2vQ",
+        kind: "album"
+    },
+    {
+        title: "Pénitence & Flagellations",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e1810fc30aa627ebe14501f9",
+        rating: 5,
+        author: "MCOCHET",
+        link: "https://open.spotify.com/intl-fr/album/1knVxhCjdrMwXTsXn80rNt?si=-QjE2j7ERa-0WHg2CAapbg",
+        kind: "album"
+    },
+    {
+        title: "Modal Soul",
+        cover: "https://i.scdn.co/image/ab67616d00001e02912cc8fe2e9a53d328757a41",
+        rating: 5,
+        author: "Nujabes",
+        link: "https://open.spotify.com/intl-fr/album/6nVACH6a27eOWiumAJhDWS?si=BAdNaYjjSDeVnkDW1DzTiw",
+        kind: "album"
+    },
+    {
+        title: "ULTRAKUNST",
+        cover: "https://i.scdn.co/image/ab67616d00001e020fe005e66bd2e46300045656",
+        rating: 5,
+        author: "Brutalismus 3000",
+        link: "https://open.spotify.com/intl-fr/album/1OegF0mIizsl36EVw1y1SW?si=zF8ncUv_Q3C1MbtSUjtE9g",
+        kind: "album"
+    },
+    {
+        title: "Eros Massacre",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b092dfab00dcf0ca5daf59b8",
+        rating: 5,
+        author: "https://open.spotify.com/intl-fr/album/0ZVpEzmv3wYLL1waCPPf7V?si=1lCZPVGsQ9-ex6sxRs9cpA",
+        link: "Brutalismus 3000",
+        kind: "album"
+    },
+    {
+        title: "J'accuse (Extraits)",
+        cover: "https://i.scdn.co/image/ab67616d00001e02220b392ea57076e45d5d2e2f",
+        rating: 5,
+        author: "Saez",
+        link: "https://open.spotify.com/intl-fr/album/0L2xEEPcotXmt6IPql1iwO?si=j8q8kWsIStmvc1H20DPdew",
+        kind: "album"
+    },
+    {
+        title: "PUBG",
+        cover: "https://i.scdn.co/image/ab67616d00001e021ffd8c61e71764261a0bcba3",
+        rating: 5,
+        author: "Sully",
+        link: "https://open.spotify.com/intl-fr/album/02LhQdVX706kIrTX1mvqok?si=JWnieg6uT1aQssZ1a0S91w",
+        kind: "album"
+    },
+    {
+        title: "if they don't love these songs they won't love me",
+        cover: "https://i.scdn.co/image/ab67616d00001e02520a1651926e1af555a5c8d1",
+        rating: 5,
+        author: "I Hate Myself Because",
+        link: "https://open.spotify.com/intl-fr/album/7IDO5NSLzCoHfNOCJICTZc?si=0euPWRYxTKypgl7SYjGUWg",
+        kind: "album"
+    },
+    {
+        title: "L'Étrange Histoire de Mr.Anderson",
+        cover: "https://i.scdn.co/image/ab67616d00001e029bbbf5ca66b29b25236379cb",
+        rating: 5,
+        author: "Laylow",
+        link: "https://open.spotify.com/intl-fr/album/1LtG5P8cNErCsn1DZMVbrz?si=lLyfkio0SUu1mLVS0M3Cww",
+        kind: "album"
+    },
+    {
+        title: "TRINITY",
+        cover: "https://i.scdn.co/image/ab67616d00001e028a4869eaf9f003ab73df0ec2",
+        rating: 5,
+        author: "Laylow",
+        link: "https://open.spotify.com/intl-fr/album/0JMZmkRaNLaGUWayBrHOMa?si=H0wInnazQOKBpQKOyD304Q",
+        kind: "album"
+    },
+    {
+        title: "Mercy",
+        cover: "https://i.scdn.co/image/ab67616d00001e0231318386aa2981082278d26c",
+        rating: 5,
+        author: "Laylow",
+        link: "https://open.spotify.com/intl-fr/album/0ZyQiJx1TejxM3pIJPF5B9?si=G0hV3kN_QyCOHLqM6jMJZw",
+        kind: "album"
+    },
+    {
+        title: ".RAW-Z",
+        cover: "https://i.scdn.co/image/ab67616d00001e0286697db3407c82cf02d54828",
+        rating: 5,
+        author: "Laylow",
+        link: "https://open.spotify.com/intl-fr/album/2ajjfCNXbVNf15QHhFDjTy?si=TGIZexSDTky7HEjRMI8JQA",
+        kind: "album"
+    },
+    {
+        title: ".RAW",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ee8973c811aa5f0a43f3964e",
+        rating: 5,
+        author: "Laylow",
+        link: "https://open.spotify.com/intl-fr/album/0HAecq9wdhdVvrIl7ya0K4?si=61CEQsRhSraHhoktefAPCw",
+        kind: "album"
+    },
+    {
+        title: "Digitalova",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f77b07f87077d27963fc4bee",
+        rating: 5,
+        author: "Laylow",
+        link: "https://open.spotify.com/intl-fr/album/5eYkNzm2ZtkC9Ks27gp9yp?si=287byGBrSZuL3WLutSfT6g",
+        kind: "album"
+    },
+    {
+        title: "Ombre Est Lumière",
+        cover: "https://i.scdn.co/image/ab67616d00001e020598bbed97d3d73ea0ecd835",
+        rating: 5,
+        author: "IAM",
+        link: "https://open.spotify.com/intl-fr/album/2soc1D7Ym6sGp4A4d2pbWU?si=H_SUr9kXR9utUP-a59JdrA",
+        kind: "album"
+    },
+    {
+        title: "L'école du micro d'argent",
+        cover: "https://i.scdn.co/image/ab67616d00001e0265716918209ccc6bac2af278",
+        rating: 5,
+        author: "IAM",
+        link: "https://open.spotify.com/intl-fr/album/3atPIVCVIIgak6KeB1ANnK?si=_etDAzswSimyEBhGfib47Q",
+        kind: "album"
+    },
+    {
+        title: "don dada mixtape vol 1",
+        cover: "https://i.scdn.co/image/ab67616d00001e024e2eba88eda4ded5e590ba6b",
+        rating: 5,
+        author: "Alpha Wann",
+        link: "https://open.spotify.com/intl-fr/album/0Wd9loAJUFFGJ6mGyTL00I?si=I2t06-hoRMWyQMr1R9k2tg",
+        kind: "album"
+    },
+    {
+        title: "UNE MAIN LAVE L'AUTRE",
+        cover: "https://i.scdn.co/image/ab67616d00001e02842b2c6c258fbaa254ff3b2c",
+        rating: 5,
+        author: "Alpha Wann",
+        link: "https://open.spotify.com/intl-fr/album/6wXBrJU2DZt5Ga9nUZYXcg?si=QHKzExCSTwGAdNoLEjhR_A",
+        kind: "album"
+    },
+    {
+        title: "Alph Lauren",
+        cover: "https://i.scdn.co/image/ab67616d00001e02048a9023975d0995f0f87910",
+        rating: 5,
+        author: "Alpha Wann",
+        link: "https://open.spotify.com/intl-fr/album/00m6peeCuQ5bzFfkaAior7?si=afvZZ7bJTY6DIIu_Jz1JpA",
+        kind: "album"
+    },
+    {
+        title: "Alph Laurent 2",
+        cover: "https://i.scdn.co/image/ab67616d00001e02757c47be7338c71f6c8b7cc7",
+        rating: 5,
+        author: "Alpha Wann",
+        link: "https://open.spotify.com/intl-fr/album/6tlPwCxu7DTBxzFqwnyhgJ?si=8npAdKWfTwOcQXssAzzp-w",
+        kind: "album"
+    },
+    {
+        title: "Alph Lauren 3",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e08371d7196b3a7919af61f9",
+        rating: 5,
+        author: "Alpha Wann",
+        link: "https://open.spotify.com/intl-fr/album/4JkiKZpr66KXmCAqywoT91?si=Cv2gD3KnTI23T_34YNxEAA",
+        kind: "album"
+    },
+    {
+        title: "Legend",
+        cover: "https://i.scdn.co/image/ab67616d00001e0285b36be7fd94864efc4b008f",
+        rating: 5,
+        author: "Bob Marley & The Wailers",
+        link: "https://open.spotify.com/intl-fr/album/04VRfesff9bgDA2Q8J2oDo?si=brlvx_PdRmi3jp2nZWkHLQ",
+        kind: "album"
+    },
+    {
+        title: "Exodus",
+        cover: "https://i.scdn.co/image/ab67616d00001e02420b2459f35e0fc98bcab288",
+        rating: 5,
+        author: "Bob Marley & The Wailers",
+        link: "https://open.spotify.com/intl-fr/album/1vHvJVBK0WnpbYFw4f4UTD?si=yskWXxBOQF6KScRYvV6DJQ",
+        kind: "album"
+    },
+    {
+        title: "BLO",
+        cover: "https://i.scdn.co/image/ab67616d00001e023c64c9c5faee7ffbcd8ec1f5",
+        rating: 5,
+        author: "13 Block",
+        link: "https://open.spotify.com/intl-fr/album/066KMwi7fZaAqmJTtMXvu9?si=Oyr4yCdDThqrpOrvJoseBw",
+        kind: "album"
+    },
+
+];
