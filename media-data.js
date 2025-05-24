@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Perú Selvático - Sonic Expedition into the Peruvian Amazon 1972-1986 (Analog Africa No.36)",
+        author: "Various Artists",
+        cover: "assets/albums/various_artists_perú_selvático_-_sonic_expedition_into_the_peruvian_amazon_1972-1986_analog_africa_no36.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/3es27yomSRGDK42daM2BTb",
+        comment: "Github Action"
+    },
+    {
         title: "Ram (Archive Collection)",
         author: "Paul McCartney",
         cover: "assets/albums/paul_mccartney_ram_archive_collection.jpg",
