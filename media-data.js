@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Ram (Archive Collection)",
+        author: "Paul McCartney",
+        cover: "assets/albums/paul_mccartney_ram_archive_collection.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/3DTMsrNO6lEHNmDJ0fsN4v"
+        comment: "Github Action"
+    },
+    {
+        title: "Lost Highway",
+        author: "Various Artists",
+        cover: "assets/albums/various_artists_lost_highway.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues"
+        comment: "Github Action"
+    },
+    {
         title: "Toxicity",
         author: "System Of A Down",
         cover: "assets/albums/system_of_a_down_toxicity.jpg",
