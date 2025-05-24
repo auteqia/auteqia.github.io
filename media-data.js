@@ -4,7 +4,7 @@ const mediaLibrary = [
         author: "Paul McCartney",
         cover: "assets/albums/paul_mccartney_ram_archive_collection.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/3DTMsrNO6lEHNmDJ0fsN4v"
+        link: "https://open.spotify.com/album/3DTMsrNO6lEHNmDJ0fsN4v",
         comment: "Github Action"
     },
     {
@@ -12,7 +12,7 @@ const mediaLibrary = [
         author: "Various Artists",
         cover: "assets/albums/various_artists_lost_highway.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues"
+        link: "https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues",
         comment: "Github Action"
     },
     {
@@ -20,7 +20,7 @@ const mediaLibrary = [
         author: "System Of A Down",
         cover: "assets/albums/system_of_a_down_toxicity.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+        link: "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh",
         comment: "Github Action"
     },
     {
@@ -28,7 +28,7 @@ const mediaLibrary = [
         author: "The Pierces",
         cover: "assets/albums/the_pierces_thirteen_tales_of_love_and_revenge.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/6Ymyr8aoX1jHVvrbGpyL24"
+        link: "https://open.spotify.com/album/6Ymyr8aoX1jHVvrbGpyL24",
         comment: "Github Action"
     },
     {
@@ -36,7 +36,7 @@ const mediaLibrary = [
         author: "The Beatles",
         cover: "assets/albums/the_beatles_abbey_road_remastered.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+        link: "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN",
         comment: "Github Action"
     },
     {
@@ -44,7 +44,7 @@ const mediaLibrary = [
         author: "Pixies",
         cover: "assets/albums/pixies_doolittle.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
+        link: "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO",
         comment: "Github Action"
     },
     {
@@ -52,7 +52,7 @@ const mediaLibrary = [
         author: "Amyl and The Sniffers",
         cover: "assets/albums/amyl_and_the_sniffers_comfort_to_me.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c"
+        link: "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c",
         comment: "Github Action"
     },
     {
@@ -60,7 +60,7 @@ const mediaLibrary = [
         author: "Pixies",
         cover: "assets/albums/pixies_surfer_rosa_2007_remaster.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
+        link: "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9",
         comment: "Github Action"
     },
     {
@@ -68,7 +68,7 @@ const mediaLibrary = [
         author: "Aphex Twin",
         cover: "assets/albums/aphex_twin_come_to_daddy.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
+        link: "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx",
         comment: "Github Action"
     },
     {
@@ -76,7 +76,7 @@ const mediaLibrary = [
         author: "Patti Smith",
         cover: "assets/albums/patti_smith_easter.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+        link: "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd",
         comment: "Github Action"
     },
     {
@@ -84,7 +84,7 @@ const mediaLibrary = [
         author: "Panda Dub",
         cover: "assets/albums/panda_dub_shapes_and_shadows.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/229OeMBJWAf2xy7aom3aTQ"
+        link: "https://open.spotify.com/album/229OeMBJWAf2xy7aom3aTQ",
         comment: "Github Action"
     },
     {
@@ -92,7 +92,7 @@ const mediaLibrary = [
         author: "Aphex Twin",
         cover: "assets/albums/aphex_twin_computer_controlled_acoustic_instruments_pt2_ep.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01"
+        link: "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01",
         comment: "Github Action"
     },
     {
@@ -100,7 +100,7 @@ const mediaLibrary = [
         author: "Sexy Sushi",
         cover: "assets/albums/sexy_sushi_marre_marre_marre.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/1UWUn2N5ni5VuC14rNHqhK"
+        link: "https://open.spotify.com/album/1UWUn2N5ni5VuC14rNHqhK",
         comment: "Github Action"
     },
     {
@@ -108,7 +108,7 @@ const mediaLibrary = [
         author: "Blue Öyster Cult",
         cover: "assets/albums/blue_öyster_cult_agents_of_fortune.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+        link: "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt",
         comment: "Github Action"
     },
     {
@@ -116,7 +116,7 @@ const mediaLibrary = [
         author: "Cigarettes After Sex",
         cover: "assets/albums/cigarettes_after_sex_cry.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/63yRRBtLX8eqbOLD6f0y9U"
+        link: "https://open.spotify.com/album/63yRRBtLX8eqbOLD6f0y9U",
         comment: "Github Action"
     },
     {
@@ -124,7 +124,7 @@ const mediaLibrary = [
         author: "Blur",
         cover: "assets/albums/blur_13.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+        link: "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ",
         comment: "Github Action"
     },
     {
@@ -132,7 +132,7 @@ const mediaLibrary = [
         author: "Cocteau Twins",
         cover: "assets/albums/cocteau_twins_treasure.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
+        link: "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62",
         comment: "Github Action"
     },
     {
@@ -140,7 +140,7 @@ const mediaLibrary = [
         author: "Broadcast",
         cover: "assets/albums/broadcast_work_and_non_work.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/6BwEy6Zz4U5y09nbSJQE2j"
+        link: "https://open.spotify.com/album/6BwEy6Zz4U5y09nbSJQE2j",
         comment: "Github Action"
     },
     {
@@ -148,7 +148,7 @@ const mediaLibrary = [
         author: "Blonde Redhead",
         cover: "assets/albums/blonde_redhead_23.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+        link: "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy",
         comment: "Github Action"
     },
     {
@@ -156,7 +156,7 @@ const mediaLibrary = [
         author: "Bb trickz",
         cover: "assets/albums/bb_trickz_80z.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G"
+        link: "https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G",
         comment: "Github Action"
     },
     {
@@ -164,7 +164,7 @@ const mediaLibrary = [
         author: "Beach House",
         cover: "assets/albums/beach_house_depression_cherry.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+        link: "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr",
         comment: "Github Action"
     },
     {
@@ -172,7 +172,7 @@ const mediaLibrary = [
         author: "Alcest",
         cover: "assets/albums/alcest_souvenirs_dun_autre_monde.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/1zQQoViMwTIXwmidyqTXdF"
+        link: "https://open.spotify.com/album/1zQQoViMwTIXwmidyqTXdF",
         comment: "Github Action"
     },
     {
@@ -180,7 +180,7 @@ const mediaLibrary = [
         author: "Cortex",
         cover: "assets/albums/cortex_troupeau_bleu.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB"
+        link: "https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB",
         comment: "Github Action"
     },
     {
@@ -188,7 +188,7 @@ const mediaLibrary = [
         author: "Joji",
         cover: "assets/albums/joji_ballads_1.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
+        link: "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I",
         comment: "Github Action"
     },
     {
@@ -196,7 +196,7 @@ const mediaLibrary = [
         author: "Agar Agar",
         cover: "assets/albums/agar_agar_the_dog_and_the_future.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/1S5GLfv8Lmn4vmRMImheVu"
+        link: "https://open.spotify.com/album/1S5GLfv8Lmn4vmRMImheVu",
         comment: "Github Action"
     },
     {
@@ -204,7 +204,7 @@ const mediaLibrary = [
         author: "ELOI",
         cover: "assets/albums/eloi_acedia.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/3qOrl1u2TZIgiKWl96GJvu"
+        link: "https://open.spotify.com/album/3qOrl1u2TZIgiKWl96GJvu",
         comment: "Github Action"
     },
     {
@@ -212,7 +212,7 @@ const mediaLibrary = [
         author: "Eagles",
         cover: "assets/albums/eagles_hotel_california_2013_remaster.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+        link: "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu",
         comment: "Github Action"
     },
     {
@@ -220,7 +220,7 @@ const mediaLibrary = [
         author: "Current Joys",
         cover: "assets/albums/current_joys_a_different_age.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/00we7Dqa5Y4Z1MBv2z9bUd"
+        link: "https://open.spotify.com/album/00we7Dqa5Y4Z1MBv2z9bUd",
         comment: "Github Action"
     },
     {
@@ -228,7 +228,7 @@ const mediaLibrary = [
         author: "Surf Curse",
         cover: "assets/albums/surf_curse_freaks.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5"
+        link: "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5",
         comment: "Github Action"
     },
     {
@@ -236,7 +236,7 @@ const mediaLibrary = [
         author: "Arctic Monkeys",
         cover: "assets/albums/arctic_monkeys_cornerstone.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/2Kq71zM5PE6IB5X5zOwo6d"
+        link: "https://open.spotify.com/album/2Kq71zM5PE6IB5X5zOwo6d",
         comment: "Github Action"
     },
     {
@@ -244,14 +244,14 @@ const mediaLibrary = [
         author: "Fobia",
         cover: "assets/albums/fobia_amor_chiquito.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u"
+        link: "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u",
     },
     {
         title: "Post",
         author: "Björk",
         cover: "assets/albums/björk_post.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs"
+        link: "https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs",
     },
     {
         title: "Clash the Truth",
