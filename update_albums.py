@@ -110,7 +110,7 @@ def append_to_media_file(album):
         author: \"{album['author']}\",
         cover: \"{album['cover']}\",
         kind: \"{album['kind']}\",
-        link: \"{album['link']}\"
+        link: \"{album['link']}\",
         comment: \"{album['comment']}\"
     }},"""
 
