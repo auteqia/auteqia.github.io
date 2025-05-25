@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Perfect Strangers",
+        author: "Deep Purple",
+        cover: "assets/albums/deep_purple_perfect_strangers.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO",
+        comment: "Github Action"
+    },
+    {
         title: "So Tonight That I Might See",
         author: "Mazzy Star",
         cover: "assets/albums/mazzy_star_so_tonight_that_i_might_see.jpg",
