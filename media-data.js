@@ -341,6 +341,7 @@ const mediaLibrary = [
         cover: "assets/albums/fobia_amor_chiquito.jpg",
         kind: "album",
         link: "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u",
+        comment: "Github Action"
     },
     {
         title: "Post",
@@ -348,188 +349,215 @@ const mediaLibrary = [
         cover: "assets/albums/björk_post.jpg",
         kind: "album",
         link: "https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs",
+        comment: "Github Action"
     },
     {
         title: "Clash the Truth",
         author: "Beach Fossils",
         cover: "assets/albums/beach_fossils_clash_the_truth.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/4qC8mysA680i7chkL3JQQw"
+        link: "https://open.spotify.com/album/4qC8mysA680i7chkL3JQQw",
+        comment: "Github Action"
     },
     {
         title: "Spreading Rumours",
         author: "GROUPLOVE",
         cover: "assets/albums/grouplove_spreading_rumours.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
+        link: "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf",
+        comment: "Github Action"
     },
     {
         title: "Circles",
         author: "Mac Miller",
         cover: "assets/albums/mac_miller_circles.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+        link: "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb",
+        comment: "Github Action"
     },
     {
         title: "Strange Cacti",
         author: "Angel Olsen",
         cover: "assets/albums/angel_olsen_strange_cacti.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/3aKb3OOjVyEUHda8q7futV"
+        link: "https://open.spotify.com/album/3aKb3OOjVyEUHda8q7futV",
+        comment: "Github Action"
     },
     {
         title: "Imagine",
         author: "John Lennon",
         cover: "assets/albums/john_lennon_imagine.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+        link: "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk",
+        comment: "Github Action"
     },
     {
         title: "Down the Way",
         author: "Angus & Julia Stone",
         cover: "assets/albums/angus_julia_stone_down_the_way.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+        link: "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ",
+        comment: "Github Action"
     },
     {
         title: "Neon Bible",
         author: "Arcade Fire",
         cover: "assets/albums/arcade_fire_neon_bible.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/4GT6uZod4p5RiDMOVHOMme"
+        link: "https://open.spotify.com/album/4GT6uZod4p5RiDMOVHOMme",
+        comment: "Github Action"
     },
     {
         title: "Logique, Pt. 1",
         author: "Limsa d'Aulnay",
         cover: "assets/albums/limsa_daulnay_logique_pt_1.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/69614CWnaYuSsao7zkbNo8"
+        link: "https://open.spotify.com/album/69614CWnaYuSsao7zkbNo8",
+        comment: "Github Action"
     },
     {
         title: "Sound of Silver",
         author: "LCD Soundsystem",
         cover: "assets/albums/lcd_soundsystem_sound_of_silver.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+        link: "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X",
+        comment: "Github Action"
     },
     {
         title: "Paradise for All (Deluxe Edition)",
         author: "Guts",
         cover: "assets/albums/guts_paradise_for_all_deluxe_edition.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/0NLdUA0vjQP8pQr4CkO3pE"
+        link: "https://open.spotify.com/album/0NLdUA0vjQP8pQr4CkO3pE",
+        comment: "Github Action"
     },
     {
         title: "J.O.$",
         author: "Josman",
         cover: "assets/albums/josman_jo.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/6gFQ3NglYiCz8SrU8RZXgO"
+        link: "https://open.spotify.com/album/6gFQ3NglYiCz8SrU8RZXgO",
+        comment: "Github Action"
     },
     {
         title: "Le cactus de Sibérie (Remasterisé)",
         author: "Oxmo Puccino",
         cover: "assets/albums/oxmo_puccino_le_cactus_de_sibérie_remasterisé.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/3YFrnrH1JTP5VkTDYjlg1l"
+        link: "https://open.spotify.com/album/3YFrnrH1JTP5VkTDYjlg1l",
+        comment: "Github Action"
     },
     {
         title: "2003 Toyota Corolla",
         author: "2003 Toyota Corolla",
         cover: "https://i.scdn.co/image/ab67616d00001e02092cecf16e143d56e7c2080e",
         kind: "album",
-        link: "https://open.spotify.com/album/4oOr6KBLtpEF3zjlK5HMYx"
+        link: "https://open.spotify.com/album/4oOr6KBLtpEF3zjlK5HMYx",
+        comment: "Github Action"
     },
     {
         title: "Unknown Pleasures (Collector's Edition)",
         author: "Joy Division",
         cover: "assets/albums/joy_division_unknown_pleasures_collectors_edition.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+        link: "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy",
+        comment: "Github Action"
     },
     {
         title: "Deo Favente",
         author: "SCH",
         cover: "assets/albums/sch_deo_favente.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/1PeObz1EYSZFjTC2pEXMuO"
+        link: "https://open.spotify.com/album/1PeObz1EYSZFjTC2pEXMuO",
+        comment: "Github Action"
     },
     {
         title: "Cheese",
         author: "Stromae",
         cover: "assets/albums/stromae_cheese.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
+        link: "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80",
+        comment: "Github Action"
     },
     {
         title: "W.A.R",
         author: "Roshi",
         cover: "assets/albums/roshi_war.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/7rJ02tLX70NdopwLjEBNYs"
+        link: "https://open.spotify.com/album/7rJ02tLX70NdopwLjEBNYs",
+        comment: "Github Action"
     },
     {
         title: "Love Is Here",
         author: "Starsailor",
         cover: "assets/albums/starsailor_love_is_here.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/4PyGvXTMf0PmsWsDWohFZw"
+        link: "https://open.spotify.com/album/4PyGvXTMf0PmsWsDWohFZw",
+        comment: "Github Action"
     },
     {
         title: "Dans ma paranoïa",
         author: "Jul",
         cover: "assets/albums/jul_dans_ma_paranoïa.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/3yMDPzPjM2VqLHENlVgiEF"
+        link: "https://open.spotify.com/album/3yMDPzPjM2VqLHENlVgiEF",
+        comment: "Github Action"
     },
     {
         title: "Chaise pliante",
         author: "Hatik",
         cover: "https://i.scdn.co/image/ab67616d00001e0295201394ccc16fc4f1bf1455",
         kind: "album",
-        link: "https://open.spotify.com/album/4e7p7DZxOgJBms0uNr4z1t"
+        link: "https://open.spotify.com/album/4e7p7DZxOgJBms0uNr4z1t",
+        comment: "Github Action"
     },
     {
         title: "RORSCHACH",
         author: "23wa",
         cover: "https://i.scdn.co/image/ab67616d00001e0208b1b5011702612ae77e5a3f",
         kind: "album",
-        link: "https://open.spotify.com/album/6ym0ak9Ei2tSLfJm5Eu4Kq"
+        link: "https://open.spotify.com/album/6ym0ak9Ei2tSLfJm5Eu4Kq",
+        comment: "Github Action"
     },
     {
         title: "Adios Bahamas",
         author: "Népal",
         cover: "assets/albums/népal_adios_bahamas.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/3VsBRRKlb3f8oGxkVOkK5e"
+        link: "https://open.spotify.com/album/3VsBRRKlb3f8oGxkVOkK5e",
+        comment: "Github Action"
     },
     {
         title: "The Resistance",
         author: "Muse",
         cover: "assets/albums/muse_the_resistance.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+        link: "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM",
+        comment: "Github Action"
     },
     {
         title: "The Greatest Hits: Why Try Harder",
         author: "Fatboy Slim",
         cover: "https://i.scdn.co/image/ab67616d00001e02bec2d7f1e2e518ccf4af1ce1",
         kind: "album",
-        link: "https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ"
+        link: "https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ",
+        comment: "Github Action"
     },
     {
         title: ".RAW-Z",
         author: "Laylow",
         cover: "https://i.scdn.co/image/ab67616d00001e0286697db3407c82cf02d54828",
         kind: "album",
-        link: "https://open.spotify.com/album/7elzBxdl3pFOAwN0cqvYsW"
+        link: "https://open.spotify.com/album/7elzBxdl3pFOAwN0cqvYsW",
+        comment: "Github Action"
     },
     {
         title: "Blonde",
         author: "Frank Ocean",
         cover: "https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526",
         kind: "album",
-        link: "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+        link: "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf",
+        comment: "Github Action"
     },
  
     {
@@ -537,176 +565,214 @@ const mediaLibrary = [
         author: "Booba",
         cover: "https://i.scdn.co/image/ab67616d00001e0270b08c12e162911c37e3026d",
         kind: "album",
-        link: "https://open.spotify.com/album/2wQSope9RpLMqr5AXrQibc"
+        link: "https://open.spotify.com/album/2wQSope9RpLMqr5AXrQibc",
+        comment: "Github Action"
     },
     {
         title: "Years of Struggle Against the Lies, the Stupidity and the Cowardice",
         author: "Pesteg Dred",
         cover: "https://i.scdn.co/image/ab67616d00001e02110b300d38ef6b80a40035dd",
         kind: "album",
-        link: "https://open.spotify.com/album/4ZiojlMTC9mMD6CZhmdBx6"
+        link: "https://open.spotify.com/album/4ZiojlMTC9mMD6CZhmdBx6",
+        comment: "Github Action"
     },
     {
         title: "24 Cumbias Pa Bailar",
         author: "A Mover La Colita Cumbias",
         cover: "https://i.scdn.co/image/ab67616d0000b2733e2396de5282580f00d3d897",
         kind: "album",
-        link: "https://open.spotify.com/album/2inSjrL3SWgaUIIXxChNPd"
+        link: "https://open.spotify.com/album/2inSjrL3SWgaUIIXxChNPd",
+        comment: "Github Action"
     },
     {
         title: "Not Your Kind of People",
         author: "Garbage",
         cover: "https://i.scdn.co/image/ab67616d0000b2737a2d8fab5842a8073e62783e",
         kind: "album",
-        link: "https://open.spotify.com/album/1CJDAVFRfgHbwyAv4yVutN"
+        link: "https://open.spotify.com/album/1CJDAVFRfgHbwyAv4yVutN",
+        comment: "Github Action"
     },
     {
         title: "Songs Of Leonard Cohen",
         author: "Leonard Cohen",
         cover: "https://i.scdn.co/image/ab67616d0000b2730633b57b08b40f3e776e7151",
         kind: "album",
-        link: "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+        link: "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5",
+        comment: "Github Action"
     },
     {
         title: "Origin of Symmetry (XX Anniversary RemiXX)",
         author: "Muse",
         cover: "https://i.scdn.co/image/ab67616d0000b2732372f35706e3b7f5564ea8d9",
         kind: "album",
-        link: "https://open.spotify.com/album/5EIVoKtfgnSc0nPzJS6lzy"
+        link: "https://open.spotify.com/album/5EIVoKtfgnSc0nPzJS6lzy",
+        comment: "Github Action"
     },
     {
         title: "LSD and the Search for God",
         author: "LSD and the Search for God",
         cover: "https://i.scdn.co/image/ab67616d0000b273be9bb007638d6e2a0f64cab0",
         kind: "album",
-        link: "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
+        link: "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS",
+        comment: "Github Action"
     },
     {
         title: "She Hangs Brightly",
         author: "Mazzy Star",
         cover: "https://i.scdn.co/image/ab67616d0000b273afce4c9cd3313302c0a16ed1",
         kind: "album",
-        link: "https://open.spotify.com/album/2ZAcLWdHBHrdybwws1PVuA"
+        link: "https://open.spotify.com/album/2ZAcLWdHBHrdybwws1PVuA",
+        comment: "Github Action"
     },
     {
         title: "The Dino Soars",
         author: "Stegosaurus Rex",
         cover: "https://i.scdn.co/image/ab67616d0000b2730a29856bf1c65d2f1b72990e",
         kind: "album",
-        link: "https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg"
+        link: "https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg",
+        comment: "Github Action"
     },
     {
         title: "Love For The Streets",
         author: "Caesars",
         cover: "https://i.scdn.co/image/ab67616d0000b27346ed4ae9343359e5965baf7b",
         kind: "album",
-        link: "https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal"
+        link: "https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal",
+        comment: "Github Action"
     },
     {
         title: "Player Non Player",
         author: "Agar Agar",
         cover: "https://i.scdn.co/image/ab67616d0000b273e34e56bc2b4fc50c095757cf",
         kind: "album",
-        link: "https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K"
+        link: "https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K",
+        comment: "Github Action"
     },
     {
         title: "The Queen Is Dead",
         author: "The Smiths",
         cover: "https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9",
         kind: "album",
-        link: "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+        link: "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7",
+        comment: "Github Action"
     },
     {
         title: "Naxatras",
         author: "Naxatras",
         cover: "https://i.scdn.co/image/ab67616d0000b273037fb18ebb0315b5721cf3fe",
         kind: "album",
-        link: "https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv"
+        link: "https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv",
+        comment: "Github Action"
     },
     {
         title: "American Beauty (2013 Remaster)",
         author: "Grateful Dead",
         cover: "https://i.scdn.co/image/ab67616d0000b273fd3f66a9ce4371f7ffa0346f",
         kind: "album",
-        link: "https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS"
+        link: "https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS",
+        comment: "Github Action"
     },
     {
         title: "L.W.",
         author: "King Gizzard & The Lizard Wizard",
         cover: "https://i.scdn.co/image/ab67616d0000b2731f0fd0835e055d96b82ccaf0",
         kind: "album",
-        link: "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
+        link: "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx",
+        comment: "Github Action"
     },
     {
         title: "Hatful of Hollow",
         author: "The Smiths",
         cover: "https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b",
         kind: "album",
-        link: "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+        link: "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv",
+        comment: "Github Action"
     },
     {
         title: "Daydream Nation (Remastered Original Album)",
         author: "Sonic Youth",
         cover: "https://i.scdn.co/image/ab67616d0000b273dae82a57e7385bc847f9f495",
         kind: "album",
-        link: "https://open.spotify.com/album/3BYlBcND6PeKoW6ZODjZO3"
+        link: "https://open.spotify.com/album/3BYlBcND6PeKoW6ZODjZO3",
+        comment: "Github Action"
     },
     {
         title: "Beneath The Lilypad",
         author: "Alexandra Savior",
         cover: "https://i.scdn.co/image/ab67616d0000b2730235684750e40b7e5210b559",
         kind: "album",
-        link: "https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf"
+        link: "https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf",
+        comment: "Github Action"
     },
     {
         title: "I Have Seen You Through the Years, Worn by Different Faces (1981-85)",
         author: "Pesteg Dred",
         cover: "https://i.scdn.co/image/ab67616d0000b273c62bafc4d8831296ddde5c5b",
         kind: "album",
-        link: "https://open.spotify.com/album/5WQVSRM5BBxq8FA5SaKqRg"
+        link: "https://open.spotify.com/album/5WQVSRM5BBxq8FA5SaKqRg",
+        comment: "Github Action"
     },
     {
         title: "I Can See Your House From Here (Expanded Edition)",
         author: "Camel",
         cover: "https://i.scdn.co/image/ab67616d0000b273a5a422526541417ff7c19d94",
         kind: "album",
-        link: "https://open.spotify.com/album/2UzcBmNQt45lrGuwIYEjec"
+        link: "https://open.spotify.com/album/2UzcBmNQt45lrGuwIYEjec",
+        comment: "Github Action"
     },
     {
         title: "Teen Dream",
         author: "Beach House",
         cover: "https://i.scdn.co/image/ab67616d0000b2739ba6a1b973e91955ab23c50c",
         kind: "album",
-        link: "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
+        link: "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e",
+        comment: "Github Action"
     },
     {
         title: "Shed",
         author: "Title Fight",
         cover: "https://i.scdn.co/image/ab67616d0000b2733e378f6f76942740e239df0d",
         kind: "album",
-        link: "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
+        link: "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1",
+        comment: "Github Action"
     },
     {
         title: "Kinks (Deluxe Edition)",
         author: "The Kinks",
         cover: "https://i.scdn.co/image/ab67616d0000b2733b662e4bab01440eb4f31793",
         kind: "album",
-        link: "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
+        link: "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ",
+        comment: "Github Action"
     },
     {
         title: "Bloom",
         author: "Beach House",
         cover: "https://i.scdn.co/image/ab67616d0000b273bb9f22f4b196fa10308d77a7",
         kind: "album",
-        link: "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
+        link: "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp",
+        comment: "Github Action"
     },
     {
         title: "Heaven or Las Vegas",
         author: "Cocteau Twins",
         cover: "https://i.scdn.co/image/ab67616d0000b2735d2fdd1564ccab97e60c656f",
         kind: "album",
-        link: "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+        link: "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E",
+        comment: "Github Action"
     },
+
+
+// END OF AUTOMATED ALBUMS //
+
+
+
+
+
+
+
+    
+//SERIES//
+    
     {
         title: 'Lost (S1-2)',
         author: 'J. J. Abrams',
@@ -717,8 +783,6 @@ const mediaLibrary = [
         kind: 'serie',
         link: 'https://www.themoviedb.org/tv/4607-lost'
     },
-// END OF AUTOMATED ALBUMS //
-
 
 
 
