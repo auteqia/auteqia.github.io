@@ -492,7 +492,7 @@ const mediaLibrary = [
     {
         title: "RORSCHACH",
         author: "23wa",
-        cover: "assets/albums/23wa_rorschach.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0208b1b5011702612ae77e5a3f",
         kind: "album",
         link: "https://open.spotify.com/album/6ym0ak9Ei2tSLfJm5Eu4Kq"
     },
@@ -520,14 +520,14 @@ const mediaLibrary = [
     {
         title: ".RAW-Z",
         author: "Laylow",
-        cover: "assets/albums/laylow_raw-z.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0286697db3407c82cf02d54828",
         kind: "album",
         link: "https://open.spotify.com/album/7elzBxdl3pFOAwN0cqvYsW"
     },
     {
         title: "Blonde",
         author: "Frank Ocean",
-        cover: "assets/albums/frank_ocean_blonde.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526",
         kind: "album",
         link: "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
     },
@@ -2712,15 +2712,6 @@ const mediaLibrary = [
 
     
     {
-        title: "24 Cumbias Pa Bailar",
-        cover: "https://i.scdn.co/image/ab67616d00001e023e2396de5282580f00d3d897",
-        rating: 5,
-        author: "A Mover La Colita Cumbias",
-        link: "https://open.spotify.com/intl-fr/album/2inSjrL3SWgaUIIXxChNPd?si=62481741d9b047bf",
-        kind: "album"
-    },
-    
-    {
         title: "Little Dark Age",
         cover: "https://i.scdn.co/image/ab67616d00001e02b47d309281c66820b7137f5d",
         rating: 5,
@@ -4301,14 +4292,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "2003 Toyota Corolla",
-        cover: "https://i.scdn.co/image/ab67616d00001e02092cecf16e143d56e7c2080e",
-        rating: 5,
-        author: "2003 Toyota Corolla",
-        link: "https://open.spotify.com/intl-fr/album/4oOr6KBLtpEF3zjlK5HMYx?si=tSiwqx2UR9SeOGpMj76lwQ",
-        kind: "album"
-    },
-    {
         title: "LA COURSE",
         cover: "https://i.scdn.co/image/ab67616d00001e02550b4528f31fd28007a97ab9",
         rating: 5,
@@ -4602,14 +4585,6 @@ const mediaLibrary = [
         rating: 5,
         author: "23wa",
         link: "https://open.spotify.com/intl-fr/album/2dlwvDoGntR9eYov4q7xQA?si=NtJpstCbSzOpaTeCBBZRDA",
-        kind: "album"
-    },
-    {
-        title: "RORSCHACH",
-        cover: "https://i.scdn.co/image/ab67616d00001e0208b1b5011702612ae77e5a3f",
-        rating: 5,
-        author: "23wa",
-        link: "https://open.spotify.com/intl-fr/album/6ym0ak9Ei2tSLfJm5Eu4Kq?si=P-ZxC9PnT7CCHUOs_6FYwA",
         kind: "album"
     },
     {
