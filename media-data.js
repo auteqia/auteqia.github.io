@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Hurry Up, We're Dreaming",
+        author: "M83",
+        cover: "assets/albums/m83_hurry_up_were_dreaming.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR",
+        comment: "Github Action"
+    },
+    {
+        title: "Nirvana",
+        author: "Nirvana",
+        cover: "assets/albums/nirvana_nirvana.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ",
+        comment: "Github Action"
+    },
+    {
+        title: "D>E>A>T>H>M>E>T>A>L",
+        author: "Panchiko",
+        cover: "assets/albums/panchiko_deathmetal.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q",
+        comment: "Github Action"
+    },
+    {
         title: "Contemporary Movement",
         author: "Duster",
         cover: "assets/albums/duster_contemporary_movement.jpg",
