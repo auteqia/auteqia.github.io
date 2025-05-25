@@ -14,3 +14,7 @@ If you want to fork it, you juste have to change the four secrets (located in `u
 - `LASTFM_API_KEY = os.environ['LASTFM_API_KEY']` -> available after creating API account ([Here](https://www.last.fm/api/account/create))
 - `SPOTIFY_CLIENT_ID = os.environ['SPOTIFY_CLIENT_ID']` -> available after creating a developper account ([Here](https://developer.spotify.com/documentation/web-api))
 - `SPOTIFY_CLIENT_SECRET = os.environ['SPOTIFY_CLIENT_SECRET']` -> available after creating a developper account ([Here](https://developer.spotify.com/documentation/web-api))
+
+You have to add the secrets environnement located in `<YourRepo> -> Settings -> Secrets and Variables -> Actions -> New Repository Secrets`.
+
+Then add the variables above
