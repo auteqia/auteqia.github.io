@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)",
+        author: "King Crimson",
+        cover: "assets/albums/king_crimson_in_the_court_of_the_crimson_king_expanded_remastered_original_album_mix.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/75ol9OP8bJaRqzGimpFHDm",
+        comment: "Github Action"
+    },
+    {
         title: "Tell Me I'm Pretty",
         author: "Cage The Elephant",
         cover: "assets/albums/cage_the_elephant_tell_me_im_pretty.jpg",
