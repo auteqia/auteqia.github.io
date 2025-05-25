@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Steal This Album!",
+        author: "System Of A Down",
+        cover: "assets/albums/system_of_a_down_steal_this_album.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT",
+        comment: "Github Action"
+    },
+    {
         title: "Breakfast In America (Deluxe Edition)",
         author: "Supertramp",
         cover: "assets/albums/supertramp_breakfast_in_america_deluxe_edition.jpg",
