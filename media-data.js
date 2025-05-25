@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "So Tonight That I Might See",
+        author: "Mazzy Star",
+        cover: "assets/albums/mazzy_star_so_tonight_that_i_might_see.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA",
+        comment: "Github Action"
+    },
+    {
+        title: "My Generation (Stereo Version)",
+        author: "The Who",
+        cover: "assets/albums/the_who_my_generation_stereo_version.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy",
+        comment: "Github Action"
+    },
+    {
         title: "Steal This Album!",
         author: "System Of A Down",
         cover: "assets/albums/system_of_a_down_steal_this_album.jpg",
