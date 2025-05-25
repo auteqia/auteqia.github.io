@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Tell Me I'm Pretty",
+        author: "Cage The Elephant",
+        cover: "assets/albums/cage_the_elephant_tell_me_im_pretty.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ",
+        comment: "Github Action"
+    },
+    {
+        title: "Trenches",
+        author: "DJmegan23",
+        cover: "assets/albums/djmegan23_trenches.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/6o0CfxDsM79Gluv6UAIXa0",
+        comment: "Github Action"
+    },
+    {
         title: "Hurry Up, We're Dreaming",
         author: "M83",
         cover: "assets/albums/m83_hurry_up_were_dreaming.jpg",
