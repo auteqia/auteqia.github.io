@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Buena Vista Social Club",
+        author: "Buena Vista Social Club",
+        cover: "assets/albums/buena_vista_social_club_buena_vista_social_club.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt",
+        comment: "Github Action"
+    },
+    {
         title: "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)",
         author: "King Crimson",
         cover: "assets/albums/king_crimson_in_the_court_of_the_crimson_king_expanded_remastered_original_album_mix.jpg",
