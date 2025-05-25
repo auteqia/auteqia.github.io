@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Contemporary Movement",
+        author: "Duster",
+        cover: "assets/albums/duster_contemporary_movement.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/6CYyrh3J08jXacgo9wHwsU",
+        comment: "Github Action"
+    },
+    {
+        title: "Block Beater",
+        author: "lil13",
+        cover: "assets/albums/lil13_block_beater.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/2llpBbc8elPVRNMNzYafUK",
+        comment: "Github Action"
+    },
+    {
+        title: "Kazuma Kiryu Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        author: "SEGA SOUND TEAM",
+        cover: "assets/albums/sega_sound_team_kazuma_kiryu_karaoke_hit_song_collectionryu_ga_gotoku7_hikari_to_yami_no_yukue.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj",
+        comment: "Github Action"
+    },
+    {
         title: "Around the Fur",
         author: "Deftones",
         cover: "assets/albums/deftones_around_the_fur.jpg",
