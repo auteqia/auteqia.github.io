@@ -26,7 +26,7 @@ const mediaLibrary = [
     {
         title: "Around the Fur",
         author: "Deftones",
-        cover: "assets/albums/deftones_around_the_fur.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e020b1129853982ea17845d4eb6",
         kind: "album",
         link: "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu",
         comment: "Github Action"
@@ -74,7 +74,7 @@ const mediaLibrary = [
     {
         title: "The Snow Goose",
         author: "Camel",
-        cover: "assets/albums/camel_the_snow_goose.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02efb0c17ee823ccfa2a091663",
         kind: "album",
         link: "https://open.spotify.com/album/7ny9OWZ336Y4gGSSgHlkFB",
         comment: "Github Action"
@@ -90,7 +90,7 @@ const mediaLibrary = [
     {
         title: "Perú Selvático - Sonic Expedition into the Peruvian Amazon 1972-1986 (Analog Africa No.36)",
         author: "Various Artists",
-        cover: "assets/albums/various_artists_perú_selvático_-_sonic_expedition_into_the_peruvian_amazon_1972-1986_analog_africa_no36.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02cb2ac3548039fca36bb9032d",
         kind: "album",
         link: "https://open.spotify.com/album/3es27yomSRGDK42daM2BTb",
         comment: "Github Action"
@@ -98,7 +98,7 @@ const mediaLibrary = [
     {
         title: "Ram (Archive Collection)",
         author: "Paul McCartney",
-        cover: "assets/albums/paul_mccartney_ram_archive_collection.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a7bc928b46a64878a803fe6c",
         kind: "album",
         link: "https://open.spotify.com/album/3DTMsrNO6lEHNmDJ0fsN4v",
         comment: "Github Action"
@@ -106,7 +106,7 @@ const mediaLibrary = [
     {
         title: "Lost Highway",
         author: "Various Artists",
-        cover: "assets/albums/various_artists_lost_highway.jpg",
+        cover: "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da843decbb429aa26d0db9e076da",
         kind: "album",
         link: "https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues",
         comment: "Github Action"
@@ -138,7 +138,7 @@ const mediaLibrary = [
     {
         title: "Doolittle",
         author: "Pixies",
-        cover: "assets/albums/pixies_doolittle.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e020ab3c2a306c614fae36ff1d6",
         kind: "album",
         link: "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO",
         comment: "Github Action"
@@ -146,7 +146,7 @@ const mediaLibrary = [
     {
         title: "Comfort To Me",
         author: "Amyl and The Sniffers",
-        cover: "assets/albums/amyl_and_the_sniffers_comfort_to_me.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02727318aa69af60549ab3b728",
         kind: "album",
         link: "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c",
         comment: "Github Action"
@@ -162,7 +162,7 @@ const mediaLibrary = [
     {
         title: "Come To Daddy",
         author: "Aphex Twin",
-        cover: "assets/albums/aphex_twin_come_to_daddy.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0223ac84a525286001770abc8e",
         kind: "album",
         link: "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx",
         comment: "Github Action"
@@ -178,7 +178,7 @@ const mediaLibrary = [
     {
         title: "Shapes and Shadows",
         author: "Panda Dub",
-        cover: "assets/albums/panda_dub_shapes_and_shadows.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f62264d635b334a3c29cd8cb",
         kind: "album",
         link: "https://open.spotify.com/album/229OeMBJWAf2xy7aom3aTQ",
         comment: "Github Action"
@@ -186,7 +186,7 @@ const mediaLibrary = [
     {
         title: "Computer Controlled Acoustic Instruments pt2 EP",
         author: "Aphex Twin",
-        cover: "assets/albums/aphex_twin_computer_controlled_acoustic_instruments_pt2_ep.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c3de1c7467803876a809df16",
         kind: "album",
         link: "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01",
         comment: "Github Action"
@@ -194,7 +194,7 @@ const mediaLibrary = [
     {
         title: "Marre marre marre",
         author: "Sexy Sushi",
-        cover: "assets/albums/sexy_sushi_marre_marre_marre.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e022b85de7ddb4c91b18090eb1c",
         kind: "album",
         link: "https://open.spotify.com/album/1UWUn2N5ni5VuC14rNHqhK",
         comment: "Github Action"
@@ -210,7 +210,7 @@ const mediaLibrary = [
     {
         title: "Cry",
         author: "Cigarettes After Sex",
-        cover: "assets/albums/cigarettes_after_sex_cry.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e028324db1ae37be249aed887e7",
         kind: "album",
         link: "https://open.spotify.com/album/63yRRBtLX8eqbOLD6f0y9U",
         comment: "Github Action"
@@ -218,7 +218,7 @@ const mediaLibrary = [
     {
         title: "13",
         author: "Blur",
-        cover: "assets/albums/blur_13.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0294983882a5effd77742a9f52",
         kind: "album",
         link: "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ",
         comment: "Github Action"
@@ -226,7 +226,7 @@ const mediaLibrary = [
     {
         title: "Treasure",
         author: "Cocteau Twins",
-        cover: "assets/albums/cocteau_twins_treasure.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a8f1060c81540b163c6b0959",
         kind: "album",
         link: "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62",
         comment: "Github Action"
@@ -242,7 +242,7 @@ const mediaLibrary = [
     {
         title: "23",
         author: "Blonde Redhead",
-        cover: "assets/albums/blonde_redhead_23.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d496f8e04a6d5c0f6a694af6",
         kind: "album",
         link: "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy",
         comment: "Github Action"
@@ -250,7 +250,7 @@ const mediaLibrary = [
     {
         title: "80'z",
         author: "Bb trickz",
-        cover: "assets/albums/bb_trickz_80z.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0273eb8c98d55e4c31eb41135a",
         kind: "album",
         link: "https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G",
         comment: "Github Action"
@@ -258,7 +258,7 @@ const mediaLibrary = [
     {
         title: "Depression Cherry",
         author: "Beach House",
-        cover: "assets/albums/beach_house_depression_cherry.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d1430224d631eaa5954f13c9",
         kind: "album",
         link: "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr",
         comment: "Github Action"
@@ -266,7 +266,7 @@ const mediaLibrary = [
     {
         title: "Souvenirs d'un autre monde",
         author: "Alcest",
-        cover: "assets/albums/alcest_souvenirs_dun_autre_monde.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0251a9eaff2b77dd2e05c46dbf",
         kind: "album",
         link: "https://open.spotify.com/album/1zQQoViMwTIXwmidyqTXdF",
         comment: "Github Action"
@@ -274,7 +274,7 @@ const mediaLibrary = [
     {
         title: "Troupeau bleu",
         author: "Cortex",
-        cover: "assets/albums/cortex_troupeau_bleu.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0247a51205061053303846cb79",
         kind: "album",
         link: "https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB",
         comment: "Github Action"
@@ -282,7 +282,7 @@ const mediaLibrary = [
     {
         title: "BALLADS 1",
         author: "Joji",
-        cover: "assets/albums/joji_ballads_1.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
         kind: "album",
         link: "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I",
         comment: "Github Action"
@@ -290,7 +290,7 @@ const mediaLibrary = [
     {
         title: "The Dog and the Future",
         author: "Agar Agar",
-        cover: "assets/albums/agar_agar_the_dog_and_the_future.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02868e32445c22b929ac78083d",
         kind: "album",
         link: "https://open.spotify.com/album/1S5GLfv8Lmn4vmRMImheVu",
         comment: "Github Action"
@@ -298,7 +298,7 @@ const mediaLibrary = [
     {
         title: "Acedia",
         author: "ELOI",
-        cover: "assets/albums/eloi_acedia.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e1ee96c5f57c9143f15de3f7",
         kind: "album",
         link: "https://open.spotify.com/album/3qOrl1u2TZIgiKWl96GJvu",
         comment: "Github Action"
@@ -322,7 +322,7 @@ const mediaLibrary = [
     {
         title: "Freaks",
         author: "Surf Curse",
-        cover: "assets/albums/surf_curse_freaks.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e029efda673310de265a2c1cf1f",
         kind: "album",
         link: "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5",
         comment: "Github Action"
@@ -1936,14 +1936,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "The Snow Goose",
-        cover: "https://i.scdn.co/image/ab67616d00001e02efb0c17ee823ccfa2a091663",
-        rating: 5,
-        author: "Camel",
-        link: "https://open.spotify.com/album/7ny9OWZ336Y4gGSSgHlkFB?si=wW36eHA3SE2ywG0UQJMvLg",
-        kind: "album"
-    },
-    {
         title: "Bless Its Pointed Little Head",
         cover: "https://i.scdn.co/image/ab67616d00001e025b9cb32582085ecbd5ecceaf",
         rating: 5,
@@ -3550,14 +3542,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Cage The Elephant",
         link: "https://open.spotify.com/intl-fr/album/0c1yNi1MuGlcNrCzU2kDVE?si=qi2to3HcTmWQtVHQT0f18Q",
-        kind: "album"
-    },
-    {
-        title: "Around the Fur",
-        cover: "https://i.scdn.co/image/ab67616d00001e020b1129853982ea17845d4eb6",
-        rating: 5,
-        author: "Deftones",
-        link: "https://open.spotify.com/intl-fr/album/7o4UsmV37Sg5It2Eb7vHzu?si=xqOAdNSvQS2j2iwnOGwpew",
         kind: "album"
     },
     {
