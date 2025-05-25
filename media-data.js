@@ -706,6 +706,21 @@ const mediaLibrary = [
         kind: 'serie',
         link: 'https://www.themoviedb.org/tv/4607-lost'
     },
+// END OF AUTOMATED ALBUMS //
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     // BOOKS \\
     {
         title: "L'herbier merveilleux",
