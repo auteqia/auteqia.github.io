@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Breakfast In America (Deluxe Edition)",
+        author: "Supertramp",
+        cover: "assets/albums/supertramp_breakfast_in_america_deluxe_edition.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna",
+        comment: "Github Action"
+    },
+    {
+        title: "The Snow Goose",
+        author: "Camel",
+        cover: "assets/albums/camel_the_snow_goose.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/7ny9OWZ336Y4gGSSgHlkFB",
+        comment: "Github Action"
+    },
+    {
+        title: "Minecraft - Volume Alpha",
+        author: "C418",
+        cover: "assets/albums/c418_minecraft_-_volume_alpha.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7",
+        comment: "Github Action"
+    },
+    {
         title: "Perú Selvático - Sonic Expedition into the Peruvian Amazon 1972-1986 (Analog Africa No.36)",
         author: "Various Artists",
         cover: "assets/albums/various_artists_perú_selvático_-_sonic_expedition_into_the_peruvian_amazon_1972-1986_analog_africa_no36.jpg",
