@@ -10,7 +10,7 @@ const mediaLibrary = [
     {
         title: "Perfect Strangers",
         author: "Deep Purple",
-        cover: "assets/albums/deep_purple_perfect_strangers.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e021d742027836d2d03cb5e0c4b",
         kind: "album",
         link: "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO",
         comment: "Github Action"
@@ -18,7 +18,7 @@ const mediaLibrary = [
     {
         title: "So Tonight That I Might See",
         author: "Mazzy Star",
-        cover: "assets/albums/mazzy_star_so_tonight_that_i_might_see.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0289a392107ebd79818022b3ea",
         kind: "album",
         link: "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA",
         comment: "Github Action"
@@ -26,7 +26,7 @@ const mediaLibrary = [
     {
         title: "My Generation (Stereo Version)",
         author: "The Who",
-        cover: "assets/albums/the_who_my_generation_stereo_version.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0234658b1827b64a1d4d5a5ca9",
         kind: "album",
         link: "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy",
         comment: "Github Action"
@@ -34,7 +34,7 @@ const mediaLibrary = [
     {
         title: "Steal This Album!",
         author: "System Of A Down",
-        cover: "assets/albums/system_of_a_down_steal_this_album.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e027cf4c0d42c5b62c9deebdcd8",
         kind: "album",
         link: "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT",
         comment: "Github Action"
@@ -42,7 +42,7 @@ const mediaLibrary = [
     {
         title: "Breakfast In America (Deluxe Edition)",
         author: "Supertramp",
-        cover: "assets/albums/supertramp_breakfast_in_america_deluxe_edition.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e",
         kind: "album",
         link: "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna",
         comment: "Github Action"
@@ -90,7 +90,7 @@ const mediaLibrary = [
     {
         title: "Toxicity",
         author: "System Of A Down",
-        cover: "assets/albums/system_of_a_down_toxicity.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0207bc7d2a745636c356b4d0aa",
         kind: "album",
         link: "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh",
         comment: "Github Action"
@@ -98,7 +98,7 @@ const mediaLibrary = [
     {
         title: "Thirteen Tales Of Love And Revenge",
         author: "The Pierces",
-        cover: "assets/albums/the_pierces_thirteen_tales_of_love_and_revenge.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c81e8d3a686ea9d982c18330",
         kind: "album",
         link: "https://open.spotify.com/album/6Ymyr8aoX1jHVvrbGpyL24",
         comment: "Github Action"
@@ -106,7 +106,7 @@ const mediaLibrary = [
     {
         title: "Abbey Road (Remastered)",
         author: "The Beatles",
-        cover: "assets/albums/the_beatles_abbey_road_remastered.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25",
         kind: "album",
         link: "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN",
         comment: "Github Action"
@@ -130,7 +130,7 @@ const mediaLibrary = [
     {
         title: "Surfer Rosa (2007 Remaster)",
         author: "Pixies",
-        cover: "assets/albums/pixies_surfer_rosa_2007_remaster.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e028aa545a0ea869940cce358b5",
         kind: "album",
         link: "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9",
         comment: "Github Action"
@@ -146,7 +146,7 @@ const mediaLibrary = [
     {
         title: "Easter",
         author: "Patti Smith",
-        cover: "assets/albums/patti_smith_easter.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02a28eabe111f67a386e75a31a",
         kind: "album",
         link: "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd",
         comment: "Github Action"
@@ -178,7 +178,7 @@ const mediaLibrary = [
     {
         title: "Agents Of Fortune",
         author: "Blue Öyster Cult",
-        cover: "assets/albums/blue_öyster_cult_agents_of_fortune.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e023ac318439ae56ce048d7bf5d",
         kind: "album",
         link: "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt",
         comment: "Github Action"
@@ -210,7 +210,7 @@ const mediaLibrary = [
     {
         title: "Work And Non Work",
         author: "Broadcast",
-        cover: "assets/albums/broadcast_work_and_non_work.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02237803b061c3ff31f333c280",
         kind: "album",
         link: "https://open.spotify.com/album/6BwEy6Zz4U5y09nbSJQE2j",
         comment: "Github Action"
@@ -282,7 +282,7 @@ const mediaLibrary = [
     {
         title: "Hotel California (2013 Remaster)",
         author: "Eagles",
-        cover: "assets/albums/eagles_hotel_california_2013_remaster.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e024637341b9f507521afa9a778",
         kind: "album",
         link: "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu",
         comment: "Github Action"
@@ -290,7 +290,7 @@ const mediaLibrary = [
     {
         title: "A Different Age",
         author: "Current Joys",
-        cover: "assets/albums/current_joys_a_different_age.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02df7a61e9fdf9fec7df7bd72a",
         kind: "album",
         link: "https://open.spotify.com/album/00we7Dqa5Y4Z1MBv2z9bUd",
         comment: "Github Action"
@@ -507,13 +507,7 @@ const mediaLibrary = [
         kind: "album",
         link: "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
     },
-    {
-        title: "Block Beater",
-        author: "lil13",
-        cover: "assets/albums/lil13_block_beater.jpg",
-        kind: "album",
-        link: "https://open.spotify.com/album/2llpBbc8elPVRNMNzYafUK"
-    },
+ 
     {
         title: "Panthéon",
         author: "Booba",
@@ -527,13 +521,6 @@ const mediaLibrary = [
         cover: "https://i.scdn.co/image/ab67616d00001e02110b300d38ef6b80a40035dd",
         kind: "album",
         link: "https://open.spotify.com/album/4ZiojlMTC9mMD6CZhmdBx6"
-    },
-    {
-        title: "Kazuma Kiryu Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
-        author: "SEGA SOUND TEAM",
-        cover: "assets/albums/sega_sound_team_kazuma_kiryu_karaoke_hit_song_collectionryu_ga_gotoku7_hikari_to_yami_no_yukue.jpg",
-        kind: "album",
-        link: "https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj"
     },
     {
         title: "24 Cumbias Pa Bailar",
@@ -1663,14 +1650,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "My Generation",
-        cover: "https://i.scdn.co/image/ab67616d00001e0234658b1827b64a1d4d5a5ca9",
-        rating: 5,
-        author: "The Who",
-        link: "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy?si=kN63MpSXTd-z2aTlqEw0vg",
-        kind: "album"
-    },
-    {
         title: "Herb Alpert Presents Sergio Mendes & Brasil '66",
         cover: "https://i.scdn.co/image/ab67616d00001e02669997c50e4896d14c469a02",
         rating: 5,
@@ -1836,14 +1815,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Herp Alpert",
         link: "https://open.spotify.com/album/1gKrnjjDM8R3RD7iwg0tGM?si=7iMLBO6ARku9yUHj2jJFug",
-        kind: "album"
-    },
-    {
-        title: "Steal This Album!",
-        cover: "https://i.scdn.co/image/ab67616d00001e027cf4c0d42c5b62c9deebdcd8",
-        rating: 5,
-        author: "System of a Down",
-        link: "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT?si=ubPAR9V-QkOZjFsZ1zpx_Q",
         kind: "album"
     },
     {
@@ -2094,14 +2065,7 @@ const mediaLibrary = [
         kind: "album"
     },
 
-    {
-        title: "Toxicity",
-        cover: "https://i.scdn.co/image/ab67616d00001e0207bc7d2a745636c356b4d0aa",
-        rating: 5,
-        author: "System of a Down",
-        link: "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh?si=OV78jCZzRaikT1IJCO508Q",
-        kind: "album"
-    },
+ 
     {
         title: "Civilized Evil",
         cover: "https://i.scdn.co/image/ab67616d00001e026880ca96312ca84020009730",
@@ -2241,14 +2205,7 @@ const mediaLibrary = [
         link: "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr?si=Ti59RX9bSi6bjU4MPmOQpg",
         kind: "album"
     },
-    {
-        title: "Breakfast In America",
-        cover: "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e",
-        rating: 5,
-        author: "Björk",
-        link: "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna?si=Wu8Gn14gTBOlXa_-sF1soA",
-        kind: "album"
-    },
+
     {
         title: "Black Sabbath",
         cover: "https://i.scdn.co/image/ab67616d00001e02e61731abae915074b93416e9",
@@ -2410,14 +2367,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Kink",
-        cover: "https://i.scdn.co/image/ab67616d00001e023b662e4bab01440eb4f31793",
-        rating: 5,
-        author: "The Kinks",
-        link: "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ?si=ScKwUtXaRHmH6JkIuVwafg",
-        kind: "album"
-    },
-    {
         title: "Jefferson Airplane Takes Off",
         cover: "https://i.scdn.co/image/ab67616d00001e02a75f75c5194839fb77a4dcf7",
         rating: 5,
@@ -2474,14 +2423,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Eloy",
         link: "https://open.spotify.com/album/28ayZSBRiNwn3BqmcpThHd?si=p9QbA1YhRn2NyhvIMtxPOQ",
-        kind: "album"
-    },
-    {
-        title: "L.W",
-        cover: "https://i.scdn.co/image/ab67616d00001e021f0fd0835e055d96b82ccaf0",
-        rating: 5,
-        author: "King Gizzard & The Lizard Wizard",
-        link: "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx?si=V28w2cKJTK-L_BfYl5qe_A",
         kind: "album"
     },
     {
@@ -2610,14 +2551,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Cocteau Twins",
         link: "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E?si=cOLIRKmgSxmU3vV_oXWvKw",
-        kind: "album"
-    },
-    {
-        title: "I Can See Your House From Here",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a5a422526541417ff7c19d94",
-        rating: 5,
-        author: "Camel",
-        link: "https://open.spotify.com/album/2UzcBmNQt45lrGuwIYEjec?si=bjW_foCSRMyZcNMPeATHNQ",
         kind: "album"
     },
     {
@@ -2760,14 +2693,7 @@ const mediaLibrary = [
 
 
 
-    {
-        title: "Beneath The Lilypad",
-        cover: "https://i.scdn.co/image/ab67616d00001e020235684750e40b7e5210b559",
-        rating: 5,
-        author: "Alexandra Savior",
-        link: "https://open.spotify.com/intl-fr/album/2inSjrL3SWgaUIIXxChNPd?si=rfgPDOJqQFmaUIQlqmVeOw",
-        kind: "album"
-    },
+
     
     {
         title: "24 Cumbias Pa Bailar",
@@ -2795,15 +2721,7 @@ const mediaLibrary = [
         link: "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv?si=9WwAoqF9Q9ivqMh-naBTkQ",
         kind: "album"
     },
-    
-    {
-        title: "Thirteen Tales Of Love And Revenge",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c81e8d3a686ea9d982c18330",
-        rating: 5,
-        author: "The Pierces",
-        link: "https://open.spotify.com/intl-fr/album/6Ymyr8aoX1jHVvrbGpyL24?si=pn_lLsCzRgW61Vx4HuGF6w",
-        kind: "album"
-    },
+
     
     {
         title: "Cry",
@@ -2841,14 +2759,6 @@ const mediaLibrary = [
         kind: "album"
     },
     
-    {
-        title: "Agent Of Fortune",
-        cover: "https://i.scdn.co/image/ab67616d00001e023ac318439ae56ce048d7bf5d",
-        rating: 5,
-        author: "Blue Öyster Cult",
-        link: "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt?si=hrgyfjUtQfuP9uAPf9tUKA",
-        kind: "album"
-    },
     
     {
         title: "Dure Limite",
@@ -2913,14 +2823,7 @@ const mediaLibrary = [
         kind: "album"
     },
     
-    {
-        title: "Breakfast in America",
-        cover: "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e",
-        rating: 5,
-        author: "Supertramp",
-        link: "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna?si=ngL83KYRR-OXUviUnFPBsQ",
-        kind: "album"
-    },
+
     
     {
         title: "'...Famous Last Words...'",
@@ -2931,26 +2834,8 @@ const mediaLibrary = [
         kind: "album"
     },
     
+
     {
-        title: "Surfer Rosa",
-        cover: "https://i.scdn.co/image/ab67616d00001e028aa545a0ea869940cce358b5",
-        rating: 5,
-        author: "Pixies",
-        link: "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9?si=IidMUac3SciKLRnm2E7faw",
-        kind: "album"
-    },
-
-
-    
-        {
-        title: "Easter",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a28eabe111f67a386e75a31a",
-        rating: 5,
-        author: "Patti Smith",
-        link: "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd?si=dDM3Gd56RoCjPAhvh78V8w",
-        kind: "album"
-    },
-        {
         title: "Rage Against The Machine",
         cover: "https://i.scdn.co/image/ab67616d00001e0254ab617bc2d4974ab6ffbece",
         rating: 5,
@@ -2971,14 +2856,6 @@ const mediaLibrary = [
 
 
 
-    {
-        title: "Perfect Strangers",
-        cover: "https://i.scdn.co/image/ab67616d00001e021d742027836d2d03cb5e0c4b",
-        rating: 5,
-        author: "Deep Purple",
-        link: "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO?si=PQyEc2HISlykRGRlSgXbsA",
-        kind: "album"
-    },
 
     {
         title: "Made In Japan",
@@ -3132,14 +3009,7 @@ const mediaLibrary = [
         link: "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a?si=cSXQhNh1TH6f0aqxr8RdLQ",
         kind: "album"
     },
-    {
-        title: "The Wall",
-        cover: "https://i.scdn.co/image/ab67616d00001e025d48e2f56d691f9a4e4b0bdf",
-        rating: 5,
-        author: "Pink Floyd",
-        link: "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F?si=pLOKaLGRQNeythrXmV1tYA",
-        kind: "album"
-    },
+
 
 
 
@@ -3246,14 +3116,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Pink Floyd",
         link: "https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4?si=5VxMBk_jRE6gsPT-S6P2Ow",
-        kind: "album"
-    },
-    {
-        title: "Hotel California",
-        cover: "https://i.scdn.co/image/ab67616d00001e024637341b9f507521afa9a778",
-        rating: 5,
-        author: "Eagles",
-        link: "https://open.spotify.com/intl-fr/album/2widuo17g5CEC66IbzveRu?si=sIv-DqW3RMqyWBszoGaBVQ",
         kind: "album"
     },
     {
@@ -3376,14 +3238,7 @@ const mediaLibrary = [
         link: "https://open.spotify.com/intl-fr/album/72qrnM4yUNMDDlWiqKc8iY?si=BDROcw_ATEu_8nccqPWSBg",
         kind: "album"
     },
-    {
-        title: "Abbey Road",
-        cover: "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25",
-        rating: 5,
-        author: "The Beatles",
-        link: "https://open.spotify.com/intl-fr/album/0ETFjACtuP2ADo6LFhL6HN?si=1DYbTi0hSiKTrjim1S8odw",
-        kind: "album"
-    },
+
     {
         title: "The Beatles",
         cover: "https://i.scdn.co/image/ab67616d00001e024ce8b4e42588bf18182a1ad2",
@@ -3527,14 +3382,6 @@ const mediaLibrary = [
         rating: 5,
         author: "PinkPanthress",
         link: "https://open.spotify.com/intl-fr/album/2pOEFqvfxp5uUQ8vQEmVA0?si=6GPYWoWJSK2XAXItTFyeew",
-        kind: "album"
-    },
-    {
-        title: "The Queen Is Dead",
-        cover: "https://i.scdn.co/image/ab67616d00001e02ada101c2e9e97feb8fae37a9",
-        rating: 5,
-        author: "The Smiths",
-        link: "https://open.spotify.com/intl-fr/album/5Y0p2XCgRRIjna91aQE8q7?si=S5IKZE_1Qcqx-F1SRk35fg",
         kind: "album"
     },
     {
@@ -4177,22 +4024,7 @@ const mediaLibrary = [
         link: "https://open.spotify.com/intl-fr/album/5WQVSRM5BBxq8FA5SaKqRg?si=emMl-gayQKy0KSdrQnuJnA",
         kind: "album"
     },
-    {
-        title: "Daydream Nation",
-        cover: "https://i.scdn.co/image/ab67616d00001e02dae82a57e7385bc847f9f495",
-        rating: 5,
-        author: "Sonic Youth",
-        link: "https://open.spotify.com/album/3BYlBcND6PeKoW6ZODjZO3?si=ngVEY_jDQ92ZzDRcZCve6w",
-        kind: "album"
-    },
-    {
-        title: "A Different Age",
-        cover: "https://i.scdn.co/image/ab67616d00001e02df7a61e9fdf9fec7df7bd72a",
-        rating: 5,
-        author: "Current Joys",
-        link: "https://open.spotify.com/intl-fr/album/00we7Dqa5Y4Z1MBv2z9bUd?si=GJjPqckQTsGYwuKD_EZ3qA",
-        kind: "album"
-    },
+
     {
         title: "Live At Kilby Court",
         cover: "https://i.scdn.co/image/ab67616d00001e0273303b2f8d1b42d5492342f6",
@@ -4226,14 +4058,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "So Tonight That I Might See",
-        cover: "https://i.scdn.co/image/ab67616d00001e0289a392107ebd79818022b3ea",
-        rating: 5,
-        author: "Mazzy Star",
-        link: "https://open.spotify.com/intl-fr/album/5K18gTgac0q6Jma5HkV1vA?si=iunwT4i2SKefSBouh7J8ag",
-        kind: "album"
-    },
-    {
         title: "Among My Swan",
         cover: "https://i.scdn.co/image/ab67616d00001e0240f8e560e743f9b5d382c0af",
         rating: 5,
@@ -4249,14 +4073,7 @@ const mediaLibrary = [
         link: "https://open.spotify.com/intl-fr/album/7ejB3MHdDNcY3GzRsQRAHs?si=yNE427cPR-6Yn2E4zrOSTA",
         kind: "album"
     },
-    {
-        title: "Depression Cherry",
-        cover: "https://i.scdn.co/image/ab67616d00001e02d1430224d631eaa5954f13c9",
-        rating: 5,
-        author: "Beach House",
-        link: "https://open.spotify.com/intl-fr/album/4SkZTSXdPpzTbf6C0m1UKv?si=O2_ClqitQea7iqcz2YysZg",
-        kind: "album"
-    },
+
     {
         title: "Bloom",
         cover: "https://i.scdn.co/image/ab67616d00001e02fab2fadd4f2b3e54f8bfbc26",
@@ -4265,38 +4082,8 @@ const mediaLibrary = [
         link: "https://open.spotify.com/intl-fr/album/600BVck2XflTAsEo0KhIfm?si=tMFmK3SbTFicHTxxU7gK5w",
         kind: "album"
     },
-    {
-        title: "Shed",
-        cover: "https://i.scdn.co/image/ab67616d00001e023e378f6f76942740e239df0d",
-        rating: 5,
-        author: "Title Fight",
-        link: "https://open.spotify.com/intl-fr/album/1vA4pfmBUT9ei4Ukq8uTx1?si=CD2LSydRQhCD1G6z61kEww",
-        kind: "album"
-    },
-    {
-        title: "80'z",
-        cover: "https://i.scdn.co/image/ab67616d00001e0273eb8c98d55e4c31eb41135a",
-        rating: 5,
-        author: "Bb trickz",
-        link: "https://open.spotify.com/intl-fr/album/67YvgeZeleDvyK1sdaxi6G?si=jN1vl84_TIeF9XUFwvMtsA",
-        kind: "album"
-    },
-    {
-        title: "23",
-        cover: "https://i.scdn.co/image/ab67616d00001e02d496f8e04a6d5c0f6a694af6",
-        rating: 5,
-        author: "Blonde Redhead",
-        link: "https://open.spotify.com/intl-fr/album/7iOloZrq72k9GsuJUUo1pO?si=5AtgLlFpSSCMvgZ8UoPQVA",
-        kind: "album"
-    },
-    {
-        title: "Work And Non Work",
-        cover: "https://i.scdn.co/image/ab67616d00001e02237803b061c3ff31f333c280",
-        rating: 5,
-        author: "Broadcast",
-        link: "https://open.spotify.com/intl-fr/album/6BwEy6Zz4U5y09nbSJQE2j?si=zGa1e64wR1G7PM5o_gxTOg",
-        kind: "album"
-    },
+
+
     {
         title: "Souvlaki",
         cover: "https://i.scdn.co/image/ab67616d00001e0253da07db25e2543cce38abfe",
@@ -4415,14 +4202,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Kurt Cobain",
         link: "https://open.spotify.com/intl-fr/album/5UlRowLBWdNDdO17os804M?si=M638IcHVSu-Y62IDnZ0atw",
-        kind: "album"
-    },
-    {
-        title: "The Hidden Tapes",
-        cover: "https://open.spotify.com/intl-fr/album/4l7BW5uzwPhuKYP25X750E?si=0hpkyP1kSmC6LM8Ce30XkA",
-        rating: 5,
-        author: "Various Artists",
-        link: "https://open.spotify.com/intl-fr/album/4l7BW5uzwPhuKYP25X750E?si=_81VV6SgSiCCNLm5fD5gYg",
         kind: "album"
     },
     {
@@ -5049,14 +4828,7 @@ const mediaLibrary = [
         link: "https://open.spotify.com/intl-fr/album/6nVACH6a27eOWiumAJhDWS?si=BAdNaYjjSDeVnkDW1DzTiw",
         kind: "album"
     },
-    {
-        title: "ULTRAKUNST",
-        cover: "https://i.scdn.co/image/ab67616d00001e020fe005e66bd2e46300045656",
-        rating: 5,
-        author: "Brutalismus 3000",
-        link: "https://open.spotify.com/intl-fr/album/1OegF0mIizsl36EVw1y1SW?si=zF8ncUv_Q3C1MbtSUjtE9g",
-        kind: "album"
-    },
+
     {
         title: "Eros Massacre",
         cover: "https://i.scdn.co/image/ab67616d00001e02b092dfab00dcf0ca5daf59b8",
