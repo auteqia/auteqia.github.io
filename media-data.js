@@ -18,7 +18,7 @@ const mediaLibrary = [
     {
         title: "Hurry Up, We're Dreaming",
         author: "M83",
-        cover: "assets/albums/m83_hurry_up_were_dreaming.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b3591763154a27326b3f431a",
         kind: "album",
         link: "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR",
         comment: "Github Action"
@@ -2120,14 +2120,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Shapes and Shadows",
-        cover: "https://i.scdn.co/image/ab67616d00001e02f62264d635b334a3c29cd8cb",
-        rating: 5,
-        author: "Panda Dub",
-        link: "https://open.spotify.com/album/229OeMBJWAf2xy7aom3aTQ?si=YRycQGJ0ShWpeT-pUVgGcg",
-        kind: "album"
-    },
-    {
         title: "Buena Vista Social Club",
         cover: "https://i.scdn.co/image/ab67616d00001e02e14a9fa0dd781bff247116b3",
         rating: 5,
@@ -4193,14 +4185,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Slowdive",
         link: "https://open.spotify.com/intl-fr/album/4i21O3uVh5palcfFhCjlT7?si=YDdBx_1nSoapzoOYauUuQQ",
-        kind: "album"
-    },
-    {
-        title: "Hurry up, We're Dreaming",
-        cover: "https://i.scdn.co/image/ab67616d00001e02b3591763154a27326b3f431a",
-        rating: 5,
-        author: "M83",
-        link: "https://open.spotify.com/intl-fr/album/6EB14IXV5oyOiItGBv7mtG?si=-Zqo0TVXQ2OgcsXblUDT9A",
         kind: "album"
     },
     {
