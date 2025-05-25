@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Around the Fur",
+        author: "Deftones",
+        cover: "assets/albums/deftones_around_the_fur.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu",
+        comment: "Github Action"
+    },
+    {
         title: "Perfect Strangers",
         author: "Deep Purple",
         cover: "assets/albums/deep_purple_perfect_strangers.jpg",
