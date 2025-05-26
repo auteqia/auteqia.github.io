@@ -1834,14 +1834,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "In The Court Of The Crimson King",
-        cover: "https://i.scdn.co/image/ab67616d00001e02da7b326bd7ffa7b6b95b0660",
-        rating: 5,
-        author: "King Crimson",
-        link: "https://open.spotify.com/album/75ol9OP8bJaRqzGimpFHDm?si=V7M_LdjIS2GH5AGjtPOvyA",
-        kind: "album"
-    },
-    {
         title: "Parachute",
         cover: "https://i.scdn.co/image/ab67616d00001e0277fb589d6b097775f1ce3dcd",
         rating: 5,
