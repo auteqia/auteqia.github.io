@@ -9,15 +9,13 @@ CLIENT_SECRET = os.environ["SPOTIFY_CLIENT_SECRET"]
 #REFRESH_TOKEN = os.environ["SPOTIFY_REFRESH_TOKEN"]
 
 def get_access_token():
-    auth_str = f"{CLIENT_ID}:{CLIENT_SECRET}"
-    b64_auth = base64.b64encode(auth_str.encode()).decode()
-
-    headers={
-        "Authorization": f"Basic {b64_auth}",
-        "Content-Type": "application/x-www-form-urlencoded",
-    }
-    
-    response = requests.post(SPOTIFY_TOKEN_URL, headers)
+    print("Obtention du token Spotify...")
+    response = requests.post(
+        "https://accounts.spotify.com/api/token",
+        data={"grant_type": "client_credentials"},
+        auth=(SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET),
+    )
+    response.raise_for_status()
     return response.json()["access_token"]
 
 def fetch_top_short(endpoint, access_token):
