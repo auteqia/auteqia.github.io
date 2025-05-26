@@ -74,7 +74,7 @@ const mediaLibrary = [
     {
         title: "Block Beater",
         author: "lil13",
-        cover: "assets/albums/lil13_block_beater.jpg",
+        cover: "https://i.scdn.co/image/ab67616d0000b273159e82135e85708929bd8790",
         kind: "album",
         link: "https://open.spotify.com/album/2llpBbc8elPVRNMNzYafUK",
         comment: "Github Action"
