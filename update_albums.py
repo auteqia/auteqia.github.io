@@ -157,7 +157,7 @@ def main():
     print(f"{len(lastfm_albums)} albums uniques récupérés de Last.fm.")
 
     existing_entries = read_existing_entries()
-    print(f"{len(existing_titles)} titres déjà présents dans mediaLibrary.")
+    print(f"{len(existing_entries)} titres déjà présents dans mediaLibrary.")
 
     added = 0
     for artist, album in lastfm_albums:
