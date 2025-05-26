@@ -914,6 +914,468 @@ const mediaLibrary = [
         kind: "movie"
     },
     {
+        title: "The Darjeeling Limited",
+        author: "Wes Anderson",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/4538-the-darjeeling-limited",
+        readDate: "2025-05-05",
+        kind: "movie"
+    },
+    {
+        title: "Fantastic Mr. Fox",
+        author: "Wes Anderson",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/njbTizADSZg4PqeyJdDzZGooikv.jpg",
+        rating: 5,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/83666-moonrise-kingdom",
+        readDate: "2025-02-05",
+        kind: "movie"
+    },
+    {
+        title: "Moonrise Kingdom",
+        author: "Wes Anderson",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4SXcbNl6CEF2t36icuzuBioj7K.jpg",
+        rating: 4.5,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/10315-fantastic-mr-fox",
+        readDate: "2025-02-05",
+        kind: "movie"
+    },
+    {
+        title: "The French Dispatch",
+        author: "Wes Anderson",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+        rating: 4.5,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/542178-the-french-dispatch",
+        readDate: "2025-02-05",
+        kind: "movie"
+    },
+    {
+        title: "The Wonderful Story of Henry Sugar and Three More",
+        author: "Wes Anderson",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gBOtLTs0GNMEZnisAK132o5V67.jpg",
+        rating: 4.5,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/1259365-the-wonderful-story-of-henry-sugar-and-three-more",
+        readDate: "2025-02-05",
+        kind: "movie"
+    },
+    {
+        title: "Brokeback Mountain",
+        author: "Ang Lee",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+        rating: 4.8,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/142-brokeback-mountain",
+        readDate: "2025-02-05",
+        kind: "movie"
+    },
+    {
+        title: "10 Things I Hate About You",
+        author: "Gil Junger",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+        rating: 4.5,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/4951-10-things-i-hate-about-you",
+        readDate: "2025-02-05",
+        kind: "movie"
+    },
+    {
+        title: "Carrie",
+        author: "Brian De Palma",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tT1rqlsTguyfUBMrbHR9cv1rxM.jpg",
+        rating: 4.5,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/7340-carrie",
+        readDate: "2025-02-05",
+        kind: "movie"
+    },
+    {
+        title: "Porco Rosso",
+        author: "Hayao Miyazaki",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg",
+        rating: 4.5,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/11621",
+        readDate: "2025-02-05",
+        kind: "movie"
+    },
+    {
+        title: "Us",
+        author: "Jordan Peele",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+        rating: 3,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/458723-us",
+        readDate: "2025-02-05",
+        kind: "movie"
+    },
+    {
+        title: "Scream",
+        author: "Wes Craven",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+        rating: 3,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/4232-scream",
+        readDate: "2025-02-05",
+        kind: "movie"
+    },
+    {
+        title: "Get Out",
+        author: "Wes Craven",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/419430-get-out",
+        readDate: "2025-02-05",
+        kind: "movie"
+    },
+    {
+        title: "Perfect Blue",
+        author: "Satoshi Kon",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/10494-perfect-blue",
+        readDate: "2025-02-05",
+        kind: "movie"
+    },
+    {
+        title: "Shaun of the Dead",
+        author: "Satoshi Kon",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/747-shaun-of-the-dead",
+        readDate: "2025-02-05",
+        kind: "movie"
+    },
+    {
+        title: "A Nightmare on Elm Street",
+        author: "Satoshi Kon",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg",
+        rating: 4.5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/22538-scott-pilgrim-vs-the-world",
+        readDate: "2025-02-05",
+        kind: "movie"
+    },
+    {
+        title: "Scott Pilgrim vs the World",
+        author: "Edgar Wright",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/377-a-nightmare-on-elm-street",
+        readDate: "2025-02-05",
+        kind: "movie"
+    },
+    {
+        title: "The Matrix",
+        author: "Wachowski Sisters",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/603-the-matrix",
+        readDate: "2025-02-05",
+        kind: "movie"
+    },
+    {
+        title: "Before Sunrise",
+        author: "Richard Linklater",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/76-before-sunrise",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+   {
+        title: "Cruella",
+        author: "Craig Gillespie",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/337404-cruella",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+  {
+        title: "La La Land",
+        author: "Damien Chazelle",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/313369-la-la-land",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+  {
+        title: "Drive",
+        author: "Nicolas Winding Refn",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/64690-drive",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+  {
+        title: "Blade Runner",
+        author: "Ridley Scott",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/78-blade-runner",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+  {
+        title: "Blade Runner 2049",
+        author: "Denis Villeneuve",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/335984-blade-runner-2049",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+
+  {
+        title: "Punch Drunk Love",
+        author: "Paul Thomas Anderson",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/htYp4yqFu4rzBEIa6j9jP8miDm3.jpg",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+  {
+        title: "Little Miss Sunshine",
+        author: "Valerie Faris",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKn7AJw730emlmzLSmJtzquwaeW.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/773-little-miss-sunshine",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "Kids",
+        author: "Larry Clark",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qV8hUVCUnFIQKewzlhaFWhdszK.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/9344-kids",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "Whiplash",
+        author: "Valerie Faris",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/244786-whiplash",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "Barbie",
+        author: "Greta Gerwig",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/346698-barbie",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "Joker",
+        author: "Todd Phillips",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/475557-joker",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "Ace Aventura: Pet Detective",
+        author: "Tom Shadyac",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg",
+        rating: 2,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/3049-ace-ventura-pet-detective",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "The French Kissers",
+        author: "Riad Sattouf",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozs5DufKj2Rdj2MUYeGK7QcUL52.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/18896-les-beaux-gosses",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "No Country For Old Men",
+        author: "Ethan Coen",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bj1v6YKF8yHqA489VFfnQvOJpnc.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/6977-no-country-for-old-men",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "Amores Perros",
+        author: "Alejandro González Iñárritu",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuyV4ceh80IBTbRJWX7jJ59UFxn.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/55-amores-perros",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "Le Samouraï",
+        author: "Jean-Pierre Melville",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Fa6o5nfUPEatQ9b3OwEvdEdR7T.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/5511-le-samourai",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "The Piano Teacher",
+        author: "Michael Haneke",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/1791-la-pianiste",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "Festen",
+        author: "Michael Haneke",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LRzNq41yrY8EjCnD1S8sCCPvKk.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/309-festen",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "In the mood for Love",
+        author: "Wong Kar-wai",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/843",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "Fallen Angels",
+        author: "Wong Kar-wai",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/11220",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "The Piano",
+        author: "Jane Campion",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rx8RKXn8OtuS6lqloYsjyrGOUp4.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/713-the-piano",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "The Virgin Suicides",
+        author: "Sofia Coppola",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NCQtXPQnaHRjOZVmktA9BSM35F.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/1443-the-virgin-suicides",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "La Haine",
+        author: "Mathieu Kassovitz",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iH8saz6s0Z8SPPrKaMI2KrRzTED.jpg",
+        rating: 5,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/406-la-haine",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "Buffalo '66",
+        author: "Vincent Gallo",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxzXFzbSGNA52NHQCMqQiwzMIQw.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/9464-buffalo-66",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "Basic Instinct",
+        author: "Paul Verhoeven",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/402-basic-instinct",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "X",
+        author: "Ti West",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7YPhQKdcr6XB1kCUdS4tHifYWd.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/760104-x",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+
+ {
+        title: "Pearl",
+        author: "Ti West",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/949423-pearl",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },
+ {
+        title: "MaXXXine",
+        author: "Ti West",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
+        rating: 3,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/1023922-maxxxine",
+        readDate: "2024-06-05",
+        kind: "movie"
+    },    
+    {
         title: "Une Femme Est Une Femme",
         author: "Jean-Luc Godard",
         cover: "https://m.media-amazon.com/images/M/MV5BMmIwMDg0N2EtZTRiZi00MTA2LWE1MDItOTJjNjA2MDViZDU1XkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
