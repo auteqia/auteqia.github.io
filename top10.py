@@ -12,12 +12,12 @@ def get_access_token():
     auth_str = f"{CLIENT_ID}:{CLIENT_SECRET}"
     b64_auth = base64.b64encode(auth_str.encode()).decode()
 
-    response = requests.post(SPOTIFY_TOKEN_URL, data={
-        "grant_type": "refresh_token",
-    }, headers={
+    headers={
         "Authorization": f"Basic {b64_auth}",
         "Content-Type": "application/x-www-form-urlencoded",
-    })
+    }
+    
+    response = requests.post(SPOTIFY_TOKEN_URL, headers)
     return response.json()["access_token"]
 
 def fetch_top_short(endpoint, access_token):
