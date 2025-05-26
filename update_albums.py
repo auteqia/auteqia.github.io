@@ -91,6 +91,36 @@ def read_existing_titles():
             existing.add((title.lower(), author.lower()))
     return existing
 
+def read_existing_entries():
+    """
+    Retourne un dict { (title, author): cover }
+    """
+    entries = {}
+    if not os.path.exists(MEDIA_FILE):
+        return entries
+    with open(MEDIA_FILE, 'r', encoding='utf-8') as f:
+        content = f.read()
+        blocks = re.findall(r'{\s*title:\s*"([^"]+)",\s*author:\s*"([^"]+)",\s*cover:\s*"([^"]+)"', content)
+        for title, author, cover in blocks:
+            entries[(title.lower(), author.lower())] = cover
+    return entries
+
+def update_cover_in_file(title, author, new_cover_url):
+    with open(MEDIA_FILE, "r+", encoding="utf-8") as f:
+        content = f.read()
+        # Regex that matches the entry with title and author
+        pattern = re.compile(
+            r'({\s*title:\s*"' + re.escape(title) + r'"[^}]*author:\s*"' + re.escape(author) + r'"[^}]*cover:\s*")[^"]*(")', re.IGNORECASE)
+        # Remplace le chemin cover par le nouveau lien
+        content_new, count = pattern.subn(r'\1' + new_cover_url + r'\2', content)
+        if count > 0:
+            print(f"✅ Cover mise à jour pour {title} - {author}")
+            f.seek(0)
+            f.write(content_new)
+            f.truncate()
+        else:
+            print(f"⚠️ Entrée non trouvée pour mise à jour : {title} - {author}")
+
 def append_to_media_file(album):
     path = download_cover_image(album["cover"], album["author"], album["title"])
     if path:
@@ -126,17 +156,30 @@ def main():
     lastfm_albums = get_lastfm_albums()
     print(f"{len(lastfm_albums)} albums uniques récupérés de Last.fm.")
 
-    existing_titles = read_existing_titles()
+    existing_entries = read_existing_entries()
     print(f"{len(existing_titles)} titres déjà présents dans mediaLibrary.")
 
     added = 0
-    for artist, album in lastfm_albums:
-        info = get_spotify_album_info(token, artist, album)
-        if info and (info["title"].lower(), info["author"].lower()) not in existing_titles:
-            append_to_media_file(info)
-            existing_titles.add((info["title"].lower(), info["author"].lower()))
-            added += 1
-            print(f"Ajouté: {artist} - {album}")
+   for artist, album in lastfm_albums:
+    info = get_spotify_album_info(token, artist, album)
+    if not info:
+        continue
+
+    key = (info["title"].lower(), info["author"].lower())
+
+    # Télécharger image quoi qu’il arrive
+    download_cover_image(info["cover"], info["author"], info["title"])
+
+    if key in existing_entries:
+        current_cover = existing_entries[key]
+        # Si current_cover n’est pas une URL
+        if not current_cover.startswith("http"):
+            # On met à jour la cover dans le fichier pour mettre le lien Spotify
+            update_cover_in_file(info["title"], info["author"], info["cover"])
+    else:
+        # Ajouter l'entrée normalement (tout en gardant le cover = URL)
+        append_to_media_file(info)
+        print(f"Ajouté : {artist} - {album}")
 
     print(f"Ajouts terminés. {added} nouveaux albums insérés.")
 
