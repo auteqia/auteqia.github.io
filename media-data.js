@@ -1,16 +1,8 @@
 const mediaLibrary = [
     {
-        title: "Eros Massacre",
-        author: "Brutalismus 3000",
-        cover: "assets/albums/brutalismus_3000_eros_massacre.jpg",
-        kind: "album",
-        link: "https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V",
-        comment: "Github Action"
-    },
-    {
         title: "Buena Vista Social Club",
         author: "Buena Vista Social Club",
-        cover: "assets/albums/buena_vista_social_club_buena_vista_social_club.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e14a9fa0dd781bff247116b3",
         kind: "album",
         link: "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt",
         comment: "Github Action"
@@ -18,7 +10,7 @@ const mediaLibrary = [
     {
         title: "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)",
         author: "King Crimson",
-        cover: "assets/albums/king_crimson_in_the_court_of_the_crimson_king_expanded_remastered_original_album_mix.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02da7b326bd7ffa7b6b95b0660",
         kind: "album",
         link: "https://open.spotify.com/album/75ol9OP8bJaRqzGimpFHDm",
         comment: "Github Action"
@@ -26,7 +18,7 @@ const mediaLibrary = [
     {
         title: "Tell Me I'm Pretty",
         author: "Cage The Elephant",
-        cover: "assets/albums/cage_the_elephant_tell_me_im_pretty.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e7dd69ac32cf313fde62cbad",
         kind: "album",
         link: "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ",
         comment: "Github Action"
@@ -34,7 +26,7 @@ const mediaLibrary = [
     {
         title: "Trenches",
         author: "DJmegan23",
-        cover: "assets/albums/djmegan23_trenches.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02886986b0aab4dfa9027364e3",
         kind: "album",
         link: "https://open.spotify.com/album/6o0CfxDsM79Gluv6UAIXa0",
         comment: "Github Action"
@@ -50,7 +42,7 @@ const mediaLibrary = [
     {
         title: "Nirvana",
         author: "Nirvana",
-        cover: "assets/albums/nirvana_nirvana.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0256072fea6785a3ad2d24237c",
         kind: "album",
         link: "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ",
         comment: "Github Action"
@@ -58,7 +50,7 @@ const mediaLibrary = [
     {
         title: "D>E>A>T>H>M>E>T>A>L",
         author: "Panchiko",
-        cover: "assets/albums/panchiko_deathmetal.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e045aa197ada995407bf92fc",
         kind: "album",
         link: "https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q",
         comment: "Github Action"
@@ -66,7 +58,7 @@ const mediaLibrary = [
     {
         title: "Contemporary Movement",
         author: "Duster",
-        cover: "assets/albums/duster_contemporary_movement.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f2905338b1e6e07e167ee305",
         kind: "album",
         link: "https://open.spotify.com/album/6CYyrh3J08jXacgo9wHwsU",
         comment: "Github Action"
@@ -82,7 +74,7 @@ const mediaLibrary = [
     {
         title: "Kazuma Kiryu Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
         author: "SEGA SOUND TEAM",
-        cover: "assets/albums/sega_sound_team_kazuma_kiryu_karaoke_hit_song_collectionryu_ga_gotoku7_hikari_to_yami_no_yukue.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e026cedf06b77c1a36cf6130140",
         kind: "album",
         link: "https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj",
         comment: "Github Action"
@@ -146,7 +138,7 @@ const mediaLibrary = [
     {
         title: "Minecraft - Volume Alpha",
         author: "C418",
-        cover: "assets/albums/c418_minecraft_-_volume_alpha.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02aaeb5c9fb6131977995b7f0e",
         kind: "album",
         link: "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7",
         comment: "Github Action"
@@ -394,7 +386,7 @@ const mediaLibrary = [
     {
         title: "Cornerstone",
         author: "Arctic Monkeys",
-        cover: "assets/albums/arctic_monkeys_cornerstone.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02f65d720a5d70dbb93e96d528",
         kind: "album",
         link: "https://open.spotify.com/album/2Kq71zM5PE6IB5X5zOwo6d",
         comment: "Github Action"
@@ -402,7 +394,7 @@ const mediaLibrary = [
     {
         title: "Amor Chiquito",
         author: "Fobia",
-        cover: "assets/albums/fobia_amor_chiquito.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e021bb1c32a8aa6c69d4d882642",
         kind: "album",
         link: "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u",
         comment: "Github Action"
@@ -410,7 +402,7 @@ const mediaLibrary = [
     {
         title: "Post",
         author: "Björk",
-        cover: "assets/albums/björk_post.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0216d23c3d8963299a8cc64740",
         kind: "album",
         link: "https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs",
         comment: "Github Action"
@@ -418,7 +410,7 @@ const mediaLibrary = [
     {
         title: "Clash the Truth",
         author: "Beach Fossils",
-        cover: "assets/albums/beach_fossils_clash_the_truth.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0290aad1d96f5394861be9dcc7",
         kind: "album",
         link: "https://open.spotify.com/album/4qC8mysA680i7chkL3JQQw",
         comment: "Github Action"
@@ -426,7 +418,7 @@ const mediaLibrary = [
     {
         title: "Spreading Rumours",
         author: "GROUPLOVE",
-        cover: "assets/albums/grouplove_spreading_rumours.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e024cfe4b79188595b591b1f50a",
         kind: "album",
         link: "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf",
         comment: "Github Action"
@@ -434,7 +426,7 @@ const mediaLibrary = [
     {
         title: "Circles",
         author: "Mac Miller",
-        cover: "assets/albums/mac_miller_circles.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0226b7dd89810cc1a40ada642c",
         kind: "album",
         link: "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb",
         comment: "Github Action"
@@ -442,7 +434,7 @@ const mediaLibrary = [
     {
         title: "Strange Cacti",
         author: "Angel Olsen",
-        cover: "assets/albums/angel_olsen_strange_cacti.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e3071ae9afdef957ee875301",
         kind: "album",
         link: "https://open.spotify.com/album/3aKb3OOjVyEUHda8q7futV",
         comment: "Github Action"
