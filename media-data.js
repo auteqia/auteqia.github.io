@@ -910,7 +910,17 @@ const mediaLibrary = [
         rating: 5,
         reRead: false,
         link: "https://www.themoviedb.org/movie/5910-hana-bi",
-        readDate: "2025-05-05",
+        readDate: "2025-05-26",
+        kind: "movie"
+    },
+    {
+        title: "Interstella 5555",
+        author: "Leiji Matsumoto",
+        cover: "https://image.tmdb.org/t/p/w1280/oWI4NovPYyAObZcKMUHCuaU8mhg.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://image.tmdb.org/t/p/w1280/AwlS9vTlidGdW79abQ5zVNGQ8jm.jpg",
+        readDate: "2024-12-06",
         kind: "movie"
     },
     {
