@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "A Hard Day's Night (Remastered)",
+        author: "The Beatles",
+        cover: "assets/albums/the_beatles_a_hard_days_night_remastered.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV",
+        comment: "Github Action"
+    },
+    {
         title: "Eros Massacre",
         author: "Brutalismus 3000",
         cover: "assets/albums/brutalismus_3000_eros_massacre.jpg",
