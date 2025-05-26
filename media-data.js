@@ -705,14 +705,6 @@ const mediaLibrary = [
         comment: "Github Action"
     },
     {
-        title: "Player Non Player",
-        author: "Agar Agar",
-        cover: "https://i.scdn.co/image/ab67616d0000b273e34e56bc2b4fc50c095757cf",
-        kind: "album",
-        link: "https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K",
-        comment: "Github Action"
-    },
-    {
         title: "The Queen Is Dead",
         author: "The Smiths",
         cover: "https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9",
@@ -1505,14 +1497,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Contemporary Movement",
-        cover: "https://i.scdn.co/image/ab67616d00001e02f2905338b1e6e07e167ee305",
-        rating: 5,
-        author: "Duster",
-        link: "https://open.spotify.com/album/6CYyrh3J08jXacgo9wHwsU?si=OBIYn1QdSICoWQG1UT-JPg",
-        kind: "album"
-    },
-    {
         title: "One Step Beyond",
         cover: "https://i.scdn.co/image/ab67616d00001e026238b055ec362d2eea9beb26",
         rating: 5,
@@ -1989,14 +1973,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Cocteau Twins",
         link: "https://open.spotify.com/album/3qEiWhSF2HO1NhVJVsGyZm?si=TCHXHszjSE2PyDj3c8ikwA",
-        kind: "album"
-    },
-    {
-        title: "Come To Daddy",
-        cover: "https://i.scdn.co/image/ab67616d00001e0223ac84a525286001770abc8e",
-        rating: 5,
-        author: "Aphex Twin",
-        link: "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx?si=RSoqnkBySH65GzWJ_cgelw",
         kind: "album"
     },
     {
@@ -2682,14 +2658,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Heaven or Las Vegas",
-        cover: "https://i.scdn.co/image/ab67616d00001e025d2fdd1564ccab97e60c656f",
-        rating: 5,
-        author: "Cocteau Twins",
-        link: "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E?si=cOLIRKmgSxmU3vV_oXWvKw",
-        kind: "album"
-    },
-    {
         title: "Pressure Points",
         cover: "https://i.scdn.co/image/ab67616d00001e027a68cb2771173ca87cc09346",
         rating: 5,
@@ -2794,14 +2762,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Computer Controlled Acoustic Instruments pt2 EP",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c3de1c7467803876a809df16",
-        rating: 5,
-        author: "Aphex Twin",
-        link: "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01?si=nXrV6ftDToS26f0nwfNODQ",
-        kind: "album"
-    },
-    {
         title: "Windowlicker",
         cover: "https://i.scdn.co/image/ab67616d00001e02478bfd5562acad46103b858a",
         rating: 5,
@@ -2849,15 +2809,6 @@ const mediaLibrary = [
         kind: "album"
     },
 
-    
-    {
-        title: "Cry",
-        cover: "https://i.scdn.co/image/ab67616d00001e02fd275af89cec73d6287f9cbf",
-        rating: 5,
-        author: "Cigarette After Sex",
-        link: "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy?si=OHa2aZiOTfWxosB3pN4iWQ",
-        kind: "album"
-    },
     
     {
         title: "Cigarette After Sex",
@@ -3616,14 +3567,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Tell Me I'm Pretty",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e7dd69ac32cf313fde62cbad",
-        rating: 5,
-        author: "Cage The Elephant",
-        link: "https://open.spotify.com/intl-fr/album/0nW0w37lrQ87k7PLZvC4qJ?si=1Mu8JI-VQseDDi-w3pH77g",
-        kind: "album"
-    },
-    {
         title: "Melophobia",
         cover: "https://i.scdn.co/image/ab67616d00001e02415b79227c6cee25f42fbf41",
         rating: 5,
@@ -4184,25 +4127,6 @@ const mediaLibrary = [
         link: "https://open.spotify.com/intl-fr/album/4mhpbf7jYc0L1nBceoebIE?si=FIlLoQ-gQdWPpGzXzCN3MA",
         kind: "album"
     },
-    {
-        title: "Teen Dream",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a9a2f4dbb6ce31157d2e4783",
-        rating: 5,
-        author: "Beach House",
-        link: "https://open.spotify.com/intl-fr/album/7ejB3MHdDNcY3GzRsQRAHs?si=yNE427cPR-6Yn2E4zrOSTA",
-        kind: "album"
-    },
-
-    {
-        title: "Bloom",
-        cover: "https://i.scdn.co/image/ab67616d00001e02fab2fadd4f2b3e54f8bfbc26",
-        rating: 5,
-        author: "Beach House",
-        link: "https://open.spotify.com/intl-fr/album/600BVck2XflTAsEo0KhIfm?si=tMFmK3SbTFicHTxxU7gK5w",
-        kind: "album"
-    },
-
-
     {
         title: "Souvlaki",
         cover: "https://i.scdn.co/image/ab67616d00001e0253da07db25e2543cce38abfe",
