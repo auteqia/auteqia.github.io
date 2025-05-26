@@ -904,6 +904,16 @@ const mediaLibrary = [
     // END OF BOOKS
     // MOVIES \\
     {
+        title: "Hana-bi",
+        author: "Takeshi Kitano",
+        cover: "https://image.tmdb.org/t/p/w1280/oWI4NovPYyAObZcKMUHCuaU8mhg.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/5910-hana-bi",
+        readDate: "2025-05-05",
+        kind: "movie"
+    },
+    {
         title: "Requiem of a dream",
         author: "Darren Aronofsky",
         cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ucEzdVnn3vb3fKugIgedJxyykag.jpg",
