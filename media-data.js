@@ -4104,14 +4104,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "The Dog and the Future",
-        cover: "https://i.scdn.co/image/ab67616d00001e02868e32445c22b929ac78083d",
-        rating: 5,
-        author: "Agar Agar",
-        link: "https://open.spotify.com/intl-fr/album/1S5GLfv8Lmn4vmRMImheVu?si=_SMl31KURsWyDsRXdu68Cg",
-        kind: "album"
-    },
-    {
         title: "Cardan",
         cover: "https://i.scdn.co/image/ab67616d00001e02e990c228791522717cb8b4e1",
         rating: 5,
