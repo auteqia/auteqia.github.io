@@ -160,7 +160,7 @@ def main():
     print(f"{len(existing_titles)} titres déjà présents dans mediaLibrary.")
 
     added = 0
-   for artist, album in lastfm_albums:
+    for artist, album in lastfm_albums:
        info = get_spotify_album_info(token, artist, album)
        if not info:
            continue
