@@ -442,7 +442,7 @@ const mediaLibrary = [
     {
         title: "Imagine",
         author: "John Lennon",
-        cover: "assets/albums/john_lennon_imagine.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0299581550ef9746ca582bb3cc",
         kind: "album",
         link: "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk",
         comment: "Github Action"
@@ -450,7 +450,7 @@ const mediaLibrary = [
     {
         title: "Down the Way",
         author: "Angus & Julia Stone",
-        cover: "assets/albums/angus_julia_stone_down_the_way.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02c1419acb7ebc099f3464523e",
         kind: "album",
         link: "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ",
         comment: "Github Action"
@@ -458,7 +458,7 @@ const mediaLibrary = [
     {
         title: "Neon Bible",
         author: "Arcade Fire",
-        cover: "assets/albums/arcade_fire_neon_bible.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e029e0e42aa866e5fa167b19608",
         kind: "album",
         link: "https://open.spotify.com/album/4GT6uZod4p5RiDMOVHOMme",
         comment: "Github Action"
@@ -468,13 +468,13 @@ const mediaLibrary = [
         author: "Limsa d'Aulnay",
         cover: "assets/albums/limsa_daulnay_logique_pt_1.jpg",
         kind: "album",
-        link: "https://open.spotify.com/album/69614CWnaYuSsao7zkbNo8",
+        link: "https://i.scdn.co/image/ab67616d00001e02bbe2c603d23373e34079fc1f",
         comment: "Github Action"
     },
     {
         title: "Sound of Silver",
         author: "LCD Soundsystem",
-        cover: "assets/albums/lcd_soundsystem_sound_of_silver.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02e6272ad26e7a55bc342a6dd0",
         kind: "album",
         link: "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X",
         comment: "Github Action"
@@ -482,7 +482,7 @@ const mediaLibrary = [
     {
         title: "Paradise for All (Deluxe Edition)",
         author: "Guts",
-        cover: "assets/albums/guts_paradise_for_all_deluxe_edition.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b61b23146e09b6967c17a3d7",
         kind: "album",
         link: "https://open.spotify.com/album/0NLdUA0vjQP8pQr4CkO3pE",
         comment: "Github Action"
@@ -490,7 +490,7 @@ const mediaLibrary = [
     {
         title: "J.O.$",
         author: "Josman",
-        cover: "assets/albums/josman_jo.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02d1f65b1e79536bb46ead609a",
         kind: "album",
         link: "https://open.spotify.com/album/6gFQ3NglYiCz8SrU8RZXgO",
         comment: "Github Action"
@@ -514,7 +514,7 @@ const mediaLibrary = [
     {
         title: "Unknown Pleasures (Collector's Edition)",
         author: "Joy Division",
-        cover: "assets/albums/joy_division_unknown_pleasures_collectors_edition.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0227cc8b0ed297111f53009772",
         kind: "album",
         link: "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy",
         comment: "Github Action"
@@ -522,7 +522,7 @@ const mediaLibrary = [
     {
         title: "Deo Favente",
         author: "SCH",
-        cover: "assets/albums/sch_deo_favente.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0210948efed11dc2f6f4888708",
         kind: "album",
         link: "https://open.spotify.com/album/1PeObz1EYSZFjTC2pEXMuO",
         comment: "Github Action"
@@ -530,7 +530,7 @@ const mediaLibrary = [
     {
         title: "Cheese",
         author: "Stromae",
-        cover: "assets/albums/stromae_cheese.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02ae373174b14e3eac81554402",
         kind: "album",
         link: "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80",
         comment: "Github Action"
@@ -538,7 +538,7 @@ const mediaLibrary = [
     {
         title: "W.A.R",
         author: "Roshi",
-        cover: "assets/albums/roshi_war.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02515a6ae6ebe3688b25e524ba",
         kind: "album",
         link: "https://open.spotify.com/album/7rJ02tLX70NdopwLjEBNYs",
         comment: "Github Action"
@@ -546,7 +546,7 @@ const mediaLibrary = [
     {
         title: "Love Is Here",
         author: "Starsailor",
-        cover: "assets/albums/starsailor_love_is_here.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e023a572420b5e8d321cf0e767d",
         kind: "album",
         link: "https://open.spotify.com/album/4PyGvXTMf0PmsWsDWohFZw",
         comment: "Github Action"
@@ -554,7 +554,7 @@ const mediaLibrary = [
     {
         title: "Dans ma paranoïa",
         author: "Jul",
-        cover: "assets/albums/jul_dans_ma_paranoïa.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e0285d9fb2e7833cb239769c02d",
         kind: "album",
         link: "https://open.spotify.com/album/3yMDPzPjM2VqLHENlVgiEF",
         comment: "Github Action"
@@ -578,7 +578,7 @@ const mediaLibrary = [
     {
         title: "Adios Bahamas",
         author: "Népal",
-        cover: "assets/albums/népal_adios_bahamas.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e020cb621d316215a0bbcc22d70",
         kind: "album",
         link: "https://open.spotify.com/album/3VsBRRKlb3f8oGxkVOkK5e",
         comment: "Github Action"
@@ -586,7 +586,7 @@ const mediaLibrary = [
     {
         title: "The Resistance",
         author: "Muse",
-        cover: "assets/albums/muse_the_resistance.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b6d4566db0d12894a1a3b7a2",
         kind: "album",
         link: "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM",
         comment: "Github Action"
