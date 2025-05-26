@@ -161,9 +161,9 @@ def main():
 
     added = 0
    for artist, album in lastfm_albums:
-    info = get_spotify_album_info(token, artist, album)
-    if not info:
-        continue
+       info = get_spotify_album_info(token, artist, album)
+       if not info:
+           continue
 
     key = (info["title"].lower(), info["author"].lower())
 
