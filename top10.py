@@ -66,6 +66,6 @@ def generate_tracks_js(top_tracks, top_artists):
 if __name__ == "__main__":
     import base64
     access_token = get_access_token()
-    tracks = fetch_top("tracks", access_token)
-    artists = fetch_top("artists", access_token)
+    tracks = fetch_top_short("tracks", access_token)
+    artists = fetch_top_short("artists", access_token)
     generate_tracks_js(tracks, artists)
