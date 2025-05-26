@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Eros Massacre",
+        author: "Brutalismus 3000",
+        cover: "assets/albums/brutalismus_3000_eros_massacre.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V",
+        comment: "Github Action"
+    },
+    {
         title: "Buena Vista Social Club",
         author: "Buena Vista Social Club",
         cover: "https://i.scdn.co/image/ab67616d00001e02e14a9fa0dd781bff247116b3",
