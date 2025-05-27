@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Car",
+        author: "Arctic Monkeys",
+        cover: "assets/albums/arctic_monkeys_the_car.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs",
+        comment: "Github Action"
+    },
+    {
         title: "Favourite Worst Nightmare (Standard Version)",
         author: "Arctic Monkeys",
         cover: "assets/albums/arctic_monkeys_favourite_worst_nightmare_standard_version.jpg",
