@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Favourite Worst Nightmare (Standard Version)",
+        author: "Arctic Monkeys",
+        cover: "assets/albums/arctic_monkeys_favourite_worst_nightmare_standard_version.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw",
+        comment: "Github Action"
+    },
+    {
         title: "A Hard Day's Night (Remastered)",
         author: "The Beatles",
         cover: "assets/albums/the_beatles_a_hard_days_night_remastered.jpg",
