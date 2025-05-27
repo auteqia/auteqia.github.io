@@ -2,7 +2,7 @@ const mediaLibrary = [
     {
         title: "Here Are the Sonics",
         author: "The Sonics",
-        cover: "assets/albums/the_sonics_here_are_the_sonics.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e023b8f9c148e9eead1143c78e6",
         kind: "album",
         link: "https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM",
         comment: "Github Action"
@@ -1879,14 +1879,7 @@ const mediaLibrary = [
         link: "https://open.spotify.com/intl-fr/album/1p12OAWwudgMqfMzjMvl2a?si=19defa6fa4a54d9e",
         kind: "album"
     },
-    {
-        title: "Here are the Sonics",
-        cover: "https://i.scdn.co/image/ab67616d00001e023b8f9c148e9eead1143c78e6",
-        rating: 5,
-        author: "The Sonics",
-        link: "https://open.spotify.com/intl-fr/album/4vqaqoTEbNyeeSHJA6KpdM?si=8c82b91884ec4397",
-        kind: "album"
-    },
+
     {
         title: "The Gilded Palace of Sin",
         cover: "https://i.scdn.co/image/ab67616d0000b27353ba02e4c3b1b6a297002afa",
@@ -2880,14 +2873,7 @@ const mediaLibrary = [
         link: "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r?si=FIwYZPDpRaOr4QMjdtpF9Q",
         kind: "album"
     },
-    {
-        title: "D>E>A>T>H>M>E>T>A>L",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e045aa197ada995407bf92fc",
-        rating: 5,
-        author: "Panchiko",
-        link: "https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q?si=7mK_UAjiSKKF_ArZN9V4mg",
-        kind: "album"
-    },
+
     {
         title: "The Roaring Silence",
         cover: "https://i.scdn.co/image/ab67616d00001e02f7a46588d1f34cd32e670bb4",
