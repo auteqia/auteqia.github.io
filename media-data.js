@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Mini Album Thingy Wingy",
+        author: "The Brian Jonestown Massacre",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731af27257ffa4d5f68ab11318",
+        kind: "album",
+        link: "https://open.spotify.com/album/5RAEH1CQvn5kmPufRpycyt",
+        comment: "Github Action"
+    },
+    {
+        title: "The Man Who Sold the World (2015 Remaster)",
+        author: "David Bowie",
+        cover: "https://i.scdn.co/image/ab67616d0000b27346926e777bd6665f03128d29",
+        kind: "album",
+        link: "https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG",
+        comment: "Github Action"
+    },
+    {
+        title: "Syro",
+        author: "Aphex Twin",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736ea96ba633bead24af562890",
+        kind: "album",
+        link: "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w",
+        comment: "Github Action"
+    },
+    {
+        title: "Aladdin Sane (2013 Remaster)",
+        author: "David Bowie",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735db6dbaca8678527e643a866",
+        kind: "album",
+        link: "https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz",
+        comment: "Github Action"
+    },
+    {
+        title: "Lust For Life",
+        author: "Iggy Pop",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734aa5f679427e35409a06f225",
+        kind: "album",
+        link: "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz",
+        comment: "Github Action"
+    },
+    {
         title: "New York Dolls",
         author: "New York Dolls",
         cover: "https://i.scdn.co/image/ab67616d0000b273802255bd535533c0e2ba5ad2",
