@@ -1067,11 +1067,11 @@ const mediaLibrary = [
     },
     {
         title: "Interstella 5555",
-        author: "Leiji Matsumoto",
-        cover: "https://image.tmdb.org/t/p/w1280/oWI4NovPYyAObZcKMUHCuaU8mhg.jpg",
+        author: "Hirotoshi Rissen",
+        cover: "https://image.tmdb.org/t/p/w1280/AwlS9vTlidGdW79abQ5zVNGQ8jm.jpg",
         rating: 5,
         reRead: false,
-        link: "https://image.tmdb.org/t/p/w1280/AwlS9vTlidGdW79abQ5zVNGQ8jm.jpg",
+        link: "https://www.themoviedb.org/movie/11049-interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem",
         readDate: "2024-12-06",
         kind: "movie"
     },
@@ -1092,7 +1092,7 @@ const mediaLibrary = [
         rating: 5,
         reRead: false,
         link: "https://www.themoviedb.org/movie/4538-the-darjeeling-limited",
-        readDate: "2025-05-05",
+        readDate: "2023-10-10",
         kind: "movie"
     },
     {
@@ -1102,7 +1102,7 @@ const mediaLibrary = [
         rating: 5,
         reRead: true,
         link: "https://www.themoviedb.org/movie/83666-moonrise-kingdom",
-        readDate: "2025-02-05",
+        readDate: "2023-01-12",
         kind: "movie"
     },
     {
@@ -1110,9 +1110,9 @@ const mediaLibrary = [
         author: "Wes Anderson",
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4SXcbNl6CEF2t36icuzuBioj7K.jpg",
         rating: 4.5,
-        reRead: true,
+        reRead: false,
         link: "https://www.themoviedb.org/movie/10315-fantastic-mr-fox",
-        readDate: "2025-02-05",
+        readDate: "2024-06-20",
         kind: "movie"
     },
     {
@@ -1120,9 +1120,9 @@ const mediaLibrary = [
         author: "Wes Anderson",
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
         rating: 4.5,
-        reRead: true,
+        reRead: false,
         link: "https://www.themoviedb.org/movie/542178-the-french-dispatch",
-        readDate: "2025-02-05",
+        readDate: "2023-02-05",
         kind: "movie"
     },
     {
@@ -1130,9 +1130,9 @@ const mediaLibrary = [
         author: "Wes Anderson",
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gBOtLTs0GNMEZnisAK132o5V67.jpg",
         rating: 4.5,
-        reRead: true,
+        reRead: false,
         link: "https://www.themoviedb.org/movie/1259365-the-wonderful-story-of-henry-sugar-and-three-more",
-        readDate: "2025-02-05",
+        readDate: "2023-10-09",
         kind: "movie"
     },
     {
@@ -1142,17 +1142,17 @@ const mediaLibrary = [
         rating: 4.8,
         reRead: true,
         link: "https://www.themoviedb.org/movie/142-brokeback-mountain",
-        readDate: "2025-02-05",
+        readDate: "2022-07-10",
         kind: "movie"
     },
     {
         title: "10 Things I Hate About You",
         author: "Gil Junger",
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
-        rating: 4.5,
-        reRead: true,
+        rating: 5,
+        reRead: false,
         link: "https://www.themoviedb.org/movie/4951-10-things-i-hate-about-you",
-        readDate: "2025-02-05",
+        readDate: "2023-04-18",
         kind: "movie"
     },
     {
@@ -1160,9 +1160,9 @@ const mediaLibrary = [
         author: "Brian De Palma",
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tT1rqlsTguyfUBMrbHR9cv1rxM.jpg",
         rating: 4.5,
-        reRead: true,
+        reRead: false,
         link: "https://www.themoviedb.org/movie/7340-carrie",
-        readDate: "2025-02-05",
+        readDate: "2023-08-12",
         kind: "movie"
     },
     {
@@ -1182,7 +1182,7 @@ const mediaLibrary = [
         rating: 3,
         reRead: false,
         link: "https://www.themoviedb.org/movie/458723-us",
-        readDate: "2025-02-05",
+        readDate: "2022-11-01",
         kind: "movie"
     },
     {
@@ -1192,17 +1192,17 @@ const mediaLibrary = [
         rating: 3,
         reRead: false,
         link: "https://www.themoviedb.org/movie/4232-scream",
-        readDate: "2025-02-05",
+        readDate: "2023-05-17",
         kind: "movie"
     },
     {
         title: "Get Out",
-        author: "Wes Craven",
+        author: "Jordan Peele",
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg",
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/419430-get-out",
-        readDate: "2025-02-05",
+        readDate: "2023-06-17",
         kind: "movie"
     },
     {
@@ -1212,27 +1212,27 @@ const mediaLibrary = [
         rating: 5,
         reRead: false,
         link: "https://www.themoviedb.org/movie/10494-perfect-blue",
-        readDate: "2025-02-05",
+        readDate: "2023-07-22",
         kind: "movie"
     },
     {
         title: "Shaun of the Dead",
-        author: "Satoshi Kon",
+        author: "Edgar Wright",
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/747-shaun-of-the-dead",
-        readDate: "2025-02-05",
+        readDate: "2025-02-28",
         kind: "movie"
     },
     {
         title: "A Nightmare on Elm Street",
-        author: "Satoshi Kon",
+        author: "Wes Craven",
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg",
         rating: 4.5,
         reRead: false,
-        link: "https://www.themoviedb.org/movie/22538-scott-pilgrim-vs-the-world",
-        readDate: "2025-02-05",
+        link: "https://www.themoviedb.org/movie/377-a-nightmare-on-elm-street",
+        readDate: "2023-09-04",
         kind: "movie"
     },
     {
@@ -1241,8 +1241,8 @@ const mediaLibrary = [
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
         rating: 4,
         reRead: false,
-        link: "https://www.themoviedb.org/movie/377-a-nightmare-on-elm-street",
-        readDate: "2025-02-05",
+        link: "https://www.themoviedb.org/movie/22538-scott-pilgrim-vs-the-world",
+        readDate: "2024-03-19",
         kind: "movie"
     },
     {
@@ -1250,9 +1250,9 @@ const mediaLibrary = [
         author: "Wachowski Sisters",
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
         rating: 4,
-        reRead: false,
+        reRead: true,
         link: "https://www.themoviedb.org/movie/603-the-matrix",
-        readDate: "2025-02-05",
+        readDate: "2024-12-05",
         kind: "movie"
     },
     {
@@ -1272,7 +1272,7 @@ const mediaLibrary = [
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/337404-cruella",
-        readDate: "2024-06-05",
+        readDate: "2023-06-05",
         kind: "movie"
     },
   {
@@ -1282,7 +1282,7 @@ const mediaLibrary = [
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/313369-la-la-land",
-        readDate: "2024-06-05",
+        readDate: "2024-02-16",
         kind: "movie"
     },
   {
@@ -1292,7 +1292,7 @@ const mediaLibrary = [
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/64690-drive",
-        readDate: "2024-06-05",
+        readDate: "2024-08-07",
         kind: "movie"
     },
   {
@@ -1302,7 +1302,7 @@ const mediaLibrary = [
         rating: 5,
         reRead: false,
         link: "https://www.themoviedb.org/movie/78-blade-runner",
-        readDate: "2024-06-05",
+        readDate: "2023-06-30",
         kind: "movie"
     },
   {
@@ -1312,7 +1312,7 @@ const mediaLibrary = [
         rating: 5,
         reRead: false,
         link: "https://www.themoviedb.org/movie/335984-blade-runner-2049",
-        readDate: "2024-06-05",
+        readDate: "2023-06-29",
         kind: "movie"
     },
 
@@ -1323,7 +1323,7 @@ const mediaLibrary = [
         rating: 4,
         reRead: false,
         link: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/htYp4yqFu4rzBEIa6j9jP8miDm3.jpg",
-        readDate: "2024-06-05",
+        readDate: "2024-10-14",
         kind: "movie"
     },
   {
@@ -1343,7 +1343,7 @@ const mediaLibrary = [
         rating: 5,
         reRead: false,
         link: "https://www.themoviedb.org/movie/9344-kids",
-        readDate: "2024-06-05",
+        readDate: "2023-01-18",
         kind: "movie"
     },
  {
@@ -1353,7 +1353,7 @@ const mediaLibrary = [
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/244786-whiplash",
-        readDate: "2024-06-05",
+        readDate: "2023-01-07",
         kind: "movie"
     },
  {
@@ -1363,7 +1363,7 @@ const mediaLibrary = [
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/346698-barbie",
-        readDate: "2024-06-05",
+        readDate: "2023-08-17",
         kind: "movie"
     },
  {
@@ -1371,9 +1371,9 @@ const mediaLibrary = [
         author: "Todd Phillips",
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
         rating: 4,
-        reRead: false,
+        reRead: true,
         link: "https://www.themoviedb.org/movie/475557-joker",
-        readDate: "2024-06-05",
+        readDate: "2023-08-19",
         kind: "movie"
     },
  {
@@ -1383,7 +1383,7 @@ const mediaLibrary = [
         rating: 2,
         reRead: false,
         link: "https://www.themoviedb.org/movie/3049-ace-ventura-pet-detective",
-        readDate: "2024-06-05",
+        readDate: "2023-08-15",
         kind: "movie"
     },
  {
@@ -1393,7 +1393,7 @@ const mediaLibrary = [
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/18896-les-beaux-gosses",
-        readDate: "2024-06-05",
+        readDate: "2023-08-11",
         kind: "movie"
     },
  {
@@ -1403,7 +1403,7 @@ const mediaLibrary = [
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/6977-no-country-for-old-men",
-        readDate: "2024-06-05",
+        readDate: "2023-08-10",
         kind: "movie"
     },
  {
@@ -1413,7 +1413,7 @@ const mediaLibrary = [
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/55-amores-perros",
-        readDate: "2024-06-05",
+        readDate: "2023-02-17",
         kind: "movie"
     },
  {
@@ -1423,7 +1423,7 @@ const mediaLibrary = [
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/5511-le-samourai",
-        readDate: "2024-06-05",
+        readDate: "2023-08-27",
         kind: "movie"
     },
  {
@@ -1433,7 +1433,7 @@ const mediaLibrary = [
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/1791-la-pianiste",
-        readDate: "2024-06-05",
+        readDate: "2023-08-19",
         kind: "movie"
     },
  {
@@ -1443,7 +1443,7 @@ const mediaLibrary = [
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/309-festen",
-        readDate: "2024-06-05",
+        readDate: "2023-08-22",
         kind: "movie"
     },
  {
@@ -1453,7 +1453,7 @@ const mediaLibrary = [
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/843",
-        readDate: "2024-06-05",
+        readDate: "2023-06-19",
         kind: "movie"
     },
  {
@@ -1463,7 +1463,7 @@ const mediaLibrary = [
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/11220",
-        readDate: "2024-06-05",
+        readDate: "2023-11-19",
         kind: "movie"
     },
  {
@@ -1473,7 +1473,7 @@ const mediaLibrary = [
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/713-the-piano",
-        readDate: "2024-06-05",
+        readDate: "2023-01-12",
         kind: "movie"
     },
  {
@@ -1483,7 +1483,7 @@ const mediaLibrary = [
         rating: 5,
         reRead: false,
         link: "https://www.themoviedb.org/movie/1443-the-virgin-suicides",
-        readDate: "2024-06-05",
+        readDate: "2023-06-11",
         kind: "movie"
     },
  {
@@ -1493,7 +1493,7 @@ const mediaLibrary = [
         rating: 5,
         reRead: true,
         link: "https://www.themoviedb.org/movie/406-la-haine",
-        readDate: "2024-06-05",
+        readDate: "2022-03-04",
         kind: "movie"
     },
  {
@@ -1503,7 +1503,7 @@ const mediaLibrary = [
         rating: 5,
         reRead: false,
         link: "https://www.themoviedb.org/movie/9464-buffalo-66",
-        readDate: "2024-06-05",
+        readDate: "2022-03-04",
         kind: "movie"
     },
  {
@@ -1513,7 +1513,7 @@ const mediaLibrary = [
         rating: 5,
         reRead: false,
         link: "https://www.themoviedb.org/movie/402-basic-instinct",
-        readDate: "2024-06-05",
+        readDate: "2023-07-18",
         kind: "movie"
     },
  {
@@ -1523,7 +1523,7 @@ const mediaLibrary = [
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/760104-x",
-        readDate: "2024-06-05",
+        readDate: "2022-04-05",
         kind: "movie"
     },
 
@@ -1534,7 +1534,7 @@ const mediaLibrary = [
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/949423-pearl",
-        readDate: "2024-06-05",
+        readDate: "2024-10-10",
         kind: "movie"
     },
  {
@@ -1544,7 +1544,7 @@ const mediaLibrary = [
         rating: 3,
         reRead: false,
         link: "https://www.themoviedb.org/movie/1023922-maxxxine",
-        readDate: "2024-06-05",
+        readDate: "2024-10-10",
         kind: "movie"
     },    
     {
