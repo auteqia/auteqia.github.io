@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Beatles 1962 – 1966 (2023 Edition)",
+        author: "The Beatles",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734a4c7445df9b3719a60eb53b",
+        kind: "album",
+        link: "https://open.spotify.com/album/39Ti6Be9Ak2d6YbxlQo0Ba",
+        comment: "Github Action"
+    },
+    {
         title: "Surrender",
         author: "The Chemical Brothers",
         cover: "https://i.scdn.co/image/ab67616d0000b27329dc59785f4c767fcbfc9e38",
