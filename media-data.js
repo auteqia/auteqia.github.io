@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Here Are the Sonics",
+        author: "The Sonics",
+        cover: "assets/albums/the_sonics_here_are_the_sonics.jpg",
+        kind: "album",
+        link: "https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM",
+        comment: "Github Action"
+    },
+    {
         title: "The Car",
         author: "Arctic Monkeys",
         cover: "assets/albums/arctic_monkeys_the_car.jpg",
