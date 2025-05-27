@@ -34,7 +34,7 @@ const mediaLibrary = [
     {
         title: "Eros Massacre",
         author: "Brutalismus 3000",
-        cover: "assets/albums/brutalismus_3000_eros_massacre.jpg",
+        cover: "https://i.scdn.co/image/ab67616d00001e02b092dfab00dcf0ca5daf59b8",
         kind: "album",
         link: "https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V",
         comment: "Github Action"
@@ -5346,14 +5346,6 @@ const mediaLibrary = [
         kind: "album"
     },
 
-    {
-        title: "Eros Massacre",
-        cover: "https://i.scdn.co/image/ab67616d00001e02b092dfab00dcf0ca5daf59b8",
-        rating: 5,
-        author: "https://open.spotify.com/intl-fr/album/0ZVpEzmv3wYLL1waCPPf7V?si=1lCZPVGsQ9-ex6sxRs9cpA",
-        link: "Brutalismus 3000",
-        kind: "album"
-    },
     {
         title: "J'accuse (Extraits)",
         cover: "https://i.scdn.co/image/ab67616d00001e02220b392ea57076e45d5d2e2f",
