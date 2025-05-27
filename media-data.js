@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Downward Spiral (Deluxe Edition)",
+        author: "Nine Inch Nails",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734078c255069c0e7a2553fa4a",
+        kind: "album",
+        link: "https://open.spotify.com/album/5I7lLu8xXJfGRdFUqHaLQU",
+        comment: "Github Action"
+    },
+    {
         title: "Maggot Brain",
         author: "Funkadelic",
         cover: "https://i.scdn.co/image/ab67616d0000b27352573463beeda67fe242cab5",
