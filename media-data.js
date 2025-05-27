@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Maggot Brain",
+        author: "Funkadelic",
+        cover: "https://i.scdn.co/image/ab67616d0000b27352573463beeda67fe242cab5",
+        kind: "album",
+        link: "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm",
+        comment: "Github Action"
+    },
+    {
+        title: "Hellbilly Deluxe",
+        author: "Rob Zombie",
+        cover: "https://i.scdn.co/image/ab67616d0000b27313d4adf9e4b938f88266f4e4",
+        kind: "album",
+        link: "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH",
+        comment: "Github Action"
+    },
+    {
         title: "The Beatles 1962 – 1966 (2023 Edition)",
         author: "The Beatles",
         cover: "https://i.scdn.co/image/ab67616d0000b2734a4c7445df9b3719a60eb53b",
