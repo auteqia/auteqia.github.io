@@ -2364,14 +2364,7 @@ const mediaLibrary = [
         link: "https://open.spotify.com/album/6MEswIpaIGVN8M68FGr550?si=VVB_MMZ2TR6KiqVt_zeITg",
         kind: "album"
     },
-    {
-        title: "Surrender",
-        cover: "https://i.scdn.co/image/ab67616d00001e0229dc59785f4c767fcbfc9e38",
-        rating: 5,
-        author: "The Chemical Brothers",
-        link: "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3?si=WC0PeknAQMypuS2G06yIyA",
-        kind: "album"
-    },
+
     {
         title: "La Planète Sauvage",
         cover: "https://i.scdn.co/image/ab67616d00001e02da435c0e7c069c4b8cd90eff",
@@ -2786,14 +2779,7 @@ const mediaLibrary = [
         link: "https://open.spotify.com/album/2o926sodjWyP9IBahD5YoF?si=bntg5ZSZTBOslu76RKtDsg",
         kind: "album"
     },
-    {
-        title: "Buena Vista Social Club",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e14a9fa0dd781bff247116b3",
-        rating: 5,
-        author: "Buena Vista Social Club",
-        link: "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt?si=a1NegqHAQDGuCU6qCtdZbw",
-        kind: "album"
-    },
+
     {
         title: "Loaded: Re-Loaded",
         cover: "https://i.scdn.co/image/ab67616d00001e025816a37263f88929907c2dbd",
@@ -2853,22 +2839,8 @@ const mediaLibrary = [
         link: "https://open.spotify.com/album/3HfjIGx8MTHt9pmL1rJyL9?si=UzNme3eVQdeXPx6vddzyYQ",
         kind: "album"
     },
-    {
-        title: "Tales Of Mystery And Imagination",
-        cover: "https://i.scdn.co/image/ab67616d00001e02dd7e9be4966d93c97906200d",
-        rating: 5,
-        author: "The Alan Parsons Project",
-        link: "https://open.spotify.com/album/0ICEGX26wNqIKLmWRpZxwx?si=2JVjRk5fS2SfB-kqSaJClQ",
-        kind: "album"
-    },
-    {
-        title: "Volcano",
-        cover: "https://i.scdn.co/image/ab67616d00001e021bd8726f0326ce113038a1f4",
-        rating: 5,
-        author: "Temples",
-        link: "https://open.spotify.com/album/0Mrv2YvHtRgyn3j3S38mEF?si=PAgPEZziSlqg7_-MfI624Q",
-        kind: "album"
-    },
+
+
     {
         title: "No Pussyfooting",
         cover: "https://i.scdn.co/image/ab67616d00001e0268e33726e53c01d42a6d1f3c",
@@ -2975,30 +2947,12 @@ const mediaLibrary = [
     },
 
 
-    
-    {
-        title: "Debut",
-        cover: "https://i.scdn.co/image/ab67616d0000b2737a94db8056a761764c01dd84",
-        rating: 5,
-        author: "Björk",
-        link: "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr?si=Ti59RX9bSi6bjU4MPmOQpg",
-        kind: "album"
-    },
-
     {
         title: "Black Sabbath",
         cover: "https://i.scdn.co/image/ab67616d00001e02e61731abae915074b93416e9",
         rating: 5,
         author: "Black Sabbath",
         link: "https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ?si=sPnyHdvbRJigpy91TFBOrA",
-        kind: "album"
-    },
-    {
-        title: "Maggot Brain",
-        cover: "https://i.scdn.co/image/ab67616d00001e0252573463beeda67fe242cab5",
-        rating: 5,
-        author: "Funkadelic",
-        link: "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm?si=G6NBgEIMS_qI0HR63Hp2dg",
         kind: "album"
     },
     {
@@ -3497,15 +3451,7 @@ const mediaLibrary = [
         kind: "album"
     },
     
-    
-    {
-        title: "Dure Limite",
-        cover: "https://i.scdn.co/image/ab67616d00001e0266d63e400881e134337ead54",
-        rating: 5,
-        author: "Téléphone",
-        link: "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf?si=SdHDpAR6SAyIbf0vqxJe2w",
-        kind: "album"
-    },
+
     
     {
         title: "Une Autre Monde",
@@ -3977,14 +3923,7 @@ const mediaLibrary = [
         kind: "album"
     },
 
-    {
-        title: "The Beatles",
-        cover: "https://i.scdn.co/image/ab67616d00001e024ce8b4e42588bf18182a1ad2",
-        rating: 5,
-        author: "The Beatles",
-        link: "https://open.spotify.com/intl-fr/album/1klALx0u4AavZNEvC4LrTL?si=j_5PHZsIQiS8xBZoG2M2OQ",
-        kind: "album"
-    },
+
     {
         title: "Let It Be",
         cover: "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1",
@@ -3993,14 +3932,7 @@ const mediaLibrary = [
         link: "https://open.spotify.com/intl-fr/album/0jTGHV5xqHPvEcwL8f6YU5?si=kareJA51Q6y5zGLCcMtdKw",
         kind: "album"
     },
-    {
-        title: "Rubber Soul",
-        cover: "https://i.scdn.co/image/ab67616d00001e02ed801e58a9ababdea6ac7ce4",
-        rating: 5,
-        author: "The Beatles",
-        link: "https://open.spotify.com/intl-fr/album/50o7kf2wLwVmOTVYJOTplm?si=XGRKPpUHSM-jf9yB1_LL2A",
-        kind: "album"
-    },
+
     {
         title: "Please Please Me",
         cover: "https://i.scdn.co/image/ab67616d00001e02dbeec63ad914c973e75c24df",
@@ -4009,14 +3941,7 @@ const mediaLibrary = [
         link: "https://open.spotify.com/intl-fr/album/3KzAvEXcqJKBF97HrXwlgf?si=rZHAjUyDQEm8f0qWbTQwXg",
         kind: "album"
     },
-    {
-        title: "A Hard Day's Night",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e230f303815e82a86713eedd",
-        rating: 5,
-        author: "The Beatles",
-        link: "https://open.spotify.com/intl-fr/album/6wCttLq0ADzkPgtRnUihLV?si=LprK1_5zRhm0DDXSu16Rug",
-        kind: "album"
-    },
+
     {
         title: "Revolver",
         cover: "https://i.scdn.co/image/ab67616d00001e0228b8b9b46428896e6491e97a",
@@ -4041,14 +3966,7 @@ const mediaLibrary = [
         link: "https://open.spotify.com/intl-fr/album/1gKZ5A1ndFqbcrWtW85cCy?si=zw6XXLR8SoGjpNrcvIKhjA",
         kind: "album"
     },
-    {
-        title: "The Beatles 1962 - 1966",
-        cover: "https://i.scdn.co/image/ab67616d00001e024a4c7445df9b3719a60eb53b",
-        rating: 5,
-        author: "The Beatles",
-        link: "https://open.spotify.com/intl-fr/album/39Ti6Be9Ak2d6YbxlQo0Ba?si=YmH4BajZSEuTSpuF3-DYLQ",
-        kind: "album"
-    },
+
     {
         title: "The Beatles 1967 - 1970",
         cover: "https://i.scdn.co/image/ab67616d00001e022ad20d4688bdc999413ece39",
