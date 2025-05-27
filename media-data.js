@@ -1,5 +1,77 @@
 const mediaLibrary = [
     {
+        title: "Dure limite (Remasterisé en 2015)",
+        author: "Téléphone",
+        cover: "https://i.scdn.co/image/ab67616d0000b27366d63e400881e134337ead54",
+        kind: "album",
+        link: "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf",
+        comment: "Github Action"
+    },
+    {
+        title: "Rock 'n' Roll Animal (Live)",
+        author: "Lou Reed",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736f45f8b4aaf3ee06469c9f5b",
+        kind: "album",
+        link: "https://open.spotify.com/album/7ibv6MJHfkq0al0QRmoCd6",
+        comment: "Github Action"
+    },
+    {
+        title: "Tales Of Mystery And Imagination (Original 1976 Version)",
+        author: "The Alan Parsons Project",
+        cover: "https://i.scdn.co/image/ab67616d0000b273dd7e9be4966d93c97906200d",
+        kind: "album",
+        link: "https://open.spotify.com/album/0ICEGX26wNqIKLmWRpZxwx",
+        comment: "Github Action"
+    },
+    {
+        title: "Rubber Soul (Remastered 2009)",
+        author: "The Beatles",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4",
+        kind: "album",
+        link: "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm",
+        comment: "Github Action"
+    },
+    {
+        title: "AM",
+        author: "Arctic Monkeys",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+        kind: "album",
+        link: "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu",
+        comment: "Github Action"
+    },
+    {
+        title: "Volcano",
+        author: "Temples",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e6f92e031ce0829eb0677ae3",
+        kind: "album",
+        link: "https://open.spotify.com/album/2jzuXRCjNxDD8ktFNEcry9",
+        comment: "Github Action"
+    },
+    {
+        title: "The Beatles (Remastered)",
+        author: "The Beatles",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
+        kind: "album",
+        link: "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL",
+        comment: "Github Action"
+    },
+    {
+        title: "Debut",
+        author: "Björk",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730bd598408bc507d070b7ba4c",
+        kind: "album",
+        link: "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX",
+        comment: "Github Action"
+    },
+    {
+        title: "Transformer",
+        author: "Lou Reed",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d55149748dca0e5a1f40778e",
+        kind: "album",
+        link: "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St",
+        comment: "Github Action"
+    },
+    {
         title: "Here Are the Sonics",
         author: "The Sonics",
         cover: "https://i.scdn.co/image/ab67616d00001e023b8f9c148e9eead1143c78e6",
@@ -10,7 +82,7 @@ const mediaLibrary = [
     {
         title: "The Car",
         author: "Arctic Monkeys",
-        cover: "assets/albums/arctic_monkeys_the_car.jpg",
+        cover: "https://i.scdn.co/image/ab67616d0000b27307823ee6237208c835802663",
         kind: "album",
         link: "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs",
         comment: "Github Action"
@@ -18,7 +90,7 @@ const mediaLibrary = [
     {
         title: "Favourite Worst Nightmare (Standard Version)",
         author: "Arctic Monkeys",
-        cover: "assets/albums/arctic_monkeys_favourite_worst_nightmare_standard_version.jpg",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
         kind: "album",
         link: "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw",
         comment: "Github Action"
@@ -26,7 +98,7 @@ const mediaLibrary = [
     {
         title: "A Hard Day's Night (Remastered)",
         author: "The Beatles",
-        cover: "assets/albums/the_beatles_a_hard_days_night_remastered.jpg",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd",
         kind: "album",
         link: "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV",
         comment: "Github Action"
