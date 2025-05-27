@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Surrender",
+        author: "The Chemical Brothers",
+        cover: "https://i.scdn.co/image/ab67616d0000b27329dc59785f4c767fcbfc9e38",
+        kind: "album",
+        link: "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3",
+        comment: "Github Action"
+    },
+    {
         title: "Dure limite (Remasterisé en 2015)",
         author: "Téléphone",
         cover: "https://i.scdn.co/image/ab67616d0000b27366d63e400881e134337ead54",
