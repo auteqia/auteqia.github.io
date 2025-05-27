@@ -1,4 +1,3 @@
-import base64
 import json
 import re
 import os
@@ -14,34 +13,9 @@ MEDIA_FILE = 'media-data.js'
 if not all([LASTFM_USER, LASTFM_API_KEY, SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET]):
     raise Exception("Il manque une ou plusieurs variables d'environnement nécessaires.")
 
-def sanitize_filename(name):
-    name = name.lower().strip()
-    name = re.sub(r'[^\w\s-]', '', name)
-    name = re.sub(r'\s+', '_', name)
-    return name
-
-def download_cover_image(url, artist, album):
-    filename = f"{sanitize_filename(artist)}_{sanitize_filename(album)}.jpg"
-    path = os.path.join("assets", "albums", filename)
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-
-    try:
-        response = requests.get(url)
-        if response.status_code == 200:
-            with open(path, "wb") as f:
-                f.write(response.content)
-            return path.replace("\\", "/")  # pour compatibilité GitHub Pages
-        else:
-            print(f"Erreur téléchargement image: {url}")
-    except Exception as e:
-        print(f"Erreur image {url}: {e}")
-
-    return None
-
 def get_lastfm_albums():
     url = f"https://ws.audioscrobbler.com/2.0/?method=user.gettopalbums&user={LASTFM_USER}&api_key={LASTFM_API_KEY}&format=json&limit=50"
     response = requests.get(url)
-    print(response)
     response.raise_for_status()
     data = response.json()
     albums = data.get("topalbums", {}).get("album", [])
@@ -74,27 +48,13 @@ def get_spotify_album_info(token, artist, album):
     return {
         "title": item['name'],
         "author": item['artists'][0]['name'],
-        "cover": item['images'][0]['url'] if item['images'] else None,  # Lien direct
+        "cover": item['images'][0]['url'] if item['images'] else None,
         "link": item['external_urls']['spotify'],
         "kind": "album",
         "comment": "Github Action",
     }
 
-def read_existing_titles():
-    existing = set()
-    if not os.path.exists(MEDIA_FILE):
-        return existing
-    with open(MEDIA_FILE, "r", encoding="utf-8") as f:
-        content = f.read()
-        matches = re.findall(r'title:\s*"([^"]+)",\s*author:\s*"([^"]+)"', content)
-        for title, author in matches:
-            existing.add((title.lower(), author.lower()))
-    return existing
-
 def read_existing_entries():
-    """
-    Retourne un dict { (title, author): cover }
-    """
     entries = {}
     if not os.path.exists(MEDIA_FILE):
         return entries
@@ -108,10 +68,8 @@ def read_existing_entries():
 def update_cover_in_file(title, author, new_cover_url):
     with open(MEDIA_FILE, "r+", encoding="utf-8") as f:
         content = f.read()
-        # Regex that matches the entry with title and author
         pattern = re.compile(
             r'({\s*title:\s*"' + re.escape(title) + r'"[^}]*author:\s*"' + re.escape(author) + r'"[^}]*cover:\s*")[^"]*(")', re.IGNORECASE)
-        # Remplace le chemin cover par le nouveau lien
         content_new, count = pattern.subn(r'\1' + new_cover_url + r'\2', content)
         if count > 0:
             print(f"✅ Cover mise à jour pour {title} - {author}")
@@ -122,12 +80,6 @@ def update_cover_in_file(title, author, new_cover_url):
             print(f"⚠️ Entrée non trouvée pour mise à jour : {title} - {author}")
 
 def append_to_media_file(album):
-    path = download_cover_image(album["cover"], album["author"], album["title"])
-    if path:
-        album["cover"] = path
-    else:
-        print(f"Image non trouvée pour {album['title']}")
-
     with open(MEDIA_FILE, "r+", encoding="utf-8") as f:
         content = f.read()
         insert_pos = content.find("[") + 1
@@ -161,25 +113,20 @@ def main():
 
     added = 0
     for artist, album in lastfm_albums:
-       info = get_spotify_album_info(token, artist, album)
-       if not info:
-           continue
+        info = get_spotify_album_info(token, artist, album)
+        if not info or not info["cover"]:
+            continue
 
-    key = (info["title"].lower(), info["author"].lower())
+        key = (info["title"].lower(), info["author"].lower())
 
-    # Télécharger image quoi qu’il arrive
-    download_cover_image(info["cover"], info["author"], info["title"])
-
-    if key in existing_entries:
-        current_cover = existing_entries[key]
-        # Si current_cover n’est pas une URL
-        if not current_cover.startswith("http"):
-            # On met à jour la cover dans le fichier pour mettre le lien Spotify
-            update_cover_in_file(info["title"], info["author"], info["cover"])
-    else:
-        # Ajouter l'entrée normalement (tout en gardant le cover = URL)
-        append_to_media_file(info)
-        print(f"Ajouté : {artist} - {album}")
+        if key in existing_entries:
+            current_cover = existing_entries[key]
+            if not current_cover.startswith("http"):
+                update_cover_in_file(info["title"], info["author"], info["cover"])
+        else:
+            append_to_media_file(info)
+            added += 1
+            print(f"Ajouté : {artist} - {album}")
 
     print(f"Ajouts terminés. {added} nouveaux albums insérés.")
 
