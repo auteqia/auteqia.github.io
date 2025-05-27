@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "New York Dolls",
+        author: "New York Dolls",
+        cover: "https://i.scdn.co/image/ab67616d0000b273802255bd535533c0e2ba5ad2",
+        kind: "album",
+        link: "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr",
+        comment: "Github Action"
+    },
+    {
+        title: "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        author: "David Bowie",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c41f4e1133b0e6c5fcf58680",
+        kind: "album",
+        link: "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56",
+        comment: "Github Action"
+    },
+    {
         title: "The Downward Spiral (Deluxe Edition)",
         author: "Nine Inch Nails",
         cover: "https://i.scdn.co/image/ab67616d0000b2734078c255069c0e7a2553fa4a",
