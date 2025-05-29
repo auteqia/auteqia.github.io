@@ -2171,14 +2171,7 @@ const mediaLibrary = [
 
     
     // album \\
-    {
-        title: "Aladdin Sane",
-        cover: "https://i.scdn.co/image/ab67616d00001e025db6dbaca8678527e643a866",
-        rating: 5,
-        author: "David Bowie",
-        link: "https://open.spotify.com/intl-fr/album/3HZKOk1knxrUU3y5ZIOdbz?si=61010ee7401041fb",
-        kind: "album"
-    },
+
     {
         title: "Loveless",
         cover: "https://i.scdn.co/image/ab67616d00001e02db8e38addb58131f77b48377",
@@ -2193,14 +2186,6 @@ const mediaLibrary = [
         rating: 5,
         author: "The Stooges",
         link: "https://open.spotify.com/intl-fr/album/5qhXaVIC5BdE4a5Kq1FMZG?si=6b747032c4da4e97",
-        kind: "album"
-    },
-    {
-        title: "The Man Who Sold The World",
-        cover: "https://i.scdn.co/image/ab67616d00001e0246926e777bd6665f03128d29",
-        rating: 5,
-        author: "David Bowie",
-        link: "https://open.spotify.com/intl-fr/album/4h9rWFWhgCSSrvIEQ0YhYG?si=23352ecbf67f45b6",
         kind: "album"
     },
     {
@@ -2429,46 +2414,6 @@ const mediaLibrary = [
         rating: 5,
         author: "The Prodigy",
         link: "https://open.spotify.com/album/2hEyYIrm4e6gVgfaYLY00x?si=fNhxTJP0S0aSwH7nreBIUQ",
-        kind: "album"
-    },
-    {
-        title: "Rock 'n' Roll Animal",
-        cover: "https://i.scdn.co/image/ab67616d00001e026f45f8b4aaf3ee06469c9f5b",
-        rating: 5,
-        author: "Lou Reed",
-        link: "https://open.spotify.com/album/7ibv6MJHfkq0al0QRmoCd6?si=99zZhi5vRjy1sFQSd1RDrg",
-        kind: "album"
-    },
-    {
-        title: "Transformer",
-        cover: "https://i.scdn.co/image/ab67616d00001e02d55149748dca0e5a1f40778e",
-        rating: 5,
-        author: "Lou Reed",
-        link: "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St?si=8j_Pc0BxRG2lfZZeAjMrRA",
-        kind: "album"
-    },
-    {
-        title: "New York",
-        cover: "https://i.scdn.co/image/ab67616d00001e026386bf63d1326306c9b168ef",
-        rating: 5,
-        author: "Lou Reed",
-        link: "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t?si=2WRQSy_OQ8ONWS7jIT59tA",
-        kind: "album"
-    },
-    {
-        title: "Lust For Life",
-        cover: "https://i.scdn.co/image/ab67616d00001e024aa5f679427e35409a06f225",
-        rating: 5,
-        author: "Iggy Pop",
-        link: "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz?si=UGiYTvJoS2W22eukQn-DQw",
-        kind: "album"
-    },
-    {
-        title: "The Idiot",
-        cover: "https://i.scdn.co/image/ab67616d00001e022023cfc4febdbe8213a41f8a",
-        rating: 5,
-        author: "Iggy Pop",
-        link: "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6?si=ECxctRs3S9q7_syvHONApQ",
         kind: "album"
     },
     {
@@ -3545,14 +3490,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Aphex Twin",
         link: "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH?si=5XMZD_jrRmCl8gRAxmS4og",
-        kind: "album"
-    },
-    {
-        title: "Syro",
-        cover: "https://i.scdn.co/image/ab67616d00001e026ea96ba633bead24af562890",
-        rating: 5,
-        author: "Aphew Twin",
-        link: "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w?si=rXsUwY2wTUGe23Plv9OLqQ",
         kind: "album"
     },
     {
@@ -4955,14 +4892,6 @@ const mediaLibrary = [
         rating: 5,
         author: "The Brian Jonestown Massacre",
         link: "https://open.spotify.com/intl-fr/album/4kXc4XcGYOpHpXRlWq1RFi?si=4vsYIbddTImVU9Fueauqdg",
-        kind: "album"
-    },
-    {
-        title: "Mini Album Thingy Wingy",
-        cover: "https://i.scdn.co/image/ab67616d00001e021af27257ffa4d5f68ab11318",
-        rating: 5,
-        author: "The Brian Jonestown Massacre",
-        link: "https://open.spotify.com/intl-fr/album/5RAEH1CQvn5kmPufRpycyt?si=g7y5cAsFRDuZNy3E-2bwGA",
         kind: "album"
     },
     {
