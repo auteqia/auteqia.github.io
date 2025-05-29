@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "MTV Unplugged",
+        author: "Café Tacvba",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734eb669154c003f29c74be01d",
+        kind: "album",
+        link: "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9",
+        comment: "Github Action"
+    },
+    {
         title: "Pet Grief",
         author: "The Radio Dept.",
         cover: "https://i.scdn.co/image/ab67616d0000b27319bf3790caeb480f2c1a4ed1",
