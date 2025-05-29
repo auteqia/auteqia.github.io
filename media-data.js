@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Stratosphere",
+        author: "Duster",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732241587c8ce3d9051f4d4f74",
+        kind: "album",
+        link: "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb",
+        comment: "Github Action"
+    },
+    {
         title: "Mini Album Thingy Wingy",
         author: "The Brian Jonestown Massacre",
         cover: "https://i.scdn.co/image/ab67616d0000b2731af27257ffa4d5f68ab11318",
