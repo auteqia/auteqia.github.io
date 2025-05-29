@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Live Through This",
+        author: "Hole",
+        cover: "https://i.scdn.co/image/ab67616d0000b273be245e5b673371e6f95b19e2",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7",
+        comment: "Github Action"
+    },
+    {
         title: "Stratosphere",
         author: "Duster",
         cover: "https://i.scdn.co/image/ab67616d0000b2732241587c8ce3d9051f4d4f74",
