@@ -1096,6 +1096,186 @@ const mediaLibrary = [
     // END OF BOOKS
     // MOVIES \\
     {
+        title: "Thelma & Louise",
+        author: "Ridley Scott",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y66rxathLobXk7xaUgPr4etBkRN.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/1541-thelma-louise",
+        readDate: "2022-07-05",
+        kind: "movie"
+    },
+    {
+        title: "Fight Club",
+        author: "David Fincher",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+        rating: 5,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/550-fight-club",
+        readDate: "2022-07-05",
+        kind: "movie"
+    },
+    {
+        title: "Zodiac",
+        author: "David Fincher",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQhcbb8JvPFPkhaWUsG545d9LRD.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/1949-zodiac",
+        readDate: "2022-07-05",
+        kind: "movie"
+    },
+    {
+        title: "Se7en",
+        author: "David Fincher",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2xbPhHkDYl26kRspYSAbL4WSYR3.jpg",
+        rating: 5,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/807-se7en",
+        readDate: "2024-11-05",
+        kind: "movie"
+    },
+    {
+        title: "Memento",
+        author: "Christopher Nolan",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yuNs09hvpHVU1cBTCAk9zxsL2oW.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/77-memento",
+        readDate: "2023-07-05",
+        kind: "movie"
+    },
+    {
+        title: "500 Days of Summer",
+        author: "Marc Webb",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/19913-500-days-of-summer",
+        readDate: "2022-06-24",
+        kind: "movie"
+    },
+    {
+        title: "Nosferatu (1922)",
+        author: "F. W. Murnau",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsG4UFjL8SGKaH0Nz8vgFVJGifM.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/653-nosferatu-eine-symphonie-des-grauens",
+        readDate: "2025-01-29",
+        kind: "movie"
+    },
+    {
+        title: "Rango",
+        author: "Gore Verbinski",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/44896-rango",
+        readDate: "2023-11-24",
+        kind: "movie"
+    },
+    {
+        title: "Le Fabuleu Destin d'Amélie Poulain",
+        author: "Jean-Pierre Jeunet",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/194-le-fabuleux-destin-d-amelie-poulain",
+        readDate: "2023-11-24",
+        kind: "movie"
+    },
+    {
+        title: "Mid90s",
+        author: "Jonah Hill",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Tw0Y3DK5kGIU9X1yw3Q9gCkOlb.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/437586-mid90s",
+        readDate: "2023-06-24",
+        kind: "movie"
+    },
+    {
+        title: "Breakfast on Pluto",
+        author: "Neil Jordan",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/14tmdb1PiLNDZf3VD29S2nUKVV0.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/1420-breakfast-on-pluto",
+        readDate: "2022-06-22",
+        kind: "movie"
+    },
+    {
+        title: "At Eternity's Gate",
+        author: "Julian Schnabel",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4LvHQoX5YunHJ2EMBSjQvOkvD9.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/491472-at-eternity-s-gate",
+        readDate: "2023-11-12",
+        kind: "movie"
+    },
+    {
+        title: "Challengers",
+        author: "Luca Guadagnino",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+        rating: 5,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/937287-challengers",
+        readDate: "2024-06-22",
+        kind: "movie"
+    },
+    {
+        title: "Bones and All",
+        author: "Luca Guadagnino",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBQuk2LkHjrDsSjueirPQg96GCc.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/791177-bones-and-all",
+        readDate: "2023-06-22",
+        kind: "movie"
+    },
+    {
+        title: "Mysterious Skin",
+        author: "Greg Araki",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgSwDqhl6Rt3cuSCwt5sNpPna3x.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/11171-mysterious-skin",
+        readDate: "2022-06-18",
+        kind: "movie"
+    },
+    {
+        title: "The Doom Generation",
+        author: "Greg Araki",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcISIatRSaP30WZQh1G4ZqLVWQA.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/13552-the-doom-generation",
+        readDate: "2024-03-28",
+        kind: "movie"
+    },
+    {
+        title: "The Phoenician Scheme",
+        author: "Wes Anderson",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHjpixSOn166tZLWRdIvHWDPu6y.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/1137350-the-phoenician-scheme",
+        readDate: "2025-05-28",
+        kind: "movie"
+    },
+    {
+        title: "Sonatine",
+        author: "Takeshi Kitano",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mX9E4fEuG17L2e7bZmhBc0XdRbw.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/7500-sonatine",
+        readDate: "2025-05-27",
+        kind: "movie"
+    },
+    {
         title: "Hana-bi",
         author: "Takeshi Kitano",
         cover: "https://image.tmdb.org/t/p/w1280/oWI4NovPYyAObZcKMUHCuaU8mhg.jpg",
