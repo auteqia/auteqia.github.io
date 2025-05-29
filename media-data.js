@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Pet Grief",
+        author: "The Radio Dept.",
+        cover: "https://i.scdn.co/image/ab67616d0000b27319bf3790caeb480f2c1a4ed1",
+        kind: "album",
+        link: "https://open.spotify.com/album/1BKKCq9GMdMahEHhPkde5p",
+        comment: "Github Action"
+    },
+    {
         title: "Live Through This",
         author: "Hole",
         cover: "https://i.scdn.co/image/ab67616d0000b273be245e5b673371e6f95b19e2",
