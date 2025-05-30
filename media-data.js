@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Player Non Player",
+        author: "Agar Agar",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e34e56bc2b4fc50c095757cf",
+        kind: "album",
+        link: "https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K",
+        comment: "Github Action"
+    },
+    {
+        title: "MEGA BBL",
+        author: "Theodora",
+        cover: "https://i.scdn.co/image/ab67616d0000b273622a84551821edddac390c62",
+        kind: "album",
+        link: "https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p",
+        comment: "Github Action"
+    },
+    {
         title: "MTV Unplugged",
         author: "Café Tacvba",
         cover: "https://i.scdn.co/image/ab67616d0000b2734eb669154c003f29c74be01d",
