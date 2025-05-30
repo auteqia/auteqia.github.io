@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Chelsea Girl",
+        author: "Nico",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b1235c0092f6658466e96819",
+        kind: "album",
+        link: "https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU",
+        comment: "Github Action"
+    },
+    {
         title: "Player Non Player",
         author: "Agar Agar",
         cover: "https://i.scdn.co/image/ab67616d0000b273e34e56bc2b4fc50c095757cf",
