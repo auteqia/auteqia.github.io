@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "The Land Is Inhospitable and So Are We",
+        author: "Mitski",
+        cover: "https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA",
+        comment: "Github Action"
+    },
+    {
+        title: "Be the Cowboy",
+        author: "Mitski",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c428f67b4a9b7e1114dfc117",
+        kind: "album",
+        link: "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq",
+        comment: "Github Action"
+    },
+    {
         title: "CASIOPEA",
         author: "CASIOPEA",
         cover: "https://i.scdn.co/image/ab67616d0000b273648478cb25e3e302454e40e1",
