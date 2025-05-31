@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Mirage",
+        author: "Camel",
+        cover: "https://i.scdn.co/image/ab67616d0000b27311537abd008a150b3f88dcaf",
+        kind: "album",
+        link: "https://open.spotify.com/album/2DZEwt8Lhz6PuqxsJWF7Ap",
+        comment: "Github Action"
+    },
+    {
         title: "El Nervio Del Volcan",
         author: "Caifanes",
         cover: "https://i.scdn.co/image/ab67616d0000b27336aeaab4dc91a8dea53a2d8f",
