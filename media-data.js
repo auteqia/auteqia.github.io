@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "CASIOPEA",
+        author: "CASIOPEA",
+        cover: "https://i.scdn.co/image/ab67616d0000b273648478cb25e3e302454e40e1",
+        kind: "album",
+        link: "https://open.spotify.com/album/3uFgYgCEvCSACjB8XHl3hb",
+        comment: "Github Action"
+    },
+    {
         title: "In Too Much Too Soon",
         author: "New York Dolls",
         cover: "https://i.scdn.co/image/ab67616d0000b273fcae243e8e39eef3f9c04423",
