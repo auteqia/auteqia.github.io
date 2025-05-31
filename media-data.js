@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "El Nervio Del Volcan",
+        author: "Caifanes",
+        cover: "https://i.scdn.co/image/ab67616d0000b27336aeaab4dc91a8dea53a2d8f",
+        kind: "album",
+        link: "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf",
+        comment: "Github Action"
+    },
+    {
         title: "The Land Is Inhospitable and So Are We",
         author: "Mitski",
         cover: "https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10",
