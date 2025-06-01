@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Electric Warrior [Expanded & Remastered]",
+        author: "T. Rex",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737762663eeab308df9d240cd0",
+        kind: "album",
+        link: "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt",
+        comment: "Github Action"
+    },
+    {
         title: "Mirage",
         author: "Camel",
         cover: "https://i.scdn.co/image/ab67616d0000b27311537abd008a150b3f88dcaf",
