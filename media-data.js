@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Blur (Special Edition)",
+        author: "Blur",
+        cover: "https://i.scdn.co/image/ab67616d0000b273de114203356c1f7b136960b6",
+        kind: "album",
+        link: "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q",
+        comment: "Github Action"
+    },
+    {
+        title: "Leisure (Special Edition)",
+        author: "Blur",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a355f0a8cd8324394ac166c0",
+        kind: "album",
+        link: "https://open.spotify.com/album/0cTdvscLZjCTEKxYUlJFwa",
+        comment: "Github Action"
+    },
+    {
         title: "Introspection",
         author: "Luiz Bonfá",
         cover: "https://i.scdn.co/image/ab67616d0000b2733e675545232f670a2798b7ad",
