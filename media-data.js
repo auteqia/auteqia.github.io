@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Introspection",
+        author: "Luiz Bonfá",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733e675545232f670a2798b7ad",
+        kind: "album",
+        link: "https://open.spotify.com/album/4WBpgGCVdeXpk7QxN42wD4",
+        comment: "Github Action"
+    },
+    {
         title: "Funhouse",
         author: "The Stooges",
         cover: "https://i.scdn.co/image/ab67616d0000b2732c7d41ae194ef7aaaba3fee3",
