@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Salad Days",
+        author: "Mac DeMarco",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ec6e9c13eeed14eedbd5f7c9",
+        kind: "album",
+        link: "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn",
+        comment: "Github Action"
+    },
+    {
         title: "Blur (Special Edition)",
         author: "Blur",
         cover: "https://i.scdn.co/image/ab67616d0000b273de114203356c1f7b136960b6",
