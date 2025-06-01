@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Funhouse",
+        author: "The Stooges",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732c7d41ae194ef7aaaba3fee3",
+        kind: "album",
+        link: "https://open.spotify.com/album/5qhXaVIC5BdE4a5Kq1FMZG",
+        comment: "Github Action"
+    },
+    {
+        title: "Wide Awake!",
+        author: "Parquet Courts",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d771166c366eff01950de570",
+        kind: "album",
+        link: "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ",
+        comment: "Github Action"
+    },
+    {
         title: "Electric Warrior [Expanded & Remastered]",
         author: "T. Rex",
         cover: "https://i.scdn.co/image/ab67616d0000b2737762663eeab308df9d240cd0",
