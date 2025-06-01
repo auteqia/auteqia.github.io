@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Animals",
+        author: "Pink Floyd",
+        cover: "https://i.scdn.co/image/ab67616d0000b273810168d54f85d48f07389237",
+        kind: "album",
+        link: "https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4",
+        comment: "Github Action"
+    },
+    {
         title: "Help! (Remastered)",
         author: "The Beatles",
         cover: "https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa",
