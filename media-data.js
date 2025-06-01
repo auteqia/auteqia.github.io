@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Revelation",
+        author: "The Brian Jonestown Massacre",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c05791f9c0e5f5124d3240a5",
+        kind: "album",
+        link: "https://open.spotify.com/album/708s2EewEVFy0FZeOQYY3Y",
+        comment: "Github Action"
+    },
+    {
         title: "Salad Days",
         author: "Mac DeMarco",
         cover: "https://i.scdn.co/image/ab67616d0000b273ec6e9c13eeed14eedbd5f7c9",
