@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Wish You Were Here",
+        author: "Pink Floyd",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731a84d71391df7469c5ab8539",
+        kind: "album",
+        link: "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw",
+        comment: "Github Action"
+    },
+    {
+        title: "Little Dark Age",
+        author: "MGMT",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d",
+        kind: "album",
+        link: "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H",
+        comment: "Github Action"
+    },
+    {
         title: "Animals",
         author: "Pink Floyd",
         cover: "https://i.scdn.co/image/ab67616d0000b273810168d54f85d48f07389237",
