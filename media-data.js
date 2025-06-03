@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Oracular Spectacular",
+        author: "MGMT",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb",
+        kind: "album",
+        link: "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv",
+        comment: "Github Action"
+    },
+    {
         title: "Wish You Were Here",
         author: "Pink Floyd",
         cover: "https://i.scdn.co/image/ab67616d0000b2731a84d71391df7469c5ab8539",
