@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "La Planète Sauvage (Original Motion Picture Soundtrack)",
+        author: "Alain Goraguer",
+        cover: "https://i.scdn.co/image/ab67616d0000b273da435c0e7c069c4b8cd90eff",
+        kind: "album",
+        link: "https://open.spotify.com/album/4BF1mMXkDo1NcJCgEBXKEk",
+        comment: "Github Action"
+    },
+    {
         title: "Oracular Spectacular",
         author: "MGMT",
         cover: "https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb",
