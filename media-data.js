@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Pink Floyd at Pompeii - MCMLXXII (2025 Mix)",
+        author: "Pink Floyd",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735c0b08d2f61e7475ff92ef4c",
+        kind: "album",
+        link: "https://open.spotify.com/album/0ptvgHrZARlAZFmbg0WvDI",
+        comment: "Github Action"
+    },
+    {
         title: "La Planète Sauvage (Original Motion Picture Soundtrack)",
         author: "Alain Goraguer",
         cover: "https://i.scdn.co/image/ab67616d0000b273da435c0e7c069c4b8cd90eff",
