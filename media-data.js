@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Piper at the Gates of Dawn",
+        author: "Pink Floyd",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d2ddaebb1819f5e07c784d7d",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC",
+        comment: "Github Action"
+    },
+    {
         title: "Pink Floyd at Pompeii - MCMLXXII (2025 Mix)",
         author: "Pink Floyd",
         cover: "https://i.scdn.co/image/ab67616d0000b2735c0b08d2f61e7475ff92ef4c",
