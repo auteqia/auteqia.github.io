@@ -2405,14 +2405,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Funhouse",
-        cover: "https://i.scdn.co/image/ab67616d00001e022c7d41ae194ef7aaaba3fee3",
-        rating: 5,
-        author: "The Stooges",
-        link: "https://open.spotify.com/intl-fr/album/5qhXaVIC5BdE4a5Kq1FMZG?si=6b747032c4da4e97",
-        kind: "album"
-    },
-    {
         title: "David Bowie aka Space Oddity",
         cover: "https://i.scdn.co/image/ab67616d00001e023395f3e809dfbc2b1101d464",
         rating: 5,
@@ -2723,14 +2715,6 @@ const mediaLibrary = [
     },
 
     {
-        title: "La Planète Sauvage",
-        cover: "https://i.scdn.co/image/ab67616d00001e02da435c0e7c069c4b8cd90eff",
-        rating: 5,
-        author: "Alain Goraguer",
-        link: "https://open.spotify.com/album/4BF1mMXkDo1NcJCgEBXKEk?si=3V72a01FT6-x8OU7BrNHtg",
-        kind: "album"
-    },
-    {
         title: "1584660650",
         cover: "https://i.scdn.co/image/ab67616d00001e024fa0196ad0b1435563fbd4ab",
         rating: 5,
@@ -3014,14 +2998,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Les Rita Mitsouko",
         link: "https://open.spotify.com/album/3VnFLQ6pO9MSvVeKv5DHjY?si=wsnzszGISg6IJxS0DlHdEQ",
-        kind: "album"
-    },
-    {
-        title: "The Piper At The Gates Of Dawn",
-        cover: "https://i.scdn.co/image/ab67616d00001e02ebf2ba3431fa5fdbffaff684",
-        rating: 5,
-        author: "Pink Floyd",
-        link: "https://open.spotify.com/album/0Fke5eiQ6lszQHlwiFygqn?si=zyuXENnVQka0emuQCzPovQ",
         kind: "album"
     },
     {
@@ -4422,27 +4398,11 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Hellbilly",
-        cover: "https://i.scdn.co/image/ab67616d00001e0213d4adf9e4b938f88266f4e4",
-        rating: 5,
-        author: "Rob Zombie",
-        link: "https://open.spotify.com/intl-fr/album/2B4lHoTCpWbxQPTZmCOjnH?si=ojLNQw0uTRaASgYlJM1Lhg",
-        kind: "album"
-    },
-    {
         title: "Past, Present & Future",
         cover: "https://i.scdn.co/image/ab67616d00001e027375f246747aaf6e265ceb78",
         rating: 5,
         author: "Rob Zombie",
         link: "https://open.spotify.com/intl-fr/album/3RjfiKRsIHB7wQ1L6KoDEz?si=A8WJQYpIQEq5vk8rM16aFg",
-        kind: "album"
-    },
-    {
-        title: "Leisure",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a355f0a8cd8324394ac166c0",
-        rating: 5,
-        author: "Blur",
-        link: "https://open.spotify.com/intl-fr/album/0cTdvscLZjCTEKxYUlJFwa?si=PBlu68oWSWuWyqN42hkCxQ",
         kind: "album"
     },
     {
@@ -4691,14 +4651,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Café Tacvba",
         link: "https://open.spotify.com/intl-fr/album/7EJ5pXrSqqfybKyfbvlz84?si=aAJ72QR2TuOuLQReqaLikg",
-        kind: "album"
-    },
-    {
-        title: "MTV Unplugged",
-        cover: "https://i.scdn.co/image/ab67616d00001e024eb669154c003f29c74be01d",
-        rating: 5,
-        author: "Café Tacvba",
-        link: "https://open.spotify.com/intl-fr/album/0fO8mzViUoz12iCHrPppE9?si=bWxCNYjqSqKbvbnUwmmIyA",
         kind: "album"
     },
     {
@@ -5071,14 +5023,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Doolittle",
-        cover: "https://i.scdn.co/image/ab67616d00001e020ab3c2a306c614fae36ff1d6",
-        rating: 5,
-        author: "Pixies",
-        link: "https://open.spotify.com/intl-fr/album/0DQyTVcDhK9wm0f6RaErWO?si=0DBSkFQ6Q-yGqVEH0nXwLw",
-        kind: "album"
-    },
-    {
         title: "Rather Ripped",
         cover: "https://i.scdn.co/image/ab67616d00001e023a20c408851e76530edfa0b8",
         rating: 5,
@@ -5124,14 +5068,6 @@ const mediaLibrary = [
         rating: 5,
         author: "The Brian Jonestown Massacre",
         link: "https://open.spotify.com/intl-fr/album/708s2EewEVFy0FZeOQYY3Y?si=gpFGKXgaRYqTPSxnuzqWsA",
-        kind: "album"
-    },
-    {
-        title: "Live Through This",
-        cover: "https://i.scdn.co/image/ab67616d00001e02be245e5b673371e6f95b19e2",
-        rating: 5,
-        author: "Hole",
-        link: "https://open.spotify.com/intl-fr/album/2Rwf2nPYZQ9aIe4QXACTC7?si=TVLt9GkqR1u0yNpugc6FSw",
         kind: "album"
     },
     {
