@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Cosmic Messenger",
+        author: "Jean-Luc Ponty",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b5d4374a23ae05bbc834f78d",
+        kind: "album",
+        link: "https://open.spotify.com/album/6EfLu75i2jqhN4s4xlqh6m",
+        comment: "Github Action"
+    },
+    {
         title: "Dynamo (Remastered)",
         author: "Soda Stereo",
         cover: "https://i.scdn.co/image/ab67616d0000b273b755f1b1b4410d404fe21167",
