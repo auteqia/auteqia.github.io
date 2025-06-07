@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Are You Experienced",
+        author: "Jimi Hendrix",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c9adfbd773852e286faed040",
+        kind: "album",
+        link: "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9",
+        comment: "Github Action"
+    },
+    {
         title: "Cosmic Messenger",
         author: "Jean-Luc Ponty",
         cover: "https://i.scdn.co/image/ab67616d0000b273b5d4374a23ae05bbc834f78d",
