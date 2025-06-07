@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Inedit 79",
+        author: "Cortex",
+        cover: "https://i.scdn.co/image/ab67616d0000b27391e75711a12ae785e9e24894",
+        kind: "album",
+        link: "https://open.spotify.com/album/04ZRyyDORrmuP6ddSMwr6w",
+        comment: "Github Action"
+    },
+    {
         title: "Romance",
         author: "Fontaines D.C.",
         cover: "https://i.scdn.co/image/ab67616d0000b273613f62075c85e0b853318026",
