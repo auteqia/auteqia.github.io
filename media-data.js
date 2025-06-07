@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Dynamo (Remastered)",
+        author: "Soda Stereo",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b755f1b1b4410d404fe21167",
+        kind: "album",
+        link: "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ",
+        comment: "Github Action"
+    },
+    {
         title: "Inedit 79",
         author: "Cortex",
         cover: "https://i.scdn.co/image/ab67616d0000b27391e75711a12ae785e9e24894",
