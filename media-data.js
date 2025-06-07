@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Let Go",
+        author: "Avril Lavigne",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240",
+        kind: "album",
+        link: "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy",
+        comment: "Github Action"
+    },
+    {
         title: "The Piper at the Gates of Dawn",
         author: "Pink Floyd",
         cover: "https://i.scdn.co/image/ab67616d0000b273d2ddaebb1819f5e07c784d7d",
