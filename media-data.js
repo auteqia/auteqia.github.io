@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Texas-Jerusalem Crossroads",
+        author: "Lift To Experience",
+        cover: "https://i.scdn.co/image/ab67616d0000b273651f2b12c82f75fb2bac4f01",
+        kind: "album",
+        link: "https://open.spotify.com/album/062SIuYHTCmS3gAsOupCdA",
+        comment: "Github Action"
+    },
+    {
         title: "Let Go",
         author: "Avril Lavigne",
         cover: "https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240",
