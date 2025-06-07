@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Romance",
+        author: "Fontaines D.C.",
+        cover: "https://i.scdn.co/image/ab67616d0000b273613f62075c85e0b853318026",
+        kind: "album",
+        link: "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5",
+        comment: "Github Action"
+    },
+    {
         title: "The Texas-Jerusalem Crossroads",
         author: "Lift To Experience",
         cover: "https://i.scdn.co/image/ab67616d0000b273651f2b12c82f75fb2bac4f01",
