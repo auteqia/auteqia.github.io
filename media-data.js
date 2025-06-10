@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Mystery Lights",
+        author: "The Mystery Lights",
+        cover: "https://i.scdn.co/image/ab67616d0000b273850940d46dfa5f5fbea46ba0",
+        kind: "album",
+        link: "https://open.spotify.com/album/6svXmZ3D1FVUOInHI9enLp",
+        comment: "Github Action"
+    },
+    {
         title: "The Idiot",
         author: "Iggy Pop",
         cover: "https://i.scdn.co/image/ab67616d0000b2732023cfc4febdbe8213a41f8a",
