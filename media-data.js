@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Idiot",
+        author: "Iggy Pop",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732023cfc4febdbe8213a41f8a",
+        kind: "album",
+        link: "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6",
+        comment: "Github Action"
+    },
+    {
         title: "Are You Experienced",
         author: "Jimi Hendrix",
         cover: "https://i.scdn.co/image/ab67616d0000b273c9adfbd773852e286faed040",
