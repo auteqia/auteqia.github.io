@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Selected Ambient Works 85-92",
+        author: "Aphex Twin",
+        cover: "https://i.scdn.co/image/ab67616d0000b27338906032688bb13b135ce19a",
+        kind: "album",
+        link: "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k",
+        comment: "Github Action"
+    },
+    {
         title: "Drukqs",
         author: "Aphex Twin",
         cover: "https://i.scdn.co/image/ab67616d0000b2732e261a0b1b19d0ff95e346b3",
