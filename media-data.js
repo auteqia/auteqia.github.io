@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Drukqs",
+        author: "Aphex Twin",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732e261a0b1b19d0ff95e346b3",
+        kind: "album",
+        link: "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2",
+        comment: "Github Action"
+    },
+    {
         title: "The Mystery Lights",
         author: "The Mystery Lights",
         cover: "https://i.scdn.co/image/ab67616d0000b273850940d46dfa5f5fbea46ba0",
