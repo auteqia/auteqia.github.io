@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Hot Rats",
+        author: "Frank Zappa",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ee314008c5ae6e98904ebfe0",
+        kind: "album",
+        link: "https://open.spotify.com/album/0WYYrC9My9rYWigac003hw",
+        comment: "Github Action"
+    },
+    {
         title: "Selected Ambient Works 85-92",
         author: "Aphex Twin",
         cover: "https://i.scdn.co/image/ab67616d0000b27338906032688bb13b135ce19a",
