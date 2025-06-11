@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Enigmatic Ocean",
+        author: "Jean-Luc Ponty",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734b5090050309c67110e2640a",
+        kind: "album",
+        link: "https://open.spotify.com/album/7Der8eY3aiNi3cieeMBRFB",
+        comment: "Github Action"
+    },
+    {
         title: "Hot Rats",
         author: "Frank Zappa",
         cover: "https://i.scdn.co/image/ab67616d0000b273ee314008c5ae6e98904ebfe0",
