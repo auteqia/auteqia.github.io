@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Stationary Traveller (2023 Remastered & Expanded Edition)",
+        author: "Camel",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ea50f573eb4bdc6c304c5344",
+        kind: "album",
+        link: "https://open.spotify.com/album/78XGNvqT155xictf3VChQh",
+        comment: "Github Action"
+    },
+    {
         title: "Enigmatic Ocean",
         author: "Jean-Luc Ponty",
         cover: "https://i.scdn.co/image/ab67616d0000b2734b5090050309c67110e2640a",
