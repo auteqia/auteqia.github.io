@@ -1440,6 +1440,36 @@ const mediaLibrary = [
     // END OF BOOKS
     // MOVIES \\
     {
+        title: "The Big Lebowski",
+        author: "Joel & Ethan Coen",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibxiPpWoZWqYbcac0xgVIbtyuea.jpg",
+        rating: 4.5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/115-the-big-lebowski",
+        readDate: "2025-06-08",
+        kind: "movie"
+    },
+    {
+        title: "Dazed and Confused",
+        author: "Richard Linklater",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/osC3SxEwc2ao6akg3cFtC44Bq7W.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/9571-dazed-and-confused",
+        readDate: "2025-06-14",
+        kind: "movie"
+    },
+    {
+        title: "Paprika",
+        author: "Satoshi Kon",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/4977",
+        readDate: "2022-05-29",
+        kind: "movie"
+    },
+    {
         title: "Thelma & Louise",
         author: "Ridley Scott",
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y66rxathLobXk7xaUgPr4etBkRN.jpg",
