@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Re",
+        author: "Café Tacvba",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733b9211139eb247b12f6ba6c5",
+        kind: "album",
+        link: "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84",
+        comment: "Github Action"
+    },
+    {
         title: "Stationary Traveller (2023 Remastered & Expanded Edition)",
         author: "Camel",
         cover: "https://i.scdn.co/image/ab67616d0000b273ea50f573eb4bdc6c304c5344",
