@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Mothership (Remastered)",
+        author: "Led Zeppelin",
+        cover: "https://i.scdn.co/image/ab67616d0000b27322f1b6c28ce5735646b2e569",
+        kind: "album",
+        link: "https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh",
+        comment: "Github Action"
+    },
+    {
         title: "Abraxas",
         author: "Santana",
         cover: "https://i.scdn.co/image/ab67616d0000b273f1594eeff2ea90e0f3873919",
