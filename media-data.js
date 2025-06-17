@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Abraxas",
+        author: "Santana",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f1594eeff2ea90e0f3873919",
+        kind: "album",
+        link: "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6",
+        comment: "Github Action"
+    },
+    {
         title: "Re",
         author: "Café Tacvba",
         cover: "https://i.scdn.co/image/ab67616d0000b2733b9211139eb247b12f6ba6c5",
