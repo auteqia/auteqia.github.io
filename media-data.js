@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Led Zeppelin II (1994 Remaster)",
+        author: "Led Zeppelin",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d",
+        kind: "album",
+        link: "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx",
+        comment: "Github Action"
+    },
+    {
         title: "Mothership (Remastered)",
         author: "Led Zeppelin",
         cover: "https://i.scdn.co/image/ab67616d0000b27322f1b6c28ce5735646b2e569",
