@@ -1480,13 +1480,23 @@ const mediaLibrary = [
     // END OF BOOKS
     // MOVIES \\
     {
+        title: "SLC Punk!",
+        author: "James Merendino",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNho1qVCHq5RpLQNbGTljTfqnva.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/6396-slc-punk",
+        readDate: "2025-06-20",
+        kind: "movie"
+    },
+    {
         title: "Việt and Nam",
         author: "Trương Minh Quý",
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/axtvB6qoORMZQ2qPZdaFcBOM8g3.jpg",
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/846586-trong-long-d-t",
-        readDate: "2025-06-08",
+        readDate: "2024-08-24",
         kind: "movie"
     },
     {
@@ -1496,7 +1506,7 @@ const mediaLibrary = [
         rating: 2.5,
         reRead: false,
         link: "https://www.themoviedb.org/movie/75-mars-attacks",
-        readDate: "2025-06-08",
+        readDate: "2025-01-13",
         kind: "movie"
     },
     {
