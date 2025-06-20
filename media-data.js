@@ -1540,6 +1540,16 @@ const mediaLibrary = [
         kind: "movie"
     },
     {
+        title: "Y tu mamá también",
+        author: "Alfonso Cuarón",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOlMKd5C8JMS7PtYUJiiJlSxI4K.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/1391-y-tu-mama-tambien",
+        readDate: "2025-06-16",
+        kind: "movie"
+    },
+    {
         title: "The Big Lebowski",
         author: "Joel & Ethan Coen",
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibxiPpWoZWqYbcac0xgVIbtyuea.jpg",
@@ -1695,6 +1705,7 @@ const mediaLibrary = [
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
         rating: 5,
         reRead: true,
+        favorite: true,
         link: "https://www.themoviedb.org/movie/937287-challengers",
         readDate: "2024-06-22",
         kind: "movie"
@@ -1755,6 +1766,7 @@ const mediaLibrary = [
         cover: "https://image.tmdb.org/t/p/w1280/oWI4NovPYyAObZcKMUHCuaU8mhg.jpg",
         rating: 5,
         reRead: false,
+        favorite: true,
         link: "https://www.themoviedb.org/movie/5910-hana-bi",
         readDate: "2025-05-26",
         kind: "movie"
@@ -1765,6 +1777,7 @@ const mediaLibrary = [
         cover: "https://image.tmdb.org/t/p/w1280/AwlS9vTlidGdW79abQ5zVNGQ8jm.jpg",
         rating: 5,
         reRead: false,
+        favorite: true,
         link: "https://www.themoviedb.org/movie/11049-interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem",
         readDate: "2024-12-06",
         kind: "movie"
@@ -1785,6 +1798,7 @@ const mediaLibrary = [
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg",
         rating: 5,
         reRead: false,
+        favorite: true,
         link: "https://www.themoviedb.org/movie/4538-the-darjeeling-limited",
         readDate: "2023-10-10",
         kind: "movie"
@@ -1795,6 +1809,7 @@ const mediaLibrary = [
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/njbTizADSZg4PqeyJdDzZGooikv.jpg",
         rating: 5,
         reRead: true,
+        favorite: true,
         link: "https://www.themoviedb.org/movie/83666-moonrise-kingdom",
         readDate: "2023-01-12",
         kind: "movie"
@@ -1865,6 +1880,7 @@ const mediaLibrary = [
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg",
         rating: 4.5,
         reRead: true,
+        favorite: true,
         link: "https://www.themoviedb.org/movie/11621",
         readDate: "2025-02-05",
         kind: "movie"
@@ -2106,6 +2122,7 @@ const mediaLibrary = [
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuyV4ceh80IBTbRJWX7jJ59UFxn.jpg",
         rating: 4,
         reRead: false,
+        favorite: true,
         link: "https://www.themoviedb.org/movie/55-amores-perros",
         readDate: "2023-02-17",
         kind: "movie"
@@ -2297,6 +2314,7 @@ const mediaLibrary = [
         cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
         rating: 4.7,
         reRead: false,
+        favorite: true,
         link: "http://www.imdb.com/title/tt0088680/",
         readDate: "2025-04-19",
         kind: "movie"
@@ -2377,6 +2395,7 @@ const mediaLibrary = [
         cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
         rating: 4.7,
         reRead: true,
+        favorite: true,
         link: "https://www.imdb.com/title/tt0117951/",
         readDate: "2025-03-21",
         kind: "movie"
@@ -2387,6 +2406,7 @@ const mediaLibrary = [
         cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/syaECBy6irxSgeF0m5ltGPNTWXL.jpg",
         rating: 4.7,
         reRead: true,
+        favorite: true,
         link: "https://www.imdb.com/title/tt0265666/",
         readDate: "2025-03-20",
         kind: "movie"
@@ -2417,6 +2437,7 @@ const mediaLibrary = [
         cover: "https://m.media-amazon.com/images/M/MV5BZDRjN2JkMDAtMTNjNS00ZDFhLTk3NDgtMzhjOGE3Zjg4NzY3XkEyXkFqcGc@._V1_FMjpg_UX1204_.jpg",
         rating: 4.7,
         reRead: false,
+        favorite: true,
         link: "https://www.imdb.com/fr/title/tt0071994/",
         readDate: "2024-09-09",
         kind: "movie"
@@ -2497,6 +2518,7 @@ const mediaLibrary = [
         cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fdTtij6H0sX9AzIjUeynh5zbfm7.jpg",
         rating: 4.1,
         reRead: true,
+        favorite: true,
         link: "https://www.imdb.com/title/tt0116922/",
         readDate: "2024-09-09",
         kind: "movie"
@@ -2547,6 +2569,7 @@ const mediaLibrary = [
         cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYYdCi54E2xVbUxCr03tMookv9Z.jpg",
         rating: 5,
         reRead: true,
+        favorite: true,
         link: "https://www.imdb.com/fr-ca/title/tt0087884/",
         readDate: "2024-01-28",
         kind: "movie"
