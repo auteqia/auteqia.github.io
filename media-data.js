@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "For Your Love",
+        author: "The Yardbirds",
+        cover: "https://i.scdn.co/image/ab67616d0000b273437491fd6ff4844eb721010c",
+        kind: "album",
+        link: "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp",
+        comment: "Github Action"
+    },
+    {
         title: "Led Zeppelin II (1994 Remaster)",
         author: "Led Zeppelin",
         cover: "https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d",
