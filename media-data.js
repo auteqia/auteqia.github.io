@@ -1472,6 +1472,56 @@ const mediaLibrary = [
     // END OF BOOKS
     // MOVIES \\
     {
+        title: "Việt and Nam",
+        author: "Trương Minh Quý",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/axtvB6qoORMZQ2qPZdaFcBOM8g3.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/846586-trong-long-d-t",
+        readDate: "2025-06-08",
+        kind: "movie"
+    },
+    {
+        title: "Mars Attack",
+        author: "Tim Burton",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4g4KQqdIMy7vB3ZgIXyjGKErHCU.jpg",
+        rating: 2.5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/75-mars-attacks",
+        readDate: "2025-06-08",
+        kind: "movie"
+    },
+    {
+        title: "Gimme Danger",
+        author: "Jim Jarmusch",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttApHS88b7NPo9FCfG4qWI9zjSB.jpg",
+        rating: 4.5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/115-the-big-lebowski",
+        readDate: "2025-06-24",
+        kind: "movie"
+    },
+    {
+        title: "Babylone",
+        author: "Damien Chazelle",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pr15IJ4xWwEFiVPvaC7Ba8l67Tw.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/615777-babylon",
+        readDate: "2025-06-18",
+        kind: "movie"
+    },
+    {
+        title: "Becoming Led Zeppelin",
+        author: "Bernard MacMahon",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAxteOtjaeQN045qNNbSEwu78c4.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/857800-becoming-led-zeppelin",
+        readDate: "2025-06-17",
+        kind: "movie"
+    },
+    {
         title: "The Big Lebowski",
         author: "Joel & Ethan Coen",
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibxiPpWoZWqYbcac0xgVIbtyuea.jpg",
