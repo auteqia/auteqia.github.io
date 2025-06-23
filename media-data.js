@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Paranoid (Remaster)",
+        author: "Black Sabbath",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222",
+        kind: "album",
+        link: "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7",
+        comment: "Github Action"
+    },
+    {
         title: "The Velvet Underground & Nico 45th Anniversary",
         author: "The Velvet Underground",
         cover: "https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7",
