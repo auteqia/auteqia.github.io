@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Velvet Underground & Nico 45th Anniversary",
+        author: "The Velvet Underground",
+        cover: "https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7",
+        kind: "album",
+        link: "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV",
+        comment: "Github Action"
+    },
+    {
         title: "For Your Love",
         author: "The Yardbirds",
         cover: "https://i.scdn.co/image/ab67616d0000b273437491fd6ff4844eb721010c",
