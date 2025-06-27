@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Raw Power (50th Anniversary Legacy Edition)",
+        author: "The Stooges",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e104d8b88560f7c3c84eb129",
+        kind: "album",
+        link: "https://open.spotify.com/album/6rD578ymApHN2XU7wvjeew",
+        comment: "Github Action"
+    },
+    {
         title: "Paranoid (Remaster)",
         author: "Black Sabbath",
         cover: "https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222",
