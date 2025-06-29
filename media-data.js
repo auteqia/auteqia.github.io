@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Kick Out The Jams (Live)",
+        author: "MC5",
+        cover: "https://i.scdn.co/image/ab67616d0000b27336f68306b0c5babcd4235e45",
+        kind: "album",
+        link: "https://open.spotify.com/album/0kT4F2mSpvTk3stwiaEStp",
+        comment: "Github Action"
+    },
+    {
         title: "Raw Power (50th Anniversary Legacy Edition)",
         author: "The Stooges",
         cover: "https://i.scdn.co/image/ab67616d0000b273e104d8b88560f7c3c84eb129",
