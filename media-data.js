@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "London Calling (Remastered)",
+        author: "The Clash",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cd9d8bc9ef04014b6e90e182",
+        kind: "album",
+        link: "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a",
+        comment: "Github Action"
+    },
+    {
         title: "Kick Out The Jams (Live)",
         author: "MC5",
         cover: "https://i.scdn.co/image/ab67616d0000b27336f68306b0c5babcd4235e45",
