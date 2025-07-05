@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Daydream Nation (Deluxe Edition)",
+        author: "Sonic Youth",
+        cover: "https://i.scdn.co/image/ab67616d0000b27320f51363b9e2cbd207f158ba",
+        kind: "album",
+        link: "https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI",
+        comment: "Github Action"
+    },
+    {
         title: "London Calling (Remastered)",
         author: "The Clash",
         cover: "https://i.scdn.co/image/ab67616d0000b273cd9d8bc9ef04014b6e90e182",
