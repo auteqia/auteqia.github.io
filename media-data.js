@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "L.A. Woman",
+        author: "The Doors",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733992c7ab57975935b29fa22b",
+        kind: "album",
+        link: "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS",
+        comment: "Github Action"
+    },
+    {
         title: "Daydream Nation (Deluxe Edition)",
         author: "Sonic Youth",
         cover: "https://i.scdn.co/image/ab67616d0000b27320f51363b9e2cbd207f158ba",
