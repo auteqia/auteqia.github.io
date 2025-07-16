@@ -1536,6 +1536,56 @@ const mediaLibrary = [
     // END OF BOOKS
     // MOVIES \\
     {
+        title: "Memento",
+        author: "Christopher Nolan",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbkEpzotHJfotpSUSYI36aPC1WN.jpg",
+        rating: 5,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/77-memento",
+        readDate: "2025-07-16",
+        kind: "movie"
+    },
+    {
+        title: "Aftersun",
+        author: "Charlotte Wells",
+        cover: "hhttps://www.themoviedb.org/t/p/w600_and_h900_bestv2/vgCzq48s6QSy8yfvQHso2tf7bA0.jpg",
+        rating: 4,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/965150-aftersun",
+        readDate: "2025-07-15",
+        kind: "movie"
+    },
+    {
+        title: "Old Boy",
+        author: "Park Chan-Wook",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKMuZ5hOXSbesbM1Ba1hGugJEro.jpg",
+        rating: 3.5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/670",
+        readDate: "2025-07-09",
+        kind: "movie"
+    },
+    {
+        title: "Dernier train pour Busan",
+        author: "Yeon Sang-ho",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLHqguwt8WmgQVMIjSw3wVWirvV.jpg",
+        rating: 4,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/396535",
+        readDate: "2025-07-05",
+        kind: "movie"
+    },
+    {
+        title: "A Normal Family",
+        author: "Hur Jin-ho",
+        cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oKxIHM08TRkv7QCpi9cqHU1q9F.jpg",
+        rating: 2,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/973628",
+        readDate: "2025-06-05",
+        kind: "movie"
+    },
+    {
         title: "SLC Punk!",
         author: "James Merendino",
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNho1qVCHq5RpLQNbGTljTfqnva.jpg",
