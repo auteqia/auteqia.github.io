@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Electric Warrior",
+        author: "T. Rex",
+        cover: "https://i.scdn.co/image/ab67616d0000b27361a23657edb5d80fa18a630d",
+        kind: "album",
+        link: "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5",
+        comment: "Github Action"
+    },
+    {
+        title: "Paranoid",
+        author: "Black Sabbath",
+        cover: "https://i.scdn.co/image/ab67616d0000b273605b25c031f809d78054a13c",
+        kind: "album",
+        link: "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI",
+        comment: "Github Action"
+    },
+    {
         title: "L.A. Woman",
         author: "The Doors",
         cover: "https://i.scdn.co/image/ab67616d0000b2733992c7ab57975935b29fa22b",
