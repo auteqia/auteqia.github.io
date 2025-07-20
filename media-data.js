@@ -1552,6 +1552,46 @@ const mediaLibrary = [
     // END OF BOOKS
     // MOVIES \\
     {
+        title: "Taxi Driver",
+        author: "Martin Scorsese",
+        cover: "https://www.themoviedb.org/t/p/w1280/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+        rating: 5,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/103-taxi-driver",
+        readDate: "2023-11-18",
+        kind: "movie"
+    },
+    {
+        title: "Shutter Island",
+        author: "Martin Scorsese",
+        cover: "https://www.themoviedb.org/t/p/w1280/fQ0vGVTtxjCdAJnxwPZ88O3Wzrh.jpg",
+        rating: 4.5,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/11324-shutter-island",
+        readDate: "2022-11-18",
+        kind: "movie"
+    },
+    {
+        title: "Once Upon A Time... In Hollywood",
+        author: "Quentin Tarantino",
+        cover: "https://www.themoviedb.org/t/p/w1280/e7S8Vzqm05bW3wy9WnlA4ymfKdK.jpg",
+        rating: 4,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/466272-once-upon-a-time-in-hollywood",
+        readDate: "2023-11-18",
+        kind: "movie"
+    },
+    {
+        title: "Pulp Fiction",
+        author: "Quentin Tarantino",
+        cover: "https://www.themoviedb.org/t/p/w1280/4TBdF7nFw2aKNM0gPOlDNq3v3se.jpg",
+        rating: 5,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/680-pulp-fiction",
+        readDate: "2022-12-18",
+        kind: "movie"
+    },
+    {
         title: "Forrest Gump",
         author: "Robert Zemeckis",
         cover: "https://www.themoviedb.org/t/p/w1280/A0Th0x8QIzP0njrFAJnYQ5ouIoB.jpg",
