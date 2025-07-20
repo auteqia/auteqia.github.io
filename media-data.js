@@ -1956,7 +1956,7 @@ const mediaLibrary = [
     {
         title: "Interstella 5555",
         author: "Hirotoshi Rissen",
-        cover: "https://image.tmdb.org/t/p/w1280/AwlS9vTlidGdW79abQ5zVNGQ8jm.jpg",
+        cover: "https://www.themoviedb.org/t/p/w1280/AwlS9vTlidGdW79abQ5zVNGQ8jm.jpg",
         rating: 5,
         reRead: false,
         favorite: true,
