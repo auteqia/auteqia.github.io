@@ -1552,6 +1552,26 @@ const mediaLibrary = [
     // END OF BOOKS
     // MOVIES \\
     {
+        title: "Forrest Gump",
+        author: "Robert Zemeckis",
+        cover: "https://www.themoviedb.org/t/p/w1280/A0Th0x8QIzP0njrFAJnYQ5ouIoB.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/13-forrest-gump",
+        readDate: "2025-04-20",
+        kind: "movie"
+    },
+    {
+        title: "Velvet Goldmine",
+        author: "Todd Haynes",
+        cover: "https://www.themoviedb.org/t/p/w1280/txAEGj9EHyf5xHrFi79SfdjVEws.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/1808-velvet-goldmine",
+        readDate: "2025-07-20",
+        kind: "movie"
+    },
+    {
         title: "Memento",
         author: "Christopher Nolan",
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbkEpzotHJfotpSUSYI36aPC1WN.jpg",
@@ -1564,7 +1584,7 @@ const mediaLibrary = [
     {
         title: "Aftersun",
         author: "Charlotte Wells",
-        cover: "hhttps://www.themoviedb.org/t/p/w600_and_h900_bestv2/vgCzq48s6QSy8yfvQHso2tf7bA0.jpg",
+        cover: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vgCzq48s6QSy8yfvQHso2tf7bA0.jpg",
         rating: 4,
         reRead: false,
         link: "https://www.themoviedb.org/movie/965150-aftersun",
