@@ -1552,6 +1552,16 @@ const mediaLibrary = [
     // END OF BOOKS
     // MOVIES \\
     {
+        title: "Paris is Burning",
+        author: "Jennie Livingston",
+        cover: "https://www.themoviedb.org/t/p/w1280/a184zpgNCFrt4fPig0ut6Hiwq4n.jpg",
+        rating: 5,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/31225-paris-is-burning",
+        readDate: "2024-09-10",
+        kind: "movie"
+    },
+    {
         title: "Taxi Driver",
         author: "Martin Scorsese",
         cover: "https://www.themoviedb.org/t/p/w1280/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
