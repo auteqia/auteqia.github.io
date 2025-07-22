@@ -1645,7 +1645,7 @@ const mediaLibrary = [
         title: "Old Boy",
         author: "Park Chan-Wook",
         cover: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKMuZ5hOXSbesbM1Ba1hGugJEro.jpg",
-        rating: 3.5,
+        rating: 2.5,
         reRead: false,
         link: "https://www.themoviedb.org/movie/670",
         readDate: "2025-07-09",
