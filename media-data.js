@@ -8,14 +8,6 @@ const mediaLibrary = [
         comment: "Github Action"
     },
     {
-        title: "Paranoid",
-        author: "Black Sabbath",
-        cover: "https://i.scdn.co/image/ab67616d0000b273605b25c031f809d78054a13c",
-        kind: "album",
-        link: "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI",
-        comment: "Github Action"
-    },
-    {
         title: "L.A. Woman",
         author: "The Doors",
         cover: "https://i.scdn.co/image/ab67616d0000b2733992c7ab57975935b29fa22b",
@@ -1552,6 +1544,16 @@ const mediaLibrary = [
     // END OF BOOKS
     // MOVIES \\
     {
+        title: "Superman",
+        author: "James Gunn",
+        cover: "https://www.themoviedb.org/t/p/w1280/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
+        rating: 5,
+        reRead: true,
+        link: "https://www.themoviedb.org/movie/1061474-superman",
+        readDate: "2025-08-04",
+        kind: "movie"
+    },
+    {
         title: "Paris is Burning",
         author: "Jennie Livingston",
         cover: "https://www.themoviedb.org/t/p/w1280/a184zpgNCFrt4fPig0ut6Hiwq4n.jpg",
@@ -2920,14 +2922,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Druks",
-        cover: "https://i.scdn.co/image/ab67616d00001e022e261a0b1b19d0ff95e346b3",
-        rating: 5,
-        author: "Aphex Twin",
-        link: "https://open.spotify.com/intl-fr/album/2oJo7cB45gMVuRsaWNwDq2?si=c69b3876898d474b",
-        kind: "album"
-    },
-    {
         title: "eps 1988-1991 and rare tracks",
         cover: "https://i.scdn.co/image/ab67616d00001e02140e779a7eae66860d27e79d",
         rating: 5,
@@ -2981,16 +2975,6 @@ const mediaLibrary = [
         rating: 5,
         author: "A Tribe Called Quest",
         link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
-        kind: "album"
-    },
-
-    
-    {
-        title: "Mirage",
-        cover: "https://i.scdn.co/image/ab67616d00001e0211537abd008a150b3f88dcaf",
-        rating: 5,
-        author: "Camel",
-        link: "https://open.spotify.com/album/2DZEwt8Lhz6PuqxsJWF7Ap?si=nj6WFi71R92obD4pdH3VKg",
         kind: "album"
     },
     {
@@ -3098,14 +3082,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Mothership",
-        cover: "https://i.scdn.co/image/ab67616d00001e0222f1b6c28ce5735646b2e569",
-        rating: 5,
-        author: "Led Zeppelin",
-        link: "https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh?si=DxABFJLwRYq2LssHDM23JA",
-        kind: "album"
-    },
-    {
         title: "Amigos",
         cover: "https://i.scdn.co/image/ab67616d00001e029dbda89d303ef548c712570f",
         rating: 5,
@@ -3120,14 +3096,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Puzzle",
         link: "https://open.spotify.com/intl-fr/album/3piPM3MXYU1wmB9yz7UHcQ?si=82ea0eaaf7124533",
-        kind: "album"
-    },
-    {
-        title: "The Downward Spiral",
-        cover: "https://i.scdn.co/image/ab67616d0000b2734078c255069c0e7a2553fa4a",
-        rating: 5,
-        author: "Nine Inch Nails",
-        link: "https://open.spotify.com/intl-fr/album/5I7lLu8xXJfGRdFUqHaLQU?si=1d16103fcdfb43c2",
         kind: "album"
     },
     {
@@ -3201,30 +3169,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Daft Punk",
         link: "https://open.spotify.com/album/7u6zL7kqpgLPISZYXNTgYk?si=ErzPjP0ARDK_2CXet0udCg",
-        kind: "album"
-    },
-    {
-        title: "Cosmic Messenger",
-        cover: "https://i.scdn.co/image/ab67616d00001e02b5d4374a23ae05bbc834f78d",
-        rating: 5,
-        author: "Jean-Luc Ponty",
-        link: "https://open.spotify.com/album/6EfLu75i2jqhN4s4xlqh6m?si=L1nB73J_R0CtfwTMKULNIA",
-        kind: "album"
-    },
-    {
-        title: "Enigmatic Ocean",
-        cover: "https://i.scdn.co/image/ab67616d00001e024b5090050309c67110e2640a",
-        rating: 5,
-        author: "Jean-Luc Ponty",
-        link: "https://open.spotify.com/album/7Der8eY3aiNi3cieeMBRFB?si=QL0w_a7JQQmHViDVFW6TqA",
-        kind: "album"
-    },
-    {
-        title: "Mystical Adventures",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c1426c6c8d232c3f989d1eea",
-        rating: 5,
-        author: "Jean-Luc Ponty",
-        link: "https://open.spotify.com/album/3sRDigE2YdvQxHHJBYzVOT?si=rEC9XF5wQZ-Ly4h9iALegw",
         kind: "album"
     },
     {
@@ -3431,14 +3375,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Cocteau Twins",
         link: "https://open.spotify.com/album/3qEiWhSF2HO1NhVJVsGyZm?si=TCHXHszjSE2PyDj3c8ikwA",
-        kind: "album"
-    },
-    {
-        title: "Richard D. James Album",
-        cover: "https://i.scdn.co/image/ab67616d00001e021298f1ce7b0e4fb6a3caba57",
-        rating: 5,
-        author: "Aphex Twin",
-        link: "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO?si=_4TnvI58SwiUpBS7pekzMA",
         kind: "album"
     },
     {
@@ -3661,14 +3597,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Boards of Canada",
         link: "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU?si=ROCuqIgWRK2DOyHS-RwArg",
-        kind: "album"
-    },
-    {
-        title: "Quoth",
-        cover: "https://i.scdn.co/image/ab67616d00001e02576800526554c66833197d76",
-        rating: 3.6,
-        author: "Aphex Twin",
-        link: "https://open.spotify.com/album/4F83Th71IEwecavhxGFGzN?si=_iEnUFVSTOOkMrHMvcNAnw",
         kind: "album"
     },
     {
@@ -4134,46 +4062,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Selected Ambient Works 85-92",
-        cover: "https://i.scdn.co/image/ab67616d00001e0238906032688bb13b135ce19a",
-        rating: 5,
-        author: "Aphex Twin",
-        link: "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k?si=olVcOfhsQBW4X0RrSHsK_g",
-        kind: "album"
-    },
-    {
-        title: "Selected Ambient Works Volume II",
-        cover: "https://i.scdn.co/image/ab67616d00001e028155dc4dae262f31d39d8296",
-        rating: 5,
-        author: "Aphex Twin",
-        link: "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH?si=5XMZD_jrRmCl8gRAxmS4og",
-        kind: "album"
-    },
-    {
-        title: "...I Care Because You Do",
-        cover: "https://i.scdn.co/image/ab67616d00001e024bcecb123363f1f0f869257c",
-        rating: 5,
-        author: "Aphex Twin",
-        link: "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE?si=dq-c2vu5QjS6qUHawmKZ9A",
-        kind: "album"
-    },
-    {
-        title: "Windowlicker",
-        cover: "https://i.scdn.co/image/ab67616d00001e02478bfd5562acad46103b858a",
-        rating: 5,
-        author: "Aphex Twin",
-        link: "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh?si=O2086kozSb2bunVod6-3Qw",
-        kind: "album"
-    },
-    {
-        title: "Xylem Tube EP",
-        cover: "https://i.scdn.co/image/ab67616d00001e02d5ebffe9d4c1279ca0fc8e48",
-        rating: 5,
-        author: "Aphex Twin",
-        link: "https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX?si=TcBCPRWARzyBeqq8SIgrdQ",
-        kind: "album"
-    },
-    {
         title: "Billy Idol",
         cover: "https://i.scdn.co/image/ab67616d00001e02a20464e6697dc1149d3a5cdc",
         rating: 5,
@@ -4467,18 +4355,7 @@ const mediaLibrary = [
         link: "https://open.spotify.com/intl-fr/album/1ZH5g1RDq3GY1OvyD0w0s2?si=6s_sQWILRSyUI2RnmQzdcw",
         kind: "album"
     },
-    {
-        title: "London Calling",
-        cover: "https://i.scdn.co/image/ab67616d00001e02cd9d8bc9ef04014b6e90e182",
-        rating: 5,
-        author: "The Clash",
-        link: "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a?si=cSXQhNh1TH6f0aqxr8RdLQ",
-        kind: "album"
-    },
-
-
-
-
+ 
 
 
     
@@ -5055,14 +4932,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "El Silencio",
-        cover: "https://i.scdn.co/image/ab67616d00001e02bc4d989c48ad5b154fb0781d",
-        rating: 5,
-        author: "Caifanes",
-        link: "https://open.spotify.com/intl-fr/album/1WrK98KVZxkTgMD3a9Kpnl?si=MwQ4TQtTSJuF2Q6ey-vOow",
-        kind: "album"
-    },
-    {
         title: "El Nervio Del Volcan",
         cover: "https://i.scdn.co/image/ab67616d00001e0236aeaab4dc91a8dea53a2d8f",
         rating: 5,
@@ -5100,14 +4969,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Santana",
         link: "https://open.spotify.com/intl-fr/album/1CHUXwuge9A7L2KiA3vnR6?si=l_4SLM0nQJSeIDbDLFJx2w",
-        kind: "album"
-    },
-    {
-        title: "Re",
-        cover: "https://i.scdn.co/image/ab67616d00001e023b9211139eb247b12f6ba6c5",
-        rating: 5,
-        author: "Café Tacvba",
-        link: "https://open.spotify.com/intl-fr/album/7EJ5pXrSqqfybKyfbvlz84?si=aAJ72QR2TuOuLQReqaLikg",
         kind: "album"
     },
     {
@@ -5517,14 +5378,6 @@ const mediaLibrary = [
         rating: 5,
         author: "The Brian Jonestown Massacre",
         link: "https://open.spotify.com/intl-fr/album/4kXc4XcGYOpHpXRlWq1RFi?si=4vsYIbddTImVU9Fueauqdg",
-        kind: "album"
-    },
-    {
-        title: "Revelation",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c05791f9c0e5f5124d3240a5",
-        rating: 5,
-        author: "The Brian Jonestown Massacre",
-        link: "https://open.spotify.com/intl-fr/album/708s2EewEVFy0FZeOQYY3Y?si=gpFGKXgaRYqTPSxnuzqWsA",
         kind: "album"
     },
     {
