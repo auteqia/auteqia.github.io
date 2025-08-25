@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Here Come The Warm Jets",
+        author: "Brian Eno",
+        cover: "https://i.scdn.co/image/ab67616d0000b273da85b0f131c23ccf6b631aad",
+        kind: "album",
+        link: "https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi",
+        comment: "Github Action"
+    },
+    {
         title: "Electric Warrior",
         author: "T. Rex",
         cover: "https://i.scdn.co/image/ab67616d0000b27361a23657edb5d80fa18a630d",
