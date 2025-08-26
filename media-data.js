@@ -1554,6 +1554,17 @@ const mediaLibrary = [
 
 
     {
+        title: "Chungking Express",
+        author: "Wong Kar-Wai",
+        cover: "https://www.themoviedb.org/t/p/w1280/fv0KUkKoEr1P6Z0lltVyWwtFg5e.jpg",
+        rating: 4.5,
+        reRead: false,
+        link: "hhttps://www.themoviedb.org/movie/11104",
+        readDate: "2025-08-26",
+        kind: "movie"
+    },
+    
+    {
         title: "Les Ailes du Désir",
         author: "Wim Wenders",
         cover: "https://www.themoviedb.org/t/p/w1280/4Z1qNboPUIAC22WpZgajioZgJDz.jpg",
