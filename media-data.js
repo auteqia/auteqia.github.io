@@ -1551,12 +1551,45 @@ const mediaLibrary = [
     },
     // END OF BOOKS
     // MOVIES \\
+
+    {
+        title: "The Doors",
+        author: "Oliver Stone",
+        cover: "https://www.themoviedb.org/t/p/w1280/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/10537-the-doors",
+        readDate: "2025-08-26",
+        kind: "movie"
+    },
+    
+    {
+        title: "Brian Eno: 1971-1977 - The Man Who Fell to Earth",
+        author: "Jim Sharman",
+        cover: "https://m.media-amazon.com/images/M/MV5BMTgzNjI4MjY5NV5BMl5BanBnXkFtZTgwOTgwNzA2MDE@._V1_.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.imdb.com/fr/title/tt2296338/",
+        readDate: "2025-08-26",
+        kind: "movie"
+    },
+
+    {
+        title: "The Rocky Horror Picture Show",
+        author: "Jim Sharman",
+        cover: "https://www.themoviedb.org/t/p/w1280/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/36685-the-rocky-horror-picture-show",
+        readDate: "2025-08-26",
+        kind: "movie"
+    },
     {
         title: "Superman",
         author: "James Gunn",
         cover: "https://www.themoviedb.org/t/p/w1280/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
         rating: 5,
-        reRead: true,
+        reRead: false,
         link: "https://www.themoviedb.org/movie/1061474-superman",
         readDate: "2025-08-04",
         kind: "movie"
