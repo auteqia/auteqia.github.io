@@ -1552,6 +1552,18 @@ const mediaLibrary = [
     // END OF BOOKS
     // MOVIES \\
 
+
+    {
+        title: "Les Ailes du Désir",
+        author: "Wim Wenders",
+        cover: "https://www.themoviedb.org/t/p/w1280/4Z1qNboPUIAC22WpZgajioZgJDz.jpg",
+        rating: 4.5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/144-der-himmel-ueber-berlin",
+        readDate: "2025-07-26",
+        kind: "movie"
+    },
+    
     {
         title: "The Doors",
         author: "Oliver Stone",
