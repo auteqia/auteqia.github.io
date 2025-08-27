@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Strange Days",
+        author: "The Doors",
+        cover: "https://i.scdn.co/image/ab67616d0000b27386339e6cd71cc2a167451ee5",
+        kind: "album",
+        link: "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf",
+        comment: "Github Action"
+    },
+    {
         title: "Here Come The Warm Jets",
         author: "Brian Eno",
         cover: "https://i.scdn.co/image/ab67616d0000b273da85b0f131c23ccf6b631aad",
