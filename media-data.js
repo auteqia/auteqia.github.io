@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Paranoid",
+        author: "Black Sabbath",
+        cover: "https://i.scdn.co/image/ab67616d0000b273605b25c031f809d78054a13c",
+        kind: "album",
+        link: "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI",
+        comment: "Github Action"
+    },
+    {
         title: "Strange Days",
         author: "The Doors",
         cover: "https://i.scdn.co/image/ab67616d0000b27386339e6cd71cc2a167451ee5",
