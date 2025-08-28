@@ -1570,12 +1570,23 @@ const mediaLibrary = [
 
 
     {
+        title: "One + One (Sympathy for the Devil)",
+        author: "Jean-Luc Godard",
+        cover: "https://www.themoviedb.org/t/p/w1280/wxfNcj87BORjRYYKhY1jGMnVPLo.jpg",
+        rating: 5,
+        reRead: false,
+        link: "https://www.themoviedb.org/movie/50789-sympathy-for-the-devil",
+        readDate: "2025-08-28",
+        kind: "movie"
+    },
+    
+    {
         title: "Chungking Express",
         author: "Wong Kar-Wai",
         cover: "https://www.themoviedb.org/t/p/w1280/fv0KUkKoEr1P6Z0lltVyWwtFg5e.jpg",
         rating: 4.5,
         reRead: false,
-        link: "hhttps://www.themoviedb.org/movie/11104",
+        link: "https://www.themoviedb.org/movie/11104",
         readDate: "2025-08-26",
         kind: "movie"
     },
