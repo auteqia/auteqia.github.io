@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Another Green World (2004 Remaster)",
+        author: "Brian Eno",
+        cover: "https://i.scdn.co/image/ab67616d0000b27384d9788915697efd5cbf56f4",
+        kind: "album",
+        link: "https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY",
+        comment: "Github Action"
+    },
+    {
         title: "Paranoid",
         author: "Black Sabbath",
         cover: "https://i.scdn.co/image/ab67616d0000b273605b25c031f809d78054a13c",
