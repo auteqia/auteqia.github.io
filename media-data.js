@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Definitely Maybe (Deluxe Edition Remastered)",
+        author: "Oasis",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d86a1e021e7acc7c07c7d668",
+        kind: "album",
+        link: "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY",
+        comment: "Github Action"
+    },
+    {
         title: "Another Green World (2004 Remaster)",
         author: "Brian Eno",
         cover: "https://i.scdn.co/image/ab67616d0000b27384d9788915697efd5cbf56f4",
