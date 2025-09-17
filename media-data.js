@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "The Man-Machine (2009 Remaster)",
+        author: "Kraftwerk",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e4c3295cd6464ed5bc0f6c2c",
+        kind: "album",
+        link: "https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9",
+        comment: "Github Action"
+    },
+    {
+        title: "Radio-Activity (2009 Remaster)",
+        author: "Kraftwerk",
+        cover: "https://i.scdn.co/image/ab67616d0000b273672ed7795c0a38627330b445",
+        kind: "album",
+        link: "https://open.spotify.com/album/4nEgdO6tkE2v5LO3mpUEe9",
+        comment: "Github Action"
+    },
+    {
         title: "Definitely Maybe (Deluxe Edition Remastered)",
         author: "Oasis",
         cover: "https://i.scdn.co/image/ab67616d0000b273d86a1e021e7acc7c07c7d668",
