@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Heavy Liquid 'The Album'",
+        author: "The Stooges",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c7b636d481ce3ce4dba51690",
+        kind: "album",
+        link: "https://open.spotify.com/album/2jIzYmu0kYyj2NeO9p5Sx5",
+        comment: "Github Action"
+    },
+    {
         title: "The Man-Machine (2009 Remaster)",
         author: "Kraftwerk",
         cover: "https://i.scdn.co/image/ab67616d0000b273e4c3295cd6464ed5bc0f6c2c",
