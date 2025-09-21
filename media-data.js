@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Juju",
+        author: "Siouxsie and the Banshees",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732cc7f91bdbd30dd7c408777a",
+        kind: "album",
+        link: "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb",
+        comment: "Github Action"
+    },
+    {
         title: "Heavy Liquid 'The Album'",
         author: "The Stooges",
         cover: "https://i.scdn.co/image/ab67616d0000b273c7b636d481ce3ce4dba51690",
