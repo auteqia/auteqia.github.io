@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Entertainment!",
+        author: "Gang Of Four",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730bc24b6400fb40a0a034e215",
+        kind: "album",
+        link: "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK",
+        comment: "Github Action"
+    },
+    {
         title: "Juju",
         author: "Siouxsie and the Banshees",
         cover: "https://i.scdn.co/image/ab67616d0000b2732cc7f91bdbd30dd7c408777a",
