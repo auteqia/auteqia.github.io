@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Different Class",
+        author: "Pulp",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fd952bece8f049dbcd7df93f",
+        kind: "album",
+        link: "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x",
+        comment: "Github Action"
+    },
+    {
         title: "Entertainment!",
         author: "Gang Of Four",
         cover: "https://i.scdn.co/image/ab67616d0000b2730bc24b6400fb40a0a034e215",
