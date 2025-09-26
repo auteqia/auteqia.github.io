@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Smoochy",
+        author: "Ryuichi Sakamoto",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733a06b067647d3c488b20e129",
+        kind: "album",
+        link: "https://open.spotify.com/album/3vOZPaudktiXQzX1dr3228",
+        comment: "Github Action"
+    },
+    {
         title: "Different Class",
         author: "Pulp",
         cover: "https://i.scdn.co/image/ab67616d0000b273fd952bece8f049dbcd7df93f",
