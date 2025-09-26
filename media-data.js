@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "She Wants Revenge",
+        author: "She Wants Revenge",
+        cover: "https://i.scdn.co/image/ab67616d0000b273717f38200c8370df83f6364b",
+        kind: "album",
+        link: "https://open.spotify.com/album/3S41D3x5NUwlVOuUNwoZ16",
+        comment: "Github Action"
+    },
+    {
         title: "Smoochy",
         author: "Ryuichi Sakamoto",
         cover: "https://i.scdn.co/image/ab67616d0000b2733a06b067647d3c488b20e129",
