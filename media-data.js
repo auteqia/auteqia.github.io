@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Off The Bone",
+        author: "The Cramps",
+        cover: "https://i.scdn.co/image/ab67616d0000b27327c337cfb2be8c395b04d61d",
+        kind: "album",
+        link: "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi",
+        comment: "Github Action"
+    },
+    {
         title: "...Like Clockwork",
         author: "Queens of the Stone Age",
         cover: "https://i.scdn.co/image/ab67616d0000b273a705b56a83b703453d8ddd04",
