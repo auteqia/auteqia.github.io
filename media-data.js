@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "...Like Clockwork",
+        author: "Queens of the Stone Age",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a705b56a83b703453d8ddd04",
+        kind: "album",
+        link: "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj",
+        comment: "Github Action"
+    },
+    {
         title: "She Wants Revenge",
         author: "She Wants Revenge",
         cover: "https://i.scdn.co/image/ab67616d0000b273717f38200c8370df83f6364b",
