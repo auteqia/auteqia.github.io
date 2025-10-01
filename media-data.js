@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Up and Down",
+        author: "She Wants Revenge",
+        cover: "https://i.scdn.co/image/ab67616d0000b27356f3f4957adbe9677d92f015",
+        kind: "album",
+        link: "https://open.spotify.com/album/5vhJlo8GF4hfoFexjo3zZu",
+        comment: "Github Action"
+    },
+    {
         title: "Off The Bone",
         author: "The Cramps",
         cover: "https://i.scdn.co/image/ab67616d0000b27327c337cfb2be8c395b04d61d",
