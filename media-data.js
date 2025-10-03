@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Substance",
+        author: "New Order",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733c182241fcd86aeca2c68a63",
+        kind: "album",
+        link: "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl",
+        comment: "Github Action"
+    },
+    {
         title: "Up and Down",
         author: "She Wants Revenge",
         cover: "https://i.scdn.co/image/ab67616d0000b27356f3f4957adbe9677d92f015",
