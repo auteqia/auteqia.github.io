@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Pastel Blues",
+        author: "Nina Simone",
+        cover: "https://i.scdn.co/image/ab67616d0000b273df49506f74db624312118ca2",
+        kind: "album",
+        link: "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z",
+        comment: "Github Action"
+    },
+    {
         title: "Substance",
         author: "New Order",
         cover: "https://i.scdn.co/image/ab67616d0000b2733c182241fcd86aeca2c68a63",
