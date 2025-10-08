@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Journey To The Centre Of The Eye",
+        author: "Nektar",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730ff11ff76a35504c0d470a37",
+        kind: "album",
+        link: "https://open.spotify.com/album/67yodfReEKnfcYuJ59mV6e",
+        comment: "Github Action"
+    },
+    {
         title: "Pastel Blues",
         author: "Nina Simone",
         cover: "https://i.scdn.co/image/ab67616d0000b273df49506f74db624312118ca2",
