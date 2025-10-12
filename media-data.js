@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "13 Songs",
+        author: "Fugazi",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f18ce5dc5f6b0843d3acb3a1",
+        kind: "album",
+        link: "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY",
+        comment: "Github Action"
+    },
+    {
         title: "Journey To The Centre Of The Eye",
         author: "Nektar",
         cover: "https://i.scdn.co/image/ab67616d0000b2730ff11ff76a35504c0d470a37",
