@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Germ Free Adolescents",
+        author: "X-Ray Spex",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fd78a98986b1ec68f3010543",
+        kind: "album",
+        link: "https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa",
+        comment: "Github Action"
+    },
+    {
         title: "13 Songs",
         author: "Fugazi",
         cover: "https://i.scdn.co/image/ab67616d0000b273f18ce5dc5f6b0843d3acb3a1",
