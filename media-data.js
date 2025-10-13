@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Exciting Flash",
+        author: "TRIPLE FIRE",
+        cover: "https://i.scdn.co/image/ab67616d0000b273efcee292ad014d672e9bbb7d",
+        kind: "album",
+        link: "https://open.spotify.com/album/1uR0A58HkA7US9CV5CUzck",
+        comment: "Github Action"
+    },
+    {
         title: "Live at the Roxy Club",
         author: "X-Ray Spex",
         cover: "https://i.scdn.co/image/ab67616d0000b2730e93e276cfe9df24bb714ac3",
