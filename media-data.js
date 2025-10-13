@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Live at the Roxy Club",
+        author: "X-Ray Spex",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730e93e276cfe9df24bb714ac3",
+        kind: "album",
+        link: "https://open.spotify.com/album/1a6xx1PELDOg9XmijB9BRA",
+        comment: "Github Action"
+    },
+    {
         title: "Germ Free Adolescents",
         author: "X-Ray Spex",
         cover: "https://i.scdn.co/image/ab67616d0000b273fd78a98986b1ec68f3010543",
