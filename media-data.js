@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Nocturne",
+        author: "Siouxsie and the Banshees",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f4ae726d194e92575b6383e0",
+        kind: "album",
+        link: "https://open.spotify.com/album/2QVsC1yBvWEYafkP5cxmoR",
+        comment: "Github Action"
+    },
+    {
         title: "Exciting Flash",
         author: "TRIPLE FIRE",
         cover: "https://i.scdn.co/image/ab67616d0000b273efcee292ad014d672e9bbb7d",
