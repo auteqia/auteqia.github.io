@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Through The Looking Glass (Remastered And Expanded)",
+        author: "Siouxsie and the Banshees",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730db79a3a0711b3e5949cad1a",
+        kind: "album",
+        link: "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe",
+        comment: "Github Action"
+    },
+    {
         title: "Nocturne",
         author: "Siouxsie and the Banshees",
         cover: "https://i.scdn.co/image/ab67616d0000b273f4ae726d194e92575b6383e0",
