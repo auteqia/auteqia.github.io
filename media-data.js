@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Teenage Snuff Film",
+        author: "Rowland S. Howard",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730d29b61b4d8e488bc452c91b",
+        kind: "album",
+        link: "https://open.spotify.com/album/0oR9ExubKQrsbD3lnk6IF0",
+        comment: "Github Action"
+    },
+    {
         title: "Through The Looking Glass (Remastered And Expanded)",
         author: "Siouxsie and the Banshees",
         cover: "https://i.scdn.co/image/ab67616d0000b2730db79a3a0711b3e5949cad1a",
