@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "In the Flat Field",
+        author: "Bauhaus",
+        cover: "https://i.scdn.co/image/ab67616d0000b273752a1573f8cb8f700a98f405",
+        kind: "album",
+        link: "https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w",
+        comment: "Github Action"
+    },
+    {
         title: "Teenage Snuff Film",
         author: "Rowland S. Howard",
         cover: "https://i.scdn.co/image/ab67616d0000b2730d29b61b4d8e488bc452c91b",
