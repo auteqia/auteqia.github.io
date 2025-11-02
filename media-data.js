@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Rebel Yell",
+        author: "Billy Idol",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
+        kind: "album",
+        link: "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj",
+        comment: "Github Action"
+    },
+    {
         title: "In the Flat Field",
         author: "Bauhaus",
         cover: "https://i.scdn.co/image/ab67616d0000b273752a1573f8cb8f700a98f405",
