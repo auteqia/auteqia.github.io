@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Burning from the Inside",
+        author: "Bauhaus",
+        cover: "https://i.scdn.co/image/ab67616d0000b27342ae5adff53514870d55614b",
+        kind: "album",
+        link: "https://open.spotify.com/album/7oaHUMs14oldwahz1WaVaR",
+        comment: "Github Action"
+    },
+    {
         title: "Rebel Yell",
         author: "Billy Idol",
         cover: "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
