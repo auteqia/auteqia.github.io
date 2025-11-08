@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Marquee Moon",
+        author: "Television",
+        cover: "https://i.scdn.co/image/ab67616d0000b27318b36d985b0ae01163ca9cf6",
+        kind: "album",
+        link: "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP",
+        comment: "Github Action"
+    },
+    {
         title: "Burning from the Inside",
         author: "Bauhaus",
         cover: "https://i.scdn.co/image/ab67616d0000b27342ae5adff53514870d55614b",
