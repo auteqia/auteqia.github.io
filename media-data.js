@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Best Of",
+        author: "Joy Division",
+        cover: "https://i.scdn.co/image/ab67616d0000b27365792edb445d4a107dbe97fd",
+        kind: "album",
+        link: "https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe",
+        comment: "Github Action"
+    },
+    {
         title: "Marquee Moon",
         author: "Television",
         cover: "https://i.scdn.co/image/ab67616d0000b27318b36d985b0ae01163ca9cf6",
