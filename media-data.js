@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Transmission",
+        author: "Joy Division",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c5d8dac0b019953e2e00151e",
+        kind: "album",
+        link: "https://open.spotify.com/album/51BKPr5L8cGZGk9bl9Jf5L",
+        comment: "Github Action"
+    },
+    {
         title: "The Best Of",
         author: "Joy Division",
         cover: "https://i.scdn.co/image/ab67616d0000b27365792edb445d4a107dbe97fd",
