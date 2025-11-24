@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Out Of Our Heads",
+        author: "The Rolling Stones",
+        cover: "https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ",
+        comment: "Github Action"
+    },
+    {
         title: "Transmission",
         author: "Joy Division",
         cover: "https://i.scdn.co/image/ab67616d0000b273c5d8dac0b019953e2e00151e",
