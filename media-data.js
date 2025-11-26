@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Taking Tiger Mountain (By Strategy) [2004 Remaster]",
+        author: "Brian Eno",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732bb53cf37575af8cc5078608",
+        kind: "album",
+        link: "https://open.spotify.com/album/1IMbtEVdtaFz0PPiq4brLZ",
+        comment: "Github Action"
+    },
+    {
         title: "Out Of Our Heads",
         author: "The Rolling Stones",
         cover: "https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b",
