@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Substance",
+        author: "Joy Division",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a1d7fb161ce10fbd09b08183",
+        kind: "album",
+        link: "https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ",
+        comment: "Github Action"
+    },
+    {
         title: "Taking Tiger Mountain (By Strategy) [2004 Remaster]",
         author: "Brian Eno",
         cover: "https://i.scdn.co/image/ab67616d0000b2732bb53cf37575af8cc5078608",
