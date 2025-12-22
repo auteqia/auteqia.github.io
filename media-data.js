@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Cut (Deluxe Edition)",
+        author: "The Slits",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739ae7f031fd4906adc9bcedfe",
+        kind: "album",
+        link: "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0",
+        comment: "Github Action"
+    },
+    {
         title: "Substance",
         author: "Joy Division",
         cover: "https://i.scdn.co/image/ab67616d0000b273a1d7fb161ce10fbd09b08183",
