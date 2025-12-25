@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Ethiopian Modern Instrumentals Hits",
+        author: "Mulatu Astatke",
+        cover: "https://i.scdn.co/image/ab67616d0000b27331094d2c6dc2b8e86712d44e",
+        kind: "album",
+        link: "https://open.spotify.com/album/1YTZcRYwdoCjShTxXw9LgH",
+        comment: "Github Action"
+    },
+    {
         title: "Cut (Deluxe Edition)",
         author: "The Slits",
         cover: "https://i.scdn.co/image/ab67616d0000b2739ae7f031fd4906adc9bcedfe",
