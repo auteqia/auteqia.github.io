@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Chronicle: 20 Greatest Hits",
+        author: "Creedence Clearwater Revival",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735b18abb5facf12c82192bda7",
+        kind: "album",
+        link: "https://open.spotify.com/album/03GKkfyog7hnllilFS3jIV",
+        comment: "Github Action"
+    },
+    {
         title: "Ethiopian Modern Instrumentals Hits",
         author: "Mulatu Astatke",
         cover: "https://i.scdn.co/image/ab67616d0000b27331094d2c6dc2b8e86712d44e",
