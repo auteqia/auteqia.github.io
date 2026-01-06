@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Meddle",
+        author: "Pink Floyd",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739eee212bba82bed8da96a8f7",
+        kind: "album",
+        link: "https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb",
+        comment: "Github Action"
+    },
+    {
         title: "Chronicle: 20 Greatest Hits",
         author: "Creedence Clearwater Revival",
         cover: "https://i.scdn.co/image/ab67616d0000b2735b18abb5facf12c82192bda7",
