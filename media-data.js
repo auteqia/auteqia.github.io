@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Pop Crimes",
+        author: "Rowland S. Howard",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ccd0008e34cc88a6e161f2d4",
+        kind: "album",
+        link: "https://open.spotify.com/album/1gB7a0JEksgtn0TTX89kMD",
+        comment: "Github Action"
+    },
+    {
         title: "Meddle",
         author: "Pink Floyd",
         cover: "https://i.scdn.co/image/ab67616d0000b2739eee212bba82bed8da96a8f7",
