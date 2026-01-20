@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "20th Century Masters: The Millennium Collection: Best of Rare Earth",
+        author: "Rare Earth",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fed3e5b25d3f96d65c89f070",
+        kind: "album",
+        link: "https://open.spotify.com/album/1ZGgORimJho0JHlz7slLpb",
+        comment: "Github Action"
+    },
+    {
+        title: "Miami (Remastered 2020)",
+        author: "The Gun Club",
+        cover: "https://i.scdn.co/image/ab67616d0000b27307551f831733da4cc6d398ee",
+        kind: "album",
+        link: "https://open.spotify.com/album/13VswLN6aR21TxQPNMbJdo",
+        comment: "Github Action"
+    },
+    {
+        title: "The Bees Made Honey In The Lion's Skull",
+        author: "Earth",
+        cover: "https://i.scdn.co/image/ab67616d0000b273719535a95e9aefe38f2eb7d4",
+        kind: "album",
+        link: "https://open.spotify.com/album/7JjgvQWsLpIAvwgj2QtxAP",
+        comment: "Github Action"
+    },
+    {
+        title: "Damned Damned Damned (Bonus Tracks Version)",
+        author: "The Damned",
+        cover: "https://i.scdn.co/image/ab67616d0000b27392f7225fcf3d2c3482fb93ec",
+        kind: "album",
+        link: "https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2",
+        comment: "Github Action"
+    },
+    {
+        title: "Red Hot Chili Peppers",
+        author: "Red Hot Chili Peppers",
+        cover: "https://i.scdn.co/image/ab67616d0000b27329e7d4966ce2ec927224b730",
+        kind: "album",
+        link: "https://open.spotify.com/album/5QxFTj8ar3blXVyVEo2rxD",
+        comment: "Github Action"
+    },
+    {
         title: "The Uplift Mofo Party Plan",
         author: "Red Hot Chili Peppers",
         cover: "https://i.scdn.co/image/ab67616d0000b273ef0aaa5b8cd65ec81d22b3d9",
