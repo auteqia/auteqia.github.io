@@ -3669,14 +3669,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Goo",
-        cover: "https://i.scdn.co/image/ab67616d00001e02b690940b6544fb39bf3653d2",
-        rating: 5,
-        author: "Sonic Youth",
-        link: "https://open.spotify.com/intl-fr/album/5iYYQwB0oH9FVyVlaOXZdr?si=1e921b075c6f4485",
-        kind: "album"
-    },
-    {
         title: "eps 1988-1991 and rare tracks",
         cover: "https://i.scdn.co/image/ab67616d00001e02140e779a7eae66860d27e79d",
         rating: 5,
@@ -3911,14 +3903,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Rebell Yell",
-        cover: "https://i.scdn.co/image/ab67616d00001e02ea07dca8b4ca808c1e5b17fb",
-        rating: 5,
-        author: "Billy Idol",
-        link: "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj?si=Zs0zvPmnSAmEIBsI2Yk8bA",
-        kind: "album"
-    },
-    {
         title: "Alive 2007",
         cover: "https://i.scdn.co/image/ab67616d00001e02673288fb985e5c194536ae27",
         rating: 5,
@@ -4004,14 +3988,6 @@ const mediaLibrary = [
         rating: 5,
         author: "The Pretty Things",
         link: "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK?si=34alwmBrQvWilRyjLXdyVA",
-        kind: "album"
-    },
-    {
-        title: "She Wants Revenge",
-        cover: "https://i.scdn.co/image/ab67616d00001e02717f38200c8370df83f6364b",
-        rating: 5,
-        author: "She Wants Revenge",
-        link: "https://open.spotify.com/album/3S41D3x5NUwlVOuUNwoZ16?si=n5USH2MnS_GaE6lC62CZSg",
         kind: "album"
     },
     {
@@ -4260,15 +4236,6 @@ const mediaLibrary = [
         link: "https://open.spotify.com/album/2o926sodjWyP9IBahD5YoF?si=bntg5ZSZTBOslu76RKtDsg",
         kind: "album"
     },
-
-    {
-        title: "Loaded: Re-Loaded",
-        cover: "https://i.scdn.co/image/ab67616d00001e025816a37263f88929907c2dbd",
-        rating: 5,
-        author: "The Velvet Underground",
-        link: "https://open.spotify.com/album/1jYzTZV1cQXE89zA9ZSUpE?si=ZCPLSVpDRpq4bJoHy1cIng",
-        kind: "album"
-    },
     {
         title: "Forest of Lost Children",
         cover: "https://i.scdn.co/image/ab67616d00001e02fd632c6df018130724e2fc57",
@@ -4460,15 +4427,6 @@ const mediaLibrary = [
         link: "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ?si=Y79Zvg-mS9K9VLIkkC5YHQ",
         kind: "album"
     },
-    {
-        title: "Axis: Bold as Love",
-        cover: "https://i.scdn.co/image/ab67616d0000b2737a94db8056a761764c01dd84",
-        rating: 5,
-        author: "Jimi Hendrix",
-        link: "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r?si=FIwYZPDpRaOr4QMjdtpF9Q",
-        kind: "album"
-    },
-
     {
         title: "The Roaring Silence",
         cover: "https://i.scdn.co/image/ab67616d00001e02f7a46588d1f34cd32e670bb4",
@@ -4662,14 +4620,6 @@ const mediaLibrary = [
         rating: 5,
         author: "David Bowie",
         link: "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l?si=Qy4swGxXST2qBPSB-oJwcQ",
-        kind: "album"
-    },
-    {
-        title: "Heroes",
-        cover: "https://i.scdn.co/image/ab67616d00001e02204f41d52743c6a9efd62985",
-        rating: 5,
-        author: "David Bowie",
-        link: "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk?si=psS1yFWxQFSk92vAm7kgeg",
         kind: "album"
     },
     {
@@ -5110,25 +5060,12 @@ const mediaLibrary = [
         link: "https://open.spotify.com/intl-fr/album/1ZH5g1RDq3GY1OvyD0w0s2?si=6s_sQWILRSyUI2RnmQzdcw",
         kind: "album"
     },
- 
-
-
-    
     {
         title: "The Dark Side of the Moon",
         cover: "https://i.scdn.co/image/ab67616d00001e02ea7caaff71dea1051d49b2fe",
         rating: 5,
         author: "Pink Floyd",
         link: "https://open.spotify.com/intl-fr/album/4LH4d3cOWNNsVw41Gqt2kv?si=75aagTgNTKmeUVkMB-gLbQ",
-        kind: "album"
-    },
-
-    {
-        title: "Wish You Were Here",
-        cover: "https://i.scdn.co/image/ab67616d00001e021a84d71391df7469c5ab8539",
-        rating: 5,
-        author: "Pink Floyd",
-        link: "https://open.spotify.com/intl-fr/album/0bCAjiUamIFqKJsekOYuRw?si=Nf26sVZpQSeQ2Jr5d2Jnyw",
         kind: "album"
     },
     {
@@ -5687,14 +5624,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "El Nervio Del Volcan",
-        cover: "https://i.scdn.co/image/ab67616d00001e0236aeaab4dc91a8dea53a2d8f",
-        rating: 5,
-        author: "Caifanes",
-        link: "https://open.spotify.com/intl-fr/album/2mPZNQNgW1zrkIPyL9XJcf?si=QBEYYMgiTxaC0r91sQcKYw",
-        kind: "album"
-    },
-    {
         title: "Mexican Spaghetti Western",
         cover: "https://i.scdn.co/image/ab67616d00001e0290300d07d1a39796b7acb59e",
         rating: 5,
@@ -5716,38 +5645,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Santana",
         link: "https://open.spotify.com/intl-fr/album/0abfpuzzbTUNxasNmX04RU?si=kmxBXf6ERpOETrTmyG7qOQ",
-        kind: "album"
-    },
-    {
-        title: "Abraxas",
-        cover: "https://i.scdn.co/image/ab67616d00001e02f1594eeff2ea90e0f3873919",
-        rating: 5,
-        author: "Santana",
-        link: "https://open.spotify.com/intl-fr/album/1CHUXwuge9A7L2KiA3vnR6?si=l_4SLM0nQJSeIDbDLFJx2w",
-        kind: "album"
-    },
-    {
-        title: "White Light / White Heat",
-        cover: "https://i.scdn.co/image/ab67616d00001e027195c4f5f2f4a8236748baaf",
-        rating: 5,
-        author: "The Velvet Underground",
-        link: "https://open.spotify.com/intl-fr/album/0HHmJpwOXXRJu9HI9iQiEO?si=YewDA53CSi6J0glrn_Oygw",
-        kind: "album"
-    },
-    {
-        title: "The Velvet Underground & Nico",
-        cover: "https://i.scdn.co/image/ab67616d00001e0298260c528e6eec9dd431c1d7",
-        rating: 5,
-        author: "The Velvet Underground",
-        link: "https://open.spotify.com/intl-fr/album/4xwx0x7k6c5VuThz5qVqmV?si=SDccqI_WSW6g66e2CwxK7w",
-        kind: "album"
-    },
-    {
-        title: "1969 Velvet Underground Live With Lou Reed",
-        cover: "https://i.scdn.co/image/ab67616d00001e024636cb38b21d2db52a4cdc5b",
-        rating: 5,
-        author: "The Velvet Underground",
-        link: "https://open.spotify.com/intl-fr/album/2ChY6jtKcJAxCBN5Lu6nx8?si=Am2b8mEPT8-QGSaDANpLjg",
         kind: "album"
     },
     {
@@ -5828,14 +5725,6 @@ const mediaLibrary = [
         rating: 5,
         author: "CHELABÔM",
         link: "https://open.spotify.com/intl-fr/album/1ms1LL4S7ug6xDm5eELmvD?si=HzrjVY5TRhCu-1P2_r6sdQ",
-        kind: "album"
-    },
-    {
-        title: "Different Class",
-        cover: "https://i.scdn.co/image/ab67616d00001e02fd952bece8f049dbcd7df93f",
-        rating: 5,
-        author: "Pulp",
-        link: "https://open.spotify.com/intl-fr/album/3ly9T2L4pqTZijFgQssd3x?si=ZXbl1O4fQcC4xvGXrwRzvg",
         kind: "album"
     },
     {
@@ -5959,14 +5848,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Substance",
-        cover: "https://i.scdn.co/image/ab67616d00001e023c182241fcd86aeca2c68a63",
-        rating: 5,
-        author: "New Order",
-        link: "https://open.spotify.com/intl-fr/album/6iHuSGy6pq4tNGFV3ZVPtl?si=YZGtIPoIRtehX6_k_sQM6A",
-        kind: "album"
-    },
-    {
         title: "Power Corruption",
         cover: "https://i.scdn.co/image/ab67616d00001e02a0bb93884823982d57cb2004",
         rating: 5,
@@ -5996,14 +5877,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Fugazi",
         link: "https://open.spotify.com/intl-fr/album/1owNOVlXTqmDVo4M2Z20uk?si=HjZxjH1iTMKv5RPRevG4TQ",
-        kind: "album"
-    },
-    {
-        title: "13 Songs",
-        cover: "https://i.scdn.co/image/ab67616d00001e02f18ce5dc5f6b0843d3acb3a1",
-        rating: 5,
-        author: "Fugazi",
-        link: "https://open.spotify.com/intl-fr/album/1FcRwT7uoNdO8L9wbYsfAY?si=hCbB_gbwSvCN4uWh5VJb_w",
         kind: "album"
     },
     {
@@ -6093,14 +5966,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Various Artists",
         link: "https://open.spotify.com/intl-fr/album/2jzoM56c7kGgQKqFT7Ymu6?si=smFKBpVdTBWAWaDj7mz6pw",
-        kind: "album"
-    },
-    {
-        title: "Rather Ripped",
-        cover: "https://i.scdn.co/image/ab67616d00001e023a20c408851e76530edfa0b8",
-        rating: 5,
-        author: "Sonic Youth",
-        link: "https://open.spotify.com/intl-fr/album/57V5TA5DLxNvwPCPyXW1tB?si=HeUULV3kRQ2CHsMVQqbVWQ",
         kind: "album"
     },
     {
@@ -6205,14 +6070,6 @@ const mediaLibrary = [
         rating: 5,
         author: "The Strokes",
         link: "https://open.spotify.com/intl-fr/album/2xkZV2Hl1Omi8rk2D7t5lN?si=jS5-E4HfQlCVza19OcarPg",
-        kind: "album"
-    },
-    {
-        title: "The Glow, Pt. 2",
-        cover: "https://i.scdn.co/image/ab67616d00001e0200c91ccec6800014b8513717",
-        rating: 5,
-        author: "The Microphones",
-        link: "https://open.spotify.com/intl-fr/album/6QYoRO2sXThCORAifrP4Bl?si=o7IeNKHfSgSWzNeylJvY7Q",
         kind: "album"
     },
     {
