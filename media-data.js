@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Skeleton Tree",
+        author: "Nick Cave & The Bad Seeds",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c6717b509793bb27da38809f",
+        kind: "album",
+        link: "https://open.spotify.com/album/7bCVL7M7T5hz7x0OX9e32S",
+        comment: "Github Action"
+    },
+    {
+        title: "Flaming Hot Cheetos",
+        author: "Clairo",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a0ab52f567fc6d4edff8ca77",
+        kind: "album",
+        link: "https://open.spotify.com/album/7r4hiK0374MEgTiD5KRDMS",
+        comment: "Github Action"
+    },
+    {
+        title: "From Her to Eternity (2009 - Remaster)",
+        author: "Nick Cave & The Bad Seeds",
+        cover: "https://i.scdn.co/image/ab67616d0000b273391e95a5e0586bb530a99694",
+        kind: "album",
+        link: "https://open.spotify.com/album/5XWZDaQXTMUnXAzyBbpR7P",
+        comment: "Github Action"
+    },
+    {
         title: "20th Century Masters: The Millennium Collection: Best of Rare Earth",
         author: "Rare Earth",
         cover: "https://i.scdn.co/image/ab67616d0000b273fed3e5b25d3f96d65c89f070",
