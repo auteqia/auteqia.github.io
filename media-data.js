@@ -88,6 +88,14 @@ const mediaLibrary = [
         comment: "Github Action"
     },
     {
+        title: ""Heroes" (2017 Remaster)",
+        author: "David Bowie",
+        cover: "https://i.scdn.co/image/ab67616d0000b273204f41d52743c6a9efd62985",
+        kind: "album",
+        link: "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk",
+        comment: "Github Action"
+    },
+    {
         title: '"Heroes" (2017 Remaster)',
         author: "David Bowie",
         cover: "https://i.scdn.co/image/ab67616d0000b273204f41d52743c6a9efd62985",
