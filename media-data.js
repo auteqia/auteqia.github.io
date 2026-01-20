@@ -1,5 +1,61 @@
 const mediaLibrary = [
     {
+        title: "The Uplift Mofo Party Plan",
+        author: "Red Hot Chili Peppers",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ef0aaa5b8cd65ec81d22b3d9",
+        kind: "album",
+        link: "https://open.spotify.com/album/3rHJQrfEcBeSaLPuLwKR6F",
+        comment: "Github Action"
+    },
+    {
+        title: "Blood Sugar Sex Magik (Deluxe Edition)",
+        author: "Red Hot Chili Peppers",
+        cover: "https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70",
+        kind: "album",
+        link: "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg",
+        comment: "Github Action"
+    },
+    {
+        title: "Californication (Deluxe Edition)",
+        author: "Red Hot Chili Peppers",
+        cover: "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi",
+        comment: "Github Action"
+    },
+    {
+        title: "Are You Dead Yet?",
+        author: "Children Of Bodom",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ce9a832a591230fe36a06725",
+        kind: "album",
+        link: "https://open.spotify.com/album/79DzJ47LPkstBgi1Hu5Opm",
+        comment: "Github Action"
+    },
+    {
+        title: "One Hot Minute (Deluxe Edition)",
+        author: "Red Hot Chili Peppers",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737f3dcf99224570b053294ccf",
+        kind: "album",
+        link: "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi",
+        comment: "Github Action"
+    },
+    {
+        title: "Charm",
+        author: "Clairo",
+        cover: "https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78",
+        kind: "album",
+        link: "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i",
+        comment: "Github Action"
+    },
+    {
+        title: "Les voyages de l'âme",
+        author: "Alcest",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739fa82cf8515e7539291a7d8e",
+        kind: "album",
+        link: "https://open.spotify.com/album/1yENAh14y99tcC6No2mXWl",
+        comment: "Github Action"
+    },
+    {
         title: "It Is Finished (Expanded Edition)",
         author: "Nina Simone",
         cover: "https://i.scdn.co/image/ab67616d0000b273122155347136d780a30f1f16",
