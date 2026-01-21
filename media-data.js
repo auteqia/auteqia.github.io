@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "The Scream",
+        author: "Siouxsie and the Banshees",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cb4e1c73374d57fb79cba06f",
+        kind: "album",
+        link: "https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4",
+        comment: "Github Action"
+    },
+    {
+        title: "Never Mind The Bollocks, Here's The Sex Pistols",
+        author: "Sex Pistols",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d0f19de33459c832e50d6ecd",
+        kind: "album",
+        link: "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2",
+        comment: "Github Action"
+    },
+    {
         title: "Skeleton Tree",
         author: "Nick Cave & The Bad Seeds",
         cover: "https://i.scdn.co/image/ab67616d0000b273c6717b509793bb27da38809f",
