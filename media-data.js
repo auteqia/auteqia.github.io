@@ -1,5 +1,61 @@
 const mediaLibrary = [
     {
+        title: "Arkhaiomelisidonophunikheratos",
+        author: "Satanicpornocultshop",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a04ab67781fd7f5fcd9f243f",
+        kind: "album",
+        link: "https://open.spotify.com/album/3Sb2zffOmDnzLhDrMboXAq",
+        comment: "Github Action"
+    },
+    {
+        title: "Cactus",
+        author: "Cactus",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737602f903186061dc47d6e11b",
+        kind: "album",
+        link: "https://open.spotify.com/album/1Hs4Kz6PfVJD1M14uXd4h6",
+        comment: "Github Action"
+    },
+    {
+        title: "Full Circle",
+        author: "The Doors",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a217433125ab8324ce5f7e09",
+        kind: "album",
+        link: "https://open.spotify.com/album/26Fac6kNgB6MLeoGVkmpKN",
+        comment: "Github Action"
+    },
+    {
+        title: "Soaring",
+        author: "Puzzle",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739e54c15c0947e01e0e7238c7",
+        kind: "album",
+        link: "https://open.spotify.com/album/3piPM3MXYU1wmB9yz7UHcQ",
+        comment: "Github Action"
+    },
+    {
+        title: "The Way of Ging",
+        author: "Frank Dukes",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734694d86112e7c000a0c66c73",
+        kind: "album",
+        link: "https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d",
+        comment: "Github Action"
+    },
+    {
+        title: "Swimming",
+        author: "Mac Miller",
+        cover: "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+        kind: "album",
+        link: "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk",
+        comment: "Github Action"
+    },
+    {
+        title: "Solid State Survivor",
+        author: "YELLOW MAGIC ORCHESTRA",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c70aa05c55b6fb116863f6f5",
+        kind: "album",
+        link: "https://open.spotify.com/album/5TmpFE7Xus70ko1QYGxFIe",
+        comment: "Github Action"
+    },
+    {
         title: "Ready to Die (The Remaster)",
         author: "The Notorious B.I.G.",
         cover: "https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830",
