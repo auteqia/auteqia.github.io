@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "Ready to Die (The Remaster)",
+        author: "The Notorious B.I.G.",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830",
+        kind: "album",
+        link: "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2",
+        comment: "Github Action"
+    },
+    {
+        title: "Spurts: The Richard Hell Story (2013 Remaster)",
+        author: "Richard Hell",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a29e55234e00945e97fefab0",
+        kind: "album",
+        link: "https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF",
+        comment: "Github Action"
+    },
+    {
+        title: "Let Them Be Alien",
+        author: "Lebanon Hanover",
+        cover: "https://i.scdn.co/image/ab67616d0000b27315b983b272d3f57e6733769d",
+        kind: "album",
+        link: "https://open.spotify.com/album/2B4yimComfSz959d10wOkx",
+        comment: "Github Action"
+    },
+    {
+        title: "I Had Too Much To Dream (Last Night)",
+        author: "The Electric Prunes",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733930d4953ac00bf00a23588d",
+        kind: "album",
+        link: "https://open.spotify.com/album/1k3ldWSHD1BwUVHGiFMhyw",
+        comment: "Github Action"
+    },
+    {
         title: "Diamond Dogs (2016 Remaster)",
         author: "David Bowie",
         cover: "https://i.scdn.co/image/ab67616d0000b273ad22c83a6e1567f8453c32b3",
