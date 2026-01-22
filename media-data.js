@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "The It Girl",
+        author: "Sleeper",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d8a68335f412ba872b94a115",
+        kind: "album",
+        link: "https://open.spotify.com/album/1GZ048oNeb3cMvWnUmG70l",
+        comment: "Github Action"
+    },
+    {
+        title: "Premiers Symptômes",
+        author: "Air",
+        cover: "https://i.scdn.co/image/ab67616d0000b273988970b40aca1d4cfb3edc3d",
+        kind: "album",
+        link: "https://open.spotify.com/album/3g9O7pvuaaFRvdzsoSJXVc",
+        comment: "Github Action"
+    },
+    {
         title: "Beats, Rhymes & Life",
         author: "A Tribe Called Quest",
         cover: "https://i.scdn.co/image/ab67616d0000b273e3b93c08d98f92dc3ab0146a",
