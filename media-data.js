@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "II",
+        author: "Kingston Wall",
+        cover: "https://i.scdn.co/image/ab67616d0000b27367e7bf918daf4a8bb189e91e",
+        kind: "album",
+        link: "https://open.spotify.com/album/2kAaF7jQFJBIFkw29Kk4a0",
+        comment: "Github Action"
+    },
+    {
         title: "The Captain's Birthday Party (Live at The Roundhouse)",
         author: "The Damned",
         cover: "https://i.scdn.co/image/ab67616d0000b2739c9be62f787252fa920ba72e",
