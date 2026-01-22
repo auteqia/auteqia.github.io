@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Beats, Rhymes & Life",
+        author: "A Tribe Called Quest",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e3b93c08d98f92dc3ab0146a",
+        kind: "album",
+        link: "https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb",
+        comment: "Github Action"
+    },
+    {
+        title: "Silent Cries And Mighty Echoes (Remastered 2019)",
+        author: "Eloy",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b4fb31db30c04a9e2f7626eb",
+        kind: "album",
+        link: "https://open.spotify.com/album/2r2xRCQbhNanjDfa6YunIR",
+        comment: "Github Action"
+    },
+    {
+        title: "In the Aeroplane Over the Sea",
+        author: "Neutral Milk Hotel",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bc1e41eed3ddbdfff6f2d74b",
+        kind: "album",
+        link: "https://open.spotify.com/album/17q5eeNk3HAjX1gzQnkTX7",
+        comment: "Github Action"
+    },
+    {
         title: "Arkhaiomelisidonophunikheratos",
         author: "Satanicpornocultshop",
         cover: "https://i.scdn.co/image/ab67616d0000b273a04ab67781fd7f5fcd9f243f",
