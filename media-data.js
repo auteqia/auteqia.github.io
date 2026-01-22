@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "The Captain's Birthday Party (Live at The Roundhouse)",
+        author: "The Damned",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739c9be62f787252fa920ba72e",
+        kind: "album",
+        link: "https://open.spotify.com/album/0WzYoPdSs3EMGJKgVEf48u",
+        comment: "Github Action"
+    },
+    {
+        title: "Miki Matsubara Best Collection",
+        author: "Miki Matsubara",
+        cover: "https://i.scdn.co/image/ab67616d0000b27328f0710ec7ce0daf805edda1",
+        kind: "album",
+        link: "https://open.spotify.com/album/2HkcpRkF6GvlILQzFayrss",
+        comment: "Github Action"
+    },
+    {
         title: "The It Girl",
         author: "Sleeper",
         cover: "https://i.scdn.co/image/ab67616d0000b273d8a68335f412ba872b94a115",
