@@ -1,5 +1,53 @@
 const mediaLibrary = [
     {
+        title: "Diamond Dogs (2016 Remaster)",
+        author: "David Bowie",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ad22c83a6e1567f8453c32b3",
+        kind: "album",
+        link: "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3",
+        comment: "Github Action"
+    },
+    {
+        title: "Bout des doigts",
+        author: "The Brian Jonestown Massacre",
+        cover: "https://i.scdn.co/image/ab67616d0000b273536e67fb3f1f7d7b223358da",
+        kind: "album",
+        link: "https://open.spotify.com/album/0BuDbA3eguLeJbvnfT7oSo",
+        comment: "Github Action"
+    },
+    {
+        title: "Twilight",
+        author: "Corpus Delicti",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735e49eb4419e6686146fb0afe",
+        kind: "album",
+        link: "https://open.spotify.com/album/3DbUHinFQsQR1J3c932HJ6",
+        comment: "Github Action"
+    },
+    {
+        title: "Sylphes",
+        author: "Corpus Delicti",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f569851e975e4e0e74072ad3",
+        kind: "album",
+        link: "https://open.spotify.com/album/5QqKB6WJvvGrAYDQJb7J3W",
+        comment: "Github Action"
+    },
+    {
+        title: "Rue de Siam",
+        author: "Marquis De Sade",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b13b98a3f80ea48832f724d7",
+        kind: "album",
+        link: "https://open.spotify.com/album/4ynoRqThe3IZRQVVPASHgn",
+        comment: "Github Action"
+    },
+    {
+        title: "Lesser Man EP",
+        author: "Boy Harsher",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730c470be4b22b8a8a75223a01",
+        kind: "album",
+        link: "https://open.spotify.com/album/3A0q6JgJ9jky4VRJnCDxC3",
+        comment: "Github Action"
+    },
+    {
         title: "The Scream",
         author: "Siouxsie and the Banshees",
         cover: "https://i.scdn.co/image/ab67616d0000b273cb4e1c73374d57fb79cba06f",
