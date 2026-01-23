@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        author: "The Beatles",
+        cover: "https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a",
+        kind: "album",
+        link: "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW",
+        comment: "Github Action"
+    },
+    {
         title: "Pocket Park (Remastered)",
         author: "Miki Matsubara",
         cover: "https://i.scdn.co/image/ab67616d0000b273f8c3df40fb06eb459e1d0a08",
