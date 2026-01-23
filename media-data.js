@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Beatles 1967 – 1970 (2023 Edition)",
+        author: "The Beatles",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732ad20d4688bdc999413ece39",
+        kind: "album",
+        link: "https://open.spotify.com/album/2AlPRfYeskAMxhJS00xjeP",
+        comment: "Github Action"
+    },
+    {
         title: "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
         author: "The Beatles",
         cover: "https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a",
