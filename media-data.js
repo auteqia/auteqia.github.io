@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Pocket Park (Remastered)",
+        author: "Miki Matsubara",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f8c3df40fb06eb459e1d0a08",
+        kind: "album",
+        link: "https://open.spotify.com/album/48I17j8JwxGEe2FQAiQ75P",
+        comment: "Github Action"
+    },
+    {
         title: "II",
         author: "Kingston Wall",
         cover: "https://i.scdn.co/image/ab67616d0000b27367e7bf918daf4a8bb189e91e",
