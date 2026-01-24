@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Misery Is a Butterfly",
+        author: "Blonde Redhead",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734d928f0ae78513a5f042e20a",
+        kind: "album",
+        link: "https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK",
+        comment: "Github Action"
+    },
+    {
+        title: "Jeff Buckley: It's Never Over - Songs From the Film",
+        author: "Jeff Buckley",
+        cover: "https://i.scdn.co/image/ab67616d0000b27365d70fde5c35dc589133971c",
+        kind: "album",
+        link: "https://open.spotify.com/album/3KsJIXqeXBaZgKLnOSniO1",
+        comment: "Github Action"
+    },
+    {
         title: "For Your Pleasure",
         author: "Roxy Music",
         cover: "https://i.scdn.co/image/ab67616d0000b273707a76900ebe2c7f5fad3615",
