@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
+        author: "Mulatu Astatke",
+        cover: "https://i.scdn.co/image/ab67616d0000b27305ae534a661e44f25951e41b",
+        kind: "album",
+        link: "https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz",
+        comment: "Github Action"
+    },
+    {
+        title: "The Sky's Gone Out",
+        author: "Bauhaus",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734ce25ee455107469e158c5f6",
+        kind: "album",
+        link: "https://open.spotify.com/album/42L0285NmWnp6lF0Tf6uyw",
+        comment: "Github Action"
+    },
+    {
+        title: "On Fire",
+        author: "Galaxie 500",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736610d5c08e5b809ffb19b6d9",
+        kind: "album",
+        link: "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M",
+        comment: "Github Action"
+    },
+    {
+        title: "The Moon and the Melodies (2024 Remaster)",
+        author: "Cocteau Twins",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f510b1ab6184d8eecf6ba4bc",
+        kind: "album",
+        link: "https://open.spotify.com/album/3qEiWhSF2HO1NhVJVsGyZm",
+        comment: "Github Action"
+    },
+    {
         title: "Misery Is a Butterfly",
         author: "Blonde Redhead",
         cover: "https://i.scdn.co/image/ab67616d0000b2734d928f0ae78513a5f042e20a",
