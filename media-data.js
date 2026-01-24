@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Born In A Trailer: The Session & Rehearsal Tapes '72-'73",
+        author: "The Stooges",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f4434d527d41eb8be4c822aa",
+        kind: "album",
+        link: "https://open.spotify.com/album/4FZ7coZzAHNQBNh8rWn5M3",
+        comment: "Github Action"
+    },
+    {
         title: "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
         author: "Mulatu Astatke",
         cover: "https://i.scdn.co/image/ab67616d0000b27305ae534a661e44f25951e41b",
