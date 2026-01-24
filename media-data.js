@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "For Your Pleasure",
+        author: "Roxy Music",
+        cover: "https://i.scdn.co/image/ab67616d0000b273707a76900ebe2c7f5fad3615",
+        kind: "album",
+        link: "https://open.spotify.com/album/6gKMWnGptVs6yT2MgCxw29",
+        comment: "Github Action"
+    },
+    {
         title: "The Beatles 1967 – 1970 (2023 Edition)",
         author: "The Beatles",
         cover: "https://i.scdn.co/image/ab67616d0000b2732ad20d4688bdc999413ece39",
