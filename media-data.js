@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Pendulum (Expanded Edition)",
+        author: "Creedence Clearwater Revival",
+        cover: "https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91",
+        kind: "album",
+        link: "https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF",
+        comment: "Github Action"
+    },
+    {
         title: "Born In A Trailer: The Session & Rehearsal Tapes '72-'73",
         author: "The Stooges",
         cover: "https://i.scdn.co/image/ab67616d0000b273f4434d527d41eb8be4c822aa",
