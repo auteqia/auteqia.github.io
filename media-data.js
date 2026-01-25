@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Tragédie (Édition Deluxe)",
+        author: "Tragédie",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738f272f6d6af70eeaceaae96c",
+        kind: "album",
+        link: "https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH",
+        comment: "Github Action"
+    },
+    {
+        title: "2",
+        author: "Mac DeMarco",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739d377496c6bc8724b521222d",
+        kind: "album",
+        link: "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO",
+        comment: "Github Action"
+    },
+    {
         title: "One Of The Boys",
         author: "Katy Perry",
         cover: "https://i.scdn.co/image/ab67616d0000b273cd3978ebe35d93a07249b97f",
