@@ -1,5 +1,53 @@
 const mediaLibrary = [
     {
+        title: "Philippe Katerine",
+        author: "Philippe Katerine",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e00f02a767457543c709ae0d",
+        kind: "album",
+        link: "https://open.spotify.com/album/5IwuJEt22vrqQQl8Zgr5RJ",
+        comment: "Github Action"
+    },
+    {
+        title: "Electric Ladyland",
+        author: "Jimi Hendrix",
+        cover: "https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292",
+        kind: "album",
+        link: "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ",
+        comment: "Github Action"
+    },
+    {
+        title: "Deux frères",
+        author: "PNL",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736c3966c4dd0eb2273696fe16",
+        kind: "album",
+        link: "https://open.spotify.com/album/2JtKf1aFxqS0M3QIj98nG5",
+        comment: "Github Action"
+    },
+    {
+        title: "Jar Of Flies",
+        author: "Alice In Chains",
+        cover: "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+        kind: "album",
+        link: "https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc",
+        comment: "Github Action"
+    },
+    {
+        title: "Axis: Bold As Love",
+        author: "Jimi Hendrix",
+        cover: "https://i.scdn.co/image/ab67616d0000b27319dcd95d28b63d10164327f2",
+        kind: "album",
+        link: "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r",
+        comment: "Github Action"
+    },
+    {
+        title: "KiwiBunnyTape",
+        author: "nelick",
+        cover: "https://i.scdn.co/image/ab67616d0000b27346a6aea1fdafcd0eea3395ad",
+        kind: "album",
+        link: "https://open.spotify.com/album/66v3XGpXQbXK9jrS5JPZav",
+        comment: "Github Action"
+    },
+    {
         title: "NQNT33",
         author: "Vald",
         cover: "https://i.scdn.co/image/ab67616d0000b2732a1ad811f192d80b7f5da477",
