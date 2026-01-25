@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "Unplugged #1 : Bonne étoile",
+        author: "Sopico",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736bb2e0e001c4f95e25d915c5",
+        kind: "album",
+        link: "https://open.spotify.com/album/7fk9TOVmMDXI6CZYkGrJkM",
+        comment: "Github Action"
+    },
+    {
+        title: "Mona Bone Jakon (Remastered 2020)",
+        author: "Yusuf / Cat Stevens",
+        cover: "https://i.scdn.co/image/ab67616d0000b273dcc7d80ac24734a1d2cde062",
+        kind: "album",
+        link: "https://open.spotify.com/album/2XXF6pODroMYQ3qPmXeMB1",
+        comment: "Github Action"
+    },
+    {
+        title: "BLIZZARD",
+        author: "Fauve",
+        cover: "https://i.scdn.co/image/ab67616d0000b27399bb37b9b06dd1a963257c80",
+        kind: "album",
+        link: "https://open.spotify.com/album/1sOIemmP5Kff3k6pbW6PYp",
+        comment: "Github Action"
+    },
+    {
+        title: "Unplugged #4: La nuit",
+        author: "Sopico",
+        cover: "https://i.scdn.co/image/ab67616d0000b27301dddc0a9832ae2d2b01ae05",
+        kind: "album",
+        link: "https://open.spotify.com/album/5fFvZae9NmkvXjw5aDG1nR",
+        comment: "Github Action"
+    },
+    {
         title: "Longue Ride",
         author: "Muddy Monk",
         cover: "https://i.scdn.co/image/ab67616d0000b273ef149dfa002fbca7485f448b",
