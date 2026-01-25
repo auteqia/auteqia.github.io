@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "RPG",
+        author: "Sheldon",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738452c525b92ac2eae8977289",
+        kind: "album",
+        link: "https://open.spotify.com/album/40TBm14TDq053k4Vz6mCz7",
+        comment: "Github Action"
+    },
+    {
+        title: "Héra",
+        author: "Georgio",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737a244aadd50c45757b2f72bc",
+        kind: "album",
+        link: "https://open.spotify.com/album/433TMUyQRQcq1KmbvEfLvQ",
+        comment: "Github Action"
+    },
+    {
+        title: "Yeezus",
+        author: "Kanye West",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
+        kind: "album",
+        link: "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK",
+        comment: "Github Action"
+    },
+    {
+        title: "Feu",
+        author: "Nekfeu",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736ac7a439b043411a368f1a56",
+        kind: "album",
+        link: "https://open.spotify.com/album/7BgeK3jtk8GDlEwouUY3AG",
+        comment: "Github Action"
+    },
+    {
+        title: "Land",
+        author: "Kekra",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731144437260830c1ee0d76035",
+        kind: "album",
+        link: "https://open.spotify.com/album/5upnmUyQZdfLrVtZ31cW6Z",
+        comment: "Github Action"
+    },
+    {
         title: "Orelsan et Gringe sont les Casseurs Flowters",
         author: "Casseurs Flowters",
         cover: "https://i.scdn.co/image/ab67616d0000b2737e3da1103022c12cb530ca84",
