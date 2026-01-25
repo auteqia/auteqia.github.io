@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Au Baccara",
+        author: "Odezenne",
+        cover: "https://i.scdn.co/image/ab67616d0000b27317a41fd316b2f3107d4dc35f",
+        kind: "album",
+        link: "https://open.spotify.com/album/3FS3eNtEprLV3fUriJ7hU3",
+        comment: "Github Action"
+    },
+    {
+        title: "The Geeks and the Jerkin' Socks",
+        author: "Shaka Ponk",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ca679b02fa2cae0756cf9a31",
+        kind: "album",
+        link: "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK",
+        comment: "Github Action"
+    },
+    {
+        title: "Pouchkine",
+        author: "Odezenne",
+        cover: "https://i.scdn.co/image/ab67616d0000b27336309b27bac028c9238e189a",
+        kind: "album",
+        link: "https://open.spotify.com/album/7rJGtJY0medXqW1tmIVqWk",
+        comment: "Github Action"
+    },
+    {
+        title: "XEU",
+        author: "Vald",
+        cover: "https://i.scdn.co/image/ab67616d0000b27382f6c9fecc589fb8a1d506f9",
+        kind: "album",
+        link: "https://open.spotify.com/album/6oX7kNKqj9dwNk8i4btVcF",
+        comment: "Github Action"
+    },
+    {
+        title: "Premiers émois",
+        author: "Vendredi sur Mer",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736c3207ba7949291a8114b491",
+        kind: "album",
+        link: "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ",
+        comment: "Github Action"
+    },
+    {
         title: "Four To The Floor",
         author: "Starsailor",
         cover: "https://i.scdn.co/image/ab67616d0000b273c4dda44fca5b55b814ca33bc",
