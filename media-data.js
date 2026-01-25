@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Passage Flouté",
+        author: "TSR Crew",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e5df43681191f324b9f694c1",
+        kind: "album",
+        link: "https://open.spotify.com/album/2J4usCzViyjorpATarPkQc",
+        comment: "Github Action"
+    },
+    {
+        title: "XX5",
+        author: "Georgio",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c392703514d0c95f18072d21",
+        kind: "album",
+        link: "https://open.spotify.com/album/0dWuptHeO3Yz2E09IssSlD",
+        comment: "Github Action"
+    },
+    {
         title: "RPG",
         author: "Sheldon",
         cover: "https://i.scdn.co/image/ab67616d0000b2738452c525b92ac2eae8977289",
