@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Amped",
+        author: "Helen 55",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734cdf5dfa0589a4549beb680d",
+        kind: "album",
+        link: "https://open.spotify.com/album/7qhfjJygM3IBWym1PwQ7Nk",
+        comment: "Github Action"
+    },
+    {
         title: "Pendulum (Expanded Edition)",
         author: "Creedence Clearwater Revival",
         cover: "https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91",
