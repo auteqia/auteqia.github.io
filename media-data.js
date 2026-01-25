@@ -1,5 +1,53 @@
 const mediaLibrary = [
     {
+        title: "Revenge",
+        author: "XXXTENTACION",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735485ea186d6971e18fabcc2f",
+        kind: "album",
+        link: "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c",
+        comment: "Github Action"
+    },
+    {
+        title: "Marabout",
+        author: "Swing",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ec9743f8de6796134bc90846",
+        kind: "album",
+        link: "https://open.spotify.com/album/5QM5PNuseOuzOxerjcbrXB",
+        comment: "Github Action"
+    },
+    {
+        title: "La mise au poing",
+        author: "Davodka",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739c4776a74520542c0540d7c4",
+        kind: "album",
+        link: "https://open.spotify.com/album/6VkIERrbSegnwW8wQtXtGQ",
+        comment: "Github Action"
+    },
+    {
+        title: "Gospel",
+        author: "Rich Brian",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733556fa680f378833d4198aab",
+        kind: "album",
+        link: "https://open.spotify.com/album/2MFPpKhJCYBnz5ZCptYp61",
+        comment: "Github Action"
+    },
+    {
+        title: "XXXTENTACION Presents: Members Only, Vol. 3",
+        author: "XXXTENTACION",
+        cover: "https://i.scdn.co/image/ab67616d0000b27381e8dbcc784d8dbc7243ee0e",
+        kind: "album",
+        link: "https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn",
+        comment: "Github Action"
+    },
+    {
+        title: "A GHETTO CHRISTMAS CAROL",
+        author: "XXXTENTACION",
+        cover: "https://i.scdn.co/image/ab67616d0000b273938bd531c90d7bc2d15caebf",
+        kind: "album",
+        link: "https://open.spotify.com/album/03TZqOGHlyNTdHxsdOXIZX",
+        comment: "Github Action"
+    },
+    {
         title: "Passage Flouté",
         author: "TSR Crew",
         cover: "https://i.scdn.co/image/ab67616d0000b273e5df43681191f324b9f694c1",
