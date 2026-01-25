@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Batterie faible",
+        author: "Damso",
+        cover: "https://i.scdn.co/image/ab67616d0000b273212d9a86b02578a426bc97ca",
+        kind: "album",
+        link: "https://open.spotify.com/album/7g2jIRdNM2FjQp8PkAnsk9",
+        comment: "Github Action"
+    },
+    {
+        title: "?",
+        author: "XXXTENTACION",
+        cover: "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm",
+        comment: "Github Action"
+    },
+    {
+        title: "Come Over When You're Sober, Pt. 2",
+        author: "Lil Peep",
+        cover: "https://i.scdn.co/image/ab67616d0000b27355e36b0dc5b0ef008fc85319",
+        kind: "album",
+        link: "https://open.spotify.com/album/52JymrguPgkmmwLaWIusst",
+        comment: "Github Action"
+    },
+    {
+        title: "Campaign",
+        author: "Ty Dolla $ign",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736fde11f8428291d7d3db0c14",
+        kind: "album",
+        link: "https://open.spotify.com/album/7bSsdgWDh5VRI3ZVOXQEj4",
+        comment: "Github Action"
+    },
+    {
+        title: "With The Lights Out - Box Set",
+        author: "Nirvana",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733a95d96086fa3571727707d1",
+        kind: "album",
+        link: "https://open.spotify.com/album/784v2vgKR7tIuycQVzWMOg",
+        comment: "Github Action"
+    },
+    {
         title: "Philippe Katerine",
         author: "Philippe Katerine",
         cover: "https://i.scdn.co/image/ab67616d0000b273e00f02a767457543c709ae0d",
