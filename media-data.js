@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Longue Ride",
+        author: "Muddy Monk",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ef149dfa002fbca7485f448b",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Vw9HRx414fdEEamgNu1ty",
+        comment: "Github Action"
+    },
+    {
         title: "The Most Dear and The Future",
         author: "ear",
         cover: "https://i.scdn.co/image/ab67616d0000b273bf6d27f2f6f8a208de3b5b89",
