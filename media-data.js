@@ -1,5 +1,109 @@
 const mediaLibrary = [
     {
+        title: "Orelsan et Gringe sont les Casseurs Flowters",
+        author: "Casseurs Flowters",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737e3da1103022c12cb530ca84",
+        kind: "album",
+        link: "https://open.spotify.com/album/2TGMa7UcpLmLkPhn1p3Ff4",
+        comment: "Github Action"
+    },
+    {
+        title: "Flaque De Samples",
+        author: "Hugo TSR",
+        cover: "https://i.scdn.co/image/ab67616d0000b273892d3de145bed4de87ac2879",
+        kind: "album",
+        link: "https://open.spotify.com/album/3murZmpibg7KmMLrs8u2do",
+        comment: "Github Action"
+    },
+    {
+        title: "2K16",
+        author: "Columbine",
+        cover: "https://i.scdn.co/image/ab67616d0000b273315e13a23e449fe8ebb86463",
+        kind: "album",
+        link: "https://open.spotify.com/album/1RkkBP0GjDFbHilDy95dvd",
+        comment: "Github Action"
+    },
+    {
+        title: "Cyborg",
+        author: "Nekfeu",
+        cover: "https://i.scdn.co/image/ab67616d0000b27333cdb0285cbc0d7e627fe561",
+        kind: "album",
+        link: "https://open.spotify.com/album/0hM3g0iPnbEKKkGo9swdWe",
+        comment: "Github Action"
+    },
+    {
+        title: "Leviosa",
+        author: "Reymour",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e0c3ba5061e0d6a7b7148814",
+        kind: "album",
+        link: "https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3",
+        comment: "Github Action"
+    },
+    {
+        title: "It Was Written",
+        author: "Nas",
+        cover: "https://i.scdn.co/image/ab67616d0000b273886d823ecbfcbe661a6b0ab9",
+        kind: "album",
+        link: "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg",
+        comment: "Github Action"
+    },
+    {
+        title: "Adieu bientôt",
+        author: "Columbine",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733c6f879a565a96f2a5dc9436",
+        kind: "album",
+        link: "https://open.spotify.com/album/5fNY0RCCroHB1TxIQfB8ck",
+        comment: "Github Action"
+    },
+    {
+        title: "La face cachée de la lune",
+        author: "Senamo",
+        cover: "https://i.scdn.co/image/ab67616d0000b27340b2ed879373c4d2a5de9353",
+        kind: "album",
+        link: "https://open.spotify.com/album/1z93LsLkBV0cWGrtmyxMzQ",
+        comment: "Github Action"
+    },
+    {
+        title: "The Dead Texan",
+        author: "The Dead Texan",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d664d3700ca9af163be622d5",
+        kind: "album",
+        link: "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo",
+        comment: "Github Action"
+    },
+    {
+        title: "Hardcore",
+        author: "Odezenne",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731aa56b3f7c24fed671074d71",
+        kind: "album",
+        link: "https://open.spotify.com/album/4ajoihDTsuj9QJMrvhk1ac",
+        comment: "Github Action"
+    },
+    {
+        title: "En route pour la joie (Live à l'Elysée Montmartre / Mai 1991)",
+        author: "Noir Désir",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bb66e7ecdd364e3987c75492",
+        kind: "album",
+        link: "https://open.spotify.com/album/6NveQhQh8rkK1RjayE74px",
+        comment: "Github Action"
+    },
+    {
+        title: "Originul",
+        author: "Cadillac",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732b81509cefce0d84335a55f7",
+        kind: "album",
+        link: "https://open.spotify.com/album/5sptG4QOmUyNOum2Zr2Us8",
+        comment: "Github Action"
+    },
+    {
+        title: "Shadows",
+        author: "Shawn James",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730a9fc81f86d6a77ac042a1a2",
+        kind: "album",
+        link: "https://open.spotify.com/album/2xOSOv33mT55CRz3uhmmtg",
+        comment: "Github Action"
+    },
+    {
         title: "Au Baccara",
         author: "Odezenne",
         cover: "https://i.scdn.co/image/ab67616d0000b27317a41fd316b2f3107d4dc35f",
