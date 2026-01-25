@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "The Most Dear and The Future",
+        author: "ear",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bf6d27f2f6f8a208de3b5b89",
+        kind: "album",
+        link: "https://open.spotify.com/album/51h6ahBtJWl7emcB5yDSuU",
+        comment: "Github Action"
+    },
+    {
+        title: "Push The Button",
+        author: "The Chemical Brothers",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738e8f975a2b364769040c8169",
+        kind: "album",
+        link: "https://open.spotify.com/album/715rku55lldqdw9WiEuPgi",
+        comment: "Github Action"
+    },
+    {
         title: "Third",
         author: "Portishead",
         cover: "https://i.scdn.co/image/ab67616d0000b2732529c50c11cb07f6f9e3ab29",
