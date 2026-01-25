@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Four To The Floor",
+        author: "Starsailor",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c4dda44fca5b55b814ca33bc",
+        kind: "album",
+        link: "https://open.spotify.com/album/6UXbFDhwOmwxVBFJPC0L3x",
+        comment: "Github Action"
+    },
+    {
+        title: "Этажи",
+        author: "Molchat Doma",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d4549c0e601fbe7e8622a2f5",
+        kind: "album",
+        link: "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc",
+        comment: "Github Action"
+    },
+    {
+        title: "Late Registration",
+        author: "Kanye West",
+        cover: "https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2",
+        kind: "album",
+        link: "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g",
+        comment: "Github Action"
+    },
+    {
+        title: "Traum und Existenz",
+        author: "KOMPROMAT",
+        cover: "https://i.scdn.co/image/ab67616d0000b27357c3d153f5d17b8a69e3db14",
+        kind: "album",
+        link: "https://open.spotify.com/album/6ZBcgPRPkwoGbGBHFSrYHc",
+        comment: "Github Action"
+    },
+    {
+        title: "The Life Of Pablo",
+        author: "Kanye West",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+        kind: "album",
+        link: "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1",
+        comment: "Github Action"
+    },
+    {
         title: "Unplugged #1 : Bonne étoile",
         author: "Sopico",
         cover: "https://i.scdn.co/image/ab67616d0000b2736bb2e0e001c4f95e25d915c5",
