@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "One Of The Boys",
+        author: "Katy Perry",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cd3978ebe35d93a07249b97f",
+        kind: "album",
+        link: "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl",
+        comment: "Github Action"
+    },
+    {
+        title: "Koxie",
+        author: "Koxie",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b66fd9c62c631aff5bce06ea",
+        kind: "album",
+        link: "https://open.spotify.com/album/5aGNnDoH6dvXVTlhvKSbLJ",
+        comment: "Github Action"
+    },
+    {
+        title: "Polaroïd",
+        author: "Lord Esperanza",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736445c27870323251927eb9d5",
+        kind: "album",
+        link: "https://open.spotify.com/album/2xfTKZWE03ve8XJ5rhHGsr",
+        comment: "Github Action"
+    },
+    {
+        title: "Twin Fantasy (Mirror To Mirror)",
+        author: "Car Seat Headrest",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b64aa786c2c71462d39b3060",
+        kind: "album",
+        link: "https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI",
+        comment: "Github Action"
+    },
+    {
         title: "Batterie faible",
         author: "Damso",
         cover: "https://i.scdn.co/image/ab67616d0000b273212d9a86b02578a426bc97ca",
