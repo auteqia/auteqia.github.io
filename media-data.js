@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Roseland NYC Live",
+        author: "Portishead",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ebc6455b3ba773abc40119c0",
+        kind: "album",
+        link: "https://open.spotify.com/album/1Td5bSMxDrTIDAvxJQIo5t",
+        comment: "Github Action"
+    },
+    {
         title: "Amped",
         author: "Helen 55",
         cover: "https://i.scdn.co/image/ab67616d0000b2734cdf5dfa0589a4549beb680d",
