@@ -1,5 +1,61 @@
 const mediaLibrary = [
     {
+        title: "NQNT33",
+        author: "Vald",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732a1ad811f192d80b7f5da477",
+        kind: "album",
+        link: "https://open.spotify.com/album/44ihbsNXtt1hWP8PJtBgSP",
+        comment: "Github Action"
+    },
+    {
+        title: "YË",
+        author: "Sopico",
+        cover: "https://i.scdn.co/image/ab67616d0000b27378fc69493e27a13d6041b80d",
+        kind: "album",
+        link: "https://open.spotify.com/album/3lmo1lYRay0j9lEEVa18Ch",
+        comment: "Github Action"
+    },
+    {
+        title: "NQNT 2",
+        author: "Vald",
+        cover: "https://i.scdn.co/image/ab67616d0000b27350e142c3c948f8c356fc09b4",
+        kind: "album",
+        link: "https://open.spotify.com/album/5rSfVA2ufaFNRkCzMWyrYV",
+        comment: "Github Action"
+    },
+    {
+        title: "Dead Silence",
+        author: "Billy Talent",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b7ab7b26442be3eddf578cf0",
+        kind: "album",
+        link: "https://open.spotify.com/album/3i4mypxR5HcdQt3Az8BGnU",
+        comment: "Github Action"
+    },
+    {
+        title: "Mémoires vives",
+        author: "Grand Blanc",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732759a1b4517a52b1ae7223fb",
+        kind: "album",
+        link: "https://open.spotify.com/album/2sTH8SosI8ATvBJ06N2zA1",
+        comment: "Github Action"
+    },
+    {
+        title: "Rouler la nuit",
+        author: "Jazzy Bazz",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d1f5e4a53eac0f93373c4893",
+        kind: "album",
+        link: "https://open.spotify.com/album/18FMj9s2vXTCVTAGV6NScP",
+        comment: "Github Action"
+    },
+    {
+        title: "Clubbing For Columbine",
+        author: "Columbine",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739441c3e67708fb09b068702e",
+        kind: "album",
+        link: "https://open.spotify.com/album/22MJwnVPMcekoFNPlFxyfP",
+        comment: "Github Action"
+    },
+    {
         title: "Revenge",
         author: "XXXTENTACION",
         cover: "https://i.scdn.co/image/ab67616d0000b2735485ea186d6971e18fabcc2f",
