@@ -1,5 +1,301 @@
 const mediaLibrary = [
     {
+        title: "808s & Heartbreak",
+        author: "Kanye West",
+        cover: "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
+        kind: "album",
+        link: "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU",
+        comment: "Github Action"
+    },
+    {
+        title: "No Pussyfooting",
+        author: "Robert Fripp",
+        cover: "https://i.scdn.co/image/ab67616d0000b27368e33726e53c01d42a6d1f3c",
+        kind: "album",
+        link: "https://open.spotify.com/album/7090pUnNlv1lklI2lI2X6J",
+        comment: "Github Action"
+    },
+    {
+        title: "Deadly Poison Sting",
+        author: "baby hayabusa",
+        cover: "https://i.scdn.co/image/ab67616d0000b273aeb44e431e6792e8c79f71f5",
+        kind: "album",
+        link: "https://open.spotify.com/album/4ZBG4lOW57ekJjHjXGxxMU",
+        comment: "Github Action"
+    },
+    {
+        title: "Dance Hall Style",
+        author: "Horace Andy",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730ddf1762d8c79514aaf317af",
+        kind: "album",
+        link: "https://open.spotify.com/album/7rjTtjpSy2SzL8cydh1W5s",
+        comment: "Github Action"
+    },
+    {
+        title: "The Bends",
+        author: "Radiohead",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+        kind: "album",
+        link: "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg",
+        comment: "Github Action"
+    },
+    {
+        title: "Kid A",
+        author: "Radiohead",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+        kind: "album",
+        link: "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7",
+        comment: "Github Action"
+    },
+    {
+        title: "White Light",
+        author: "Sidewalks and Skeletons",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bbaf9de6c418a0aa6cb7b938",
+        kind: "album",
+        link: "https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2",
+        comment: "Github Action"
+    },
+    {
+        title: "Graduation",
+        author: "Kanye West",
+        cover: "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+        kind: "album",
+        link: "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3",
+        comment: "Github Action"
+    },
+    {
+        title: "Autoamerican (Remastered 2001)",
+        author: "Blondie",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736d2ee1965b70ef59d1f1f778",
+        kind: "album",
+        link: "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya",
+        comment: "Github Action"
+    },
+    {
+        title: "Blondie (Remastered 2001)",
+        author: "Blondie",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d377fa9b12ba09ee525b60a8",
+        kind: "album",
+        link: "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co",
+        comment: "Github Action"
+    },
+    {
+        title: "Led Zeppelin III (Remaster)",
+        author: "Led Zeppelin",
+        cover: "https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb",
+        kind: "album",
+        link: "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut",
+        comment: "Github Action"
+    },
+    {
+        title: "Masana Temples",
+        author: "Kikagaku Moyo",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a765313b610423c0f13aa59e",
+        kind: "album",
+        link: "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS",
+        comment: "Github Action"
+    },
+    {
+        title: "Pablo Honey",
+        author: "Radiohead",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ec548c00d3ac2f10be73366d",
+        kind: "album",
+        link: "https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8",
+        comment: "Github Action"
+    },
+    {
+        title: "The Lost Ship",
+        author: "Panda Dub",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735ade4f22e17719c7627f4426",
+        kind: "album",
+        link: "https://open.spotify.com/album/4aa493JentnPmmXFuHVTZ6",
+        comment: "Github Action"
+    },
+    {
+        title: "My Beautiful Dark Twisted Fantasy",
+        author: "Kanye West",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+        kind: "album",
+        link: "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv",
+        comment: "Github Action"
+    },
+    {
+        title: "Hail To the Thief",
+        author: "Radiohead",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7",
+        kind: "album",
+        link: "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy",
+        comment: "Github Action"
+    },
+    {
+        title: "Forest of Lost Children",
+        author: "Kikagaku Moyo",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fd632c6df018130724e2fc57",
+        kind: "album",
+        link: "https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA",
+        comment: "Github Action"
+    },
+    {
+        title: "Ferric Oxide (Demos 1997 - 2001)",
+        author: "Panchiko",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c43ee2c59d5d6b0d4b3a2075",
+        kind: "album",
+        link: "https://open.spotify.com/album/2XEgoiYtf35w31ZZm3isN0",
+        comment: "Github Action"
+    },
+    {
+        title: "El Momento",
+        author: "Nacha Pop",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733d8681f44a7ce5ad52de85cd",
+        kind: "album",
+        link: "https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR",
+        comment: "Github Action"
+    },
+    {
+        title: "The Pearl",
+        author: "Harold Budd",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a00536b039aaefb64040d8dd",
+        kind: "album",
+        link: "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP",
+        comment: "Github Action"
+    },
+    {
+        title: "Vicious Delicious",
+        author: "Infected Mushroom",
+        cover: "https://i.scdn.co/image/ab67616d0000b273961a1d69bf272921a0137534",
+        kind: "album",
+        link: "https://open.spotify.com/album/0xihL8xT18rsBwjuYPhnme",
+        comment: "Github Action"
+    },
+    {
+        title: "Getz/Gilberto (Expanded Edition)",
+        author: "Stan Getz",
+        cover: "https://i.scdn.co/image/ab67616d0000b273417cc363d7286a88489dee3c",
+        kind: "album",
+        link: "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP",
+        comment: "Github Action"
+    },
+    {
+        title: "OK Computer",
+        author: "Radiohead",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+        kind: "album",
+        link: "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE",
+        comment: "Github Action"
+    },
+    {
+        title: "Soda Stereo (Remastered)",
+        author: "Soda Stereo",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738fd9b16eb6bdd20c95717258",
+        kind: "album",
+        link: "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt",
+        comment: "Github Action"
+    },
+    {
+        title: "Sun Structures (Deluxe Version)",
+        author: "Temples",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737a53758a9b6f487374692f33",
+        kind: "album",
+        link: "https://open.spotify.com/album/4fN8Wj4c4nrXj6kogr6zgl",
+        comment: "Github Action"
+    },
+    {
+        title: "La Radiolina",
+        author: "Manu Chao",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e37f9a3fdedc3d7dc2c49b26",
+        kind: "album",
+        link: "https://open.spotify.com/album/3Gyn6McG8JN6dOFeQkQX2l",
+        comment: "Github Action"
+    },
+    {
+        title: "No Mercy for Love",
+        author: "CANNIBALE",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cde247dcf57d9e5d4974ed34",
+        kind: "album",
+        link: "https://open.spotify.com/album/2lSiu7i14zUsuhEmMgZEX0",
+        comment: "Github Action"
+    },
+    {
+        title: "Plastic Letters",
+        author: "Blondie",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fe3f12dccf7a927630d33d08",
+        kind: "album",
+        link: "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl",
+        comment: "Github Action"
+    },
+    {
+        title: "Louder Than Bombs",
+        author: "The Smiths",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ed3953f8af1f764a146b7583",
+        kind: "album",
+        link: "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8",
+        comment: "Github Action"
+    },
+    {
+        title: "The College Dropout",
+        author: "Kanye West",
+        cover: "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
+        kind: "album",
+        link: "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F",
+        comment: "Github Action"
+    },
+    {
+        title: "Preacher’s Daughter",
+        author: "Ethel Cain",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ccd1887cc78b0bd55f54bbe1",
+        kind: "album",
+        link: "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8",
+        comment: "Github Action"
+    },
+    {
+        title: "Amnesiac",
+        author: "Radiohead",
+        cover: "https://i.scdn.co/image/ab67616d0000b273863e0e305637100311c91aa7",
+        kind: "album",
+        link: "https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0",
+        comment: "Github Action"
+    },
+    {
+        title: "Call Me",
+        author: "Blondie",
+        cover: "https://i.scdn.co/image/ab67616d0000b27313cbe3e4dfa81fe5b91f2f1c",
+        kind: "album",
+        link: "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K",
+        comment: "Github Action"
+    },
+    {
+        title: "Naufragios",
+        author: "Mikel Erentxun",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734dd1e647d529501a2a06e543",
+        kind: "album",
+        link: "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV",
+        comment: "Github Action"
+    },
+    {
+        title: "The Low End Theory",
+        author: "A Tribe Called Quest",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7",
+        kind: "album",
+        link: "https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a",
+        comment: "Github Action"
+    },
+    {
+        title: "Civilized Evil",
+        author: "Jean-Luc Ponty",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736880ca96312ca84020009730",
+        kind: "album",
+        link: "https://open.spotify.com/album/3HfjIGx8MTHt9pmL1rJyL9",
+        comment: "Github Action"
+    },
+    {
+        title: "Reminiscence",
+        author: "Wink",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f3fc61d2bba6b57b80607c5e",
+        kind: "album",
+        link: "https://open.spotify.com/album/1sWt7D8SIqILz7LLUP3iHR",
+        comment: "Github Action"
+    },
+    {
         title: "Du rire aux larmes",
         author: "SNIPER",
         cover: "https://i.scdn.co/image/ab67616d0000b273b0be7a588d2562592029db53",
