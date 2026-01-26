@@ -4786,14 +4786,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Swimming",
-        cover: "https://i.scdn.co/image/ab67616d00001e02175c577a61aa13d4fb4b6534",
-        rating: 5,
-        author: "Mac Miller",
-        link: "https://open.spotify.com/intl-fr/album/5wtE5aLX5r7jOosmPhJhhk?si=22a007c77f4c4fc5",
-        kind: "album"
-    },
-    {
         title: "The Doors",
         cover: "https://i.scdn.co/image/ab67616d00001e025b96a8c5d61be8878452f8f1",
         rating: 5,
@@ -5121,38 +5113,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Eloy",
         link: "https://open.spotify.com/album/6mnhtrfvfW4kW6XrxCsD3T?si=431HAZdDQQqJ5k8CYJ7RvA",
-        kind: "album"
-    },
-    {
-        title: "Led Zeppelin II",
-        cover: "https://i.scdn.co/image/ab67616d00001e02f396ea414b735ef23e2ed1a9",
-        rating: 5,
-        author: "Led Zeppelin",
-        link: "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y?si=TRjRZiZ-Qt-rvqlAMKbvqw",
-        kind: "album"
-    },
-    {
-        title: "Led Zeppelin III",
-        cover: "https://i.scdn.co/image/ab67616d00001e0290a50cfe99a4c19ff3cbfbdb",
-        rating: 5,
-        author: "Led Zeppelin",
-        link: "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut?si=xD6mjjclS2WD9qGLC7PVNg",
-        kind: "album"
-    },
-    {
-        title: "Led Zeppelin IV",
-        cover: "https://i.scdn.co/image/ab67616d00001e024509204d0860cc0cc67e83dc",
-        rating: 5,
-        author: "Led Zeppelin",
-        link: "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX?si=nxtTnclWTy6f9wonxql75Q",
-        kind: "album"
-    },
-    {
-        title: "Silent Cries And Mighty Echoes",
-        cover: "https://i.scdn.co/image/ab67616d00001e02b4fb31db30c04a9e2f7626eb",
-        rating: 5,
-        author: "Eloy",
-        link: "https://open.spotify.com/album/2r2xRCQbhNanjDfa6YunIR?si=3WLms4qCRrmrnI9Z7XNrEw",
         kind: "album"
     },
     {
@@ -5883,40 +5843,6 @@ const mediaLibrary = [
         link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
         kind: "album"
     },
-
-
-
-
-
-    
-    {
-        title: "Little Dark Age",
-        cover: "https://i.scdn.co/image/ab67616d00001e02b47d309281c66820b7137f5d",
-        rating: 5,
-        author: "MGMT",
-        link: "https://open.spotify.com/intl-fr/album/7GjVWG39IOj4viyWplJV4H?si=L41q5_hWQSCZobzgDB0nYw",
-        kind: "album"
-    },
-    
-    {
-        title: "Ocular Spectacular",
-        cover: "https://i.scdn.co/image/ab67616d00001e028b32b139981e79f2ebe005eb",
-        rating: 5,
-        author: "MGMT",
-        link: "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv?si=9WwAoqF9Q9ivqMh-naBTkQ",
-        kind: "album"
-    },
-
-    
-    {
-        title: "Cigarette After Sex",
-        cover: "https://i.scdn.co/image/ab67616d00001e02dfed999f959177dfc4f33cdc",
-        rating: 5,
-        author: "Cigarette After Sex",
-        link: "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k?si=gT5z2HN0Q9K7Zj9PX5rWqw",
-        kind: "album"
-    },
-    
     {
         title: "The Captain and Me",
         cover: "https://i.scdn.co/image/ab67616d00001e027d419ac975423c069995c7bb",
@@ -6685,14 +6611,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Pendelum",
-        cover: "https://i.scdn.co/image/ab67616d00001e029b7a4a59ac03447db7491f37",
-        rating: 5,
-        author: "Creedence Clearwater Revival",
-        link: "https://open.spotify.com/intl-fr/album/3tbpe74iBR23O8uiQlLrXC?si=jmQCvm7wRZmQXxPRuu_TKQ",
-        kind: "album"
-    },
-    {
         title: "Mellon Collie And The Infinite Sadness",
         cover: "https://i.scdn.co/image/ab67616d00001e02431ac6e6f393acf475730ec6",
         rating: 5,
@@ -6877,14 +6795,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Twin Fantasy (Mirror To Mirror)",
-        cover: "https://i.scdn.co/image/ab67616d00001e02b64aa786c2c71462d39b3060",
-        rating: 5,
-        author: "Car Seat Headrest",
-        link: "https://open.spotify.com/intl-fr/album/5aqXdOgdhpSfYcCde4SHgI?si=_USeLeXPSbG2Ztiai5-7-g",
-        kind: "album"
-    },
-    {
         title: "Teens Of Denial",
         cover: "https://i.scdn.co/image/ab67616d00001e024094272fe172643edfdbba48",
         rating: 5,
@@ -6978,14 +6888,6 @@ const mediaLibrary = [
         rating: 5,
         author: "New Order",
         link: "https://open.spotify.com/intl-fr/album/7mIOgbore2HTzdh2ZyS4rH?si=q8pyEbF_TvG818BFZU4dSA",
-        kind: "album"
-    },
-    {
-        title: "Instrumental Soundtrack",
-        cover: "https://i.scdn.co/image/ab67616d00001e02bd8b0af490f57ec1e55513cf",
-        rating: 5,
-        author: "Fugazi",
-        link: "https://open.spotify.com/intl-fr/album/1owNOVlXTqmDVo4M2Z20uk?si=HjZxjH1iTMKv5RPRevG4TQ",
         kind: "album"
     },
     {
