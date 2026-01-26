@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "She Made It Big in a Small Mexican Village",
+        author: "Flux Information Sciences",
+        cover: "https://i.scdn.co/image/ab67616d0000b273de19e7d1262305fda7dcc9b0",
+        kind: "album",
+        link: "https://open.spotify.com/album/0Ezf7LETeinxjQetNHbCfI",
+        comment: "Github Action"
+    },
+    {
         title: "Private/Public",
         author: "Flux Information Sciences",
         cover: "https://i.scdn.co/image/ab67616d0000b273e528c6ffec9d19ad1e7753f5",
