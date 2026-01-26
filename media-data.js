@@ -5386,14 +5386,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Этажи",
-        cover: "https://i.scdn.co/image/ab67616d00001e02d4549c0e601fbe7e8622a2f5",
-        rating: 5,
-        author: "Molchat Doma",
-        link: "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc?si=aqRD2z0IR5K0wu4eVZUliQ",
-        kind: "album"
-    },
-    {
         title: "Pacifique",
         cover: "https://i.scdn.co/image/ab67616d00001e0212c59264bf24b263b27b8dc7",
         rating: 5,
@@ -5410,52 +5402,11 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Reminiscence",
-        cover: "https://i.scdn.co/image/ab67616d00001e02f3fc61d2bba6b57b80607c5e",
-        rating: 5,
-        author: "Wink",
-        link: "https://open.spotify.com/album/1sWt7D8SIqILz7LLUP3iHR?si=XWjtFOI5TfW6gwwA3DY5qA",
-        kind: "album"
-    },
-    {
-        title: "Vicious Delicious",
-        cover: "https://i.scdn.co/image/ab67616d00001e022946296b5df89b2601732d8c",
-        rating: 5,
-        author: "Infected Mushrooms",
-        link: "https://open.spotify.com/album/0xihL8xT18rsBwjuYPhnme?si=OQsiUYZIRLiYWWOtFFCASg",
-        kind: "album"
-    },
-    {
-        title: "The Lost Ship",
-        cover: "https://i.scdn.co/image/ab67616d00001e02687087ac514d54f724e45f4d",
-        rating: 5,
-        author: "Panda Dub",
-        link: "https://open.spotify.com/album/2o926sodjWyP9IBahD5YoF?si=bntg5ZSZTBOslu76RKtDsg",
-        kind: "album"
-    },
-    {
-        title: "Forest of Lost Children",
-        cover: "https://i.scdn.co/image/ab67616d00001e02fd632c6df018130724e2fc57",
-        rating: 5,
-        author: "Kikagaku Moyo",
-        link: "https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA?si=fK-A6xteRpWhh89ZMGfh6g",
-        kind: "album"
-    },
-    {
         title: "House in the Tall Grass",
         cover: "https://i.scdn.co/image/ab67616d00001e02a938f8d61319e7ca724ddd8c",
         rating: 5,
         author: "Kikagaku Moyo",
         link: "https://open.spotify.com/album/0A6hLzACLoB32gRz2UFTYu?si=S9vlzWKfT6q8kUtLGJbLqQ",
-        kind: "album"
-    },
-    
-    {
-        title: "La Radiolina",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e37f9a3fdedc3d7dc2c49b26",
-        rating: 5,
-        author: "Manu Chao",
-        link: "https://i.scdn.co/image/ab67616d00001e02e37f9a3fdedc3d7dc2c49b26",
         kind: "album"
     },
     {
@@ -5474,42 +5425,6 @@ const mediaLibrary = [
         link: "https://open.spotify.com/album/7Kw6q6WZhz0BC7SJN99PLB?si=Xc8uFsLRRWepDXXN-BloNQ",
         kind: "album"
     },
-
- 
-    {
-        title: "Civilized Evil",
-        cover: "https://i.scdn.co/image/ab67616d00001e026880ca96312ca84020009730",
-        rating: 5,
-        author: "Jean-Luc Ponty",
-        link: "https://open.spotify.com/album/3HfjIGx8MTHt9pmL1rJyL9?si=UzNme3eVQdeXPx6vddzyYQ",
-        kind: "album"
-    },
-
-
-    {
-        title: "No Pussyfooting",
-        cover: "https://i.scdn.co/image/ab67616d00001e0268e33726e53c01d42a6d1f3c",
-        rating: 5,
-        author: "Brian Eno & Robert Fripp",
-        link: "https://open.spotify.com/album/7090pUnNlv1lklI2lI2X6J?si=iz68yPc_SMiO4Y6Zun4XFg",
-        kind: "album"
-    },
-    {
-        title: "Led Zeppelin",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c77c73285cc5cb64d97e1b0f",
-        rating: 5,
-        author: "Led Zeppelin",
-        link: "https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU?si=a9QKyyywQvq6JmnVn7n2IQ",
-        kind: "album"
-    },
-    {
-        title: "Sun Structures",
-        cover: "https://i.scdn.co/image/ab67616d00001e02f35c8b47c52ab1f3668a6927",
-        rating: 5,
-        author: "Temples",
-        link: "https://open.spotify.com/album/0bJvWkM6E03FI8DEHiCuUU?si=32TCfO9tShCCzzBNHWpyHA",
-        kind: "album"
-    },
     {
         title: "Music Has The Right To Children",
         cover: "https://i.scdn.co/image/ab67616d00001e029effb26eea559ce6f3fed751",
@@ -5519,35 +5434,11 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Undertow",
-        cover: "https://i.scdn.co/image/ab67616d00001e0282298636c94b8167c4793db2",
-        rating: 3.6,
-        author: "TOOL",
-        link: "https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0?si=PLR3N6J3Say_gAPqxM-NvQ",
-        kind: "album"
-    },
-    {
-        title: "The Pearl",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a00536b039aaefb64040d8dd",
-        rating: 4.8,
-        author: "Harold Budd",
-        link: "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP?si=yKHckzBnTQ2hX4yj1MlCew",
-        kind: "album"
-    },
-    {
         title: "Ambient 4: On Land",
         cover: "https://i.scdn.co/image/ab67616d00001e02c83fef08b45f1784b4e916ba",
         rating: 5,
         author: "Brian Eno",
         link: "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh?si=Luh5los9SM24YNpVPSzKdg",
-        kind: "album"
-    },
-    {
-        title: "Getz/Gilberto",
-        cover: "https://i.scdn.co/image/ab67616d00001e02417cc363d7286a88489dee3c",
-        rating: 3.6,
-        author: "Stan Getz",
-        link: "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP?si=9hU3UJ6MR7ayQ4RGCBLGKA",
         kind: "album"
     },
     {
