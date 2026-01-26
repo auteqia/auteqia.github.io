@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Talking Heads: 77 (Super Deluxe Edition) [2024 Remaster]",
+        author: "Talking Heads",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738b61a7edec6f030f931578eb",
+        kind: "album",
+        link: "https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan",
+        comment: "Github Action"
+    },
+    {
         title: "Gorillaz",
         author: "Gorillaz",
         cover: "https://i.scdn.co/image/ab67616d0000b273c73a7bb15f43bae86215934b",
