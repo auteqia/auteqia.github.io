@@ -1,5 +1,85 @@
 const mediaLibrary = [
     {
+        title: "Vicious Delicious",
+        author: "Infected Mushroom",
+        cover: "https://i.scdn.co/image/ab67616d0000b273961a1d69bf272921a0137534",
+        kind: "album",
+        link: "https://open.spotify.com/album/0xihL8xT18rsBwjuYPhnme",
+        comment: "Github Action"
+    },
+    {
+        title: "La Radiolina",
+        author: "Manu Chao",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e37f9a3fdedc3d7dc2c49b26",
+        kind: "album",
+        link: "https://open.spotify.com/album/3Gyn6McG8JN6dOFeQkQX2l",
+        comment: "Github Action"
+    },
+    {
+        title: "Ferric Oxide (Demos 1997 - 2001)",
+        author: "Panchiko",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c43ee2c59d5d6b0d4b3a2075",
+        kind: "album",
+        link: "https://open.spotify.com/album/2XEgoiYtf35w31ZZm3isN0",
+        comment: "Github Action"
+    },
+    {
+        title: "No Pussyfooting",
+        author: "Robert Fripp",
+        cover: "https://i.scdn.co/image/ab67616d0000b27368e33726e53c01d42a6d1f3c",
+        kind: "album",
+        link: "https://open.spotify.com/album/7090pUnNlv1lklI2lI2X6J",
+        comment: "Github Action"
+    },
+    {
+        title: "Sun Structures (Deluxe Version)",
+        author: "Temples",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737a53758a9b6f487374692f33",
+        kind: "album",
+        link: "https://open.spotify.com/album/4fN8Wj4c4nrXj6kogr6zgl",
+        comment: "Github Action"
+    },
+    {
+        title: "The Lost Ship",
+        author: "Panda Dub",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735ade4f22e17719c7627f4426",
+        kind: "album",
+        link: "https://open.spotify.com/album/4aa493JentnPmmXFuHVTZ6",
+        comment: "Github Action"
+    },
+    {
+        title: "Led Zeppelin III (Remaster)",
+        author: "Led Zeppelin",
+        cover: "https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb",
+        kind: "album",
+        link: "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut",
+        comment: "Github Action"
+    },
+    {
+        title: "Reminiscence",
+        author: "Wink",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f3fc61d2bba6b57b80607c5e",
+        kind: "album",
+        link: "https://open.spotify.com/album/1sWt7D8SIqILz7LLUP3iHR",
+        comment: "Github Action"
+    },
+    {
+        title: "The Low End Theory",
+        author: "A Tribe Called Quest",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7",
+        kind: "album",
+        link: "https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a",
+        comment: "Github Action"
+    },
+    {
+        title: "Civilized Evil",
+        author: "Jean-Luc Ponty",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736880ca96312ca84020009730",
+        kind: "album",
+        link: "https://open.spotify.com/album/3HfjIGx8MTHt9pmL1rJyL9",
+        comment: "Github Action"
+    },
+    {
         title: "Pablo Honey",
         author: "Radiohead",
         cover: "https://i.scdn.co/image/ab67616d0000b273ec548c00d3ac2f10be73366d",
