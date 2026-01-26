@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Dieu bénisse Supersound, saison 3",
+        author: "Sneazzy",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733f81b2576febe32c9a2dba05",
+        kind: "album",
+        link: "https://open.spotify.com/album/5GGWdNxNw8QoYfPFuHmyPt",
+        comment: "Github Action"
+    },
+    {
         title: "Tragédie (Édition Deluxe)",
         author: "Tragédie",
         cover: "https://i.scdn.co/image/ab67616d0000b2738f272f6d6af70eeaceaae96c",
