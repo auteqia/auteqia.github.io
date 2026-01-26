@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Mercy",
+        author: "Laylow",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f7a60a83a0ba41fee7979b6e",
+        kind: "album",
+        link: "https://open.spotify.com/album/1SJBUNl0XojzU2y2ia7xps",
+        comment: "Github Action"
+    },
+    {
+        title: "UNE MAIN LAVE L'AUTRE",
+        author: "Alpha Wann",
+        cover: "https://i.scdn.co/image/ab67616d0000b273842b2c6c258fbaa254ff3b2c",
+        kind: "album",
+        link: "https://open.spotify.com/album/6wXBrJU2DZt5Ga9nUZYXcg",
+        comment: "Github Action"
+    },
+    {
+        title: "Ombre Est Lumière",
+        author: "IAM",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730598bbed97d3d73ea0ecd835",
+        kind: "album",
+        link: "https://open.spotify.com/album/2soc1D7Ym6sGp4A4d2pbWU",
+        comment: "Github Action"
+    },
+    {
+        title: "TRINITY",
+        author: "Laylow",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cb6f946676e31e4633fafcf2",
+        kind: "album",
+        link: "https://open.spotify.com/album/48GuVeZZVvfy6lpdprJFlv",
+        comment: "Github Action"
+    },
+    {
+        title: "don dada mixtape vol 1",
+        author: "Alpha Wann",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a49c00c7843b0232207f92a3",
+        kind: "album",
+        link: "https://open.spotify.com/album/49RZwPd41nnyBFrmy8oF2B",
+        comment: "Github Action"
+    },
+    {
         title: "Alph Lauren 3",
         author: "Alpha Wann",
         cover: "https://i.scdn.co/image/ab67616d0000b273e08371d7196b3a7919af61f9",
