@@ -1,5 +1,77 @@
 const mediaLibrary = [
     {
+        title: "Jours Etranges",
+        author: "Saez",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e045585a947eb63798ad8538",
+        kind: "album",
+        link: "https://open.spotify.com/album/2bg7qOhAn5apkOzX5v2SHg",
+        comment: "Github Action"
+    },
+    {
+        title: "Digitalova",
+        author: "Laylow",
+        cover: "https://i.scdn.co/image/ab67616d0000b27371e815ea02dc903e41902c21",
+        kind: "album",
+        link: "https://open.spotify.com/album/5Vj8z5u6KovFW1PkcArzSV",
+        comment: "Github Action"
+    },
+    {
+        title: "Pénitence & Flagellations",
+        author: "MCOCHET",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e1810fc30aa627ebe14501f9",
+        kind: "album",
+        link: "https://open.spotify.com/album/1knVxhCjdrMwXTsXn80rNt",
+        comment: "Github Action"
+    },
+    {
+        title: "if they don't love these songs they won't love me",
+        author: "I Hate Myself Because",
+        cover: "https://i.scdn.co/image/ab67616d0000b273520a1651926e1af555a5c8d1",
+        kind: "album",
+        link: "https://open.spotify.com/album/7IDO5NSLzCoHfNOCJICTZc",
+        comment: "Github Action"
+    },
+    {
+        title: "Fck Me // It Isn't Right",
+        author: "I Hate Myself Because",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730b35d8cb08d4bb2128997984",
+        kind: "album",
+        link: "https://open.spotify.com/album/4c3CQsozwL3Zv8IvBMwnoO",
+        comment: "Github Action"
+    },
+    {
+        title: "obedient dog // what happened, Sofie?",
+        author: "I Hate Myself Because",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ba2741d03eb640f76ad12b60",
+        kind: "album",
+        link: "https://open.spotify.com/album/0pIbHYat2Of99lZtJ4krdN",
+        comment: "Github Action"
+    },
+    {
+        title: "I Feel Bad",
+        author: "I Hate Myself Because",
+        cover: "https://i.scdn.co/image/ab67616d0000b27394df2b98be1e0e0547d547b4",
+        kind: "album",
+        link: "https://open.spotify.com/album/1p6ypqHx964vB9LIXgvJ1F",
+        comment: "Github Action"
+    },
+    {
+        title: "Modal Soul",
+        author: "Nujabes",
+        cover: "https://i.scdn.co/image/ab67616d0000b273912cc8fe2e9a53d328757a41",
+        kind: "album",
+        link: "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS",
+        comment: "Github Action"
+    },
+    {
+        title: "Pubg",
+        author: "Sully",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731ffd8c61e71764261a0bcba3",
+        kind: "album",
+        link: "https://open.spotify.com/album/02LhQdVX706kIrTX1mvqok",
+        comment: "Github Action"
+    },
+    {
         title: "Mercy",
         author: "Laylow",
         cover: "https://i.scdn.co/image/ab67616d0000b273f7a60a83a0ba41fee7979b6e",
