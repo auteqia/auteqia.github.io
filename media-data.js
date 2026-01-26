@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Alph Lauren 3",
+        author: "Alpha Wann",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e08371d7196b3a7919af61f9",
+        kind: "album",
+        link: "https://open.spotify.com/album/4JkiKZpr66KXmCAqywoT91",
+        comment: "Github Action"
+    },
+    {
+        title: "Legend (Deluxe Edition)",
+        author: "Bob Marley & The Wailers",
+        cover: "https://i.scdn.co/image/ab67616d0000b27385b36be7fd94864efc4b008f",
+        kind: "album",
+        link: "https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo",
+        comment: "Github Action"
+    },
+    {
+        title: "Exodus",
+        author: "Bob Marley & The Wailers",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d7f3e4d143c198d3542a775d",
+        kind: "album",
+        link: "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY",
+        comment: "Github Action"
+    },
+    {
+        title: "Alph Lauren 2",
+        author: "Alpha Wann",
+        cover: "https://i.scdn.co/image/ab67616d0000b273757c47be7338c71f6c8b7cc7",
+        kind: "album",
+        link: "https://open.spotify.com/album/6tlPwCxu7DTBxzFqwnyhgJ",
+        comment: "Github Action"
+    },
+    {
+        title: "Alph Lauren 3",
+        author: "Alpha Wann",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e08371d7196b3a7919af61f9",
+        kind: "album",
+        link: "https://open.spotify.com/album/4JkiKZpr66KXmCAqywoT91",
+        comment: "Github Action"
+    },
+    {
         title: "Dieu bénisse Supersound, saison 3",
         author: "Sneazzy",
         cover: "https://i.scdn.co/image/ab67616d0000b2733f81b2576febe32c9a2dba05",
