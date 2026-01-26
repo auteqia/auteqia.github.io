@@ -1,5 +1,101 @@
 const mediaLibrary = [
     {
+        title: "Their Satanic Majesties' Second Request",
+        author: "The Brian Jonestown Massacre",
+        cover: "https://i.scdn.co/image/ab67616d0000b27337ae45cb1c8b379d500a1118",
+        kind: "album",
+        link: "https://open.spotify.com/album/4GnH6ISwnbLNxqNKGOb4W6",
+        comment: "Github Action"
+    },
+    {
+        title: "The Singles - Volume 01",
+        author: "The Strokes",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f71abcb4d9ba0fbbc62fe867",
+        kind: "album",
+        link: "https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ",
+        comment: "Github Action"
+    },
+    {
+        title: "Montage Of Heck: The Home Recordings (Deluxe Soundtrack)",
+        author: "Kurt Cobain",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c12bfed88d8f44ed506832e8",
+        kind: "album",
+        link: "https://open.spotify.com/album/1nG8mArxQsJplIY6w50aQg",
+        comment: "Github Action"
+    },
+    {
+        title: "The New Abnormal",
+        author: "The Strokes",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+        kind: "album",
+        link: "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN",
+        comment: "Github Action"
+    },
+    {
+        title: "Room On Fire",
+        author: "The Strokes",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f",
+        kind: "album",
+        link: "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh",
+        comment: "Github Action"
+    },
+    {
+        title: "Angles",
+        author: "The Strokes",
+        cover: "https://i.scdn.co/image/ab67616d0000b273397d02cfe1aab2923f9d1697",
+        kind: "album",
+        link: "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ",
+        comment: "Github Action"
+    },
+    {
+        title: "Sur la Route du 3.14",
+        author: "Jazzy Bazz",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737ba337716d04779e3d4853f0",
+        kind: "album",
+        link: "https://open.spotify.com/album/29ExlDYk9TKbehYXFJ55Hj",
+        comment: "Github Action"
+    },
+    {
+        title: "Montage Of Heck: The Home Recordings",
+        author: "Kurt Cobain",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a4c50ce025b39993dea03d71",
+        kind: "album",
+        link: "https://open.spotify.com/album/5UlRowLBWdNDdO17os804M",
+        comment: "Github Action"
+    },
+    {
+        title: "Is This It",
+        author: "The Strokes",
+        cover: "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
+        kind: "album",
+        link: "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE",
+        comment: "Github Action"
+    },
+    {
+        title: "Nuit",
+        author: "Jazzy Bazz",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c72ba2038f906d600a3289ce",
+        kind: "album",
+        link: "https://open.spotify.com/album/0iWIenOrbx9qzTKRWCiroj",
+        comment: "Github Action"
+    },
+    {
+        title: "First Impressions Of Earth",
+        author: "The Strokes",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736898a982ff3c6049ba52586c",
+        kind: "album",
+        link: "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n",
+        comment: "Github Action"
+    },
+    {
+        title: "Comedown Machine",
+        author: "The Strokes",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f07ef193e0bb6a238ea37f0a",
+        kind: "album",
+        link: "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV",
+        comment: "Github Action"
+    },
+    {
         title: "808s & Heartbreak",
         author: "Kanye West",
         cover: "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
