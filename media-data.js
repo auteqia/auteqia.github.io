@@ -7023,38 +7023,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Their Satanic Majesties' Second Request",
-        cover: "https://i.scdn.co/image/ab67616d00001e022557f5ed1ca07d5111d49b93",
-        rating: 5,
-        author: "The Brian Jonestown Massacre",
-        link: "https://open.spotify.com/intl-fr/album/4kXc4XcGYOpHpXRlWq1RFi?si=4vsYIbddTImVU9Fueauqdg",
-        kind: "album"
-    },
-    {
-        title: "Montage Of Heck: The Home Recordings",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c12bfed88d8f44ed506832e8",
-        rating: 5,
-        author: "Kurt Cobain",
-        link: "https://open.spotify.com/intl-fr/album/1nG8mArxQsJplIY6w50aQg?si=WbzOpESmRQeOb3bT8fNtyQ",
-        kind: "album"
-    },
-    {
-        title: "Montage Of Heck: The Home Recordings",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a4c50ce025b39993dea03d71",
-        rating: 5,
-        author: "Kurt Cobain",
-        link: "https://open.spotify.com/intl-fr/album/5UlRowLBWdNDdO17os804M?si=M638IcHVSu-Y62IDnZ0atw",
-        kind: "album"
-    },
-    {
-        title: "MELTING MOMENT",
-        cover: "https://i.scdn.co/image/ab67616d00001e02f78bb04e337eb2cb5e249cb4",
-        rating: 5,
-        author: "POiSON GiRL FRiEND",
-        link: "https://open.spotify.com/intl-fr/album/6asP1OdgPUjc7fSTvZxnaM?si=vFTE0ZgXTuSU0TXZ4jMyOg",
-        kind: "album"
-    },
-    {
         title: "Stranger in the Alps",
         cover: "https://i.scdn.co/image/ab67616d00001e0278d8e579122e4b9446954ee9",
         rating: 5,
@@ -7071,27 +7039,11 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "LA COURSE",
-        cover: "https://i.scdn.co/image/ab67616d00001e02550b4528f31fd28007a97ab9",
-        rating: 5,
-        author: "NeS",
-        link: "https://open.spotify.com/intl-fr/album/4uwweIPWe2AIZknk4aL85E?si=FonQLrUtTxOLLwoZP276vA",
-        kind: "album"
-    },
-    {
         title: "N.E.S vol.1",
         cover: "https://i.scdn.co/image/ab67616d00001e02112351ca765fece385ea71c6",
         rating: 5,
         author: "NeS",
         link: "https://open.spotify.com/intl-fr/album/3LQOpZ7lYz6UxhRxGAto9A?si=qFSdCmH9R7G1IcosS8SETw",
-        kind: "album"
-    },
-    {
-        title: "Au Baccara",
-        cover: "https://i.scdn.co/image/ab67616d00001e0217a41fd316b2f3107d4dc35f",
-        rating: 5,
-        author: "Odezenne",
-        link: "https://open.spotify.com/intl-fr/album/3FS3eNtEprLV3fUriJ7hU3?si=U5cRMDfnSwmv95vP7SUn0A",
         kind: "album"
     },
     {
