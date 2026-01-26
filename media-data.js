@@ -1,5 +1,61 @@
 const mediaLibrary = [
     {
+        title: "Du rire aux larmes",
+        author: "SNIPER",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b0be7a588d2562592029db53",
+        kind: "album",
+        link: "https://open.spotify.com/album/58exV0JVglskuAfyXOoNae",
+        comment: "Github Action"
+    },
+    {
+        title: "berdlycore chapter 1",
+        author: "xaev",
+        cover: "https://i.scdn.co/image/ab67616d0000b27334e1c49643b8d5547fe4cf7d",
+        kind: "album",
+        link: "https://open.spotify.com/album/58teOd3v7y5qIUqDYnxdFU",
+        comment: "Github Action"
+    },
+    {
+        title: "berdlycore chapter 3",
+        author: "xaev",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a524fc15fee08112b1135141",
+        kind: "album",
+        link: "https://open.spotify.com/album/2IF4j6dlGv5VlboE0tXiD1",
+        comment: "Github Action"
+    },
+    {
+        title: "Trait pour trait",
+        author: "SNIPER",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bc417c0ea3eb8427f467243a",
+        kind: "album",
+        link: "https://open.spotify.com/album/7wWV7fPoyYnj5u8y7zqg5S",
+        comment: "Github Action"
+    },
+    {
+        title: "Gravé dans la roche",
+        author: "SNIPER",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c20c2d775a423e281cb66f47",
+        kind: "album",
+        link: "https://open.spotify.com/album/6chD9SocKyshylTuhbKV2O",
+        comment: "Github Action"
+    },
+    {
+        title: "omar chappier",
+        author: "Mairo",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735d9ae06e84346711dc45988b",
+        kind: "album",
+        link: "https://open.spotify.com/album/7kJlepBMOiYWXApfqI5P7T",
+        comment: "Github Action"
+    },
+    {
+        title: "G.L.O.CC",
+        author: "wasting shit",
+        cover: "https://i.scdn.co/image/ab67616d0000b27341575500cf6e162305c24d3b",
+        kind: "album",
+        link: "https://open.spotify.com/album/4rIXYX7rgZHqWlpUJ2JdzG",
+        comment: "Github Action"
+    },
+    {
         title: "Jours Etranges",
         author: "Saez",
         cover: "https://i.scdn.co/image/ab67616d0000b273e045585a947eb63798ad8538",
