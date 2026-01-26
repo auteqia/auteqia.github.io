@@ -1,5 +1,157 @@
 const mediaLibrary = [
     {
+        title: "Pablo Honey",
+        author: "Radiohead",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ec548c00d3ac2f10be73366d",
+        kind: "album",
+        link: "https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8",
+        comment: "Github Action"
+    },
+    {
+        title: "OK Computer",
+        author: "Radiohead",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+        kind: "album",
+        link: "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE",
+        comment: "Github Action"
+    },
+    {
+        title: "Call Me",
+        author: "Blondie",
+        cover: "https://i.scdn.co/image/ab67616d0000b27313cbe3e4dfa81fe5b91f2f1c",
+        kind: "album",
+        link: "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K",
+        comment: "Github Action"
+    },
+    {
+        title: "Kid A",
+        author: "Radiohead",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+        kind: "album",
+        link: "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7",
+        comment: "Github Action"
+    },
+    {
+        title: "Plastic Letters",
+        author: "Blondie",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fe3f12dccf7a927630d33d08",
+        kind: "album",
+        link: "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl",
+        comment: "Github Action"
+    },
+    {
+        title: "Graduation",
+        author: "Kanye West",
+        cover: "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+        kind: "album",
+        link: "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3",
+        comment: "Github Action"
+    },
+    {
+        title: "Deadly Poison Sting",
+        author: "baby hayabusa",
+        cover: "https://i.scdn.co/image/ab67616d0000b273aeb44e431e6792e8c79f71f5",
+        kind: "album",
+        link: "https://open.spotify.com/album/4ZBG4lOW57ekJjHjXGxxMU",
+        comment: "Github Action"
+    },
+    {
+        title: "My Beautiful Dark Twisted Fantasy",
+        author: "Kanye West",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+        kind: "album",
+        link: "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv",
+        comment: "Github Action"
+    },
+    {
+        title: "No Mercy for Love",
+        author: "CANNIBALE",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cde247dcf57d9e5d4974ed34",
+        kind: "album",
+        link: "https://open.spotify.com/album/2lSiu7i14zUsuhEmMgZEX0",
+        comment: "Github Action"
+    },
+    {
+        title: "Amnesiac",
+        author: "Radiohead",
+        cover: "https://i.scdn.co/image/ab67616d0000b273863e0e305637100311c91aa7",
+        kind: "album",
+        link: "https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0",
+        comment: "Github Action"
+    },
+    {
+        title: "White Light",
+        author: "Sidewalks and Skeletons",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bbaf9de6c418a0aa6cb7b938",
+        kind: "album",
+        link: "https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2",
+        comment: "Github Action"
+    },
+    {
+        title: "Forest of Lost Children",
+        author: "Kikagaku Moyo",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fd632c6df018130724e2fc57",
+        kind: "album",
+        link: "https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA",
+        comment: "Github Action"
+    },
+    {
+        title: "The College Dropout",
+        author: "Kanye West",
+        cover: "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
+        kind: "album",
+        link: "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F",
+        comment: "Github Action"
+    },
+    {
+        title: "Hail To the Thief",
+        author: "Radiohead",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7",
+        kind: "album",
+        link: "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy",
+        comment: "Github Action"
+    },
+    {
+        title: "The Bends",
+        author: "Radiohead",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+        kind: "album",
+        link: "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg",
+        comment: "Github Action"
+    },
+    {
+        title: "Masana Temples",
+        author: "Kikagaku Moyo",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a765313b610423c0f13aa59e",
+        kind: "album",
+        link: "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS",
+        comment: "Github Action"
+    },
+    {
+        title: "Autoamerican (Remastered 2001)",
+        author: "Blondie",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736d2ee1965b70ef59d1f1f778",
+        kind: "album",
+        link: "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya",
+        comment: "Github Action"
+    },
+    {
+        title: "808s & Heartbreak",
+        author: "Kanye West",
+        cover: "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
+        kind: "album",
+        link: "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU",
+        comment: "Github Action"
+    },
+    {
+        title: "Blondie (Remastered 2001)",
+        author: "Blondie",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d377fa9b12ba09ee525b60a8",
+        kind: "album",
+        link: "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co",
+        comment: "Github Action"
+    },
+    {
         title: "Du rire aux larmes",
         author: "SNIPER",
         cover: "https://i.scdn.co/image/ab67616d0000b273b0be7a588d2562592029db53",
