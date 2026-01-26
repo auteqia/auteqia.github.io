@@ -1,5 +1,53 @@
 const mediaLibrary = [
     {
+        title: "Gorillaz",
+        author: "Gorillaz",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c73a7bb15f43bae86215934b",
+        kind: "album",
+        link: "https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm",
+        comment: "Github Action"
+    },
+    {
+        title: "LA COURSE",
+        author: "NeS",
+        cover: "https://i.scdn.co/image/ab67616d0000b273550b4528f31fd28007a97ab9",
+        kind: "album",
+        link: "https://open.spotify.com/album/4uwweIPWe2AIZknk4aL85E",
+        comment: "Github Action"
+    },
+    {
+        title: "N.E.S vol.1",
+        author: "NeS",
+        cover: "https://i.scdn.co/image/ab67616d0000b273112351ca765fece385ea71c6",
+        kind: "album",
+        link: "https://open.spotify.com/album/3LQOpZ7lYz6UxhRxGAto9A",
+        comment: "Github Action"
+    },
+    {
+        title: "Plastic Beach",
+        author: "Gorillaz",
+        cover: "https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985",
+        kind: "album",
+        link: "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8",
+        comment: "Github Action"
+    },
+    {
+        title: "Humanz (Deluxe)",
+        author: "Gorillaz",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a5952c0e2e649f588603b743",
+        kind: "album",
+        link: "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE",
+        comment: "Github Action"
+    },
+    {
+        title: "Demon Days",
+        author: "Gorillaz",
+        cover: "https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf",
+        kind: "album",
+        link: "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT",
+        comment: "Github Action"
+    },
+    {
         title: "Their Satanic Majesties' Second Request",
         author: "The Brian Jonestown Massacre",
         cover: "https://i.scdn.co/image/ab67616d0000b27337ae45cb1c8b379d500a1118",
