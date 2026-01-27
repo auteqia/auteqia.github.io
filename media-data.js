@@ -1,5 +1,101 @@
 const mediaLibrary = [
     {
+        title: "Police Heartbreaker",
+        author: "Absolute Valentine",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739db06862887c5d3affff9c7c",
+        kind: "album",
+        link: "https://open.spotify.com/album/01mkMMyGns25JZqy5AbUCP",
+        comment: "Github Action"
+    },
+    {
+        title: "Tyranny",
+        author: "The Voidz",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731596f2f85e687284c8c3be80",
+        kind: "album",
+        link: "https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg",
+        comment: "Github Action"
+    },
+    {
+        title: "Casual Acquaintances",
+        author: "The Growlers",
+        cover: "https://i.scdn.co/image/ab67616d0000b27390818c4011f39cd3c9f241a1",
+        kind: "album",
+        link: "https://open.spotify.com/album/3mAUwWAQKkBlsMThgz3TMz",
+        comment: "Github Action"
+    },
+    {
+        title: "Incesticide",
+        author: "Nirvana",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e1f5fcef5fb5f70aa0a717fc",
+        kind: "album",
+        link: "https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3",
+        comment: "Github Action"
+    },
+    {
+        title: "MTV Unplugged In New York",
+        author: "Nirvana",
+        cover: "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+        kind: "album",
+        link: "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7",
+        comment: "Github Action"
+    },
+    {
+        title: "Moonlust",
+        author: "The Holydrug Couple",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731a36493cdc3087836874421d",
+        kind: "album",
+        link: "https://open.spotify.com/album/5dsTu76YBUMKIvgjrswqpF",
+        comment: "Github Action"
+    },
+    {
+        title: "Unmixed Emotions",
+        author: "Rico Realone",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a8e2ca2d523158c24eedf357",
+        kind: "album",
+        link: "https://open.spotify.com/album/3NmIx19zAh8c1RtD7MdUNm",
+        comment: "Github Action"
+    },
+    {
+        title: "Moonlust Demos",
+        author: "The Holydrug Couple",
+        cover: "https://i.scdn.co/image/ab67616d0000b27399e96bc3a8934f228cd34dec",
+        kind: "album",
+        link: "https://open.spotify.com/album/3SC1up17l1zGlOtZbrPkvv",
+        comment: "Github Action"
+    },
+    {
+        title: "Transmission, Flux",
+        author: "Duster",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e9697838225113d663acf53f",
+        kind: "album",
+        link: "https://open.spotify.com/album/1MKrXmYKkTv9foXroXTDbo",
+        comment: "Github Action"
+    },
+    {
+        title: "Bleach",
+        author: "Nirvana",
+        cover: "https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864",
+        kind: "album",
+        link: "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7",
+        comment: "Github Action"
+    },
+    {
+        title: "Black Devil Disco Club",
+        author: "Black Devil Disco Club",
+        cover: "https://i.scdn.co/image/ab67616d0000b27360d951abc0af12bfe4035757",
+        kind: "album",
+        link: "https://open.spotify.com/album/2DIBYHuw0e9ur9JSCdjcXW",
+        comment: "Github Action"
+    },
+    {
+        title: "Presence (Remaster)",
+        author: "Led Zeppelin",
+        cover: "https://i.scdn.co/image/ab67616d0000b27327f6c518a8e36d45b5e7d95e",
+        kind: "album",
+        link: "https://open.spotify.com/album/3uhD8hNpb0m3iIZ18RHH5u",
+        comment: "Github Action"
+    },
+    {
         title: "Republic",
         author: "New Order",
         cover: "https://i.scdn.co/image/ab67616d0000b2738120870086c90b8de2309ef0",
