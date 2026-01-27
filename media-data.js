@@ -7420,14 +7420,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Living While Starving",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c04293e38055ac0554c0ff05",
-        rating: 5,
-        author: "Car Seat Headrest",
-        link: "https://open.spotify.com/intl-fr/album/3egPQUSqrInRvbXxPqXQYm?si=XpExK4DQSWmh1rIgSTdlzQ",
-        kind: "album"
-    },
-    {
         title: "Emerson, Lake & Palmer",
         cover: "https://i.scdn.co/image/ab67616d00001e0299fa44c27dfac9beda628082",
         rating: 5,
@@ -7452,43 +7444,11 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Evangelion Finally",
-        cover: "https://i.scdn.co/image/ab67616d00001e026df828bb10343f7bad08d4fe",
-        rating: 5,
-        author: "Various Artists",
-        link: "https://open.spotify.com/intl-fr/album/3MRZ3T8TutKAlQK0d7mqho?si=cfsWk4kEQ12BBFz-CytTOw",
-        kind: "album"
-    },
-    {
-        title: "After Hours",
-        cover: "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
-        rating: 5,
-        author: "The Weeknd",
-        link: "https://open.spotify.com/intl-fr/album/4yP0hdKOZPNshxUOjY0cZj?si=aGKq-7wPQbCBRjjX4TkmYg",
-        kind: "album"
-    },
-    {
         title: "Live At Kilby Court",
         cover: "https://i.scdn.co/image/ab67616d00001e0273303b2f8d1b42d5492342f6",
         rating: 5,
         author: "Current Joys",
         link: "https://open.spotify.com/intl-fr/album/6v39Q9XBKxTfOqIgylueGP?si=iA6XegzMTzqiIk0lUxUi1A",
-        kind: "album"
-    },
-    {
-        title: "Cardan",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e990c228791522717cb8b4e1",
-        rating: 5,
-        author: "Agar Agar",
-        link: "https://open.spotify.com/intl-fr/album/4ngCa16FS5to1pnRxucSu0?si=l1e7zzm9Td68EnPNs1M-Kw",
-        kind: "album"
-    },
-    {
-        title: "Among My Swan",
-        cover: "https://i.scdn.co/image/ab67616d00001e0240f8e560e743f9b5d382c0af",
-        rating: 5,
-        author: "Mazzy Star",
-        link: "https://open.spotify.com/intl-fr/album/4mhpbf7jYc0L1nBceoebIE?si=FIlLoQ-gQdWPpGzXzCN3MA",
         kind: "album"
     },
     {
@@ -7563,14 +7523,6 @@ const mediaLibrary = [
         link: "https://open.spotify.com/intl-fr/album/4tUxQkrduOE8sfgwJ5BI2F?si=T8CDh3TuT3ytCZemW3iM9Q",
         kind: "album"
     },
-        {
-        title: "Demon Days",
-        cover: "https://i.scdn.co/image/ab67616d00001e0219d85a472f328a6ed9b704cf",
-        rating: 5,
-        author: "Gorillaz",
-        link: "https://open.spotify.com/intl-fr/album/0bUTHlWbkSQysoM3VsWldT?si=fZfFarE8QwSJL0J-T1LAhQ",
-        kind: "album"
-    },
     {
         title: "Plastic Beach",
         cover: "https://i.scdn.co/image/ab67616d00001e02661d019f34569f79eae9e985",
@@ -7585,14 +7537,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Gorillaz",
         link: "https://open.spotify.com/intl-fr/album/1amYhlukNF8WdaQC3gKkgL?si=vG1jw0qNSkuGih_RkAb86w",
-        kind: "album"
-    },
-    {
-        title: "D-Sides",
-        cover: "https://i.scdn.co/image/ab67616d00001e02efb135bbd7001e8ad73c7f72",
-        rating: 5,
-        author: "Gorillaz",
-        link: "https://open.spotify.com/intl-fr/album/0pdYY0CHFRVFLBZEPEKTMZ?si=6XNKI6TGTFqTONIWP68E1Q",
         kind: "album"
     },
     {
@@ -7897,14 +7841,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Toshifumi Hinata",
         link: "https://open.spotify.com/intl-fr/album/0PI2S21wPmojTHDHZC1SdE?si=lVX0VCp4Ry6k0akiTOYCxw",
-        kind: "album"
-    },
-    {
-        title: "ひとつぶの海",
-        cover: "https://i.scdn.co/image/ab67616d00001e02fb4aac6e97e78983ac5f6280",
-        rating: 5,
-        author: "Toshifumi Hinata",
-        link: "https://open.spotify.com/intl-fr/album/0k4j3uetJHFATIt4VxwCPz?si=X8E4u4ZxTGmxfsX3m_KMVg",
         kind: "album"
     },
     {
