@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "Avalon",
+        author: "Roxy Music",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c7972702cff224328b39f8a6",
+        kind: "album",
+        link: "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw",
+        comment: "Github Action"
+    },
+    {
+        title: "Bourbonese Qualk 1983-1987",
+        author: "Bourbonese Qualk",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fcd8b8b345ecdcdbcbc522c5",
+        kind: "album",
+        link: "https://open.spotify.com/album/7qybUC7jLbKu0A9jx5M1JN",
+        comment: "Github Action"
+    },
+    {
+        title: "Aftermath",
+        author: "The Rolling Stones",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694",
+        kind: "album",
+        link: "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY",
+        comment: "Github Action"
+    },
+    {
+        title: "Twin Fantasy",
+        author: "Car Seat Headrest",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736e56a2355e849c1cb25e4e76",
+        kind: "album",
+        link: "https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM",
+        comment: "Github Action"
+    },
+    {
         title: "She Made It Big in a Small Mexican Village",
         author: "Flux Information Sciences",
         cover: "https://i.scdn.co/image/ab67616d0000b273de19e7d1262305fda7dcc9b0",
