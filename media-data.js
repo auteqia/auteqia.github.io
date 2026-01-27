@@ -1,5 +1,69 @@
 const mediaLibrary = [
     {
+        title: "High Visceral, Pt. 1",
+        author: "Psychedelic Porn Crumpets",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e9fc848924f30c739ff693a8",
+        kind: "album",
+        link: "https://open.spotify.com/album/2BlcdDBE62JOtVOgC3L3xo",
+        comment: "Github Action"
+    },
+    {
+        title: "Post Cyber​-​Death Voxel Infinity",
+        author: "Fine-Sir-1584660650",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a1a8a14bcc49fe1f679fc907",
+        kind: "album",
+        link: "https://open.spotify.com/album/6n98ZzKufMhVJpAFwIh5Vj",
+        comment: "Github Action"
+    },
+    {
+        title: "Heaven knows",
+        author: "PinkPantheress",
+        cover: "https://i.scdn.co/image/ab67616d0000b27312e36c27d935e955b44c6581",
+        kind: "album",
+        link: "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0",
+        comment: "Github Action"
+    },
+    {
+        title: "ᚍᚑᚄᚆᚁᚑᚃᚋᚘᚚᚒᚄᚁᚅᚑᚇᚃᚒᚙᚁᚈᚋᚅᚖᚇᚗᚁᚐᚊᚏᚈᚘ",
+        author: "Fine-Sir-1584660650",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b3702d67b1208fb909c0a5c1",
+        kind: "album",
+        link: "https://open.spotify.com/album/1gTSDOZCzJqmEzH6efpwyc",
+        comment: "Github Action"
+    },
+    {
+        title: "DÉFILE MOI",
+        author: "CHELABÔM",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cafc31a3b993d651460b6428",
+        kind: "album",
+        link: "https://open.spotify.com/album/3DD6i9kgK9JTWAI7rK2CRY",
+        comment: "Github Action"
+    },
+    {
+        title: "ひとつぶの海",
+        author: "Toshifumi Hinata",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fb4aac6e97e78983ac5f6280",
+        kind: "album",
+        link: "https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz",
+        comment: "Github Action"
+    },
+    {
+        title: "Meat Is Murder",
+        author: "The Smiths",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ac345598e7697a319cb5b460",
+        kind: "album",
+        link: "https://open.spotify.com/album/5DM1qCdgGt2zbknnsVn1Ca",
+        comment: "Github Action"
+    },
+    {
+        title: "to hell with it",
+        author: "PinkPantheress",
+        cover: "https://i.scdn.co/image/ab67616d0000b27312c2eefb1d28509c632d915d",
+        kind: "album",
+        link: "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe",
+        comment: "Github Action"
+    },
+    {
         title: "Police Heartbreaker",
         author: "Absolute Valentine",
         cover: "https://i.scdn.co/image/ab67616d0000b2739db06862887c5d3affff9c7c",
