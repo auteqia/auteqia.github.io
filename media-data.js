@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Among My Swan",
+        author: "Mazzy Star",
+        cover: "https://i.scdn.co/image/ab67616d0000b27340f8e560e743f9b5d382c0af",
+        kind: "album",
+        link: "https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE",
+        comment: "Github Action"
+    },
+    {
+        title: "Backstage",
+        author: "Jay-Jay Johanson",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739a5b832578151de3a98f35ce",
+        kind: "album",
+        link: "https://open.spotify.com/album/0tq0qvEejqs0d9mvRYdSSE",
+        comment: "Github Action"
+    },
+    {
+        title: "Dirty",
+        author: "Sonic Youth",
+        cover: "https://i.scdn.co/image/ab67616d0000b27357fa1aac612a130fd53f9973",
+        kind: "album",
+        link: "https://open.spotify.com/album/05Zo2yt4reflRVNXFOYxDD",
+        comment: "Github Action"
+    },
+    {
+        title: "Cardan",
+        author: "Agar Agar",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c8cd1dafff9562ac2f73f0b6",
+        kind: "album",
+        link: "https://open.spotify.com/album/3X7EL2ektk2cUqmXBwIQGO",
+        comment: "Github Action"
+    },
+    {
+        title: "D-Sides",
+        author: "Gorillaz",
+        cover: "https://i.scdn.co/image/ab67616d0000b273efb135bbd7001e8ad73c7f72",
+        kind: "album",
+        link: "https://open.spotify.com/album/0pdYY0CHFRVFLBZEPEKTMZ",
+        comment: "Github Action"
+    },
+    {
         title: "1584660650",
         author: "Fine-Sir-1584660650",
         cover: "https://i.scdn.co/image/ab67616d0000b2734fa0196ad0b1435563fbd4ab",
