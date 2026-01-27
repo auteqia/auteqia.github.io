@@ -1,5 +1,53 @@
 const mediaLibrary = [
     {
+        title: "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        author: "Harold Budd",
+        cover: "https://i.scdn.co/image/ab67616d0000b273eba05344ff7ca99e2fd35545",
+        kind: "album",
+        link: "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO",
+        comment: "Github Action"
+    },
+    {
+        title: "Apollo",
+        author: "Brian Eno",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f2b52822fe54084cf07bfe02",
+        kind: "album",
+        link: "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E",
+        comment: "Github Action"
+    },
+    {
+        title: "Before And After Science",
+        author: "Brian Eno",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735bd1d1082e969cc25312e0b2",
+        kind: "album",
+        link: "https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u",
+        comment: "Github Action"
+    },
+    {
+        title: "Ambient 1: Music For Airports (Remastered 2004)",
+        author: "Brian Eno",
+        cover: "https://i.scdn.co/image/ab67616d0000b27337a379ca6520eaf191de6ff2",
+        kind: "album",
+        link: "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa",
+        comment: "Github Action"
+    },
+    {
+        title: "Ambient 4: On Land (Remastered 2004)",
+        author: "Brian Eno",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c83fef08b45f1784b4e916ba",
+        kind: "album",
+        link: "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh",
+        comment: "Github Action"
+    },
+    {
+        title: "Ambient 3: Day Of Radiance",
+        author: "Laraaji",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a16b4647d826f271634f666c",
+        kind: "album",
+        link: "https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw",
+        comment: "Github Action"
+    },
+    {
         title: "Evening Star",
         author: "Robert Fripp",
         cover: "https://i.scdn.co/image/ab67616d0000b27359454724c7283a19523ea016",
