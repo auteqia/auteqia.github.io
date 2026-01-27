@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Let It Bleed (50th Anniversary Edition / Remastered 2019)",
+        author: "The Rolling Stones",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735d04cbd61b29f13f2630779c",
+        kind: "album",
+        link: "https://open.spotify.com/album/47hOpZQfXVIRzTiv0Ef8pO",
+        comment: "Github Action"
+    },
+    {
         title: "Avalon",
         author: "Roxy Music",
         cover: "https://i.scdn.co/image/ab67616d0000b273c7972702cff224328b39f8a6",
