@@ -1,5 +1,85 @@
 const mediaLibrary = [
     {
+        title: "Speedin' Bullet 2 Heaven",
+        author: "Kid Cudi",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a4ea8c76f78b72ce3bda7625",
+        kind: "album",
+        link: "https://open.spotify.com/album/6e8pwYKSF9iZjpPep1DVzx",
+        comment: "Github Action"
+    },
+    {
+        title: "KiD CuDi presents SATELLITE FLIGHT: The journey to Mother Moon",
+        author: "Kid Cudi",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737c0f6a5c2fa4cd12049aff7e",
+        kind: "album",
+        link: "https://open.spotify.com/album/7qrXPKTQeYWTp42aJqa9s6",
+        comment: "Github Action"
+    },
+    {
+        title: "WZRD",
+        author: "WZRD",
+        cover: "https://i.scdn.co/image/ab67616d0000b27384e74436f9a25c8d0ba95213",
+        kind: "album",
+        link: "https://open.spotify.com/album/16Tz5tlOTNzG5DnMT4M4Xs",
+        comment: "Github Action"
+    },
+    {
+        title: "Indicud",
+        author: "Kid Cudi",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b9ab5cc935d2327a7d2bc629",
+        kind: "album",
+        link: "https://open.spotify.com/album/262o5a05pMUDSV2uzo5EwQ",
+        comment: "Github Action"
+    },
+    {
+        title: "JESUS IS KING",
+        author: "Kanye West",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731bb797bbfe2480650b6c2964",
+        kind: "album",
+        link: "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9",
+        comment: "Github Action"
+    },
+    {
+        title: "Legend of the Black Shawarma",
+        author: "Infected Mushroom",
+        cover: "https://i.scdn.co/image/ab67616d0000b27365d4a4f3b70ab882a23b3800",
+        kind: "album",
+        link: "https://open.spotify.com/album/3n0DG81kvTI2Ph0aUghJ3p",
+        comment: "Github Action"
+    },
+    {
+        title: "Man On The Moon III: The Chosen",
+        author: "Kid Cudi",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736ff25c2481eeaf6e7284d461",
+        kind: "album",
+        link: "https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w",
+        comment: "Github Action"
+    },
+    {
+        title: "(Rotten Apples) The Smashing Pumpkins Greatest Hits",
+        author: "The Smashing Pumpkins",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c48f42fdafcffcedbdbce025",
+        kind: "album",
+        link: "https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn",
+        comment: "Github Action"
+    },
+    {
+        title: "The Pink Opaque",
+        author: "Cocteau Twins",
+        cover: "https://i.scdn.co/image/ab67616d0000b27356af592a4b7b06678a837813",
+        kind: "album",
+        link: "https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3",
+        comment: "Github Action"
+    },
+    {
+        title: "Wasted Summers",
+        author: "juju<3",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738bcc614a15263d3f7a3d95af",
+        kind: "album",
+        link: "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY",
+        comment: "Github Action"
+    },
+    {
         title: "Live Aux Bains Douches - Paris 1980",
         author: "James Chance & The Contortions",
         cover: "https://i.scdn.co/image/ab67616d0000b273ab902756e3b0e16c1c6029de",
