@@ -1,5 +1,69 @@
 const mediaLibrary = [
     {
+        title: "Endorphine",
+        author: "shooda",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731e5bf2b136e00c8658e845da",
+        kind: "album",
+        link: "https://open.spotify.com/album/4j6w0f8TkSXinWfnFWPB9b",
+        comment: "Github Action"
+    },
+    {
+        title: "Sarah’s Crime",
+        author: "Toshifumi Hinata",
+        cover: "https://i.scdn.co/image/ab67616d0000b27379c4ef3f19aeea339a4e9552",
+        kind: "album",
+        link: "https://open.spotify.com/album/0PI2S21wPmojTHDHZC1SdE",
+        comment: "Github Action"
+    },
+    {
+        title: "Israeli Salad",
+        author: "The Alchemist",
+        cover: "https://i.scdn.co/image/ab67616d0000b273394784bfe372086a3c091cee",
+        kind: "album",
+        link: "https://open.spotify.com/album/7ntqAx8PbkYHwjeZnliXRV",
+        comment: "Github Action"
+    },
+    {
+        title: "1200 mètres en tout",
+        author: "Odezenne",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ff6ce2feb21770180abf00e0",
+        kind: "album",
+        link: "https://open.spotify.com/album/4rFLyaNnLXbh8OUmesVbYF",
+        comment: "Github Action"
+    },
+    {
+        title: "PROCESO CPT 3",
+        author: "J-War23",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ecae062e5e3a6d53f422def4",
+        kind: "album",
+        link: "https://open.spotify.com/album/1Xu7gzArJDgK843kcl2AJT",
+        comment: "Github Action"
+    },
+    {
+        title: "Outer Wilds (Original Soundtrack)",
+        author: "Andrew Prahlow",
+        cover: "https://i.scdn.co/image/ab67616d0000b273db6b8ae97f69fee1d432334d",
+        kind: "album",
+        link: "https://open.spotify.com/album/1U0A6RPNJB05PtuBcaTM7o",
+        comment: "Github Action"
+    },
+    {
+        title: "Twilight",
+        author: "bôa",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736173e498401502583046f42c",
+        kind: "album",
+        link: "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1",
+        comment: "Github Action"
+    },
+    {
+        title: "Dolziger Str. 2",
+        author: "Odezenne",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f65544cab7fc90bc4998505a",
+        kind: "album",
+        link: "https://open.spotify.com/album/0RRg2fVjqadGUxhTYQFCHn",
+        comment: "Github Action"
+    },
+    {
         title: "ULTRA",
         author: "23wa",
         cover: "https://i.scdn.co/image/ab67616d0000b273b718199c035121fe709fe19a",
