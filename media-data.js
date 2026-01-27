@@ -1,5 +1,101 @@
 const mediaLibrary = [
     {
+        title: "I Sold My Soul to the Devil When I Was 12",
+        author: "GRLwood",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733a56d03fc114a1778aa32991",
+        kind: "album",
+        link: "https://open.spotify.com/album/208prVex05pouGg881tH6x",
+        comment: "Github Action"
+    },
+    {
+        title: "Thank You Happy Birthday",
+        author: "Cage The Elephant",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735f1590fb5d2f9e1bed8bb2e8",
+        kind: "album",
+        link: "https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg",
+        comment: "Github Action"
+    },
+    {
+        title: "Man On The Moon II: The Legend Of Mr. Rager",
+        author: "Kid Cudi",
+        cover: "https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815",
+        kind: "album",
+        link: "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud",
+        comment: "Github Action"
+    },
+    {
+        title: "Blur: The Best Of",
+        author: "Blur",
+        cover: "https://i.scdn.co/image/ab67616d0000b27334cbf7013afccc7df67fa43f",
+        kind: "album",
+        link: "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x",
+        comment: "Github Action"
+    },
+    {
+        title: "Melophobia",
+        author: "Cage The Elephant",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fb1cb900d28642e668d77b12",
+        kind: "album",
+        link: "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz",
+        comment: "Github Action"
+    },
+    {
+        title: "Man On The Moon: The End Of Day (Deluxe)",
+        author: "Kid Cudi",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a487deeecb334b6619489d74",
+        kind: "album",
+        link: "https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3",
+        comment: "Github Action"
+    },
+    {
+        title: "The Age Of The Understatement",
+        author: "The Last Shadow Puppets",
+        cover: "https://i.scdn.co/image/ab67616d0000b27356e4e3118af9dec4a5670a33",
+        kind: "album",
+        link: "https://open.spotify.com/album/2y3Rm0cT1xbf2NoTQwKv99",
+        comment: "Github Action"
+    },
+    {
+        title: "Elastica",
+        author: "Elastica",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735ac670b8c48b7446c8aade5e",
+        kind: "album",
+        link: "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ",
+        comment: "Github Action"
+    },
+    {
+        title: "Social Cues",
+        author: "Cage The Elephant",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739805f6248ce3f3ee52cd6ea9",
+        kind: "album",
+        link: "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G",
+        comment: "Github Action"
+    },
+    {
+        title: "Everything You've Come To Expect (Deluxe Edition)",
+        author: "The Last Shadow Puppets",
+        cover: "https://i.scdn.co/image/ab67616d0000b27399845928b10d57ec9f95e953",
+        kind: "album",
+        link: "https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947",
+        comment: "Github Action"
+    },
+    {
+        title: "Cage The Elephant (Expanded Edition)",
+        author: "Cage The Elephant",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e4800c920780ac18d4ab6730",
+        kind: "album",
+        link: "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn",
+        comment: "Github Action"
+    },
+    {
+        title: "KIDS SEE GHOSTS",
+        author: "KIDS SEE GHOSTS",
+        cover: "https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82",
+        kind: "album",
+        link: "https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV",
+        comment: "Github Action"
+    },
+    {
         title: "Speedin' Bullet 2 Heaven",
         author: "Kid Cudi",
         cover: "https://i.scdn.co/image/ab67616d0000b273a4ea8c76f78b72ce3bda7625",
