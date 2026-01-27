@@ -1,5 +1,77 @@
 const mediaLibrary = [
     {
+        title: "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        author: "The Smashing Pumpkins",
+        cover: "https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6",
+        kind: "album",
+        link: "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV",
+        comment: "Github Action"
+    },
+    {
+        title: "Mimosa",
+        author: "CHELABÔM",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e7075b8f3a990138d5c6e7a5",
+        kind: "album",
+        link: "https://open.spotify.com/album/3LAHItm94eef8LMRU9xrMU",
+        comment: "Github Action"
+    },
+    {
+        title: "Exorcising Ghosts",
+        author: "Japan",
+        cover: "https://i.scdn.co/image/ab67616d0000b27316e5e41582b326aa3832da8e",
+        kind: "album",
+        link: "https://open.spotify.com/album/0ezKQuRSkTDJSgwJ6iL4Jq",
+        comment: "Github Action"
+    },
+    {
+        title: "Grace",
+        author: "Jeff Buckley",
+        cover: "https://i.scdn.co/image/ab67616d0000b273afc2d1d2c8703a10aeded0af",
+        kind: "album",
+        link: "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS",
+        comment: "Github Action"
+    },
+    {
+        title: "Mexican Spaghetti Western (Bonus Edition)",
+        author: "Chingon",
+        cover: "https://i.scdn.co/image/ab67616d0000b27390300d07d1a39796b7acb59e",
+        kind: "album",
+        link: "https://open.spotify.com/album/6Cml5uWyReGMYgqUzmk5jv",
+        comment: "Github Action"
+    },
+    {
+        title: "Par Les Fils De Mandrin",
+        author: "Ange",
+        cover: "https://i.scdn.co/image/ab67616d0000b273059c67254b844bff24410442",
+        kind: "album",
+        link: "https://open.spotify.com/album/3EqySsFNjDWa6xORz8apbS",
+        comment: "Github Action"
+    },
+    {
+        title: "BLOOD",
+        author: "GRLwood",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e6e272a6c2b1f4e8a1686030",
+        kind: "album",
+        link: "https://open.spotify.com/album/1PJP79JocpUirWseaHNiWe",
+        comment: "Github Action"
+    },
+    {
+        title: "Le Cimetiere Des Arlequins",
+        author: "Ange",
+        cover: "https://i.scdn.co/image/ab67616d0000b27315f5700295517ab7eaac8b0e",
+        kind: "album",
+        link: "https://open.spotify.com/album/5KnZloSevoATYhQeX7t0e0",
+        comment: "Github Action"
+    },
+    {
+        title: "Daddy",
+        author: "GRLwood",
+        cover: "https://i.scdn.co/image/ab67616d0000b27353dd91dfe0ba23725bed27d2",
+        kind: "album",
+        link: "https://open.spotify.com/album/5YxBTI1CguUfFH5K7A3nSv",
+        comment: "Github Action"
+    },
+    {
         title: "Diamond Eyes",
         author: "Deftones",
         cover: "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
