@@ -7245,72 +7245,12 @@ const mediaLibrary = [
         link: "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D?si=JWrEE3ccTGWm4AG915Wp7w",
         kind: "album"
     },
-    
-    {
-        title: "Even In The Quietest Moments",
-        cover: "https://i.scdn.co/image/ab67616d00001e02bddcc30c6a3288e725aec2df",
-        rating: 5,
-        author: "Supertramp",
-        link: "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w?si=VTN7JJUZTzu443nJakpHfg",
-        kind: "album"
-    },
-    
-
-    
-    {
-        title: "'...Famous Last Words...'",
-        cover: "https://i.scdn.co/image/ab67616d00001e02093c6e7d6069b3c958071f73",
-        rating: 5,
-        author: "Supertramp",
-        link: "https://open.spotify.com/album/58JuUAfKGh6bKphiBtp7Nc?si=XLC9Or68Qdm6SzKwphjT3Q",
-        kind: "album"
-    },
-    
-
     {
         title: "Rage Against The Machine",
         cover: "https://i.scdn.co/image/ab67616d00001e0254ab617bc2d4974ab6ffbece",
         rating: 5,
         author: "Rage Against The Machine",
         link: "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4?si=cbe1rkXARnOvNGBWVJKU1Q",
-        kind: "album"
-    },
-    {
-        title: "Machine Head",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a729c9c3dec04b99d889c66f",
-        rating: 5,
-        author: "Deep Purple",
-        link: "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN?si=bOkCDDxsSjC5rEgi7I_JoQ",
-        kind: "album"
-    },
-
-
-
-
-
-
-    {
-        title: "Made In Japan",
-        cover: "https://i.scdn.co/image/ab67616d00001e0255b8ce9be020127f7b8a76f3",
-        rating: 5,
-        author: "Deep Purple",
-        link: "https://open.spotify.com/album/1IY4BdLApVlVa8xid34zJm?si=P-Ncq2xtQAyWN-b0XJXxsA",
-        kind: "album"
-    },
-    {
-        title: "Made in Europe",
-        cover: "https://i.scdn.co/image/ab67616d00001e02d912296cb5ef2a91339db1f4",
-        rating: 5,
-        author: "Deep Purple",
-        link: "https://open.spotify.com/album/7hlg6rtIzw56qQbUVkwADH?si=tD8qhxuxTOSLDSKkqWis9w",
-        kind: "album"
-    },
-    {
-        title: "Pablo Honey",
-        cover: "https://i.scdn.co/image/ab67616d00001e02ec548c00d3ac2f10be73366d",
-        rating: 5,
-        author: "Deep Purple",
-        link: "https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8?si=Vv57sT2zS5qk5fYAiKMRSw",
         kind: "album"
     },
     {
@@ -7676,46 +7616,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "N.E.S vol.1",
-        cover: "https://i.scdn.co/image/ab67616d00001e02112351ca765fece385ea71c6",
-        rating: 5,
-        author: "NeS",
-        link: "https://open.spotify.com/intl-fr/album/3LQOpZ7lYz6UxhRxGAto9A?si=qFSdCmH9R7G1IcosS8SETw",
-        kind: "album"
-    },
-    {
-        title: "1200 mètres tout en haut",
-        cover: "https://i.scdn.co/image/ab67616d00001e02ff6ce2feb21770180abf00e0",
-        rating: 5,
-        author: "Odezenne",
-        link: "https://open.spotify.com/intl-fr/album/4rFLyaNnLXbh8OUmesVbYF?si=ht2R9lHVRDmK9r37a88Elw",
-        kind: "album"
-    },
-    {
-        title: "Dolziger Str. 2",
-        cover: "https://i.scdn.co/image/ab67616d00001e02f65544cab7fc90bc4998505a",
-        rating: 5,
-        author: "Odezenne",
-        link: "https://open.spotify.com/intl-fr/album/0RRg2fVjqadGUxhTYQFCHn?si=95wIV0O8SUCnlt-zk1PMrw",
-        kind: "album"
-    },
-    {
-        title: "Pouchkine",
-        cover: "https://i.scdn.co/image/ab67616d00001e0236309b27bac028c9238e189a",
-        rating: 5,
-        author: "Odezenne",
-        link: "https://open.spotify.com/intl-fr/album/7rJGtJY0medXqW1tmIVqWk?si=WhJl13BNTWSZZy40eyyDTA",
-        kind: "album"
-    },
-    {
-        title: "sans. chantilly",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e129c5d6961bd909641b0c97",
-        rating: 5,
-        author: "Odezenne",
-        link: "https://open.spotify.com/intl-fr/album/22PKNzcAtIKtKasoJwu9tV?si=arj_iM9tS_WrxHlAwU2HsQ",
-        kind: "album"
-    },
-    {
         title: "Gorillaz",
         cover: "https://i.scdn.co/image/ab67616d00001e02f6c46838e4425ea96e2562fe",
         rating: 5,
@@ -7865,54 +7765,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Steve Lacy",
         link: "https://open.spotify.com/intl-fr/album/3Ks0eeH0GWpY4AU20D5HPD?si=gbk4WqZlTW2dsw3Kk8Xrrg",
-        kind: "album"
-    },
-    {
-        title: "Twilight",
-        cover: "https://i.scdn.co/image/ab67616d00001e02948506eef3b3350b2385ef51",
-        rating: 5,
-        author: "bôa",
-        link: "https://open.spotify.com/intl-fr/album/7sGYAV0xv7ZfAMzIpMl8m1?si=yAKITbPMRMawbb5KCipwaQ",
-        kind: "album"
-    },
-    {
-        title: "Outer Wilds",
-        cover: "https://i.scdn.co/image/ab67616d00001e02db6b8ae97f69fee1d432334d",
-        rating: 5,
-        author: "Andrew Pharlow",
-        link: "https://open.spotify.com/intl-fr/album/1U0A6RPNJB05PtuBcaTM7o?si=m9aVgfcqRD6p8PVwh1sydg",
-        kind: "album"
-    },
-    {
-        title: "Sarah's Crime",
-        cover: "https://i.scdn.co/image/ab67616d00001e0279c4ef3f19aeea339a4e9552",
-        rating: 5,
-        author: "Toshifumi Hinata",
-        link: "https://open.spotify.com/intl-fr/album/0PI2S21wPmojTHDHZC1SdE?si=lVX0VCp4Ry6k0akiTOYCxw",
-        kind: "album"
-    },
-    {
-        title: "Israeli Salad",
-        cover: "https://i.scdn.co/image/ab67616d00001e02394784bfe372086a3c091cee",
-        rating: 5,
-        author: "The Alchemist",
-        link: "https://open.spotify.com/intl-fr/album/7ntqAx8PbkYHwjeZnliXRV?si=nH9g-H0lSBOXaDHAJOWPgw",
-        kind: "album"
-    },
-    {
-        title: "Moonlust Demos",
-        cover: "https://i.scdn.co/image/ab67616d00001e0299e96bc3a8934f228cd34dec",
-        rating: 5,
-        author: "The Holydrug Couple",
-        link: "https://open.spotify.com/intl-fr/album/3SC1up17l1zGlOtZbrPkvv?si=I950ys1CRoadrbVSchUxvQ",
-        kind: "album"
-    },
-    {
-        title: "Moonlust",
-        cover: "https://i.scdn.co/image/ab67616d00001e021a36493cdc3087836874421d",
-        rating: 5,
-        author: "The Holydrug Couple",
-        link: "https://open.spotify.com/intl-fr/album/5dsTu76YBUMKIvgjrswqpF?si=nByu2S1bQMqfAyNnHOK92w",
         kind: "album"
     },
     {
