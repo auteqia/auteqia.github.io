@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "social distancing from reality",
+        author: "meat computer",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e05c841cffef255cb4409987",
+        kind: "album",
+        link: "https://open.spotify.com/album/2SX88PoZhRbgiOJUdhoegq",
+        comment: "Github Action"
+    },
+    {
+        title: "Trilogy",
+        author: "Emerson, Lake & Palmer",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730134e07cf27d2cb5a1eaddcc",
+        kind: "album",
+        link: "https://open.spotify.com/album/1VHLlFuKZYLVhnLanVzJxF",
+        comment: "Github Action"
+    },
+    {
         title: "Horses (Legacy Edition)",
         author: "Patti Smith",
         cover: "https://i.scdn.co/image/ab67616d0000b273a90fd296ed58e362f094c3d7",
