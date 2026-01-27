@@ -1,5 +1,117 @@
 const mediaLibrary = [
     {
+        title: "1584660650",
+        author: "Fine-Sir-1584660650",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734fa0196ad0b1435563fbd4ab",
+        kind: "album",
+        link: "https://open.spotify.com/album/4JY1a8QLSJD0JNSOZ2ekJ2",
+        comment: "Github Action"
+    },
+    {
+        title: "Our Love To Admire",
+        author: "Interpol",
+        cover: "https://i.scdn.co/image/ab67616d0000b27358e444706a30b99f8d5fd8c9",
+        kind: "album",
+        link: "https://open.spotify.com/album/1gsoIHeBan6QywhysNgApK",
+        comment: "Github Action"
+    },
+    {
+        title: "Souvlaki",
+        author: "Slowdive",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41",
+        kind: "album",
+        link: "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z",
+        comment: "Github Action"
+    },
+    {
+        title: "Turn On The Bright Lights",
+        author: "Interpol",
+        cover: "https://i.scdn.co/image/ab67616d0000b27314f8df9fb9c2d3056a994390",
+        kind: "album",
+        link: "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG",
+        comment: "Github Action"
+    },
+    {
+        title: "Living While Starving",
+        author: "Car Seat Headrest",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c04293e38055ac0554c0ff05",
+        kind: "album",
+        link: "https://open.spotify.com/album/3egPQUSqrInRvbXxPqXQYm",
+        comment: "Github Action"
+    },
+    {
+        title: "Starboy",
+        author: "The Weeknd",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+        kind: "album",
+        link: "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe",
+        comment: "Github Action"
+    },
+    {
+        title: "Sally Can't Dance",
+        author: "Lou Reed",
+        cover: "https://i.scdn.co/image/ab67616d0000b273069f3823e3ec9f340da88f58",
+        kind: "album",
+        link: "https://open.spotify.com/album/7ue4oCRcvtAqp4Dx4MQq7I",
+        comment: "Github Action"
+    },
+    {
+        title: "Berlin",
+        author: "Lou Reed",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ca937a5f9d3ccbb7248f079b",
+        kind: "album",
+        link: "https://open.spotify.com/album/4iaDgkP0M6ahEHrBynAFei",
+        comment: "Github Action"
+    },
+    {
+        title: "Close to the Edge (Super Deluxe Edition)",
+        author: "Yes",
+        cover: "https://i.scdn.co/image/ab67616d0000b27316e98d54dd3f3b14e55c9218",
+        kind: "album",
+        link: "https://open.spotify.com/album/1uXol4dKqzMsUiqvHpwhZh",
+        comment: "Github Action"
+    },
+    {
+        title: "Teens Of Denial",
+        author: "Car Seat Headrest",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734094272fe172643edfdbba48",
+        kind: "album",
+        link: "https://open.spotify.com/album/3KpYyDP8q8sUBxatHaYEsP",
+        comment: "Github Action"
+    },
+    {
+        title: "Fragile (Super Deluxe)",
+        author: "Yes",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fb00f7be0eca020bb5c05911",
+        kind: "album",
+        link: "https://open.spotify.com/album/78tN6vBPHHyNk4sZYnS5X4",
+        comment: "Github Action"
+    },
+    {
+        title: "Dots And Loops (Expanded Edition)",
+        author: "Stereolab",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735e70712e0193f7a9bbc23c0d",
+        kind: "album",
+        link: "https://open.spotify.com/album/151mT9g0fDHVfpmWeYk4Wx",
+        comment: "Github Action"
+    },
+    {
+        title: "After Hours",
+        author: "The Weeknd",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+        kind: "album",
+        link: "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj",
+        comment: "Github Action"
+    },
+    {
+        title: "Coney Island Baby",
+        author: "Lou Reed",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735dcf459d038104c9ba910442",
+        kind: "album",
+        link: "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx",
+        comment: "Github Action"
+    },
+    {
         title: "High Visceral, Pt. 1",
         author: "Psychedelic Porn Crumpets",
         cover: "https://i.scdn.co/image/ab67616d0000b273e9fc848924f30c739ff693a8",
