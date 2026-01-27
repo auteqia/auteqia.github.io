@@ -6889,30 +6889,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Ambient 4: On Land",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c83fef08b45f1784b4e916ba",
-        rating: 5,
-        author: "Brian Eno",
-        link: "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh?si=Luh5los9SM24YNpVPSzKdg",
-        kind: "album"
-    },
-    {
-        title: "The Fame Monster",
-        cover: "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa",
-        rating: 4,
-        author: "Lady Gaga",
-        link: "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4?si=YvHpcrHmTbyvl2mhHtnHMg",
-        kind: "album"
-    },
-    {
-        title: "Ambient 2: The Plateaux Of Mirror",
-        cover: "https://i.scdn.co/image/ab67616d00001e02eba05344ff7ca99e2fd35545",
-        rating: 4.2,
-        author: "Brian Eno",
-        link: "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO?si=Rpwja9KdSnGPdAdSks7yUQ",
-        kind: "album"
-    },
-    {
         title: "Howl's Moving Castle",
         cover: "https://i.scdn.co/image/ab67616d00001e0262c1f3370811c52ae2d26d24",
         rating: 5,
