@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Horses (Legacy Edition)",
+        author: "Patti Smith",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a90fd296ed58e362f094c3d7",
+        kind: "album",
+        link: "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6",
+        comment: "Github Action"
+    },
+    {
         title: "Pure Mania",
         author: "The Vibrators",
         cover: "https://i.scdn.co/image/ab67616d0000b27379cb5b1840e5e91ccb3f2db1",
