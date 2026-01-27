@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Disguised in Black",
+        author: "Ghosting",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738a1cac10e19d302edec37be0",
+        kind: "album",
+        link: "https://open.spotify.com/album/7kB2L6VdlD6aloXQhsDlAV",
+        comment: "Github Action"
+    },
+    {
         title: "Among My Swan",
         author: "Mazzy Star",
         cover: "https://i.scdn.co/image/ab67616d0000b27340f8e560e743f9b5d382c0af",
