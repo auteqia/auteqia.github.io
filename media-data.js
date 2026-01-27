@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Live Aux Bains Douches - Paris 1980",
+        author: "James Chance & The Contortions",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ab902756e3b0e16c1c6029de",
+        kind: "album",
+        link: "https://open.spotify.com/album/20JFtQwBhhp72kiyoGgspz",
+        comment: "Github Action"
+    },
+    {
+        title: "Disintegration (Deluxe Edition)",
+        author: "The Cure",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735eaaa770d39591fd91b2b03b",
+        kind: "album",
+        link: "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg",
+        comment: "Github Action"
+    },
+    {
         title: "Let It Bleed (50th Anniversary Edition / Remastered 2019)",
         author: "The Rolling Stones",
         cover: "https://i.scdn.co/image/ab67616d0000b2735d04cbd61b29f13f2630779c",
