@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Pure Mania",
+        author: "The Vibrators",
+        cover: "https://i.scdn.co/image/ab67616d0000b27379cb5b1840e5e91ccb3f2db1",
+        kind: "album",
+        link: "https://open.spotify.com/album/1FSQBoO0bABGyl4nQssw2E",
+        comment: "Github Action"
+    },
+    {
+        title: "Hyaena (Remastered And Expanded)",
+        author: "Siouxsie and the Banshees",
+        cover: "https://i.scdn.co/image/ab67616d0000b27398a9b4da7c5cdf6210c36258",
+        kind: "album",
+        link: "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr",
+        comment: "Github Action"
+    },
+    {
         title: "Disguised in Black",
         author: "Ghosting",
         cover: "https://i.scdn.co/image/ab67616d0000b2738a1cac10e19d302edec37be0",
