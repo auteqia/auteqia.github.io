@@ -1,5 +1,157 @@
 const mediaLibrary = [
     {
+        title: "Republic",
+        author: "New Order",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738120870086c90b8de2309ef0",
+        kind: "album",
+        link: "https://open.spotify.com/album/7mIOgbore2HTzdh2ZyS4rH",
+        comment: "Github Action"
+    },
+    {
+        title: "Ill Communication",
+        author: "Beastie Boys",
+        cover: "https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a",
+        kind: "album",
+        link: "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8",
+        comment: "Github Action"
+    },
+    {
+        title: "Delaware",
+        author: "Drop Nineteens",
+        cover: "https://i.scdn.co/image/ab67616d0000b273327dd408e63cfe266e5186b2",
+        kind: "album",
+        link: "https://open.spotify.com/album/0kAlEeID2MPd2JYT3Iwegp",
+        comment: "Github Action"
+    },
+    {
+        title: "The Social Network",
+        author: "Trent Reznor and Atticus Ross",
+        cover: "https://i.scdn.co/image/ab67616d0000b273897cd4eeff3174110aa6230b",
+        kind: "album",
+        link: "https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa",
+        comment: "Github Action"
+    },
+    {
+        title: "Asleep Among Endives",
+        author: "Ichiko Aoba",
+        cover: "https://i.scdn.co/image/ab67616d0000b27398b1c6c0d05f8841f08a9eca",
+        kind: "album",
+        link: "https://open.spotify.com/album/6pKCyXWoV7zhgDczCO0H6S",
+        comment: "Github Action"
+    },
+    {
+        title: "Challengers (Original Score)",
+        author: "Trent Reznor and Atticus Ross",
+        cover: "https://i.scdn.co/image/ab67616d0000b27340c5a23e13d795d75756bc3c",
+        kind: "album",
+        link: "https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv",
+        comment: "Github Action"
+    },
+    {
+        title: "Bohemian Rap Story",
+        author: "Dooz Kawa",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bda6cf84cde8c5de3b90c772",
+        kind: "album",
+        link: "https://open.spotify.com/album/0CuVqlqPNuMUWudiXEilS9",
+        comment: "Github Action"
+    },
+    {
+        title: "Windswept Adan",
+        author: "Ichiko Aoba",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734b92776a502f280b488cd3ea",
+        kind: "album",
+        link: "https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB",
+        comment: "Github Action"
+    },
+    {
+        title: "In Utero (Deluxe Edition)",
+        author: "Nirvana",
+        cover: "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
+        kind: "album",
+        link: "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6",
+        comment: "Github Action"
+    },
+    {
+        title: "Caniveau",
+        author: "CHELABÔM",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730ee278fd9fb6f1a08d52be5c",
+        kind: "album",
+        link: "https://open.spotify.com/album/7fkjqLIUzJQG5UChFLPdxt",
+        comment: "Github Action"
+    },
+    {
+        title: "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        author: "Oasis",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737a4c8c59851c88f6794c3cbf",
+        kind: "album",
+        link: "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4",
+        comment: "Github Action"
+    },
+    {
+        title: "Metallica (Remastered Deluxe Box Set)",
+        author: "Metallica",
+        cover: "https://i.scdn.co/image/ab67616d0000b273167cb6a039a78b7804f33426",
+        kind: "album",
+        link: "https://open.spotify.com/album/12nEtB2TU44qNHt6IsyIrZ",
+        comment: "Github Action"
+    },
+    {
+        title: "Mid90s (Original Music from the Motion Picture)",
+        author: "Trent Reznor and Atticus Ross",
+        cover: "https://i.scdn.co/image/ab67616d0000b27382f3ec9eeac611e88131b8ba",
+        kind: "album",
+        link: "https://open.spotify.com/album/4fyH8qQJjj9WR939GCL1Sr",
+        comment: "Github Action"
+    },
+    {
+        title: "Dame Rabia",
+        author: "CHELABÔM",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c9fd9693374128719014d03a",
+        kind: "album",
+        link: "https://open.spotify.com/album/2T7Ty1lL1xIRwMxtZy4pkR",
+        comment: "Github Action"
+    },
+    {
+        title: "Brotherhood (Collector's Edition)",
+        author: "New Order",
+        cover: "https://i.scdn.co/image/ab67616d0000b273530a2c5dd17d2ddf8edc2978",
+        kind: "album",
+        link: "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu",
+        comment: "Github Action"
+    },
+    {
+        title: "Master of Puppets (Remastered Deluxe Box Set)",
+        author: "Metallica",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cad4832cb7b5844343278daa",
+        kind: "album",
+        link: "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j",
+        comment: "Github Action"
+    },
+    {
+        title: "Liquid Tension Experiment 2",
+        author: "Liquid Tension Experiment",
+        cover: "https://i.scdn.co/image/ab67616d0000b273343678efb69ad96f2c65f938",
+        kind: "album",
+        link: "https://open.spotify.com/album/25JdFEbKXocMQyJdlBzD5d",
+        comment: "Github Action"
+    },
+    {
+        title: "DÉFILE MOI - Verticales dans le Crépuscule (Live Session)",
+        author: "CHELABÔM",
+        cover: "https://i.scdn.co/image/ab67616d0000b273587f082300cfa4b06eceb721",
+        kind: "album",
+        link: "https://open.spotify.com/album/7Ai9cZ7MK5wMaKUJHr9nCP",
+        comment: "Github Action"
+    },
+    {
+        title: "Nevermind (Remastered)",
+        author: "Nirvana",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+        kind: "album",
+        link: "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ",
+        comment: "Github Action"
+    },
+    {
         title: "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         author: "The Smashing Pumpkins",
         cover: "https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6",
