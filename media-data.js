@@ -7125,62 +7125,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Exorcising Ghosts",
-        cover: "https://i.scdn.co/image/ab67616d00001e0216e5e41582b326aa3832da8e",
-        rating: 5,
-        author: "Japan",
-        link: "https://open.spotify.com/intl-fr/album/0ezKQuRSkTDJSgwJ6iL4Jq?si=ZH8Uqa6sQyWNWlqdR4mQDQ",
-        kind: "album"
-    },
-    {
-        title: "DÉFILE MOI",
-        cover: "https://i.scdn.co/image/ab67616d00001e02cc0997ac7613088939cc48f2",
-        rating: 5,
-        author: "CHELABÔM",
-        link: "https://open.spotify.com/intl-fr/album/0mClhYHZCiTEDyvravTPsU?si=rh3e1loZS2eN0DUsdGuwjg",
-        kind: "album"
-    },
-    {
-        title: "Mimosa",
-        cover: "https://i.scdn.co/image/ab67616d00001e023e3d67168ebae6faca68c2a2",
-        rating: 5,
-        author: "CHELABÔM",
-        link: "https://open.spotify.com/intl-fr/album/1ms1LL4S7ug6xDm5eELmvD?si=HzrjVY5TRhCu-1P2_r6sdQ",
-        kind: "album"
-    },
-    {
-        title: "Asleep Among Endives",
-        cover: "https://i.scdn.co/image/ab67616d00001e0298b1c6c0d05f8841f08a9eca",
-        rating: 5,
-        author: "Ichiko Aoba",
-        link: "https://open.spotify.com/intl-fr/album/6pKCyXWoV7zhgDczCO0H6S?si=qqt17ndBQCezuvlIDf7s4A",
-        kind: "album"
-    },
-    {
-        title: "Windswept Adan",
-        cover: "https://i.scdn.co/image/ab67616d00001e02404c42c88f33617818cee490",
-        rating: 5,
-        author: "Ichiko Aoba",
-        link: "https://open.spotify.com/intl-fr/album/0LxeUCxtPfUtnHTKbW52MB?si=Ui1z4sLwTNqmLpgEhLnh7A",
-        kind: "album"
-    },
-    {
-        title: "Mid90's",
-        cover: "https://i.scdn.co/image/ab67616d00001e0282f3ec9eeac611e88131b8ba",
-        rating: 5,
-        author: "Trent Reznor and Atticus Ross",
-        link: "https://open.spotify.com/intl-fr/album/23DEG8PRHL10qHKtWk71gI?si=N4GxS0K-QnC2Dgmpm20kEQ",
-        kind: "album"
-    },
-    {
-        title: "Challengers",
-        cover: "https://i.scdn.co/image/ab67616d00001e02b08b724b35455ddf8e385546",
-        rating: 5,
-        author: "Trent Reznor and Atticus Ross",
-        link: "https://open.spotify.com/intl-fr/album/2NHhf3qtcoVPDEb03G8RFv?si=oUJ4BQt8THyj-7rzs82w3g",
-        kind: "album"
-    },
-    {
         title: "Life's Too Good",
         cover: "https://i.scdn.co/image/ab67616d00001e02745d98c66e95e30e60f97962",
         rating: 5,
@@ -7205,30 +7149,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Twin Fantasy",
-        cover: "https://i.scdn.co/image/ab67616d00001e022764cdf400a1d859640539a9",
-        rating: 5,
-        author: "Car Seat Headrest",
-        link: "https://open.spotify.com/intl-fr/album/6gDtROOIYa6OQxwhDNkDRM?si=Tn3PcxeJTsKfY-XifPH2FQ",
-        kind: "album"
-    },
-    {
-        title: "Liquid Tension Experiment 2",
-        cover: "https://i.scdn.co/image/ab67616d00001e02343678efb69ad96f2c65f938",
-        rating: 5,
-        author: "Liquid Tension Experiment",
-        link: "https://open.spotify.com/intl-fr/album/25JdFEbKXocMQyJdlBzD5d?si=n3KX0o2LSHCXfGNIJMDrWg",
-        kind: "album"
-    },
-    {
-        title: "Bohemian Rap Story",
-        cover: "https://i.scdn.co/image/ab67616d00001e02bda6cf84cde8c5de3b90c772",
-        rating: 5,
-        author: "Dooz Kawa",
-        link: "https://open.spotify.com/intl-fr/album/0CuVqlqPNuMUWudiXEilS9?si=r0IYsi8TTkejA4jzVNaUgw",
-        kind: "album"
-    },
-    {
         title: "Emerson, Lake & Palmer",
         cover: "https://i.scdn.co/image/ab67616d00001e0299fa44c27dfac9beda628082",
         rating: 5,
@@ -7242,46 +7162,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Alkpote",
         link: "https://open.spotify.com/intl-fr/album/0wmaktOeWhlWhmimgowoMH?si=7rv_zWIZT8SmXDAN32bYPQ",
-        kind: "album"
-    },
-    {
-        title: "Delaware",
-        cover: "https://i.scdn.co/image/ab67616d00001e02327dd408e63cfe266e5186b2",
-        rating: 5,
-        author: "Drop Ninteens",
-        link: "https://open.spotify.com/intl-fr/album/0kAlEeID2MPd2JYT3Iwegp?si=IFXMdBf6SLmr5mnCdGUmOw",
-        kind: "album"
-    },
-    {
-        title: "III Communication",
-        cover: "https://i.scdn.co/image/ab67616d00001e02436a305db8bd85b820da3e5a",
-        rating: 5,
-        author: "Beasty Boys",
-        link: "https://open.spotify.com/intl-fr/album/6lfjbwFGzQ6aSNP1N3JlT8?si=mFVJpF_xQZq3Cd_OVm_GZQ",
-        kind: "album"
-    },
-    {
-        title: "Power Corruption",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a0bb93884823982d57cb2004",
-        rating: 5,
-        author: "New Order",
-        link: "https://open.spotify.com/intl-fr/album/6NTrwu1XJ56jBPx7HMksbZ?si=L3YpHUXKQ6GrRq9PYOkizA",
-        kind: "album"
-    },
-    {
-        title: "Brotherhood",
-        cover: "https://i.scdn.co/image/ab67616d00001e02530a2c5dd17d2ddf8edc2978",
-        rating: 5,
-        author: "New Order",
-        link: "https://open.spotify.com/intl-fr/album/0PSWY4XyjTWppfBb0tBtqu?si=lz_S9S7OTy65Tz4tejOpkQ",
-        kind: "album"
-    },
-    {
-        title: "REpublic",
-        cover: "https://i.scdn.co/image/ab67616d00001e028120870086c90b8de2309ef0",
-        rating: 5,
-        author: "New Order",
-        link: "https://open.spotify.com/intl-fr/album/7mIOgbore2HTzdh2ZyS4rH?si=q8pyEbF_TvG818BFZU4dSA",
         kind: "album"
     },
     {
