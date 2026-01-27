@@ -7292,87 +7292,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Sally Can't Dance",
-        cover: "https://i.scdn.co/image/ab67616d00001e0248d00c0ea1dfaf0530a4ec2a",
-        rating: 5,
-        author: "Lou Reed",
-        link: "https://open.spotify.com/intl-fr/album/7ue4oCRcvtAqp4Dx4MQq7I?si=zm3cWlCAR-yOJF8cndcyIQ",
-        kind: "album"
-    },
-    {
-        title: "Berlin",
-        cover: "https://i.scdn.co/image/ab67616d00001e0229ecf64a783a05d8d36bf1dc",
-        rating: 5,
-        author: "Lou Reed",
-        link: "https://open.spotify.com/intl-fr/album/4iaDgkP0M6ahEHrBynAFei?si=Iab9X0pVQWuFjsSuDdPDfQ",
-        kind: "album"
-    },
-
-    {
-        title: "Fragile",
-        cover: "https://i.scdn.co/image/ab67616d00001e02fb00f7be0eca020bb5c05911",
-        rating: 5,
-        author: "Yes",
-        link: "https://open.spotify.com/intl-fr/album/78tN6vBPHHyNk4sZYnS5X4?si=Gg7AoziVSJOJ1ZbabXARsg",
-        kind: "album"
-    },
-    {
-        title: "Going for the One",
-        cover: "https://i.scdn.co/image/ab67616d00001e02370f0969aca636b22cc98eed",
-        rating: 5,
-        author: "Yes",
-        link: "https://open.spotify.com/intl-fr/album/2U4JHXMiBxsKH4dnYEQg2g?si=ZQya5j1yTESaNIUpwg9zBg",
-        kind: "album"
-    },
-    {
-        title: "Post Cyber-Death Voxel Infinity",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a1a8a14bcc49fe1f679fc907",
-        rating: 5,
-        author: "Fine-Sir-1584660650",
-        link: "https://open.spotify.com/intl-fr/album/6n98ZzKufMhVJpAFwIh5Vj?si=GovgE0kPS8urohQc47Zs-w",
-        kind: "album"
-    },
-    {
-        title: "ᚍᚑᚄᚆᚁᚑᚃᚋᚘᚚᚒᚄᚁᚅᚑᚇᚃᚒᚙᚁᚈᚋᚅᚖᚇᚗᚁᚐᚊᚏᚈᚘ",
-        cover: "https://i.scdn.co/image/ab67616d00001e02b3702d67b1208fb909c0a5c1",
-        rating: 5,
-        author: "Fine-Sir-1584660650",
-        link: "https://open.spotify.com/intl-fr/album/1gTSDOZCzJqmEzH6efpwyc?si=9Bh8f3TqTgOAFEpvpGmqew",
-        kind: "album"
-    },
-    {
-        title: "to hell with it",
-        cover: "https://i.scdn.co/image/ab67616d00001e0212c2eefb1d28509c632d915d",
-        rating: 5,
-        author: "PinkPanthress",
-        link: "https://open.spotify.com/intl-fr/album/65YAjLCn7Jp33nJpOxIPMe?si=A_m175teQIaNQ_JlQunEMQ",
-        kind: "album"
-    },
-    {
-        title: "Heaven knows",
-        cover: "https://i.scdn.co/image/ab67616d00001e0212e36c27d935e955b44c6581",
-        rating: 5,
-        author: "PinkPanthress",
-        link: "https://open.spotify.com/intl-fr/album/2pOEFqvfxp5uUQ8vQEmVA0?si=6GPYWoWJSK2XAXItTFyeew",
-        kind: "album"
-    },
-    {
-        title: "Louder Than Bombs",
-        cover: "https://i.scdn.co/image/ab67616d00001e02ed3953f8af1f764a146b7583",
-        rating: 5,
-        author: "The Smiths",
-        link: "https://open.spotify.com/intl-fr/album/45StnugV9WQMQwk4rRoTy8?si=E_bjphSWRzmO0H4nYpTzkQ",
-        kind: "album"
-    },
-    {
-        title: "Meat Is Murder",
-        cover: "https://i.scdn.co/image/ab67616d00001e02ac345598e7697a319cb5b460",
-        rating: 5,
-        author: "The Smiths",
-        link: "https://open.spotify.com/intl-fr/album/5DM1qCdgGt2zbknnsVn1Ca?si=phq0t-qnQ2qcyHMIy3oZWA",
-        kind: "album"
-    },
-    {
         title: "Night Time, My Time",
         cover: "https://i.scdn.co/image/ab67616d00001e02d39843a4927d1dd474978d23",
         rating: 5,
@@ -7394,30 +7313,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Rob Zombie",
         link: "https://open.spotify.com/intl-fr/album/3RjfiKRsIHB7wQ1L6KoDEz?si=A8WJQYpIQEq5vk8rM16aFg",
-        kind: "album"
-    },
-    {
-        title: "The Virgin Suicides",
-        cover: "https://i.scdn.co/image/ab67616d00001e02d255944dd08e7fba8197aff8",
-        rating: 5,
-        author: "Air",
-        link: "https://open.spotify.com/intl-fr/album/0Dv4ArPFwSFPWrubYdExKq?si=Comgn0SJQ3-CkPivbicw9w",
-        kind: "album"
-    },
-    {
-        title: "Moon Safari",
-        cover: "https://i.scdn.co/image/ab67616d00001e021216e4f7e84af70ef18146ed",
-        rating: 5,
-        author: "Air",
-        link: "https://open.spotify.com/intl-fr/album/5dmYtZVJ1bG9RyrZBRrkOA?si=5stSqoMcTVi2omb2uM7niw",
-        kind: "album"
-    },
-    {
-        title: "Talkie Walkie",
-        cover: "https://i.scdn.co/image/ab67616d00001e026400fab74f28e90759ac8815",
-        rating: 5,
-        author: "Air",
-        link: "https://open.spotify.com/intl-fr/album/0hQOqvZv1nQvPiBjzyn363?si=-WUUYwAlSz2plZdyND2KLA",
         kind: "album"
     },
     {
@@ -7458,14 +7353,6 @@ const mediaLibrary = [
         rating: 5,
         author: "The Sugarcubes",
         link: "https://open.spotify.com/intl-fr/album/4H4MkUPiL7qlpZfO2SYO1u?si=XMkvFR3ETDm53iBtNvEhkw",
-        kind: "album"
-    },
-    {
-        title: "Teens Of Denial",
-        cover: "https://i.scdn.co/image/ab67616d00001e024094272fe172643edfdbba48",
-        rating: 5,
-        author: "Car Seat Headrest",
-        link: "https://open.spotify.com/intl-fr/album/3KpYyDP8q8sUBxatHaYEsP?si=K72EX1tuQ1uk8ITbAe0Quw",
         kind: "album"
     },
     {
@@ -7517,28 +7404,11 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "I Have Seen You Through the Years, Worn by Different Faces",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c62bafc4d8831296ddde5c5b",
-        rating: 5,
-        author: "SS-Say",
-        link: "https://open.spotify.com/intl-fr/album/5WQVSRM5BBxq8FA5SaKqRg?si=emMl-gayQKy0KSdrQnuJnA",
-        kind: "album"
-    },
-
-    {
         title: "Live At Kilby Court",
         cover: "https://i.scdn.co/image/ab67616d00001e0273303b2f8d1b42d5492342f6",
         rating: 5,
         author: "Current Joys",
         link: "https://open.spotify.com/intl-fr/album/6v39Q9XBKxTfOqIgylueGP?si=iA6XegzMTzqiIk0lUxUi1A",
-        kind: "album"
-    },
-    {
-        title: "Dot And Loops",
-        cover: "https://i.scdn.co/image/ab67616d00001e025e70712e0193f7a9bbc23c0d",
-        rating: 5,
-        author: "Stereolab",
-        link: "https://open.spotify.com/intl-fr/album/151mT9g0fDHVfpmWeYk4Wx?si=W5-Bx04HTrGS2Jrhkdj7sw",
         kind: "album"
     },
     {
@@ -7558,51 +7428,11 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Souvlaki",
-        cover: "https://i.scdn.co/image/ab67616d00001e0253da07db25e2543cce38abfe",
-        rating: 5,
-        author: "Slowdive",
-        link: "https://open.spotify.com/intl-fr/album/4i21O3uVh5palcfFhCjlT7?si=YDdBx_1nSoapzoOYauUuQQ",
-        kind: "album"
-    },
-    {
         title: "Dandys Rule OK",
         cover: "https://i.scdn.co/image/ab67616d00001e0214c1fedd6578216826ced1a2",
         rating: 5,
         author: "The Dandy Warhols",
         link: "https://open.spotify.com/intl-fr/album/5IYhB6cNGiCogm6tcMRhBW?si=X5xnn9M4SjijNBxlLTgJdw",
-        kind: "album"
-    },
-    {
-        title: "If I Were A Carpenter",
-        cover: "https://i.scdn.co/image/ab67616d00001e0258e762253dde898c519396bd",
-        rating: 5,
-        author: "Various Artists",
-        link: "https://open.spotify.com/intl-fr/album/2jzoM56c7kGgQKqFT7Ymu6?si=smFKBpVdTBWAWaDj7mz6pw",
-        kind: "album"
-    },
-    {
-        title: "Turn On The Bright Light",
-        cover: "https://i.scdn.co/image/ab67616d00001e0258e444706a30b99f8d5fd8c9",
-        rating: 5,
-        author: "Interpol",
-        link: "https://open.spotify.com/intl-fr/album/2OhUWm2KJay2YWeItU9YcH?si=0ASy3lFyR2qHov7wDHqRyw",
-        kind: "album"
-    },
-    {
-        title: "Our Love To Admire",
-        cover: "https://i.scdn.co/image/ab67616d00001e0249240ebf0c49e2d758fe6373",
-        rating: 5,
-        author: "Interpol",
-        link: "https://open.spotify.com/intl-fr/album/1gsoIHeBan6QywhysNgApK?si=6t8THeZIRVGlrRTbZHcEJw",
-        kind: "album"
-    },
-    {
-        title: "Antics",
-        cover: "https://i.scdn.co/image/ab67616d00001e021c6c494c9e52debdded564d9",
-        rating: 5,
-        author: "Interpol",
-        link: "https://open.spotify.com/intl-fr/album/5NUna7cH8t5yLMgBxmW4NL?si=P5mRmdl5REmb32Pjla21wA",
         kind: "album"
     },
     {
