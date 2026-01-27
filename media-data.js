@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "Evening Star",
+        author: "Robert Fripp",
+        cover: "https://i.scdn.co/image/ab67616d0000b27359454724c7283a19523ea016",
+        kind: "album",
+        link: "https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V",
+        comment: "Github Action"
+    },
+    {
+        title: "The Very Best Of Supertramp",
+        author: "Supertramp",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f82d2bd1097e3e60a6a049a3",
+        kind: "album",
+        link: "https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS",
+        comment: "Github Action"
+    },
+    {
+        title: "The Fame Monster (Deluxe Edition)",
+        author: "Lady Gaga",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+        kind: "album",
+        link: "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4",
+        comment: "Github Action"
+    },
+    {
+        title: "Discreet Music",
+        author: "Brian Eno",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b540c9476ea9425a2bd6d3ec",
+        kind: "album",
+        link: "https://open.spotify.com/album/7b67MKOwyj7mIcEVnoJSOG",
+        comment: "Github Action"
+    },
+    {
         title: "Crime Of The Century (Remastered)",
         author: "Supertramp",
         cover: "https://i.scdn.co/image/ab67616d0000b27389d7032603b62e9aedb03fa2",
