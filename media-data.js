@@ -1,5 +1,77 @@
 const mediaLibrary = [
     {
+        title: "ULTRA",
+        author: "23wa",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b718199c035121fe709fe19a",
+        kind: "album",
+        link: "https://open.spotify.com/album/177zsuUvUqnNBV3Vyc7AlV",
+        comment: "Github Action"
+    },
+    {
+        title: "slept on the floor still dreamt about you",
+        author: "meat computer",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730aa18b1730c272f627df8145",
+        kind: "album",
+        link: "https://open.spotify.com/album/40BEVH86n8EDOKZIy7Jg8S",
+        comment: "Github Action"
+    },
+    {
+        title: "Tomorrow Is Nearly Yesterday and Everyday Is Stupid",
+        author: "Crywank",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c4b1306440067bc84cd3416f",
+        kind: "album",
+        link: "https://open.spotify.com/album/06fgi8E0RLEyzgh2c9IYbp",
+        comment: "Github Action"
+    },
+    {
+        title: "Magenta",
+        author: "23wa",
+        cover: "https://i.scdn.co/image/ab67616d0000b27383e23186e500e9af597493c7",
+        kind: "album",
+        link: "https://open.spotify.com/album/4NwW6hnJQ9xnX9W0aYF9pn",
+        comment: "Github Action"
+    },
+    {
+        title: "Narcissist on the Verge of a Nervous Breakdown",
+        author: "Crywank",
+        cover: "https://i.scdn.co/image/ab67616d0000b27348ddca291f82c37ca0add80a",
+        kind: "album",
+        link: "https://open.spotify.com/album/0rU30JMeAM6tFaSfsN6345",
+        comment: "Github Action"
+    },
+    {
+        title: "GALION",
+        author: "23wa",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bb0d307d610551f551b64abe",
+        kind: "album",
+        link: "https://open.spotify.com/album/2EQ8o6DwMdWYbS6YfZgkM3",
+        comment: "Github Action"
+    },
+    {
+        title: "glalie",
+        author: "snorunt",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732bda04824ae61e3dabe925dd",
+        kind: "album",
+        link: "https://open.spotify.com/album/35lySAzCjY5mhTEuyVEgPV",
+        comment: "Github Action"
+    },
+    {
+        title: "no arnak, no noob",
+        author: "snorunt",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b57aad5391bbe1a1377e6d41",
+        kind: "album",
+        link: "https://open.spotify.com/album/2axV1vKpWysDUA8vX6zpw5",
+        comment: "Github Action"
+    },
+    {
+        title: "vivienne westwood",
+        author: "snorunt",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731c5a489a81dbcc4a6ab7da72",
+        kind: "album",
+        link: "https://open.spotify.com/album/1tiA5Bv3k6ESDhmilg4v1a",
+        comment: "Github Action"
+    },
+    {
         title: "social distancing from reality",
         author: "meat computer",
         cover: "https://i.scdn.co/image/ab67616d0000b273e05c841cffef255cb4409987",
