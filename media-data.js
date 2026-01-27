@@ -6763,33 +6763,6 @@ const mediaLibrary = [
         link: "https://open.spotify.com/album/2cUpAOlQjV5uSjkWj5bEQY?si=JQSjW-vLRsi11JcESERpEw",
         kind: "album"
     },
-
-
-    
-    {
-        title: "Meddle",
-        cover: "https://i.scdn.co/image/ab67616d00001e029449d3adaa0f6e26af288c0d",
-        rating: 5,
-        author: "Pink Floyd",
-        link: "https://open.spotify.com/intl-fr/album/468ZwCchVtzEbt9BHmXopb?si=LTbkxzaxTrOx50LfL6EPeg",
-        kind: "album"
-    },
-    {
-        title: "Obscured by Clouds",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e806fae51cd0fc57e59d52a3",
-        rating: 5,
-        author: "Pink Floyd",
-        link: "https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ?si=poxHoRBORACtR96qs7GJNA",
-        kind: "album"
-    },
-    {
-        title: "Animals",
-        cover: "https://i.scdn.co/image/ab67616d00001e02810168d54f85d48f07389237",
-        rating: 5,
-        author: "Pink Floyd",
-        link: "https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4?si=5VxMBk_jRE6gsPT-S6P2Ow",
-        kind: "album"
-    },
     {
         title: "Appetite For Destruction",
         cover: "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5",
@@ -6831,14 +6804,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "(What's The Story) Morning Glory?",
-        cover: "https://i.scdn.co/image/ab67616d00001e027a4c8c59851c88f6794c3cbf",
-        rating: 5,
-        author: "Oasis",
-        link: "https://open.spotify.com/intl-fr/album/6tOe4eAF8xNhEkl9WyvsE4?si=ioeqMunCTTe0XzUJuoh7SA",
-        kind: "album"
-    },
-    {
         title: "Comeblack",
         cover: "https://i.scdn.co/image/ab67616d00001e029f2023d391c3bd4acf4d51c6",
         rating: 5,
@@ -6852,115 +6817,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Metallica",
         link: "https://open.spotify.com/intl-fr/album/7h5xn0Olvx2p0eQcSt1Osy?si=0u1UostvTECt9g5yCLD8NA",
-        kind: "album"
-    },
-    {
-        title: "Master Of Puppets",
-        cover: "https://i.scdn.co/image/ab67616d00001e02668e3aca3167e6e569a9aa20",
-        rating: 5,
-        author: "Metallica",
-        link: "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21?si=Pn_cu7aGScaRpSLywOn34g",
-        kind: "album"
-    },
-    {
-        title: "Nevermind",
-        cover: "https://i.scdn.co/image/ab67616d00001e02fbc71c99f9c1296c56dd51b6",
-        rating: 5,
-        author: "Nirvana",
-        link: "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk?si=296E_y6mSOOOB5DPinq1JQ",
-        kind: "album"
-    },
-    {
-        title: "MTV Unplugged in New York",
-        cover: "https://i.scdn.co/image/ab67616d00001e0236c5417732e53e23cb219246",
-        rating: 5,
-        author: "Nirvana",
-        link: "https://open.spotify.com/intl-fr/album/1To7kv722A8SpZF789MZy7?si=L-B1M0hvSXKvVXRvJ_5gTA",
-        kind: "album"
-    },
-    {
-        title: "In Utero",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c4f52ef8782f0e8ede4c1aaf",
-        rating: 5,
-        author: "Nirvana",
-        link: "https://open.spotify.com/intl-fr/album/7wOOA7l306K8HfBKfPoafr?si=IMmC4EDISIWvEhYMFbSdWA",
-        kind: "album"
-    },
-    {
-        title: "Incesticide",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e1f5fcef5fb5f70aa0a717fc",
-        rating: 5,
-        author: "Nirvana",
-        link: "https://open.spotify.com/intl-fr/album/6ICrBzsbHVluGHP8wGK4Y3?si=DpIWpjRMSEuNsD5eyBGn1A",
-        kind: "album"
-    },
-    {
-        title: "Bleach",
-        cover: "https://i.scdn.co/image/ab67616d00001e0242b32e43479b6aa2cdf93c92",
-        rating: 5,
-        author: "Nirvana",
-        link: "https://open.spotify.com/intl-fr/album/0CqchZDaOxckvjnKKfJh1w?si=THsbF4b6SOqaMf9sH7yunw",
-        kind: "album"
-    },
-    {
-        title: "Aftermath",
-        cover: "https://i.scdn.co/image/ab67616d00001e02bad7062c3fd2f2d037989694",
-        rating: 5,
-        author: "The Rolling Stones",
-        link: "https://open.spotify.com/intl-fr/album/72qrnM4yUNMDDlWiqKc8iY?si=BDROcw_ATEu_8nccqPWSBg",
-        kind: "album"
-    },
-
-
-    {
-        title: "Let It Be",
-        cover: "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1",
-        rating: 5,
-        author: "The Beatles",
-        link: "https://open.spotify.com/intl-fr/album/0jTGHV5xqHPvEcwL8f6YU5?si=kareJA51Q6y5zGLCcMtdKw",
-        kind: "album"
-    },
-
-    {
-        title: "Please Please Me",
-        cover: "https://i.scdn.co/image/ab67616d00001e02dbeec63ad914c973e75c24df",
-        rating: 5,
-        author: "The Beatles",
-        link: "https://open.spotify.com/intl-fr/album/3KzAvEXcqJKBF97HrXwlgf?si=rZHAjUyDQEm8f0qWbTQwXg",
-        kind: "album"
-    },
-
-    {
-        title: "Revolver",
-        cover: "https://i.scdn.co/image/ab67616d00001e0228b8b9b46428896e6491e97a",
-        rating: 5,
-        author: "The Beatles",
-        link: "https://open.spotify.com/intl-fr/album/3PRoXYsngSwjEQWR5PsHWR?si=-eecBURbRBWoVvL6WFraLw",
-        kind: "album"
-    },
-    {
-        title: "Sgt. Pepper's Lonely Heart Club Band",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c92b57b8307e5999ec2fed69",
-        rating: 5,
-        author: "The Beatles",
-        link: "https://open.spotify.com/intl-fr/album/1ntNLgaYCFCkeW4flGYlY2?si=VbB1z-cFTDiR4f8c3VM-BA",
-        kind: "album"
-    },
-    {
-        title: "Yellow Submarine",
-        cover: "https://i.scdn.co/image/ab67616d00001e02d283808926ad3d2220e63c1c",
-        rating: 5,
-        author: "The Beatles",
-        link: "https://open.spotify.com/intl-fr/album/1gKZ5A1ndFqbcrWtW85cCy?si=zw6XXLR8SoGjpNrcvIKhjA",
-        kind: "album"
-    },
-
-    {
-        title: "The Beatles 1967 - 1970",
-        cover: "https://i.scdn.co/image/ab67616d00001e022ad20d4688bdc999413ece39",
-        rating: 5,
-        author: "The Beatles",
-        link: "https://open.spotify.com/intl-fr/album/2AlPRfYeskAMxhJS00xjeP?si=We_B2pV5QLe8R8pWpFUqVA",
         kind: "album"
     },
     {
