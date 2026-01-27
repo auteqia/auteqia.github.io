@@ -800,14 +800,6 @@ const mediaLibrary = [
         comment: "Github Action"
     },
     {
-        title: "Alph Lauren 3",
-        author: "Alpha Wann",
-        cover: "https://i.scdn.co/image/ab67616d0000b273e08371d7196b3a7919af61f9",
-        kind: "album",
-        link: "https://open.spotify.com/album/4JkiKZpr66KXmCAqywoT91",
-        comment: "Github Action"
-    },
-    {
         title: "Dieu bénisse Supersound, saison 3",
         author: "Sneazzy",
         cover: "https://i.scdn.co/image/ab67616d0000b2733f81b2576febe32c9a2dba05",
@@ -5478,16 +5470,7 @@ const mediaLibrary = [
         author: "CANNIBALE",
         link: "https://open.spotify.com/intl-fr/album/2lSiu7i14zUsuhEmMgZEX0?si=3818cf25474841e5",
         kind: "album"
-    },    
-    {
-        title: "The Low End Theory",
-        cover: "https://i.scdn.co/image/ab67616d00001e02f38c6b37a21334e22005b1f7",
-        rating: 5,
-        author: "A Tribe Called Quest",
-        link: "https://open.spotify.com/intl-fr/album/1p12OAWwudgMqfMzjMvl2a?si=19defa6fa4a54d9e",
-        kind: "album"
     },
-
     {
         title: "The Gilded Palace of Sin",
         cover: "https://i.scdn.co/image/ab67616d0000b27353ba02e4c3b1b6a297002afa",
@@ -7086,166 +7069,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "The Great Escape",
-        cover: "https://i.scdn.co/image/ab67616d00001e02d6edad0d4fc3448ccc61c13c",
-        rating: 5,
-        author: "Blur",
-        link: "https://open.spotify.com/intl-fr/album/7BiMMjtvTX0OiB8Yi7CFB1?si=KTWigiL-RbCXHt1sgINbcg",
-        kind: "album"
-    },
-    {
-        title: "Blur",
-        cover: "https://i.scdn.co/image/ab67616d00001e02de114203356c1f7b136960b6",
-        rating: 5,
-        author: "Blur",
-        link: "https://open.spotify.com/intl-fr/album/7HvIrSkKGJCzd8AKyjTJ6Q?si=mxBpIksgTt-QFgjvlVz4NQ",
-        kind: "album"
-    },
-    {
-        title: "Blur: The Best Of",
-        cover: "https://i.scdn.co/image/ab67616d00001e0234cbf7013afccc7df67fa43f",
-        rating: 5,
-        author: "Blur",
-        link: "https://open.spotify.com/intl-fr/album/1bgkxe4t0HNeLn9rhrx79x?si=iclqO33ERS2oy0iMvbLUAw",
-        kind: "album"
-    },
-    {
-        title: "Elastica",
-        cover: "https://i.scdn.co/image/ab67616d00001e025ac670b8c48b7446c8aade5e",
-        rating: 5,
-        author: "Elastica",
-        link: "https://open.spotify.com/intl-fr/album/00MAXeszCotk3g9q8KYJlZ?si=qhhaQW1XTQe-8lSxcTNhyw",
-        kind: "album"
-    },
-    {
-        title: "The Age Of Understatement",
-        cover: "https://i.scdn.co/image/ab67616d00001e0256e4e3118af9dec4a5670a33",
-        rating: 5,
-        author: "The Last Shadow Puppets",
-        link: "https://open.spotify.com/intl-fr/album/2y3Rm0cT1xbf2NoTQwKv99?si=HItPvms-SRK2Y0eEQcljsA",
-        kind: "album"
-    },
-    {
-        title: "Everything You've Come to Expect",
-        cover: "https://i.scdn.co/image/ab67616d00001e0299845928b10d57ec9f95e953",
-        rating: 5,
-        author: "The Last Shadown Puppets",
-        link: "https://open.spotify.com/intl-fr/album/6q1ZuWCnYTQb7KhXHZo947?si=pIkNmTDBQXqqpAw4qx-4Gw",
-        kind: "album"
-    },
-    {
-        title: "Melophobia",
-        cover: "https://i.scdn.co/image/ab67616d00001e02415b79227c6cee25f42fbf41",
-        rating: 5,
-        author: "Cage The Elephant",
-        link: "https://open.spotify.com/intl-fr/album/5nJ9B1KiydXoYWAcyqlG76?si=Lz2kz3uYR_eW_j9zNbWGag",
-        kind: "album"
-    },
-    {
-        title: "Social Cues",
-        cover: "https://i.scdn.co/image/ab67616d00001e0288883701231713b18429f80b",
-        rating: 5,
-        author: "Cage The Elephant",
-        link: "https://open.spotify.com/intl-fr/album/2VuZJsJBPLwg9BeQFQle8G?si=7KMoo4esRlKc4MNr97llUA",
-        kind: "album"
-    },
-    {
-        title: "Unpeeled",
-        cover: "https://i.scdn.co/image/ab67616d00001e0272b478dedd009d6b8d6e7971",
-        rating: 5,
-        author: "Cage The Elephant",
-        link: "https://open.spotify.com/intl-fr/album/4zpN41aGAYPWX3dzE19rH7?si=gIZQACjdSW2iGfDZLIE-Aw",
-        kind: "album"
-    },
-    {
-        title: "Cage The Elephant",
-        cover: "https://i.scdn.co/image/ab67616d00001e02ce6b979ca98da4c27157dc17",
-        rating: 5,
-        author: "Cage The Elephant",
-        link: "https://open.spotify.com/intl-fr/album/0c1yNi1MuGlcNrCzU2kDVE?si=qi2to3HcTmWQtVHQT0f18Q",
-        kind: "album"
-    },
-    {
-        title: "White Pony",
-        cover: "https://i.scdn.co/image/ab67616d00001e025c53799f473fa3e1a48c00ed",
-        rating: 5,
-        author: "Deftones",
-        link: "https://open.spotify.com/intl-fr/album/5LEXck3kfixFaA3CqVE7bC?si=xPbOoJa-QLGqVNsTiYarZA",
-        kind: "album"
-    },
-    {
-        title: "Diamond Eyes",
-        cover: "https://i.scdn.co/image/ab67616d00001e0272c2145d48f68917a7361b15",
-        rating: 5,
-        author: "Deftones",
-        link: "https://open.spotify.com/intl-fr/album/1GjjBpY2iDwSQs5bykQI5e?si=DrEpUE0xTxSM3qVhFTUtqA",
-        kind: "album"
-    },
-    {
-        title: "Koi No Yokan",
-        cover: "https://i.scdn.co/image/ab67616d00001e0273652b7a0dc388dd1d044b69",
-        rating: 5,
-        author: "Deftones",
-        link: "https://open.spotify.com/intl-fr/album/4PIVdqvL1Rc7T7Vfsr8n8Q?si=HJ1wOvLtQtaD-9wAgPPYMw",
-        kind: "album"
-    },
-    {
-        title: "The Night In Question: French Exist Outtakes",
-        cover: "https://i.scdn.co/image/ab67616d00001e02870138983fee24fe052d12af",
-        rating: 5,
-        author: "TV Girl",
-        link: "https://open.spotify.com/intl-fr/album/4p3eRdoK7W7z0tz8OWA3JM?si=I5naLZkZSKSzfrgglOWgdA",
-        kind: "album"
-    },
-    {
-        title: "Who Really Cares",
-        cover: "https://i.scdn.co/image/ab67616d00001e0232f5fec7a879ed6ef28f0dfd",
-        rating: 5,
-        author: "TV Girl",
-        link: "https://open.spotify.com/intl-fr/album/4oL7pMxnb04uuRI7ReXmuh?si=Spk68dBMQ9qdY3KrUtvVaw",
-        kind: "album"
-    },
-    {
-        title: "Death of a Party Girl",
-        cover: "https://i.scdn.co/image/ab67616d00001e021556d166d0ed059b34a00e1b",
-        rating: 5,
-        author: "TV Girl",
-        link: "https://open.spotify.com/intl-fr/album/5kFjYk3umY8Pu1lymIJLVy?si=_4ftZ75bRkq4SWhG6YxbIg",
-        kind: "album"
-    },
-    {
-        title: "French Exit",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e1bc1af856b42dd7fdba9f84",
-        rating: 5,
-        author: "TV Girl",
-        link: "https://open.spotify.com/intl-fr/album/4Hai0uVzRbyTSaTPzxTY4e?si=QBuIHBnGRnWlIQod4ukWag",
-        kind: "album"
-    },
-    {
-        title: "Creedence Clearwater Revival",
-        cover: "https://i.scdn.co/image/ab67616d00001e020ef0c90eac4d5fd129a6c441",
-        rating: 5,
-        author: "Creedence Clearwater Revival",
-        link: "https://i.scdn.co/image/ab67616d00001e020ef0c90eac4d5fd129a6c441",
-        kind: "album"
-    },
-    {
-        title: "Mellon Collie And The Infinite Sadness",
-        cover: "https://i.scdn.co/image/ab67616d00001e02431ac6e6f393acf475730ec6",
-        rating: 5,
-        author: "The Smashing Pumpkins",
-        link: "https://open.spotify.com/intl-fr/album/55RhFRyQFihIyGf61MgcfV?si=h_OkqsBmTXKN9ZOuOMYJXQ",
-        kind: "album"
-    },
-    {
-        title: "Grace",
-        cover: "https://i.scdn.co/image/ab67616d00001e026a760642a56847027428cb61",
-        rating: 5,
-        author: "Jeff Buckley",
-        link: "https://open.spotify.com/intl-fr/album/7yQtjAjhtNi76KRu05XWFS?si=fKsQb5KBS3WhPIkRSFcv1g",
-        kind: "album"
-    },
-    {
         title: "The Virgin Suicides",
         cover: "https://i.scdn.co/image/ab67616d00001e02d255944dd08e7fba8197aff8",
         rating: 5,
@@ -7270,14 +7093,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Mexican Spaghetti Western",
-        cover: "https://i.scdn.co/image/ab67616d00001e0290300d07d1a39796b7acb59e",
-        rating: 5,
-        author: "Chingon",
-        link: "https://open.spotify.com/intl-fr/album/6Cml5uWyReGMYgqUzmk5jv?si=TSBTdtsBR9KdIMJZsxO1Xw",
-        kind: "album"
-    },
-    {
         title: "Crest",
         cover: "https://i.scdn.co/image/ab67616d00001e028504a0836dfaa61b28930505",
         rating: 5,
@@ -7291,46 +7106,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Santana",
         link: "https://open.spotify.com/intl-fr/album/0abfpuzzbTUNxasNmX04RU?si=kmxBXf6ERpOETrTmyG7qOQ",
-        kind: "album"
-    },
-    {
-        title: "BLOOD",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e6e272a6c2b1f4e8a1686030",
-        rating: 5,
-        author: "GRLwood",
-        link: "https://open.spotify.com/intl-fr/album/1PJP79JocpUirWseaHNiWe?si=ts8igeRHTFGRv7IIPwiS0A",
-        kind: "album"
-    },
-    {
-        title: "Daddy",
-        cover: "https://i.scdn.co/image/ab67616d00001e027b42371ee0855db5ecebee55",
-        rating: 5,
-        author: "GRLwood",
-        link: "https://open.spotify.com/intl-fr/album/6DtauZkytPy57lb3goadQ0?si=3UynCqCZS1yI6c4Urn1oLQ",
-        kind: "album"
-    },
-    {
-        title: "I Sold My Soul to the Devil When I Was 12",
-        cover: "https://i.scdn.co/image/ab67616d00001e022d79736c62f1e6d966357dcd",
-        rating: 5,
-        author: "GRLwood",
-        link: "https://open.spotify.com/intl-fr/album/7h0jldis2wj4JUTNWG8gIq?si=37pFB5uNQS6UnN-pvwdLQg",
-        kind: "album"
-    },
-    {
-        title: "Par Les Fils De Mandarin",
-        cover: "https://i.scdn.co/image/ab67616d00001e02059c67254b844bff24410442",
-        rating: 5,
-        author: "Ange",
-        link: "https://open.spotify.com/intl-fr/album/3EqySsFNjDWa6xORz8apbS?si=Rd0PyCFIQLeDwM5Z0hKjpg",
-        kind: "album"
-    },
-    {
-        title: "Au-Delà Du Délire",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c68cec7085f742088254d3dd",
-        rating: 5,
-        author: "Ange",
-        link: "https://open.spotify.com/intl-fr/album/3X6ZYhmu0k29UmNw2zcCrL?si=atgLz6dtRwC-r_ANCjIKXA",
         kind: "album"
     },
     {
