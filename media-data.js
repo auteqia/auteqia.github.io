@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "Crime Of The Century (Remastered)",
+        author: "Supertramp",
+        cover: "https://i.scdn.co/image/ab67616d0000b27389d7032603b62e9aedb03fa2",
+        kind: "album",
+        link: "https://open.spotify.com/album/2wrHaulTgqqkVKx0k7Kq4r",
+        comment: "Github Action"
+    },
+    {
+        title: "Made in Europe (Live)",
+        author: "Deep Purple",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d889f2c43fc630df12ebee12",
+        kind: "album",
+        link: "https://open.spotify.com/album/06dxLKINOUO3moUIbvxiDp",
+        comment: "Github Action"
+    },
+    {
+        title: "\"...Famous Last Words...\"",
+        author: "Supertramp",
+        cover: "https://i.scdn.co/image/ab67616d0000b273093c6e7d6069b3c958071f73",
+        kind: "album",
+        link: "https://open.spotify.com/album/58JuUAfKGh6bKphiBtp7Nc",
+        comment: "Github Action"
+    },
+    {
+        title: "Even In The Quietest Moments",
+        author: "Supertramp",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bddcc30c6a3288e725aec2df",
+        kind: "album",
+        link: "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w",
+        comment: "Github Action"
+    },
+    {
         title: "Endorphine",
         author: "shooda",
         cover: "https://i.scdn.co/image/ab67616d0000b2731e5bf2b136e00c8658e845da",
