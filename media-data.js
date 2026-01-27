@@ -1,5 +1,61 @@
 const mediaLibrary = [
     {
+        title: "Diamond Eyes",
+        author: "Deftones",
+        cover: "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+        kind: "album",
+        link: "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e",
+        comment: "Github Action"
+    },
+    {
+        title: "Death of a Party Girl",
+        author: "TV Girl",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731556d166d0ed059b34a00e1b",
+        kind: "album",
+        link: "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy",
+        comment: "Github Action"
+    },
+    {
+        title: "The Night in Question: French Exit Outtakes",
+        author: "TV Girl",
+        cover: "https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af",
+        kind: "album",
+        link: "https://open.spotify.com/album/4p3eRdoK7W7z0tz8OWA3JM",
+        comment: "Github Action"
+    },
+    {
+        title: "French Exit",
+        author: "TV Girl",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+        kind: "album",
+        link: "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e",
+        comment: "Github Action"
+    },
+    {
+        title: "Koi No Yokan",
+        author: "Deftones",
+        cover: "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+        kind: "album",
+        link: "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q",
+        comment: "Github Action"
+    },
+    {
+        title: "White Pony",
+        author: "Deftones",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+        kind: "album",
+        link: "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC",
+        comment: "Github Action"
+    },
+    {
+        title: "Who Really Cares",
+        author: "TV Girl",
+        cover: "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+        kind: "album",
+        link: "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh",
+        comment: "Github Action"
+    },
+    {
         title: "I Sold My Soul to the Devil When I Was 12",
         author: "GRLwood",
         cover: "https://i.scdn.co/image/ab67616d0000b2733a56d03fc114a1778aa32991",
