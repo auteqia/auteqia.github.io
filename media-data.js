@@ -1,5 +1,157 @@
 const mediaLibrary = [
     {
+        title: "Extra-lucide",
+        author: "disiz",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733bada981b0fdd5c948256d3c",
+        kind: "album",
+        link: "https://open.spotify.com/album/1FZzmpp4D4mDVqnm6ffwkP",
+        comment: "Github Action"
+    },
+    {
+        title: "Pacifique",
+        author: "disiz",
+        cover: "https://i.scdn.co/image/ab67616d0000b27312c59264bf24b263b27b8dc7",
+        kind: "album",
+        link: "https://open.spotify.com/album/0h9tYZeKtjZ8rsfGknVqwF",
+        comment: "Github Action"
+    },
+    {
+        title: "Close to the Edge (Deluxe Edition)",
+        author: "Yes",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730b4444fe9bc1a73ccbb949db",
+        kind: "album",
+        link: "https://open.spotify.com/album/6344rkGqCBDenGoS7eJlBN",
+        comment: "Github Action"
+    },
+    {
+        title: "Music Has The Right To Children",
+        author: "Boards of Canada",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739effb26eea559ce6f3fed751",
+        kind: "album",
+        link: "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU",
+        comment: "Github Action"
+    },
+    {
+        title: "Blue Bell Knoll",
+        author: "Cocteau Twins",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734d2fbff666bf6a9997787214",
+        kind: "album",
+        link: "https://open.spotify.com/album/3SXCY4kFMM4T4egq5DSUTa",
+        comment: "Github Action"
+    },
+    {
+        title: "Billy Idol (Expanded Edition)",
+        author: "Billy Idol",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730d1330fc182333046270bbe6",
+        kind: "album",
+        link: "https://open.spotify.com/album/5fD8Mi1PhOuOVqAtZfRsqh",
+        comment: "Github Action"
+    },
+    {
+        title: "L’Amour",
+        author: "disiz",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730a3418c7d155f8974eee9c7f",
+        kind: "album",
+        link: "https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6",
+        comment: "Github Action"
+    },
+    {
+        title: "Disizilla",
+        author: "disiz",
+        cover: "https://i.scdn.co/image/ab67616d0000b27320f839e57854a45d495b29b8",
+        kind: "album",
+        link: "https://open.spotify.com/album/2vVDeIVO3ja0RdlQf20NOB",
+        comment: "Github Action"
+    },
+    {
+        title: "Watch",
+        author: "Manfred Mann's Earth Band",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a182708a3fd3831afc95da2a",
+        kind: "album",
+        link: "https://open.spotify.com/album/2uSmnaASa15RBkp3wKqMmk",
+        comment: "Github Action"
+    },
+    {
+        title: "Live In Budapest",
+        author: "Manfred Mann's Earth Band",
+        cover: "https://i.scdn.co/image/ab67616d0000b273aa0cb1da5adc90350ab054f9",
+        kind: "album",
+        link: "https://open.spotify.com/album/73d2m8gMjPoMDM9eIFh1fi",
+        comment: "Github Action"
+    },
+    {
+        title: "The Roaring Silence",
+        author: "Manfred Mann's Earth Band",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a9029d18d0fd90f8bfa72687",
+        kind: "album",
+        link: "https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV",
+        comment: "Github Action"
+    },
+    {
+        title: "No Earthly Connection",
+        author: "Rick Wakeman",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737e0d3cafd5232d6ccb975946",
+        kind: "album",
+        link: "https://open.spotify.com/album/7Kw6q6WZhz0BC7SJN99PLB",
+        comment: "Github Action"
+    },
+    {
+        title: "Vertical Smiles",
+        author: "Blackfoot",
+        cover: "https://i.scdn.co/image/ab67616d0000b273379cdcd991ccb22e7ad6711f",
+        kind: "album",
+        link: "https://open.spotify.com/album/59DGwDQ1Ce7UiAsoztOOM1",
+        comment: "Github Action"
+    },
+    {
+        title: "One Step Beyond...",
+        author: "Madness",
+        cover: "https://i.scdn.co/image/ab67616d0000b273639f8237894a40c6690392e6",
+        kind: "album",
+        link: "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA",
+        comment: "Github Action"
+    },
+    {
+        title: "EUSEXUA Afterglow",
+        author: "FKA twigs",
+        cover: "https://i.scdn.co/image/ab67616d0000b27344a21bdb6c1364be205aadf5",
+        kind: "album",
+        link: "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM",
+        comment: "Github Action"
+    },
+    {
+        title: "Chick Habit",
+        author: "April March",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b7d3561b43556864256cda95",
+        kind: "album",
+        link: "https://open.spotify.com/album/0yQ1AZQJr5I83Gxf1toa2T",
+        comment: "Github Action"
+    },
+    {
+        title: "Parachute",
+        author: "The Pretty Things",
+        cover: "https://i.scdn.co/image/ab67616d0000b27377fb589d6b097775f1ce3dcd",
+        kind: "album",
+        link: "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK",
+        comment: "Github Action"
+    },
+    {
+        title: "The Fat of the Land",
+        author: "The Prodigy",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737bb4dd1d02346ec2321a41d6",
+        kind: "album",
+        link: "https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2",
+        comment: "Github Action"
+    },
+    {
+        title: "The No Comprendo",
+        author: "Les Rita Mitsouko",
+        cover: "https://i.scdn.co/image/ab67616d0000b27312a5afee4ffdefdc65cbc441",
+        kind: "album",
+        link: "https://open.spotify.com/album/3VnFLQ6pO9MSvVeKv5DHjY",
+        comment: "Github Action"
+    },
+    {
         title: "David Bowie (aka Space Oddity) [2015 Remaster]",
         author: "David Bowie",
         cover: "https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464",
