@@ -1,5 +1,125 @@
 const mediaLibrary = [
     {
+        title: "David Bowie (aka Space Oddity) [2015 Remaster]",
+        author: "David Bowie",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464",
+        kind: "album",
+        link: "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ",
+        comment: "Github Action"
+    },
+    {
+        title: "Camel (Expanded Edition)",
+        author: "Camel",
+        cover: "https://i.scdn.co/image/ab67616d0000b273572a2c8c8092c82b9dfd48fc",
+        kind: "album",
+        link: "https://open.spotify.com/album/2WO6VIu5x3rMXWcMzH36jl",
+        comment: "Github Action"
+    },
+    {
+        title: "ep’s 1988-1991 and rare tracks",
+        author: "my bloody valentine",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c14791c2acac6c961813c244",
+        kind: "album",
+        link: "https://open.spotify.com/album/5WsJNCwUQ5rY7kF1hc8v6M",
+        comment: "Github Action"
+    },
+    {
+        title: "Puberty 2",
+        author: "Mitski",
+        cover: "https://i.scdn.co/image/ab67616d0000b27342cb382726e956058bf73ed3",
+        kind: "album",
+        link: "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q",
+        comment: "Github Action"
+    },
+    {
+        title: "Crystal Castles (II)",
+        author: "Crystal Castles",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e",
+        kind: "album",
+        link: "https://open.spotify.com/album/5B2ipvFV27t5lUQYcNkTpg",
+        comment: "Github Action"
+    },
+    {
+        title: "Lush",
+        author: "Mitski",
+        cover: "https://i.scdn.co/image/ab67616d0000b27318bbdba0da26e4ae050fb1b8",
+        kind: "album",
+        link: "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga",
+        comment: "Github Action"
+    },
+    {
+        title: "Bury Me At Makeout Creek",
+        author: "Mitski",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e90db8983ebd43b776694179",
+        kind: "album",
+        link: "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo",
+        comment: "Github Action"
+    },
+    {
+        title: "Moonmadness",
+        author: "Camel",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ecbc7b6ca15b79ca7ff05bd2",
+        kind: "album",
+        link: "https://open.spotify.com/album/5Q6eKTQNsOyu0fCpAFxuHR",
+        comment: "Github Action"
+    },
+    {
+        title: "Retired from Sad, New Career in Business",
+        author: "Mitski",
+        cover: "https://i.scdn.co/image/ab67616d0000b27334b5e51adeea6f1aa2285ce3",
+        kind: "album",
+        link: "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f",
+        comment: "Github Action"
+    },
+    {
+        title: "Ocean II",
+        author: "Eloy",
+        cover: "https://i.scdn.co/image/ab67616d0000b27381466203fc1587fa677ae084",
+        kind: "album",
+        link: "https://open.spotify.com/album/28ayZSBRiNwn3BqmcpThHd",
+        comment: "Github Action"
+    },
+    {
+        title: "A Live Record",
+        author: "Camel",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739947c3ecb6d7524f7b8a24fc",
+        kind: "album",
+        link: "https://open.spotify.com/album/4NLWM4hSjXnB1oA6HkIGjc",
+        comment: "Github Action"
+    },
+    {
+        title: "Amnesty (I)",
+        author: "Crystal Castles",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a51ae277980fbf5b2bd2c7e8",
+        kind: "album",
+        link: "https://open.spotify.com/album/60f7DBZ5BIKTlaGak6ooUU",
+        comment: "Github Action"
+    },
+    {
+        title: "(III)",
+        author: "Crystal Castles",
+        cover: "https://i.scdn.co/image/ab67616d0000b27339140b04426a6ae1c7842e38",
+        kind: "album",
+        link: "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc",
+        comment: "Github Action"
+    },
+    {
+        title: "Head Over Heels",
+        author: "Cocteau Twins",
+        cover: "https://i.scdn.co/image/ab67616d0000b273dd69a64d46d35725c47df19c",
+        kind: "album",
+        link: "https://open.spotify.com/album/52MMrcUtar0coGVHULkuQ9",
+        comment: "Github Action"
+    },
+    {
+        title: "Chameloen",
+        author: "Camel",
+        cover: "https://i.scdn.co/image/ab67616d0000b27306e561fa7e5bd67c95631217",
+        kind: "album",
+        link: "https://open.spotify.com/album/6o8DatzTclI30aDIewJJi7",
+        comment: "Github Action"
+    },
+    {
         title: "Próxima Estación: Esperanza",
         author: "Manu Chao",
         cover: "https://i.scdn.co/image/ab67616d0000b2731dcba4a728ca0b17cbd204a5",
