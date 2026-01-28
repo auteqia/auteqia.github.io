@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Stationary Traveller (Expanded Edition)",
+        author: "Camel",
+        cover: "https://i.scdn.co/image/ab67616d0000b273af5c8f54bb6f9f49ea021bf9",
+        kind: "album",
+        link: "https://open.spotify.com/album/7okonBIyWklRj3gJ8mS9I3",
+        comment: "Github Action"
+    },
+    {
         title: "Radical Action To Unseat the Hold of Monkey Mind (Live)",
         author: "King Crimson",
         cover: "https://i.scdn.co/image/ab67616d0000b27322ae66ecde907eafdf992f07",
