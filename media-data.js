@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "Wow",
+        author: "Superbus",
+        cover: "https://i.scdn.co/image/ab67616d0000b273633a540a6f59c9d885444cf3",
+        kind: "album",
+        link: "https://open.spotify.com/album/56kNIKcb5Tli9cdAA4qfk1",
+        comment: "Github Action"
+    },
+    {
+        title: "New York",
+        author: "Lou Reed",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736386bf63d1326306c9b168ef",
+        kind: "album",
+        link: "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t",
+        comment: "Github Action"
+    },
+    {
+        title: "OK KO",
+        author: "Superbus",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733ce13f49d9373a3044a56a0c",
+        kind: "album",
+        link: "https://open.spotify.com/album/3W7ssPZxdz92hFHir6g8IT",
+        comment: "Github Action"
+    },
+    {
+        title: "Happy Sad",
+        author: "Tim Buckley",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a4d29846be58765cfd36a9f4",
+        kind: "album",
+        link: "https://open.spotify.com/album/20CYfxjKvqXkCXBhAgOE39",
+        comment: "Github Action"
+    },
+    {
         title: "Herb Alpert & the Tijuana Brass",
         author: "Herb Alpert",
         cover: "https://i.scdn.co/image/ab67616d0000b2731586c0813e5ce5559d696d17",
