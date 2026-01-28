@@ -1,5 +1,253 @@
 const mediaLibrary = [
     {
+        title: "Flower Boy",
+        author: "Tyler, The Creator",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
+        kind: "album",
+        link: "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o",
+        comment: "Github Action"
+    },
+    {
+        title: "95 monde libre",
+        author: "Mairo",
+        cover: "https://i.scdn.co/image/ab67616d0000b273dd0a92b8b8f0e937a7c36757",
+        kind: "album",
+        link: "https://open.spotify.com/album/06QFGWAc65bXCHFh283jZ7",
+        comment: "Github Action"
+    },
+    {
+        title: "Emerson, Lake & Palmer",
+        author: "Emerson, Lake & Palmer",
+        cover: "https://i.scdn.co/image/ab67616d0000b27399fa44c27dfac9beda628082",
+        kind: "album",
+        link: "https://open.spotify.com/album/5A3JOh1ushS67m2JZ0QF6b",
+        comment: "Github Action"
+    },
+    {
+        title: "haha",
+        author: "The Garden",
+        cover: "https://i.scdn.co/image/ab67616d0000b27365ad4e52938360a5b6eb4b04",
+        kind: "album",
+        link: "https://open.spotify.com/album/2tH1S9Q2RUcLrOizMy9I1K",
+        comment: "Github Action"
+    },
+    {
+        title: "CALL ME IF YOU GET LOST",
+        author: "Tyler, The Creator",
+        cover: "https://i.scdn.co/image/ab67616d0000b273940aa635eea98719f6ca4ad9",
+        kind: "album",
+        link: "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9",
+        comment: "Github Action"
+    },
+    {
+        title: "Mother Love Bone",
+        author: "Mother Love Bone",
+        cover: "https://i.scdn.co/image/ab67616d0000b273336e295fdc07e9ee13778b4a",
+        kind: "album",
+        link: "https://open.spotify.com/album/5ohJawP6UajQ6ZIjWxnvM6",
+        comment: "Github Action"
+    },
+    {
+        title: "A Thousand Lights",
+        author: "The Stooges",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d4c6b0afd9125386bb19accf",
+        kind: "album",
+        link: "https://open.spotify.com/album/12uo3sqGvuGhWYsEnpe9Hw",
+        comment: "Github Action"
+    },
+    {
+        title: "200",
+        author: "abel31",
+        cover: "https://i.scdn.co/image/ab67616d0000b273823a729a8423906cbbd8e76b",
+        kind: "album",
+        link: "https://open.spotify.com/album/2ajT0UsKtoOTsIweQmNeO7",
+        comment: "Github Action"
+    },
+    {
+        title: "Stranger in the Alps",
+        author: "Phoebe Bridgers",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736c26e4a2e4df94a55591c48f",
+        kind: "album",
+        link: "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI",
+        comment: "Github Action"
+    },
+    {
+        title: "Caravanserai",
+        author: "Santana",
+        cover: "https://i.scdn.co/image/ab67616d0000b273093b9bc501a6a2041809a212",
+        kind: "album",
+        link: "https://open.spotify.com/album/0abfpuzzbTUNxasNmX04RU",
+        comment: "Github Action"
+    },
+    {
+        title: "O∆",
+        author: "London O'Connor",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b43a432c270c4df4c4441a6c",
+        kind: "album",
+        link: "https://open.spotify.com/album/7EFc02drhNNSHOWS645Ide",
+        comment: "Github Action"
+    },
+    {
+        title: "Goblin",
+        author: "Tyler, The Creator",
+        cover: "https://i.scdn.co/image/ab67616d0000b27328ae9a159d24cb0ab2552712",
+        kind: "album",
+        link: "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO",
+        comment: "Github Action"
+    },
+    {
+        title: "Appetite For Destruction",
+        author: "Guns N' Roses",
+        cover: "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+        kind: "album",
+        link: "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW",
+        comment: "Github Action"
+    },
+    {
+        title: "Cherry Bomb + Instrumentals",
+        author: "Tyler, The Creator",
+        cover: "https://i.scdn.co/image/ab67616d0000b27337906edcfbfde42b203097f2",
+        kind: "album",
+        link: "https://open.spotify.com/album/5V3Chnpno9oTI7JSPXKUf3",
+        comment: "Github Action"
+    },
+    {
+        title: "10000 lépés",
+        author: "Presser Gabor",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732033cccb8e28d6410a5005a6",
+        kind: "album",
+        link: "https://open.spotify.com/album/15lYjQj7MB4eWz1T4fyN6f",
+        comment: "Github Action"
+    },
+    {
+        title: "Wolf",
+        author: "Tyler, The Creator",
+        cover: "https://i.scdn.co/image/ab67616d0000b273913f492347e1585748450855",
+        kind: "album",
+        link: "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB",
+        comment: "Github Action"
+    },
+    {
+        title: "Gemini Rights",
+        author: "Steve Lacy",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
+        kind: "album",
+        link: "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD",
+        comment: "Github Action"
+    },
+    {
+        title: "Experience",
+        author: "The Prodigy",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734f691a0814cc9b0db80311d6",
+        kind: "album",
+        link: "https://open.spotify.com/album/2hEyYIrm4e6gVgfaYLY00x",
+        comment: "Github Action"
+    },
+    {
+        title: "Comeblack",
+        author: "Scorpions",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739f2023d391c3bd4acf4d51c6",
+        kind: "album",
+        link: "https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd",
+        comment: "Github Action"
+    },
+    {
+        title: "Amigos",
+        author: "Santana",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d99a7cc83a6bbd91bee6f219",
+        kind: "album",
+        link: "https://open.spotify.com/album/1xlThGcidi851d3NwHfjQH",
+        comment: "Github Action"
+    },
+    {
+        title: "Live at Kilby Court",
+        author: "Current Joys",
+        cover: "https://i.scdn.co/image/ab67616d0000b27373303b2f8d1b42d5492342f6",
+        kind: "album",
+        link: "https://open.spotify.com/album/6v39Q9XBKxTfOqIgylueGP",
+        comment: "Github Action"
+    },
+    {
+        title: "American Made Music To Strip By",
+        author: "Rob Zombie",
+        cover: "https://i.scdn.co/image/ab67616d0000b273114970b26113211996f2cc21",
+        kind: "album",
+        link: "https://open.spotify.com/album/2DFwbECwxfclwxUB8WniVc",
+        comment: "Github Action"
+    },
+    {
+        title: "Lovedrive",
+        author: "Scorpions",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c9703979ebcc156cebd0e2c4",
+        kind: "album",
+        link: "https://open.spotify.com/album/7aIgGWlHdcPXOfONtXVliK",
+        comment: "Github Action"
+    },
+    {
+        title: "Wolf + Instrumentals",
+        author: "Tyler, The Creator",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733dc9f1b0abd114fda4d9fb0b",
+        kind: "album",
+        link: "https://open.spotify.com/album/4jEKedq9rWPV9OXuMkrZCa",
+        comment: "Github Action"
+    },
+    {
+        title: "Cherry Bomb",
+        author: "Tyler, The Creator",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e4bf0d3d9e0224a30ca5f665",
+        kind: "album",
+        link: "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In",
+        comment: "Github Action"
+    },
+    {
+        title: "1970: The Complete Fun House Sessions",
+        author: "The Stooges",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735a94b11de6197d5ea3a45921",
+        kind: "album",
+        link: "https://open.spotify.com/album/5hBbiVCgSQ68JfWE3UAwf3",
+        comment: "Github Action"
+    },
+    {
+        title: "Fun House (Deluxe Edition)",
+        author: "The Stooges",
+        cover: "https://i.scdn.co/image/ab67616d0000b27313aa419336db598eb2674b1a",
+        kind: "album",
+        link: "https://open.spotify.com/album/3FTcomSFg2zWSqWLRgBYpv",
+        comment: "Github Action"
+    },
+    {
+        title: "The Now Now",
+        author: "Gorillaz",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734d9f7b88e82db31d13ac6668",
+        kind: "album",
+        link: "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL",
+        comment: "Github Action"
+    },
+    {
+        title: "Wild Heart",
+        author: "Current Joys",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf",
+        kind: "album",
+        link: "https://open.spotify.com/album/6vQngf6iEG8xC6ArsIurXq",
+        comment: "Github Action"
+    },
+    {
+        title: "Sacco e Vanzetti (Original Motion Picture Soundtrack) [Remastered]",
+        author: "Ennio Morricone",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bd278960137489531c98c8b1",
+        kind: "album",
+        link: "https://open.spotify.com/album/5Kh97XNvwMEk6hl4ZrOtKK",
+        comment: "Github Action"
+    },
+    {
+        title: "The 5000 Spirits Or The Layers Of The Onion",
+        author: "The Incredible String Band",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730987b713f60b59957f2681fe",
+        kind: "album",
+        link: "https://open.spotify.com/album/3htu0UsV5JuouSfugMHNgS",
+        comment: "Github Action"
+    },
+    {
         title: "Extra-lucide",
         author: "disiz",
         cover: "https://i.scdn.co/image/ab67616d0000b2733bada981b0fdd5c948256d3c",
