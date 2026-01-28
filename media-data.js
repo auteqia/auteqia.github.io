@@ -1,5 +1,61 @@
 const mediaLibrary = [
     {
+        title: "Vertical Smiles",
+        author: "Blackfoot",
+        cover: "https://i.scdn.co/image/ab67616d0000b273379cdcd991ccb22e7ad6711f",
+        kind: "album",
+        link: "https://open.spotify.com/album/59DGwDQ1Ce7UiAsoztOOM1",
+        comment: "Github Action"
+    },
+    {
+        title: "One Step Beyond...",
+        author: "Madness",
+        cover: "https://i.scdn.co/image/ab67616d0000b273639f8237894a40c6690392e6",
+        kind: "album",
+        link: "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA",
+        comment: "Github Action"
+    },
+    {
+        title: "EUSEXUA Afterglow",
+        author: "FKA twigs",
+        cover: "https://i.scdn.co/image/ab67616d0000b27344a21bdb6c1364be205aadf5",
+        kind: "album",
+        link: "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM",
+        comment: "Github Action"
+    },
+    {
+        title: "Chick Habit",
+        author: "April March",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b7d3561b43556864256cda95",
+        kind: "album",
+        link: "https://open.spotify.com/album/0yQ1AZQJr5I83Gxf1toa2T",
+        comment: "Github Action"
+    },
+    {
+        title: "Parachute",
+        author: "The Pretty Things",
+        cover: "https://i.scdn.co/image/ab67616d0000b27377fb589d6b097775f1ce3dcd",
+        kind: "album",
+        link: "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK",
+        comment: "Github Action"
+    },
+    {
+        title: "The Fat of the Land",
+        author: "The Prodigy",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737bb4dd1d02346ec2321a41d6",
+        kind: "album",
+        link: "https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2",
+        comment: "Github Action"
+    },
+    {
+        title: "The No Comprendo",
+        author: "Les Rita Mitsouko",
+        cover: "https://i.scdn.co/image/ab67616d0000b27312a5afee4ffdefdc65cbc441",
+        kind: "album",
+        link: "https://open.spotify.com/album/3VnFLQ6pO9MSvVeKv5DHjY",
+        comment: "Github Action"
+    },
+    {
         title: "David Bowie (aka Space Oddity) [2015 Remaster]",
         author: "David Bowie",
         cover: "https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464",
