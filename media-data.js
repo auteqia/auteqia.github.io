@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Initials B.B.",
+        author: "Serge Gainsbourg",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734c474b149d223027b9882bb9",
+        kind: "album",
+        link: "https://open.spotify.com/album/6kU0UT8xklbfy6Z5pXDtSU",
+        comment: "Github Action"
+    },
+    {
+        title: "Let It Bleed",
+        author: "The Rolling Stones",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732af30c881bb23cfb82a8cf99",
+        kind: "album",
+        link: "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy",
+        comment: "Github Action"
+    },
+    {
+        title: "Atmosphere",
+        author: "Joy Division",
+        cover: "https://i.scdn.co/image/ab67616d0000b27374d7ecc4658fe88970feaa7a",
+        kind: "album",
+        link: "https://open.spotify.com/album/5bXAysvuhQbyWllgYuahwt",
+        comment: "Github Action"
+    },
+    {
         title: "Wow",
         author: "Superbus",
         cover: "https://i.scdn.co/image/ab67616d0000b273633a540a6f59c9d885444cf3",
