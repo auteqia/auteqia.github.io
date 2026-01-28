@@ -1,5 +1,157 @@
 const mediaLibrary = [
     {
+        title: "Herb Alpert & the Tijuana Brass",
+        author: "Herb Alpert",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731586c0813e5ce5559d696d17",
+        kind: "album",
+        link: "https://open.spotify.com/album/1gKrnjjDM8R3RD7iwg0tGM",
+        comment: "Github Action"
+    },
+    {
+        title: "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+        author: "Rage Against The Machine",
+        cover: "https://i.scdn.co/image/ab67616d0000b27354ab617bc2d4974ab6ffbece",
+        kind: "album",
+        link: "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4",
+        comment: "Github Action"
+    },
+    {
+        title: "Brick By Brick",
+        author: "Iggy Pop",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f392793e1a8d61a44ecd4727",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8",
+        comment: "Github Action"
+    },
+    {
+        title: "Goodbye And Hello",
+        author: "Tim Buckley",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c7ffb1c8fdc594efc8bc6e20",
+        kind: "album",
+        link: "https://open.spotify.com/album/1jKfTvT64lcQwA74WmkKiJ",
+        comment: "Github Action"
+    },
+    {
+        title: "Party",
+        author: "Iggy Pop",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730f91325e461f7b5ad5f00bb7",
+        kind: "album",
+        link: "https://open.spotify.com/album/7CJu92mT1fWMYDKQQpJrKk",
+        comment: "Github Action"
+    },
+    {
+        title: "90125 (Deluxe Version)",
+        author: "Yes",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739d9a49f795b4340538f43435",
+        kind: "album",
+        link: "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz",
+        comment: "Github Action"
+    },
+    {
+        title: "Twoism",
+        author: "Boards of Canada",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f49a49ce8736c14f4d4990fb",
+        kind: "album",
+        link: "https://open.spotify.com/album/46YfeDd8YhuAcywdxZkRqf",
+        comment: "Github Action"
+    },
+    {
+        title: "Night Time, My Time",
+        author: "Sky Ferreira",
+        cover: "https://i.scdn.co/image/ab67616d0000b27306b4e064a2b9849047f3a807",
+        kind: "album",
+        link: "https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr",
+        comment: "Github Action"
+    },
+    {
+        title: "Ghost",
+        author: "Sky Ferreira",
+        cover: "https://i.scdn.co/image/ab67616d0000b273af1115d3ae5dad6cf7210dbe",
+        kind: "album",
+        link: "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf",
+        comment: "Github Action"
+    },
+    {
+        title: "Blah-Blah-Blah",
+        author: "Iggy Pop",
+        cover: "https://i.scdn.co/image/ab67616d0000b27386bea2881f2ea14076781883",
+        kind: "album",
+        link: "https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c",
+        comment: "Github Action"
+    },
+    {
+        title: "Heroin Hates You",
+        author: "Iggy Pop",
+        cover: "https://i.scdn.co/image/ab67616d0000b27311bb70f98a182a7e002d4936",
+        kind: "album",
+        link: "https://open.spotify.com/album/5F0Gz3iDIgAwtZyuvHoDy8",
+        comment: "Github Action"
+    },
+    {
+        title: "Best of",
+        author: "Téléphone",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e5095ee8c35c486b98420497",
+        kind: "album",
+        link: "https://open.spotify.com/album/7a2ECoUsbfTZyqEFZ3AyFe",
+        comment: "Github Action"
+    },
+    {
+        title: "TV Eye: 1977",
+        author: "Iggy Pop",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730daf48f952bbec20ea80bc2d",
+        kind: "album",
+        link: "https://open.spotify.com/album/6P52gerlJdyl1aBb3kakPq",
+        comment: "Github Action"
+    },
+    {
+        title: "Ice 'n' Green",
+        author: "Ice Mc",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d4985f496f9830a9fda732de",
+        kind: "album",
+        link: "https://open.spotify.com/album/3Xx9mgY6owjNSYmIveh6AW",
+        comment: "Github Action"
+    },
+    {
+        title: "Alive 2007",
+        author: "Daft Punk",
+        cover: "https://i.scdn.co/image/ab67616d0000b273673288fb985e5c194536ae27",
+        kind: "album",
+        link: "https://open.spotify.com/album/7u6zL7kqpgLPISZYXNTgYk",
+        comment: "Github Action"
+    },
+    {
+        title: "Works In Progress",
+        author: "Tim Buckley",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e199aa4af2f6d00d19800c35",
+        kind: "album",
+        link: "https://open.spotify.com/album/1RkTOe3SQM0A2ewdaRvOEF",
+        comment: "Github Action"
+    },
+    {
+        title: "Plaisirs d'amour",
+        author: "René Aubry",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736219cb49fe3b85a56c416e5e",
+        kind: "album",
+        link: "https://open.spotify.com/album/4qOpd4VHIeXU8W2yAay4XL",
+        comment: "Github Action"
+    },
+    {
+        title: "R Plus Seven",
+        author: "Oneohtrix Point Never",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c81557c04a17a6efaca23470",
+        kind: "album",
+        link: "https://open.spotify.com/album/0p7nH5bz0pWBor10osUBuD",
+        comment: "Github Action"
+    },
+    {
+        title: "More Than Meets The Ear",
+        author: "Jean-Luc Ponty",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735a2b32c26554809c65fcebdd",
+        kind: "album",
+        link: "https://open.spotify.com/album/5iBrOoF7NWcWAwqvUlp3vF",
+        comment: "Github Action"
+    },
+    {
         title: "Perfectly Blue",
         author: "RIP Swirl",
         cover: "https://i.scdn.co/image/ab67616d0000b27309e4f5566d3d59864544b568",
