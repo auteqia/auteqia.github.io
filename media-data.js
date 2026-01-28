@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
+        author: "The Yardbirds",
+        cover: "https://i.scdn.co/image/ab67616d0000b27395670c43925b9ce8a437c9b4",
+        kind: "album",
+        link: "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K",
+        comment: "Github Action"
+    },
+    {
         title: "Initials B.B.",
         author: "Serge Gainsbourg",
         cover: "https://i.scdn.co/image/ab67616d0000b2734c474b149d223027b9882bb9",
