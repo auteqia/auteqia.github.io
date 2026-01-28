@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Frogstomp (Deluxe Edition) [Remastered]",
+        author: "Silverchair",
+        cover: "https://i.scdn.co/image/ab67616d0000b27372c3447a562fc7be1c8e1255",
+        kind: "album",
+        link: "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC",
+        comment: "Github Action"
+    },
+    {
+        title: "Out Of Season",
+        author: "Beth Gibbons",
+        cover: "https://i.scdn.co/image/ab67616d0000b27351f8d86729a62a35e2792bbf",
+        kind: "album",
+        link: "https://open.spotify.com/album/6nTOCPzj8JiohYlZxW5Zl1",
+        comment: "Github Action"
+    },
+    {
         title: "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
         author: "The Yardbirds",
         cover: "https://i.scdn.co/image/ab67616d0000b27395670c43925b9ce8a437c9b4",
