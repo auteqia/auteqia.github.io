@@ -6456,28 +6456,11 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "No Mercy for Love",
-        cover: "https://i.scdn.co/image/ab67616d00001e02cde247dcf57d9e5d4974ed34",
-        rating: 5,
-        author: "CANNIBALE",
-        link: "https://open.spotify.com/intl-fr/album/2lSiu7i14zUsuhEmMgZEX0?si=3818cf25474841e5",
-        kind: "album"
-    },
-    {
         title: "The Gilded Palace of Sin",
         cover: "https://i.scdn.co/image/ab67616d0000b27353ba02e4c3b1b6a297002afa",
         rating: 5,
         author: "The Flying Burrito Brothers",
         link: "https://open.spotify.com/intl-fr/album/6VWKy5o2OcdeWa7yolazjU?si=5cfea26c58554fbb",
-        kind: "album"
-    },
-
-    {
-        title: "In the Aeroplane over the Sea",
-        cover: "https://i.scdn.co/image/ab67616d00001e02589ce9a911c6e65b1f80c558",
-        rating: 5,
-        author: "Neutral Milk Hotel",
-        link: "https://open.spotify.com/intl-fr/album/0vVekV45lOaVKs6RZQQNob?si=bf237fda8c7e45a9",
         kind: "album"
     },
     {
@@ -6494,38 +6477,6 @@ const mediaLibrary = [
         rating: 5,
         author: "The Doors",
         link: "https://open.spotify.com/intl-fr/album/1jWmEhn3ggaL6isoyLfwBn?si=a3a5526ec6fe4204",
-        kind: "album"
-    },
-    {
-        title: "Bury Me at Makeout Creek",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e90db8983ebd43b776694179",
-        rating: 5,
-        author: "Mitski",
-        link: "https://open.spotify.com/intl-fr/album/3I2KkX13lHXuYqfBjSOopo?si=1e824ad77e684c94",
-        kind: "album"
-    },
-    {
-        title: "Solid State Survivor",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c70aa05c55b6fb116863f6f5",
-        rating: 5,
-        author: "Yellow Magic Orchestra",
-        link: "https://open.spotify.com/intl-fr/album/5TmpFE7Xus70ko1QYGxFIe?si=f92037d9a5bc4e15",
-        kind: "album"
-    },
-    {
-        title: "Puberty 2",
-        cover: "https://i.scdn.co/image/ab67616d00001e0229eb9ad9b9af34bbb54eb053",
-        rating: 5,
-        author: "Mitski",
-        link: "https://open.spotify.com/intl-fr/album/4Coa8Eb9SzjrkwWEom963Q?si=de5f6256fdac4974",
-        kind: "album"
-    },
-    {
-        title: "Beats, Rhymes & Life",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e3b93c08d98f92dc3ab0146a",
-        rating: 5,
-        author: "A Tribe Called Quest",
-        link: "https://open.spotify.com/intl-fr/album/0EguP4tsJurU5I8ocCxdyb?si=1ebdf7e5f6614af6",
         kind: "album"
     },
     {
@@ -6558,30 +6509,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Madness",
         link: "https://open.spotify.com/album/0scFCb0HjpQvWaJ7fu16hn?si=29dmeqtKRI6MMM2Zblm7fA",
-        kind: "album"
-    },
-    {
-        title: "Be the Cowboy",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c428f67b4a9b7e1114dfc117",
-        rating: 5,
-        author: "Mitski",
-        link: "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq?si=Zd_BhXz8R6ClaxVcb-LegA",
-        kind: "album"
-    },
-    {
-        title: "(III)",
-        cover: "https://i.scdn.co/image/ab67616d00001e028c4fcffc07dd98ad89c0f383",
-        rating: 5,
-        author: "Crystal Castles",
-        link: "https://open.spotify.com/album/2KYBzzK8L9yvBe0k5GeoD8?si=DSRw2NNLSv6KMz6EpceGww",
-        kind: "album"
-    },
-    {
-        title: "Lush",
-        cover: "https://i.scdn.co/image/ab67616d00001e0218bbdba0da26e4ae050fb1b8",
-        rating: 5,
-        author: "Mitski",
-        link: "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga?si=yhGLr03lSV2xJV8xh6kd6g8",
         kind: "album"
     },
     {
@@ -6640,15 +6567,6 @@ const mediaLibrary = [
         link: "https://open.spotify.com/album/1xlThGcidi851d3NwHfjQH?si=3O4StAlcQReR-koH53jeKA",
         kind: "album"
     },
-
-    {
-        title: "Soaring",
-        cover: "https://i.scdn.co/image/ab67616d00001e029e54c15c0947e01e0e7238c7",
-        rating: 5,
-        author: "Puzzle",
-        link: "https://open.spotify.com/intl-fr/album/3piPM3MXYU1wmB9yz7UHcQ?si=82ea0eaaf7124533",
-        kind: "album"
-    },
     {
         title: "Sacco e Vanzetti",
         cover: "https://i.scdn.co/image/ab67616d00001e02bd278960137489531c98c8b1",
@@ -6687,23 +6605,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Oneohtrix Point Never",
         link: "https://open.spotify.com/album/6MEswIpaIGVN8M68FGr550?si=VVB_MMZ2TR6KiqVt_zeITg",
-        kind: "album"
-    },
-
-    {
-        title: "1584660650",
-        cover: "https://i.scdn.co/image/ab67616d00001e024fa0196ad0b1435563fbd4ab",
-        rating: 5,
-        author: "Fine-Sir-1584660650",
-        link: "https://open.spotify.com/album/4JY1a8QLSJD0JNSOZ2ekJ2?si=OSkXs36ETGKL2egce4SfWw",
-        kind: "album"
-    },
-    {
-        title: "Crystal Castles",
-        cover: "https://i.scdn.co/image/ab67616d00001e02b01fea159227ea845c2bd72e",
-        rating: 5,
-        author: "Crystal Castles",
-        link: "https://open.spotify.com/album/3LnVvIeiLCngvwEnbdxwCT?si=FCs_ESPuRt6YxjlbXZWFPw",
         kind: "album"
     },
     {
@@ -6760,14 +6661,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Massive Attack",
         link: "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR?si=CAocdMtRQB6xMVTbkgmjcw",
-        kind: "album"
-    },
-    {
-        title: "Dance Hall Style",
-        cover: "https://i.scdn.co/image/ab67616d00001e020ddf1762d8c79514aaf317af",
-        rating: 5,
-        author: "Horace Handy",
-        link: "https://open.spotify.com/album/7rjTtjpSy2SzL8cydh1W5s?si=NZGf_kUVQBaUzlBWVpBJKQ",
         kind: "album"
     },
     {
@@ -6866,20 +6759,6 @@ const mediaLibrary = [
         link: "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF?si=B0V64BADRuaAMuFnjj9RGw",
         kind: "album"
     },
-
-
-
-
-
-    
-    {
-        title: "The Moon and the Melodies",
-        cover: "https://i.scdn.co/image/ab67616d00001e02f510b1ab6184d8eecf6ba4bc",
-        rating: 5,
-        author: "Cocteau Twins",
-        link: "https://open.spotify.com/album/3qEiWhSF2HO1NhVJVsGyZm?si=TCHXHszjSE2PyDj3c8ikwA",
-        kind: "album"
-    },
     {
         title: "Chick Habit",
         cover: "https://i.scdn.co/image/ab67616d00001e020cd486a347167c9c39d92342",
@@ -6934,30 +6813,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Jefferson Airplane",
         link: "https://open.spotify.com/album/2ZkdTV6IV5arY4hS6ztM2g?si=hI7g5lYnScaebGow9Yof-g",
-        kind: "album"
-    },
-    {
-        title: "Disintegration",
-        cover: "https://i.scdn.co/image/ab67616d00001e02858ed9e2832801189187391a",
-        rating: 5,
-        author: "The Cure",
-        link: "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS?si=zR40bTZaTrKkeUfK-ozeDw",
-        kind: "album"
-    },
-    {
-        title: "The Head On The Door",
-        cover: "https://i.scdn.co/image/ab67616d00001e021dda5f57ba5c203f775ea2dd",
-        rating: 5,
-        author: "The Cure",
-        link: "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx?si=RsYuHtDLS_-pXZiYo8nxww",
-        kind: "album"
-    },
-    {
-        title: "Pornography",
-        cover: "https://i.scdn.co/image/ab67616d00001e02bc895ce03f0a5dfd2f1597b5",
-        rating: 5,
-        author: "The Cure",
-        link: "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm?si=ac50deb581c94344",
         kind: "album"
     },
     {
@@ -7059,14 +6914,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Electric Ladyland",
-        cover: "https://i.scdn.co/image/ab67616d00001e0219dcd95d28b63d10164327f2",
-        rating: 5,
-        author: "Jimi Hendrix",
-        link: "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ?si=Y79Zvg-mS9K9VLIkkC5YHQ",
-        kind: "album"
-    },
-    {
         title: "The Roaring Silence",
         cover: "https://i.scdn.co/image/ab67616d00001e02f7a46588d1f34cd32e670bb4",
         rating: 5,
@@ -7091,94 +6938,6 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Puta's Fever",
-        cover: "https://i.scdn.co/image/ab67616d00001e02af054b09905136eb98c7a08c",
-        rating: 5,
-        author: "Mano Negra",
-        link: "https://open.spotify.com/album/5RRl8EN39JgDo5QsDOFTXz?si=3qHpcRg-TDO2ayO50aLYdA",
-        kind: "album"
-    },
-    {
-        title: "Patchanka",
-        cover: "https://i.scdn.co/image/ab67616d00001e020b9fca80401e636137c2fc8d",
-        rating: 5,
-        author: "Mano Negra",
-        link: "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ?si=RRiJLgMFRruDRE_EjxlYYw",
-        kind: "album"
-    },
-    {
-        title: "Próxima Estación: Esperanza",
-        cover: "https://i.scdn.co/image/ab67616d00001e021dcba4a728ca0b17cbd204a5",
-        rating: 5,
-        author: "Manu Chao",
-        link: "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo?si=IxAyEvGvTnywYz7f00yXbQ",
-        kind: "album"
-    },
-    {
-        title: "Viva Tu",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a2cab830efd2a509743ff230",
-        rating: 5,
-        author: "Manu Chao",
-        link: "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2?si=-DfMFG1oRlO9XETHC0WEEQ",
-        kind: "album"
-    },
-    {
-        title: "EL ÚLTIMO TOUR DEL MUNDO",
-        cover: "https://i.scdn.co/image/ab67616d00001e02005ee342f4eef2cc6e8436ab",
-        rating: 5,
-        author: "Bad Bunny",
-        link: "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW?si=q_SP1uVNSr6-M9FQcXSA4w",
-        kind: "album"
-    },
-    {
-        title: "DeBÍ TiRAR MáS FOToS",
-        cover: "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
-        rating: 5,
-        author: "Bad Bunny",
-        link: "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb?si=3faFnFucTkiz2gBRWPjsNw",
-        kind: "album"
-    },
-    {
-        title: "Lizard",
-        cover: "https://i.scdn.co/image/ab67616d00001e028f4652132e153badd7017df4",
-        rating: 5,
-        author: "King Crimson",
-        link: "https://open.spotify.com/album/4vvx8uOeJE7YR4tORVtYV4?si=IjqeOp9eQkCRDLto66JKIw",
-        kind: "album"
-    },
-    {
-        title: "Starless and Bible Black",
-        cover: "https://i.scdn.co/image/ab67616d00001e02ebb799f3ca90f59bd04f6a72",
-        rating: 5,
-        author: "King Crimson",
-        link: "https://open.spotify.com/album/4ttC4XUinZXn3GMIQNrjFZ?si=XPlihMrMSgGrvMAyMSs87w",
-        kind: "album"
-    },
-    {
-        title: "Discipline",
-        cover: "https://i.scdn.co/image/ab67616d00001e02ff2d2448a42a43c281b6f556",
-        rating: 5,
-        author: "King Crimson",
-        link: "https://open.spotify.com/album/20dTbQRkxuOTkf3SFyaT2m?si=QbnaMFlYR1e9kDxhwpnCrA",
-        kind: "album"
-    },
-    {
-        title: "Jefferson Airplane Takes Off",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a75f75c5194839fb77a4dcf7",
-        rating: 5,
-        author: "Jefferson Airplane",
-        link: "https://open.spotify.com/album/4WqJrAJCPjmYTzvN1PTWaB?si=5SNInSViQZW0n--IDRa36w",
-        kind: "album"
-    },
-    {
-        title: "Jefferson Airplane: The Woodstock Experience",
-        cover: "https://i.scdn.co/image/ab67616d00001e0240fefb6812399847a8b8713c",
-        rating: 5,
-        author: "Jefferson Airplane",
-        link: "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a?si=1t2QC89bSpeX7MM_M7Uu3w",
-        kind: "album"
-    },
-    {
         title: "La Vie Augmente, Vol.3",
         cover: "https://i.scdn.co/image/ab67616d00001e021670ddf236cd50f995b0ce9e",
         rating: 5,
@@ -7200,25 +6959,6 @@ const mediaLibrary = [
         rating: 5,
         author: "ISHA",
         link: "https://open.spotify.com/album/7cXkwH5Q96UKBtlGuFbkpK?si=P1m3YhjOSFqMkVYjnAAntw",
-        kind: "album"
-    },
-    {
-        title: "Ocean",
-        cover: "https://i.scdn.co/image/ab67616d00001e02352a540820179ba257800b6b",
-        rating: 5,
-        author: "Eloy",
-        link: "https://open.spotify.com/album/055oBGhGjcZixkBREWdav2?si=lfiCED-USBmuWK7vM2ArHw",
-        kind: "album"
-    },
-
-
-
-    {
-        title: "Ocean II",
-        cover: "https://i.scdn.co/image/ab67616d00001e0281466203fc1587fa677ae084",
-        rating: 5,
-        author: "Eloy",
-        link: "https://open.spotify.com/album/28ayZSBRiNwn3BqmcpThHd?si=p9QbA1YhRn2NyhvIMtxPOQ",
         kind: "album"
     },
     {
@@ -7318,67 +7058,11 @@ const mediaLibrary = [
         kind: "album"
     },
     {
-        title: "Head Over Heels",
-        cover: "https://i.scdn.co/image/ab67616d00001e02dd69a64d46d35725c47df19c",
-        rating: 5,
-        author: "Cocteau Twins",
-        link: "https://open.spotify.com/album/52MMrcUtar0coGVHULkuQ9?si=1WkrBy6fRzK1uzlvjfb7ug",
-        kind: "album"
-    },
-    {
         title: "Blue Bell Knoll",
         cover: "https://i.scdn.co/image/ab67616d00001e02ed2637f59f3f5eb1c049a005",
         rating: 5,
         author: "Cocteau Twins",
         link: "https://open.spotify.com/album/3SXCY4kFMM4T4egq5DSUTa?si=hVbtb0pnSe6fVDRgpAXj1Q",
-        kind: "album"
-    },
-    {
-        title: "Pressure Points",
-        cover: "https://i.scdn.co/image/ab67616d00001e027a68cb2771173ca87cc09346",
-        rating: 5,
-        author: "Camel",
-        link: "https://open.spotify.com/album/5nPm3Gykzwe9Cvjc8xGLdA?si=eEAarYvHTWucC0_Xeudi9g",
-        kind: "album"
-    },
-    {
-        title: "Chameloen",
-        cover: "https://i.scdn.co/image/ab67616d00001e0206e561fa7e5bd67c95631217",
-        rating: 5,
-        author: "Camel",
-        link: "https://open.spotify.com/album/6o8DatzTclI30aDIewJJi7?si=3SzuBrJdTWWsn2HaL22pUg",
-        kind: "album"
-    },
-    {
-        title: "Stationary Traveller",
-        cover: "https://i.scdn.co/image/ab67616d00001e02ea50f573eb4bdc6c304c5344",
-        rating: 5,
-        author: "Camel",
-        link: "https://open.spotify.com/album/78XGNvqT155xictf3VChQh?si=sWcldeUlREmnq-aIx29HRQ",
-        kind: "album"
-    },
-    {
-        title: "Camel",
-        cover: "https://i.scdn.co/image/ab67616d00001e02572a2c8c8092c82b9dfd48fc",
-        rating: 5,
-        author: "Camel",
-        link: "https://open.spotify.com/album/2WO6VIu5x3rMXWcMzH36jl?si=9cfalbDFRPiaQD9QguqG4A",
-        kind: "album"
-    },
-    {
-        title: "Moonmadness",
-        cover: "https://i.scdn.co/image/ab67616d00001e02ecbc7b6ca15b79ca7ff05bd2",
-        rating: 5,
-        author: "Camel",
-        link: "https://open.spotify.com/album/5Q6eKTQNsOyu0fCpAFxuHR?si=t8CXuw8aS2GnAQm1OMc8Lw",
-        kind: "album"
-    },
-    {
-        title: "Ambient 1: Music For Airports",
-        cover: "https://i.scdn.co/image/ab67616d00001e0237a379ca6520eaf191de6ff2",
-        rating: 5,
-        author: "Brian Eno",
-        link: "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa?si=Fa9D9Hb_RAi7_f5fIyeB4g",
         kind: "album"
     },
     {
@@ -7523,22 +7207,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Radiohead",
         link: "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy?si=Ns71DdJlS3WBARLnjMi0Fw",
-        kind: "album"
-    },
-    {
-        title: "Kid A",
-        cover: "https://i.scdn.co/image/ab67616d00001e026c7112082b63beefffe40151",
-        rating: 5,
-        author: "Radiohead",
-        link: "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7?si=BdvopOvsTia1r3AhQW2MMQ",
-        kind: "album"
-    },
-    {
-        title: "Amnesiac",
-        cover: "https://i.scdn.co/image/ab67616d00001e02863e0e305637100311c91aa7",
-        rating: 5,
-        author: "Radiohead",
-        link: "https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0?si=LYuywpoLQC22NAtPdRs03g",
         kind: "album"
     },
     {
@@ -7869,70 +7537,6 @@ const mediaLibrary = [
         rating: 5,
         author: "Gorillaz",
         link: "https://open.spotify.com/intl-fr/album/1amYhlukNF8WdaQC3gKkgL?si=vG1jw0qNSkuGih_RkAb86w",
-        kind: "album"
-    },
-    {
-        title: "Man On The Moon II: The Legend Of Mr. Rager",
-        cover: "https://i.scdn.co/image/ab67616d00001e0259e842b6a3566a141f27f815",
-        rating: 5,
-        author: "Kid Cudi",
-        link: "https://open.spotify.com/intl-fr/album/08eM9GRdr5BCCHNqS3Wwud?si=OGm_kkwnS_ajovpMWsHXgA",
-        kind: "album"
-    },
-    {
-        title: "Man On The Moon: The End Of Day",
-        cover: "https://i.scdn.co/image/ab67616d00001e02713f297a7bdc1d48971062b2",
-        rating: 5,
-        author: "Kid Cudi",
-        link: "https://open.spotify.com/intl-fr/album/6oPPKtAwNNlkW4wwHfQDfM?si=YCK_rGgFQGKN5rqQLKTlzA",
-        kind: "album"
-    },
-    {
-        title: "KIDS SEE GHOSTS",
-        cover: "https://i.scdn.co/image/ab67616d00001e02013c00ee367dd85396f79c82",
-        rating: 5,
-        author: "Various Artists",
-        link: "https://open.spotify.com/intl-fr/album/6pwuKxMUkNg673KETsXPUV?si=yroTZ6DQQPWcczednBT9eQ",
-        kind: "album"
-    },
-    {
-        title: "Indicud",
-        cover: "https://i.scdn.co/image/ab67616d00001e02b9ab5cc935d2327a7d2bc629",
-        rating: 5,
-        author: "Kid Cudi",
-        link: "https://open.spotify.com/intl-fr/album/262o5a05pMUDSV2uzo5EwQ?si=7kuA8eu7Rk6HPP9vsQ41Xg",
-        kind: "album"
-    },
-    {
-        title: "KiD CuDi presents SATELLITE FLIGHT: The journey to Mother Moon",
-        cover: "https://i.scdn.co/image/ab67616d00001e02e2d1b3c2dbdfe07013fb91bb",
-        rating: 5,
-        author: "Kid Cudi",
-        link: "https://open.spotify.com/intl-fr/album/4u9kEyafQ7sW0Z1gpJrDxp?si=dbKH9c0hRXm0za7xBz55Hw",
-        kind: "album"
-    },
-    {
-        title: "Speedin' Bullet 2 Heaven",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a4ea8c76f78b72ce3bda7625",
-        rating: 5,
-        author: "Kid Cudi",
-        link: "https://open.spotify.com/intl-fr/album/6e8pwYKSF9iZjpPep1DVzx?si=nLEh5xb3RzyOr5uRjcxV5A",
-        kind: "album"
-    },
-    {
-        title: "Passion, Pain & Demon Slayin'",
-        cover: "https://i.scdn.co/image/ab67616d00001e025c8d9ad991d2a23eb039d8dd",
-        rating: 5,
-        author: "Kid Cudi",
-        link: "https://open.spotify.com/intl-fr/album/5bCk3kWAy2JbbTfHqzZCII?si=aTFrxFFnRjaXd9sHIXYTCg",
-        kind: "album"
-    },
-    {
-        title: "Man On The Moon III: The Chosen",
-        cover: "https://i.scdn.co/image/ab67616d00001e026ff25c2481eeaf6e7284d461",
-        rating: 5,
-        author: "Kid Cudi",
-        link: "https://open.spotify.com/intl-fr/album/64nbgEEIcY4g1ElVLONJ0w?si=Et6zxKUrSxS0zmisq5perg",
         kind: "album"
     },
     {
