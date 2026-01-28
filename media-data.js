@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Radical Action To Unseat the Hold of Monkey Mind (Live)",
+        author: "King Crimson",
+        cover: "https://i.scdn.co/image/ab67616d0000b27322ae66ecde907eafdf992f07",
+        kind: "album",
+        link: "https://open.spotify.com/album/2AmwQcx982tEYi3FKMjBYL",
+        comment: "Github Action"
+    },
+    {
         title: "Frogstomp (Deluxe Edition) [Remastered]",
         author: "Silverchair",
         cover: "https://i.scdn.co/image/ab67616d0000b27372c3447a562fc7be1c8e1255",
