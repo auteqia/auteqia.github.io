@@ -1,5 +1,109 @@
 const mediaLibrary = [
     {
+        title: "Perfectly Blue",
+        author: "RIP Swirl",
+        cover: "https://i.scdn.co/image/ab67616d0000b27309e4f5566d3d59864544b568",
+        kind: "album",
+        link: "https://open.spotify.com/album/41QqoYgZKBZyd74WtB0vq2",
+        comment: "Github Action"
+    },
+    {
+        title: "Mezzanine",
+        author: "Massive Attack",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732fcb0a3c7a66e516b11cd26e",
+        kind: "album",
+        link: "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR",
+        comment: "Github Action"
+    },
+    {
+        title: "La vie augmente, Vol. 2",
+        author: "ISHA",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731d3f20d0a9be55b758c816a9",
+        kind: "album",
+        link: "https://open.spotify.com/album/0HGsUbxth45uHwhtD8nFR1",
+        comment: "Github Action"
+    },
+    {
+        title: "La Vie Augmente, Vol. 1",
+        author: "ISHA",
+        cover: "https://i.scdn.co/image/ab67616d0000b27326ed609ae21f5595ac29961e",
+        kind: "album",
+        link: "https://open.spotify.com/album/7cXkwH5Q96UKBtlGuFbkpK",
+        comment: "Github Action"
+    },
+    {
+        title: "Dynasty",
+        author: "KISS",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734384b6976cadaec272114022",
+        kind: "album",
+        link: "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1",
+        comment: "Github Action"
+    },
+    {
+        title: "choke enough",
+        author: "Oklou",
+        cover: "https://i.scdn.co/image/ab67616d0000b27308da36b621d12bb2087cf56c",
+        kind: "album",
+        link: "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt",
+        comment: "Github Action"
+    },
+    {
+        title: "Born To Be Wild (Best Of....)",
+        author: "Steppenwolf",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731a4be6540f2878d2dc931f91",
+        kind: "album",
+        link: "https://open.spotify.com/album/2NFrpHItc62Kgdkt5f8B91",
+        comment: "Github Action"
+    },
+    {
+        title: "War (Remastered)",
+        author: "U2",
+        cover: "https://i.scdn.co/image/ab67616d0000b273673526fcf35ab235e1a9d94c",
+        kind: "album",
+        link: "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2",
+        comment: "Github Action"
+    },
+    {
+        title: "The Hurting",
+        author: "Tears For Fears",
+        cover: "https://i.scdn.co/image/ab67616d0000b27345546ed4af1a0d4c58a8ff50",
+        kind: "album",
+        link: "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr",
+        comment: "Github Action"
+    },
+    {
+        title: "Rare Soundtracks & Lost Tapes (1973​-​1984)",
+        author: "Alain Goraguer",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ef23f01be6f55d4dc0cbaf82",
+        kind: "album",
+        link: "https://open.spotify.com/album/3Cg46JE3tWPhlWsjBA0LU1",
+        comment: "Github Action"
+    },
+    {
+        title: "Aerosmith",
+        author: "Aerosmith",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bbf0146981704a073405b6c2",
+        kind: "album",
+        link: "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE",
+        comment: "Github Action"
+    },
+    {
+        title: "Deathconsciousness",
+        author: "Have A Nice Life",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a54f2b401501b3569990c256",
+        kind: "album",
+        link: "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM",
+        comment: "Github Action"
+    },
+    {
+        title: "La vie augmente, Vol.3",
+        author: "ISHA",
+        cover: "https://i.scdn.co/image/ab67616d0000b27369d062822a2017e7a437dfe0",
+        kind: "album",
+        link: "https://open.spotify.com/album/1iy90g6CDz7ZRMeoQjMBcw",
+        comment: "Github Action"
+    },
+    {
         title: "Flower Boy",
         author: "Tyler, The Creator",
         cover: "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
