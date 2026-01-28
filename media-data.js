@@ -1,5 +1,117 @@
 const mediaLibrary = [
     {
+        title: "Próxima Estación: Esperanza",
+        author: "Manu Chao",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731dcba4a728ca0b17cbd204a5",
+        kind: "album",
+        link: "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo",
+        comment: "Github Action"
+    },
+    {
+        title: "Surrealistic Pillow",
+        author: "Jefferson Airplane",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736a74089537c2dbd548c4a95e",
+        kind: "album",
+        link: "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a",
+        comment: "Github Action"
+    },
+    {
+        title: "Casa Babylon",
+        author: "Mano Negra",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730d462e4c9109ed9b6c625893",
+        kind: "album",
+        link: "https://open.spotify.com/album/0DzXs04hKcMYg7D2JSLptk",
+        comment: "Github Action"
+    },
+    {
+        title: "Clandestino",
+        author: "Manu Chao",
+        cover: "https://i.scdn.co/image/ab67616d0000b27372c5875a8e4b49075978cd04",
+        kind: "album",
+        link: "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq",
+        comment: "Github Action"
+    },
+    {
+        title: "Bless Its Pointed Little Head",
+        author: "Jefferson Airplane",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735b9cb32582085ecbd5ecceaf",
+        kind: "album",
+        link: "https://open.spotify.com/album/2ZkdTV6IV5arY4hS6ztM2g",
+        comment: "Github Action"
+    },
+    {
+        title: "Jefferson Airplane: The Woodstock Experience",
+        author: "Jefferson Airplane",
+        cover: "https://i.scdn.co/image/ab67616d0000b27340fefb6812399847a8b8713c",
+        kind: "album",
+        link: "https://open.spotify.com/album/625s2gdwGv9II76gXGAelS",
+        comment: "Github Action"
+    },
+    {
+        title: "Sibérie m'était contéee",
+        author: "Manu Chao",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f297cbcd2d78559c38273e35",
+        kind: "album",
+        link: "https://open.spotify.com/album/7EZSOlWZFjsLLZkDwtFCPS",
+        comment: "Github Action"
+    },
+    {
+        title: "DeBÍ TiRAR MáS FOToS",
+        author: "Bad Bunny",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+        kind: "album",
+        link: "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb",
+        comment: "Github Action"
+    },
+    {
+        title: "EL ÚLTIMO TOUR DEL MUNDO",
+        author: "Bad Bunny",
+        cover: "https://i.scdn.co/image/ab67616d0000b273005ee342f4eef2cc6e8436ab",
+        kind: "album",
+        link: "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW",
+        comment: "Github Action"
+    },
+    {
+        title: "Starless And Bible Black",
+        author: "King Crimson",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ebb799f3ca90f59bd04f6a72",
+        kind: "album",
+        link: "https://open.spotify.com/album/4ttC4XUinZXn3GMIQNrjFZ",
+        comment: "Github Action"
+    },
+    {
+        title: "Discipline",
+        author: "King Crimson",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ff2d2448a42a43c281b6f556",
+        kind: "album",
+        link: "https://open.spotify.com/album/20dTbQRkxuOTkf3SFyaT2m",
+        comment: "Github Action"
+    },
+    {
+        title: "Ocean (Remastered 2019)",
+        author: "Eloy",
+        cover: "https://i.scdn.co/image/ab67616d0000b273352a540820179ba257800b6b",
+        kind: "album",
+        link: "https://open.spotify.com/album/055oBGhGjcZixkBREWdav2",
+        comment: "Github Action"
+    },
+    {
+        title: "Patchanka",
+        author: "Mano Negra",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730b9fca80401e636137c2fc8d",
+        kind: "album",
+        link: "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ",
+        comment: "Github Action"
+    },
+    {
+        title: "King Of Bongo",
+        author: "Mano Negra",
+        cover: "https://i.scdn.co/image/ab67616d0000b27310bcce9ccaccc979d7358a17",
+        kind: "album",
+        link: "https://open.spotify.com/album/5VMwAEtDGtNchZp8PCnx50",
+        comment: "Github Action"
+    },
+    {
         title: "N3h !!!!!",
         author: "Kiki2way23",
         cover: "https://i.scdn.co/image/ab67616d0000b273a2b1c4b2d47ae6a4df720e59",
