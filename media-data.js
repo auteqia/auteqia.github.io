@@ -1,5 +1,141 @@
 const mediaLibrary = [
     {
+        title: "Superunknown (20th Anniversary)",
+        author: "Soundgarden",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735124ed45a94033830b320500",
+        kind: "album",
+        link: "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh",
+        comment: "Github Action"
+    },
+    {
+        title: "Discovery",
+        author: "Daft Punk",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732c25dad9f8fd54652f7ba5df",
+        kind: "album",
+        link: "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc",
+        comment: "Github Action"
+    },
+    {
+        title: "Bitume Caviar (vol.1)",
+        author: "ISHA",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a7f9118d82700a41c3b3d82d",
+        kind: "album",
+        link: "https://open.spotify.com/album/3Fr9OWBaK5i1nZh0BT38jN",
+        comment: "Github Action"
+    },
+    {
+        title: "Le Monde Instrumental D'alain Goraguer (Jazz et musiques de films 1956 - 1962)",
+        author: "Alain Goraguer",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a7d7628d791e61527116c08c",
+        kind: "album",
+        link: "https://open.spotify.com/album/3y1n62vanHyeV6Qsva9Kva",
+        comment: "Github Action"
+    },
+    {
+        title: "TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)",
+        author: "Daft Punk",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738323143296ff7b2801e32789",
+        kind: "album",
+        link: "https://open.spotify.com/album/3AMXFnwHWXCvNr5NCCpLZI",
+        comment: "Github Action"
+    },
+    {
+        title: "CHROMAKOPIA",
+        author: "Tyler, The Creator",
+        cover: "https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014",
+        kind: "album",
+        link: "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH",
+        comment: "Github Action"
+    },
+    {
+        title: "Come With Us",
+        author: "The Chemical Brothers",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a84e1d8c3a99de8e2e1e6c1a",
+        kind: "album",
+        link: "https://open.spotify.com/album/56nVadPbdCs1yGB0AtXSGp",
+        comment: "Github Action"
+    },
+    {
+        title: "Faust: The Lost Recordings 1971-1978",
+        author: "Alain Goraguer",
+        cover: "https://i.scdn.co/image/ab67616d0000b27324ea58d5c5ac0de56bf06845",
+        kind: "album",
+        link: "https://open.spotify.com/album/7AIiDdtf016wPSrTG950Cd",
+        comment: "Github Action"
+    },
+    {
+        title: "Random Access Memories",
+        author: "Daft Punk",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937",
+        kind: "album",
+        link: "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa",
+        comment: "Github Action"
+    },
+    {
+        title: "House in the Tall Grass",
+        author: "Kikagaku Moyo",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a938f8d61319e7ca724ddd8c",
+        kind: "album",
+        link: "https://open.spotify.com/album/0A6hLzACLoB32gRz2UFTYu",
+        comment: "Github Action"
+    },
+    {
+        title: "The Gift Of Time",
+        author: "Jean-Luc Ponty",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732a3051e76d4d80294d63dd70",
+        kind: "album",
+        link: "https://open.spotify.com/album/62Qyi10NujVY0LGOAgA5nc",
+        comment: "Github Action"
+    },
+    {
+        title: "The Turn Of A Friendly Card",
+        author: "The Alan Parsons Project",
+        cover: "https://i.scdn.co/image/ab67616d0000b27397640e686c66ea57428ead21",
+        kind: "album",
+        link: "https://open.spotify.com/album/1yPaTI4UxwbhZYbRkyZrFR",
+        comment: "Github Action"
+    },
+    {
+        title: "OIL OF EVERY PEARL'S UN-INSIDES",
+        author: "SOPHIE",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e9c0c7255ac40aa40d29bfb3",
+        kind: "album",
+        link: "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI",
+        comment: "Github Action"
+    },
+    {
+        title: "The Captain and Me",
+        author: "The Doobie Brothers",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737d419ac975423c069995c7bb",
+        kind: "album",
+        link: "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt",
+        comment: "Github Action"
+    },
+    {
+        title: "Pyramid (Expanded Edition)",
+        author: "The Alan Parsons Project",
+        cover: "https://i.scdn.co/image/ab67616d0000b27342165edf668b41cb531722b0",
+        kind: "album",
+        link: "https://open.spotify.com/album/3GwhihLKs0eZmgUUrshE9k",
+        comment: "Github Action"
+    },
+    {
+        title: "The Gilded Palace Of Sin",
+        author: "The Flying Burrito Brothers",
+        cover: "https://i.scdn.co/image/ab67616d0000b27353ba02e4c3b1b6a297002afa",
+        kind: "album",
+        link: "https://open.spotify.com/album/6VWKy5o2OcdeWa7yolazjU",
+        comment: "Github Action"
+    },
+    {
+        title: "Herb Alpert Presents Sergio Mendes & Brasil '66",
+        author: "Sergio Mendes & Brasil '66",
+        cover: "https://i.scdn.co/image/ab67616d0000b273669997c50e4896d14c469a02",
+        kind: "album",
+        link: "https://open.spotify.com/album/0bPYHZxK1WgszwiNnCa79U",
+        comment: "Github Action"
+    },
+    {
         title: "Combat Rock (Remastered)",
         author: "The Clash",
         cover: "https://i.scdn.co/image/ab67616d0000b273280b72ca76b4734debfc190e",
