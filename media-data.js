@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Kids",
+        author: "Current Joys",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730df6a00937f62abc0e73c0ab",
+        kind: "album",
+        link: "https://open.spotify.com/album/2YfJVXAYfqaaP2u3vdSQNf",
+        comment: "Github Action"
+    },
+    {
         title: "Dans la légende",
         author: "PNL",
         cover: "https://i.scdn.co/image/ab67616d0000b273034f85da463faf79527d1fe0",
