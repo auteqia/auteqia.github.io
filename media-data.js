@@ -1,5 +1,157 @@
 const mediaLibrary = [
     {
+        title: "Dans la légende",
+        author: "PNL",
+        cover: "https://i.scdn.co/image/ab67616d0000b273034f85da463faf79527d1fe0",
+        kind: "album",
+        link: "https://open.spotify.com/album/5GFHFEASZeJF0gyWuDDjGE",
+        comment: "Github Action"
+    },
+    {
+        title: "Mystical Adventures",
+        author: "Jean-Luc Ponty",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c1426c6c8d232c3f989d1eea",
+        kind: "album",
+        link: "https://open.spotify.com/album/3sRDigE2YdvQxHHJBYzVOT",
+        comment: "Github Action"
+    },
+    {
+        title: "Delorean Music",
+        author: "Ateyaba",
+        cover: "https://i.scdn.co/image/ab67616d0000b27358ebf6e2a3db8590b4c2ec3a",
+        kind: "album",
+        link: "https://open.spotify.com/album/16FR6s2Pefv88bCdP96Xu8",
+        comment: "Github Action"
+    },
+    {
+        title: "Schubert: Wandrers Nachtlied II, D. 768 (Transcr. for Cello and Piano)",
+        author: "Franz Schubert",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737f211d1ef8df3957b8232eaf",
+        kind: "album",
+        link: "https://open.spotify.com/album/2e2uyAer9CH4vEYbBGiKVh",
+        comment: "Github Action"
+    },
+    {
+        title: "La bombe h",
+        author: "Hugo TSR",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737f05930021bcc8e2ba1d82e1",
+        kind: "album",
+        link: "https://open.spotify.com/album/6uo0HKTFOzb9ilEB9Be7wr",
+        comment: "Github Action"
+    },
+    {
+        title: "Absolution",
+        author: "Muse",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733303a842ee1bc0b23204333d",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s",
+        comment: "Github Action"
+    },
+    {
+        title: "Crises",
+        author: "Mike Oldfield",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a56041627ab91dd06038c7eb",
+        kind: "album",
+        link: "https://open.spotify.com/album/56irNmW0iq9Flh41YbAv55",
+        comment: "Github Action"
+    },
+    {
+        title: "Discovery (Deluxe / Remastered 2015)",
+        author: "Mike Oldfield",
+        cover: "https://i.scdn.co/image/ab67616d0000b273aa2a57bad78add9ab770ace9",
+        kind: "album",
+        link: "https://open.spotify.com/album/0KR38AiIXL44gFjqEU7Os2",
+        comment: "Github Action"
+    },
+    {
+        title: "Le monde Chico",
+        author: "PNL",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d058cd84602ed47f4f0a391b",
+        kind: "album",
+        link: "https://open.spotify.com/album/0OrjrvwmdJ82zYJpJ46lUs",
+        comment: "Github Action"
+    },
+    {
+        title: "Ateyaba",
+        author: "Ateyaba",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f200f342017293288fe8a82e",
+        kind: "album",
+        link: "https://open.spotify.com/album/5t6841R6FNAGkEqqLb6OC4",
+        comment: "Github Action"
+    },
+    {
+        title: "By the Way (Deluxe Edition)",
+        author: "Red Hot Chili Peppers",
+        cover: "https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4",
+        kind: "album",
+        link: "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1",
+        comment: "Github Action"
+    },
+    {
+        title: "Black Holes and Revelations",
+        author: "Muse",
+        cover: "https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400",
+        kind: "album",
+        link: "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs",
+        comment: "Github Action"
+    },
+    {
+        title: "Une vie et quelques",
+        author: "Hugo TSR",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f033d410b585b8d7577a6af9",
+        kind: "album",
+        link: "https://open.spotify.com/album/1gh1cJXyeUyt0trJbyQObv",
+        comment: "Github Action"
+    },
+    {
+        title: "Freebase, Vol. 04",
+        author: "Kekra",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731923d53c303a5734b33a8c5a",
+        kind: "album",
+        link: "https://open.spotify.com/album/4lrg9WKuBFdKJG10TW2EqZ",
+        comment: "Github Action"
+    },
+    {
+        title: "JVLIVS",
+        author: "SCH",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737747a5ea27ccdd37ddea47aa",
+        kind: "album",
+        link: "https://open.spotify.com/album/2b2K5XuhYChG05wLpebMll",
+        comment: "Github Action"
+    },
+    {
+        title: "Vous n'allez pas repartir les mains vides?",
+        author: "Sexy Sushi",
+        cover: "https://i.scdn.co/image/ab67616d0000b273db5530be9cf8521be7421374",
+        kind: "album",
+        link: "https://open.spotify.com/album/7AdpLFZDQv2S4pSyzT5hls",
+        comment: "Github Action"
+    },
+    {
+        title: "Que la famille",
+        author: "PNL",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732ac57e231c742bda1ef89d3c",
+        kind: "album",
+        link: "https://open.spotify.com/album/2LOyzVRA6BJgfgGxQj21O1",
+        comment: "Github Action"
+    },
+    {
+        title: "Origin of Symmetry",
+        author: "Muse",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a",
+        kind: "album",
+        link: "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK",
+        comment: "Github Action"
+    },
+    {
+        title: "Anarchie",
+        author: "SCH",
+        cover: "https://i.scdn.co/image/ab67616d0000b273491e586b82711d3023977d69",
+        kind: "album",
+        link: "https://open.spotify.com/album/7hv9Xs3hmzGbxLPhH7Nog5",
+        comment: "Github Action"
+    },
+    {
         title: "Fenêtre Sur Rue",
         author: "Hugo TSR",
         cover: "https://i.scdn.co/image/ab67616d0000b273132c7d39c1cd73bfae023790",
