@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Earthbound (Live)",
+        author: "King Crimson",
+        cover: "https://i.scdn.co/image/ab67616d0000b27355f9e44f3e4114cb0ccaeb30",
+        kind: "album",
+        link: "https://open.spotify.com/album/76HhGPMKa6XLKwNLmQehFx",
+        comment: "Github Action"
+    },
+    {
         title: "Stationary Traveller (Expanded Edition)",
         author: "Camel",
         cover: "https://i.scdn.co/image/ab67616d0000b273af5c8f54bb6f9f49ea021bf9",
