@@ -1,5 +1,53 @@
 const mediaLibrary = [
     {
+        title: "Combat Rock (Remastered)",
+        author: "The Clash",
+        cover: "https://i.scdn.co/image/ab67616d0000b273280b72ca76b4734debfc190e",
+        kind: "album",
+        link: "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2",
+        comment: "Github Action"
+    },
+    {
+        title: "Ten",
+        author: "Pearl Jam",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732d0e5ab5bd2e234fbcffa3e0",
+        kind: "album",
+        link: "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a",
+        comment: "Github Action"
+    },
+    {
+        title: "Icedancer",
+        author: "Bladee",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737e041a457bd312e73440532a",
+        kind: "album",
+        link: "https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse",
+        comment: "Github Action"
+    },
+    {
+        title: "Toto IV",
+        author: "TOTO",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df",
+        kind: "album",
+        link: "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D",
+        comment: "Github Action"
+    },
+    {
+        title: "Outlandos D'Amour (Remastered 2003)",
+        author: "The Police",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436",
+        kind: "album",
+        link: "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf",
+        comment: "Github Action"
+    },
+    {
+        title: "Crest",
+        author: "Bladee",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738504a0836dfaa61b28930505",
+        kind: "album",
+        link: "https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4",
+        comment: "Github Action"
+    },
+    {
         title: "Earthbound (Live)",
         author: "King Crimson",
         cover: "https://i.scdn.co/image/ab67616d0000b27355f9e44f3e4114cb0ccaeb30",
