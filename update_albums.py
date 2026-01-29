@@ -24,6 +24,9 @@ def get_recent_albums_from_tracks():
     tracks = data.get("recenttracks", {}).get("track", [])
     unique_albums = set()
 
+    # artist to not display because it's a well known miss tagging issue on Last.fm
+    artistException = ["Kiki2way23", "Absolute Valentine"]
+    
     for t in tracks:
         # Last.fm recenttracks structure uses '#text' for the name inside the dict
         artist_obj = t.get("artist", {})
@@ -35,7 +38,8 @@ def get_recent_albums_from_tracks():
 
         # Only add if both exist (ignores scrobbles without album metadata)
         if artist_name and album_name:
-            unique_albums.add((artist_name, album_name))
+            if artist_name not in artistException:
+                unique_albums.add((artist_name, album_name))
             
     return list(unique_albums)
 
