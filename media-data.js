@@ -1,5 +1,117 @@
 const mediaLibrary = [
     {
+        title: "Fenêtre Sur Rue",
+        author: "Hugo TSR",
+        cover: "https://i.scdn.co/image/ab67616d0000b273132c7d39c1cd73bfae023790",
+        kind: "album",
+        link: "https://open.spotify.com/album/6mMPrPjebUh1PE7skrF68h",
+        comment: "Github Action"
+    },
+    {
+        title: "The Who Sell Out (Super Deluxe)",
+        author: "The Who",
+        cover: "https://i.scdn.co/image/ab67616d0000b27334894946601823e27fc08538",
+        kind: "album",
+        link: "https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9",
+        comment: "Github Action"
+    },
+    {
+        title: "1969 Velvet Underground Live With Lou Reed",
+        author: "The Velvet Underground",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734636cb38b21d2db52a4cdc5b",
+        kind: "album",
+        link: "https://open.spotify.com/album/2ChY6jtKcJAxCBN5Lu6nx8",
+        comment: "Github Action"
+    },
+    {
+        title: "Ipséité",
+        author: "Damso",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d8ab9910c70f649f1498ff61",
+        kind: "album",
+        link: "https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt",
+        comment: "Github Action"
+    },
+    {
+        title: "The Velvet Underground (45th Anniversary / Deluxe Edition)",
+        author: "The Velvet Underground",
+        cover: "https://i.scdn.co/image/ab67616d0000b27308994f32d570604c390aa160",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Cdd4W17oumNihEt2aPNJB",
+        comment: "Github Action"
+    },
+    {
+        title: "Life After Death (2014 Remastered Edition)",
+        author: "The Notorious B.I.G.",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        kind: "album",
+        link: "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB",
+        comment: "Github Action"
+    },
+    {
+        title: "Tant qu'on est là",
+        author: "Hugo TSR",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738597441fd03488bf52cd6fcb",
+        kind: "album",
+        link: "https://open.spotify.com/album/7u98OANaYS4d4SxZiPNIKW",
+        comment: "Github Action"
+    },
+    {
+        title: "Mezmerize",
+        author: "System Of A Down",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71",
+        kind: "album",
+        link: "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o",
+        comment: "Github Action"
+    },
+    {
+        title: "White Light / White Heat",
+        author: "The Velvet Underground",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737195c4f5f2f4a8236748baaf",
+        kind: "album",
+        link: "https://open.spotify.com/album/0HHmJpwOXXRJu9HI9iQiEO",
+        comment: "Github Action"
+    },
+    {
+        title: "Hypnotize",
+        author: "System Of A Down",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
+        kind: "album",
+        link: "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3",
+        comment: "Github Action"
+    },
+    {
+        title: "Enfants terribles",
+        author: "Columbine",
+        cover: "https://i.scdn.co/image/ab67616d0000b27373afa3da5bec69f160a2623c",
+        kind: "album",
+        link: "https://open.spotify.com/album/2LqrnnlNjkoIqotamaPCyN",
+        comment: "Github Action"
+    },
+    {
+        title: "Loaded (2015 Remaster)",
+        author: "The Velvet Underground",
+        cover: "https://i.scdn.co/image/ab67616d0000b27346ed71f4f0ab02c72179b15d",
+        kind: "album",
+        link: "https://open.spotify.com/album/4RMGrhJRnGiNqmKqhqpLlX",
+        comment: "Github Action"
+    },
+    {
+        title: "Lithopédion",
+        author: "Damso",
+        cover: "https://i.scdn.co/image/ab67616d0000b27327b75c8f94720797618b890a",
+        kind: "album",
+        link: "https://open.spotify.com/album/7JJ1Zqwc0m0cDyXXodXCqb",
+        comment: "Github Action"
+    },
+    {
+        title: "Adieu, au revoir",
+        author: "Columbine",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cf192fe2331261e646ba69ba",
+        kind: "album",
+        link: "https://open.spotify.com/album/5XSzhGiCSa5bTqJCj6lKm0",
+        comment: "Github Action"
+    },
+    {
         title: "Three Imaginary Boys (Deluxe Edition)",
         author: "The Cure",
         cover: "https://i.scdn.co/image/ab67616d0000b2735d0d65102be8606e439e54cc",
