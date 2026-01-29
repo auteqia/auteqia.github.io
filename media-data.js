@@ -1,5 +1,133 @@
 const mediaLibrary = [
     {
+        title: "Three Imaginary Boys (Deluxe Edition)",
+        author: "The Cure",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735d0d65102be8606e439e54cc",
+        kind: "album",
+        link: "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC",
+        comment: "Github Action"
+    },
+    {
+        title: "Comment c'est loin",
+        author: "Casseurs Flowters",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736e069ce557898f321fd403ef",
+        kind: "album",
+        link: "https://open.spotify.com/album/1jfBSA8KgMLol7Iahnq8wv",
+        comment: "Github Action"
+    },
+    {
+        title: "Eve",
+        author: "The Alan Parsons Project",
+        cover: "https://i.scdn.co/image/ab67616d0000b27393c6fb1f3a241e1728d79616",
+        kind: "album",
+        link: "https://open.spotify.com/album/5ZICh7iFpmgreWvpU9Og4G",
+        comment: "Github Action"
+    },
+    {
+        title: "Like All Before You",
+        author: "The Voidz",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ee5737c5a60216441f49e376",
+        kind: "album",
+        link: "https://open.spotify.com/album/7h0Y4HcaDsuLnXeYmvY7ai",
+        comment: "Github Action"
+    },
+    {
+        title: "Wish",
+        author: "The Cure",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e410fa31e3dfcc7521cde86d",
+        kind: "album",
+        link: "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu",
+        comment: "Github Action"
+    },
+    {
+        title: "Pornography",
+        author: "The Cure",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d226fe686c3b59c6348f9f6c",
+        kind: "album",
+        link: "https://open.spotify.com/album/33TDfmEXufojT6jxgb3BTK",
+        comment: "Github Action"
+    },
+    {
+        title: "Live 81-82",
+        author: "The Birthday Party",
+        cover: "https://i.scdn.co/image/ab67616d0000b273debfdf7fc684417f25f38c1e",
+        kind: "album",
+        link: "https://open.spotify.com/album/7jWRfI70vHuSbXImVYaia7",
+        comment: "Github Action"
+    },
+    {
+        title: "Seventeen Seconds (Deluxe Edition)",
+        author: "The Cure",
+        cover: "https://i.scdn.co/image/ab67616d0000b27399027d2948260fdb37436d5d",
+        kind: "album",
+        link: "https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj",
+        comment: "Github Action"
+    },
+    {
+        title: "El Silencio",
+        author: "Caifanes",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bc4d989c48ad5b154fb0781d",
+        kind: "album",
+        link: "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl",
+        comment: "Github Action"
+    },
+    {
+        title: "Radio Ethiopia",
+        author: "Patti Smith",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cbab74c35a2a9f51af127037",
+        kind: "album",
+        link: "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu",
+        comment: "Github Action"
+    },
+    {
+        title: "Prayers on Fire",
+        author: "The Birthday Party",
+        cover: "https://i.scdn.co/image/ab67616d0000b27372ef83390db5641eb2d2f3c1",
+        kind: "album",
+        link: "https://open.spotify.com/album/6xpi3iB07xz60XPOcEZeLG",
+        comment: "Github Action"
+    },
+    {
+        title: "Ammonia Avenue",
+        author: "The Alan Parsons Project",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c148e784aa36c038697df57a",
+        kind: "album",
+        link: "https://open.spotify.com/album/4BgkrFXgNHaJkX7AhKXveB",
+        comment: "Github Action"
+    },
+    {
+        title: "Virtue",
+        author: "The Voidz",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d00e504004a48159ac896b64",
+        kind: "album",
+        link: "https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe",
+        comment: "Github Action"
+    },
+    {
+        title: "Eye In The Sky",
+        author: "The Alan Parsons Project",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738c5a6302666a7f69a8ded468",
+        kind: "album",
+        link: "https://open.spotify.com/album/71Y6kburF8k1qyHycovHy8",
+        comment: "Github Action"
+    },
+    {
+        title: "Junkyard",
+        author: "The Birthday Party",
+        cover: "https://i.scdn.co/image/ab67616d0000b27374c5465a72f00f75559c843f",
+        kind: "album",
+        link: "https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV",
+        comment: "Github Action"
+    },
+    {
+        title: "Un autre monde (Remasterisé en 2015)",
+        author: "Téléphone",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731b1b30513f7158a6c77733d7",
+        kind: "album",
+        link: "https://open.spotify.com/album/5DiavRKmdRpqdzgBjoNEF3",
+        comment: "Github Action"
+    },
+    {
         title: "Superunknown (20th Anniversary)",
         author: "Soundgarden",
         cover: "https://i.scdn.co/image/ab67616d0000b2735124ed45a94033830b320500",
