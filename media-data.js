@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Renee",
+        author: "SALES",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730b6cf09d061f569dd906e490",
+        kind: "album",
+        link: "https://open.spotify.com/album/4qR0co1PeeQSsqHF9xTeGn",
+        comment: "Github Action"
+    },
+    {
         title: "Nuages",
         author: "Sopico",
         cover: "https://i.scdn.co/image/ab67616d0000b273dc1feea3edf7eb8bde12aff5",
