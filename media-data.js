@@ -1,5 +1,69 @@
 const mediaLibrary = [
     {
+        title: "Nuages",
+        author: "Sopico",
+        cover: "https://i.scdn.co/image/ab67616d0000b273dc1feea3edf7eb8bde12aff5",
+        kind: "album",
+        link: "https://open.spotify.com/album/1XKVhkr19Edn1nFnAtbyVE",
+        comment: "Github Action"
+    },
+    {
+        title: "Sid Dead Live",
+        author: "Sid Vicious",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734a032cee268758ae5af88f9a",
+        kind: "album",
+        link: "https://open.spotify.com/album/6zT2t8KWAyJFTMTGhokSsZ",
+        comment: "Github Action"
+    },
+    {
+        title: "Confusion Is Sex (Plus Kill Yr. Idols)",
+        author: "Sonic Youth",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730695811a1ca6326d4b59d8db",
+        kind: "album",
+        link: "https://open.spotify.com/album/0WCESPeSMPElpEddTE4KeG",
+        comment: "Github Action"
+    },
+    {
+        title: "Supernatural (Legacy Edition)",
+        author: "Santana",
+        cover: "https://i.scdn.co/image/ab67616d0000b27305517e4e2defded1e818d3d0",
+        kind: "album",
+        link: "https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH",
+        comment: "Github Action"
+    },
+    {
+        title: "Borboletta",
+        author: "Santana",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bd0dcf3358baa676a1a14dab",
+        kind: "album",
+        link: "https://open.spotify.com/album/2SurTgYPtoCJSn7103Uuvk",
+        comment: "Github Action"
+    },
+    {
+        title: "Sister",
+        author: "Sonic Youth",
+        cover: "https://i.scdn.co/image/ab67616d0000b27374ad88a9df81d4a735fe1462",
+        kind: "album",
+        link: "https://open.spotify.com/album/4gPkBsMmufyOMCJbXUUme8",
+        comment: "Github Action"
+    },
+    {
+        title: "Mojo",
+        author: "Sopico",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731f6df00fd3f0366cecf0352b",
+        kind: "album",
+        link: "https://open.spotify.com/album/3dpgay6Izf2rfCRqSCgVNS",
+        comment: "Github Action"
+    },
+    {
+        title: "Some Velvet Morning",
+        author: "Rowland S. Howard",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e907d37cfb8e620a77adb4aa",
+        kind: "album",
+        link: "https://open.spotify.com/album/0zEdpjXioFdcKg3UZh1kOf",
+        comment: "Github Action"
+    },
+    {
         title: "Rather Ripped",
         author: "Sonic Youth",
         cover: "https://i.scdn.co/image/ab67616d0000b2732fe7a57d52c0e58f650fdc4e",
