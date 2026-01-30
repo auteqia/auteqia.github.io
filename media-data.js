@@ -2192,14 +2192,6 @@ const mediaLibrary = [
         comment: "Github Action"
     },
     {
-        title: "Police Heartbreaker",
-        author: "Absolute Valentine",
-        cover: "https://i.scdn.co/image/ab67616d0000b2739db06862887c5d3affff9c7c",
-        kind: "album",
-        link: "https://open.spotify.com/album/01mkMMyGns25JZqy5AbUCP",
-        comment: "Github Action"
-    },
-    {
         title: "Tyranny",
         author: "The Voidz",
         cover: "https://i.scdn.co/image/ab67616d0000b2731596f2f85e687284c8c3be80",
