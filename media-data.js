@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Reality And Fantasy (Special Edition)",
+        author: "Raphael Gualazzi",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e0d19132fecff3a18e1a2a0a",
+        kind: "album",
+        link: "https://open.spotify.com/album/6zoX2yMQCCSCZaorNKgdsZ",
+        comment: "Github Action"
+    },
+    {
         title: "Renee",
         author: "SALES",
         cover: "https://i.scdn.co/image/ab67616d0000b2730b6cf09d061f569dd906e490",
