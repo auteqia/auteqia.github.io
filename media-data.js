@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "MM..FOOD",
+        author: "MF DOOM",
+        cover: "https://i.scdn.co/image/ab67616d0000b27352f194d02c39909d1b284799",
+        kind: "album",
+        link: "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",
+        comment: "Github Action"
+    },
+    {
+        title: "Mystère",
+        author: "La Femme",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730e97810b7aa7e65ce4008b74",
+        kind: "album",
+        link: "https://open.spotify.com/album/1wyShyPmhbFRifAZyP7IHT",
+        comment: "Github Action"
+    },
+    {
         title: "Reality And Fantasy (Special Edition)",
         author: "Raphael Gualazzi",
         cover: "https://i.scdn.co/image/ab67616d0000b273e0d19132fecff3a18e1a2a0a",
