@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Psycho Tropical Berlin",
+        author: "La Femme",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d7e9d36037713a91d47f6515",
+        kind: "album",
+        link: "https://open.spotify.com/album/7tzlVJedDBNAlH4BJHRKLp",
+        comment: "Github Action"
+    },
+    {
         title: "MM..FOOD",
         author: "MF DOOM",
         cover: "https://i.scdn.co/image/ab67616d0000b27352f194d02c39909d1b284799",
