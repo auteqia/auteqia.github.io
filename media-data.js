@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Rather Ripped",
+        author: "Sonic Youth",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732fe7a57d52c0e58f650fdc4e",
+        kind: "album",
+        link: "https://open.spotify.com/album/706OL6kpsbf73LRdXD1dCB",
+        comment: "Github Action"
+    },
+    {
+        title: "Experimental Jet Set, Trash And No Star",
+        author: "Sonic Youth",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f14a81ecf5c04d1cf6a55343",
+        kind: "album",
+        link: "https://open.spotify.com/album/3O8NuSnjHy8wiBqbG6N4yO",
+        comment: "Github Action"
+    },
+    {
         title: "Chinese New Year",
         author: "SALES",
         cover: "https://i.scdn.co/image/ab67616d0000b2733c898f93cd0ca3f75a263b29",
