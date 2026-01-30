@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Neustalgia 2 (Acoustic Version)",
+        author: "Neusha",
+        cover: "https://i.scdn.co/image/ab67616d0000b27334c7a82fc1f64d0e56ccd0ee",
+        kind: "album",
+        link: "https://open.spotify.com/album/5gna45nsxKkkpOW4ud8oVx",
+        comment: "Github Action"
+    },
+    {
         title: "Kids",
         author: "Current Joys",
         cover: "https://i.scdn.co/image/ab67616d0000b2730df6a00937f62abc0e73c0ab",
