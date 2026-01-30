@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Chinese New Year",
+        author: "SALES",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733c898f93cd0ca3f75a263b29",
+        kind: "album",
+        link: "https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi",
+        comment: "Github Action"
+    },
+    {
         title: "Neustalgia 2 (Acoustic Version)",
         author: "Neusha",
         cover: "https://i.scdn.co/image/ab67616d0000b27334c7a82fc1f64d0e56ccd0ee",
