@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "The Bela Session",
+        author: "Bauhaus",
+        cover: "https://i.scdn.co/image/ab67616d0000b273811ad026ea2061659268b964",
+        kind: "album",
+        link: "https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1",
+        comment: "Github Action"
+    },
+    {
+        title: "Love Will Tear Us Apart",
+        author: "Joy Division",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731e0fdc2906851e29d09320c3",
+        kind: "album",
+        link: "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G",
+        comment: "Github Action"
+    },
+    {
         title: "The Destroyed Room",
         author: "Sonic Youth",
         cover: "https://i.scdn.co/image/ab67616d0000b273f10e75662b7cb8957605b9ef",
