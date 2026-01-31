@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "The Destroyed Room",
+        author: "Sonic Youth",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f10e75662b7cb8957605b9ef",
+        kind: "album",
+        link: "https://open.spotify.com/album/23U0Wsas0gJMPDwkgZL7Hh",
+        comment: "Github Action"
+    },
+    {
+        title: "Evol",
+        author: "Sonic Youth",
+        cover: "https://i.scdn.co/image/ab67616d0000b273272b5e233006c97ac493334c",
+        kind: "album",
+        link: "https://open.spotify.com/album/5Bf5U1Zw9gsJh6bWaM2VY2",
+        comment: "Github Action"
+    },
+    {
+        title: "Dirty Boots",
+        author: "Sonic Youth",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731e44d68ce200a95504565e17",
+        kind: "album",
+        link: "https://open.spotify.com/album/5B10QWuC4gtCZU8ZldQbk2",
+        comment: "Github Action"
+    },
+    {
+        title: "Sonic Nurse",
+        author: "Sonic Youth",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d1e568949b8818d5c863ee0a",
+        kind: "album",
+        link: "https://open.spotify.com/album/7gA7xctF7tq62T2YooL6wS",
+        comment: "Github Action"
+    },
+    {
         title: "Psycho Tropical Berlin",
         author: "La Femme",
         cover: "https://i.scdn.co/image/ab67616d0000b273d7e9d36037713a91d47f6515",
