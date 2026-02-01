@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Rolling Stones Singles Collection: The London Years",
+        author: "The Rolling Stones",
+        cover: "https://i.scdn.co/image/ab67616d0000b273329024dd3a0b300a24586db2",
+        kind: "album",
+        link: "https://open.spotify.com/album/0ACOqjq9mQuCZry2kj5zkB",
+        comment: "Github Action"
+    },
+    {
         title: "Bauhaus BBC-Sessions-1980-1983 (Live)",
         author: "Bauhaus",
         cover: "https://i.scdn.co/image/ab67616d0000b2731411a3c2f9028e472319a018",
