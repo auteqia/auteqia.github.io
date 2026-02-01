@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Raw Power (Iggy Mix - 2023 Remaster)",
+        author: "The Stooges",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f89578e7104e260c8c96c655",
+        kind: "album",
+        link: "https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM",
+        comment: "Github Action"
+    },
+    {
         title: "The Bela Session",
         author: "Bauhaus",
         cover: "https://i.scdn.co/image/ab67616d0000b273811ad026ea2061659268b964",
