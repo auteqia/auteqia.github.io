@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "The Colour And The Shape",
+        author: "Foo Fighters",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb",
+        kind: "album",
+        link: "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv",
+        comment: "Github Action"
+    },
+    {
+        title: "Flood",
+        author: "They Might Be Giants",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e6c14f0dc854e7d3c7c40007",
+        kind: "album",
+        link: "https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD",
+        comment: "Github Action"
+    },
+    {
         title: "The Rolling Stones Singles Collection: The London Years",
         author: "The Rolling Stones",
         cover: "https://i.scdn.co/image/ab67616d0000b273329024dd3a0b300a24586db2",
