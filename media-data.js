@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Morrison Hotel",
+        author: "The Doors",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f12a8a7e0b2cbe16d2bef4dc",
+        kind: "album",
+        link: "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX",
+        comment: "Github Action"
+    },
+    {
+        title: "Songs For The Deaf",
+        author: "Queens of the Stone Age",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739b62c36a1f8ac00d60f460cc",
+        kind: "album",
+        link: "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk",
+        comment: "Github Action"
+    },
+    {
         title: "The Colour And The Shape",
         author: "Foo Fighters",
         cover: "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb",
