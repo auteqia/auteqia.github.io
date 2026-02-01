@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Bauhaus BBC-Sessions-1980-1983 (Live)",
+        author: "Bauhaus",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731411a3c2f9028e472319a018",
+        kind: "album",
+        link: "https://open.spotify.com/album/3rFiJpnN0RzKVpdtqzGb1h",
+        comment: "Github Action"
+    },
+    {
         title: "Raw Power (Iggy Mix - 2023 Remaster)",
         author: "The Stooges",
         cover: "https://i.scdn.co/image/ab67616d0000b273f89578e7104e260c8c96c655",
