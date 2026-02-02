@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Apollo 18",
+        author: "They Might Be Giants",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d529688291f9840c7acac7f2",
+        kind: "album",
+        link: "https://open.spotify.com/album/5HswYyErxPHfQtHhNlzhnR",
+        comment: "Github Action"
+    },
+    {
         title: "Morrison Hotel",
         author: "The Doors",
         cover: "https://i.scdn.co/image/ab67616d0000b273f12a8a7e0b2cbe16d2bef4dc",
