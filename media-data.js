@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Sticky Fingers (Remastered)",
+        author: "The Rolling Stones",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a1d9c9969f2a7ed27e449a3c",
+        kind: "album",
+        link: "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz",
+        comment: "Github Action"
+    },
+    {
+        title: "Starsailor",
+        author: "Tim Buckley",
+        cover: "https://i.scdn.co/image/ab67616d0000b27354b5f6ed1236d1879250aa8e",
+        kind: "album",
+        link: "https://open.spotify.com/album/6XtiIO1SuBl4Eli8LCYNAH",
+        comment: "Github Action"
+    },
+    {
+        title: "Adventure",
+        author: "Television",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bab52055e904f0d8a91c8c72",
+        kind: "album",
+        link: "https://open.spotify.com/album/5ha55jb1DQKy33CpmREvFq",
+        comment: "Github Action"
+    },
+    {
         title: "3rd Album",
         author: "Shocking Blue",
         cover: "https://i.scdn.co/image/ab67616d0000b273e6d1d575f6b1f2f81f88157a",
