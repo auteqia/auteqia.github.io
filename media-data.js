@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "3rd Album",
+        author: "Shocking Blue",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e6d1d575f6b1f2f81f88157a",
+        kind: "album",
+        link: "https://open.spotify.com/album/6kaglHlbNRF21F28YYGgpJ",
+        comment: "Github Action"
+    },
+    {
+        title: "At Home",
+        author: "Shocking Blue",
+        cover: "https://i.scdn.co/image/ab67616d0000b27314644d2d7cf2d09bf288ffee",
+        kind: "album",
+        link: "https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ",
+        comment: "Github Action"
+    },
+    {
+        title: "Scorpio's Dance",
+        author: "Shocking Blue",
+        cover: "https://i.scdn.co/image/ab67616d0000b27387ccf92830caf91617aa415e",
+        kind: "album",
+        link: "https://open.spotify.com/album/0JqylHtd5MjYXBG2zypr0T",
+        comment: "Github Action"
+    },
+    {
         title: "Apollo 18",
         author: "They Might Be Giants",
         cover: "https://i.scdn.co/image/ab67616d0000b273d529688291f9840c7acac7f2",
