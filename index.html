@@ -300,8 +300,6 @@
         // Function to get the appropriate action verb based on media type
         function getActionVerb(mediaType) {
             switch (mediaType) {
-                case 'book':
-                    return 'Lu';
                 case 'movie':
                     return 'Vu';
                 case 'album':
@@ -485,7 +483,7 @@
                                 <div class="media-rating">
                                     ${createStarRating(item.rating, item.favorite, item.reRead, item.kind)}
                                 </div>
-                                <div class="media-date">${getActionVerb(item.kind)} le ${formatDate(item.readDate)}</div>
+                                ${item.kind !== 'book' ? `<div class="media-date">${getActionVerb(item.kind)} le ${formatDate(item.readDate)}</div>` : ''}
                             </div>
                         </div>
                     `).join('')}
