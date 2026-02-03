@@ -1,5 +1,61 @@
 const mediaLibrary = [
     {
+        title: "Hypnotic Underworld",
+        author: "Ghost",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e7f77a11a4479b67eb61828f",
+        kind: "album",
+        link: "https://open.spotify.com/album/73oMVQMcpPxE5XQFEXMp5t",
+        comment: "Github Action"
+    },
+    {
+        title: "Gold",
+        author: "The Cranberries",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d6e06307a0b89eb7586716e7",
+        kind: "album",
+        link: "https://open.spotify.com/album/5zjZVqXPI7J5qtBsZMjlI8",
+        comment: "Github Action"
+    },
+    {
+        title: "No Need To Argue (2025 Remastered)",
+        author: "The Cranberries",
+        cover: "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
+        kind: "album",
+        link: "https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX",
+        comment: "Github Action"
+    },
+    {
+        title: "Live: And All That Could Have Been",
+        author: "Nine Inch Nails",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fd0e45ea46d2693b1c39c9fb",
+        kind: "album",
+        link: "https://open.spotify.com/album/0mYPpvDOlAxY4LJfoccz8m",
+        comment: "Github Action"
+    },
+    {
+        title: "Tristwch Y Fenywod",
+        author: "Tristwch Y Fenywod",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733b3ae7ce00f2cfff3f577d9d",
+        kind: "album",
+        link: "https://open.spotify.com/album/4jqBceqLb36Cz8OcNL6RR1",
+        comment: "Github Action"
+    },
+    {
+        title: "#3 (Ce n'est pas perdu pour tout le monde)",
+        author: "Diabologum",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739c2816d3c529099ebf5aaf80",
+        kind: "album",
+        link: "https://open.spotify.com/album/2DF4wRu1lpPsQegYTCDubI",
+        comment: "Github Action"
+    },
+    {
+        title: "Everybody Else Is Doing It, So Why Can't We?",
+        author: "The Cranberries",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f6325f361d7803ad0d908451",
+        kind: "album",
+        link: "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI",
+        comment: "Github Action"
+    },
+    {
         title: "The Psychedelic Sounds of the 13th Floor Elevators - 2008 Remaster",
         author: "13th Floor Elevators",
         cover: "https://i.scdn.co/image/ab67616d0000b273e10e8e43d73c0ca58aea14ce",
