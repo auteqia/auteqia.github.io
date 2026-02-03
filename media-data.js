@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Live @ The Roundhouse London 2008",
+        author: "X-Ray Spex",
+        cover: "https://i.scdn.co/image/ab67616d0000b273760a9f28ee438baf48f94a70",
+        kind: "album",
+        link: "https://open.spotify.com/album/03w7mZ3poTfSzDw70vcbtV",
+        comment: "Github Action"
+    },
+    {
+        title: "Happy Together",
+        author: "The Turtles",
+        cover: "https://i.scdn.co/image/ab67616d0000b27372649ad8e79d1e8bdd54c929",
+        kind: "album",
+        link: "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB",
+        comment: "Github Action"
+    },
+    {
         title: "Sticky Fingers (Remastered)",
         author: "The Rolling Stones",
         cover: "https://i.scdn.co/image/ab67616d0000b273a1d9c9969f2a7ed27e449a3c",
