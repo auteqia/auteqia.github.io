@@ -140,6 +140,19 @@
             margin-bottom: 8px;
             line-height: 1.4;
         }
+        .media-status {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 0.8em;
+            color: #1a1a1a;
+            background: #f6e7b4;
+            border: 1px solid #e8c872;
+            border-radius: 999px;
+            padding: 2px 8px;
+            margin-bottom: 8px;
+            width: fit-content;
+        }
         .media-rating {
             color: #ffd700;
             font-size: 0.9em;
@@ -263,20 +276,17 @@
                 < retour au site principal</a>
         </p>
         <div class="tabs">
-            <button class="tab active" data-tab="books">༄˖°.☕️.ೃ࿔📚*:･ Livres</button>
+            <button class="tab active" data-tab="albums">▶• ılıılıılılılıılıılı. 0 Albums</button>
             <button class="tab" data-tab="movies">. ݁₊ ⊹ . 📽.ᐟ Films</button>
-            <button class="tab" data-tab="albums">▶• ılıılıılılılıılıılı. 0 Albums</button>
-<!--            <button class="tab" data-tab="top-songs">─•──── 𖦤 Top songs</button> -->
+            <button class="tab" data-tab="books">༄˖°.☕️.ೃ࿔📚*:･ Livres</button>
+
         </div>
     </header>
     <main>
-        <section id="books-section" class="content-section active"></section>
+        <section id="books-section" class="content-section"></section>
         <section id="movies-section" class="content-section"></section>
 
-
-        
-        <section id="albums-section" class="content-section">
-            
+        <section id="albums-section" class="content-section active">
             <h2 class="count-header"></h2>
             <div class="section-content"></div>
         </section>
@@ -381,6 +391,27 @@
             return groupedMedia;
         }
 
+        // Function to group books by status
+        function groupBooksByStatus(bookItems) {
+            const groupedBooks = {};
+            bookItems.forEach(item => {
+                const status = item.status ? item.status : 'Sans statut';
+                if (!groupedBooks[status]) {
+                    groupedBooks[status] = [];
+                }
+                groupedBooks[status].push(item);
+            });
+
+            // Sort books within each status by date (ascending)
+            Object.keys(groupedBooks).forEach(status => {
+                groupedBooks[status].sort((a, b) =>
+                    new Date(a.readDate) - new Date(b.readDate)
+                );
+            });
+
+            return groupedBooks;
+        }
+
 
 
 
@@ -429,16 +460,20 @@
             
             const mediaKind = mediaType.slice(0, -1);
             const filteredMedia = mediaLibrary.filter(item => item.kind === mediaKind);
-            const groupedMedia = groupMediaByYear(filteredMedia);
-            const years = Object.keys(groupedMedia).sort((a, b) => b - a);
+            const groupedMedia = mediaKind === 'book'
+                ? groupBooksByStatus(filteredMedia)
+                : groupMediaByYear(filteredMedia);
+            const groupKeys = mediaKind === 'book'
+                ? Object.keys(groupedMedia).sort((a, b) => a.localeCompare(b))
+                : Object.keys(groupedMedia).sort((a, b) => b - a);
             
-            years.forEach(year => {
+            groupKeys.forEach(groupKey => {
                 const yearSection = document.createElement('section');
                 yearSection.className = 'year-section';
                 yearSection.innerHTML = `
-                <h2 class="year-header">${year}</h2>
+                <h2 class="year-header">${groupKey}</h2>
                 <div class="media-grid">
-                    ${groupedMedia[year].map(item => `
+                    ${groupedMedia[groupKey].map(item => `
                         <div class="media-card">
                             <a href="${item.link}" target="_blank">
                                 <img src="${item.cover}" alt="${item.title}" class="media-cover">
@@ -446,6 +481,7 @@
                             <div class="media-info">
                                 <div class="media-title">${item.title}</div>
                                 <div class="media-author">${item.author}</div>
+                                ${item.kind === 'book' && item.status ? `<div class="media-status">${item.status}</div>` : ''}
                                 <div class="media-rating">
                                     ${createStarRating(item.rating, item.favorite, item.reRead, item.kind)}
                                 </div>
@@ -507,7 +543,6 @@
             generateMediaSection('books');
             generateMediaSection('movies');
             generateMediaSection('albums');
-            generateMediaSection('topsongs');
         });
     </script>
 </body>

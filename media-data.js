@@ -6876,54 +6876,109 @@ const mediaLibrary = [
 
 
 
-
-
-
-
-
-
-
     
     // BOOKS \\
+
+
+    {
+        title: "L'herbe bleue",
+        author: "Beatrice Sparks",
+        cover: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1330080930i/3031838.jpg",
+        rating: 5,
+        reRead: false,
+        status: "Not Started Yet",
+        link: "https://www.goodreads.com/book/show/3031838-l-herbe-bleue",
+        kind: "book"
+    },
+    {
+        title: "Iggy & the Stooges: One Night at the Whisky 1970",
+        author: "Ed Caraeff",
+        cover: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1490822984i/32762210.jpg",
+        rating: 5,
+        reRead: false,
+        status: "Finished",
+        link: "https://www.goodreads.com/book/show/32762210-iggy-the-stooges",
+        kind: "book"
+    },
+    {
+        title: "Visual Threat Intelligence",
+        author: "Thomas Roccia",
+        cover: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1685349428i/166464105.jpg",
+        rating: 5,
+        reRead: false,
+        status: "Finished",
+        link: "https://www.goodreads.com/book/show/166464105-visual-threat-intelligence",
+        kind: "book"
+    },
+    {
+        title: "Sorcières",
+        author: "Mona Chollet",
+        cover: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1533497876i/41052080.jpg",
+        rating: 5,
+        reRead: false,
+        status: "Unfinished",
+        link: "https://www.goodreads.com/book/show/41052080-sorci-res",
+        kind: "book"
+    },
+    {
+        title: "Le marathon d'Honolulu",
+        author: "Hunter S. Thompson",
+        cover: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1352166443i/16132217.jpg",
+        rating: 5,
+        reRead: false,
+        status: "Not Started Yet",
+        link: "https://www.goodreads.com/book/show/16132217-le-marathon-d-honolulu",
+        kind: "book"
+    },
+    {
+        title: "Countdown to Zero Day (Stuxnet and the Launch of the World's First Digital Weapon)",
+        author: "Kim Zetter",
+        cover: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1404960332i/18465875.jpg",
+        rating: 5,
+        reRead: false,
+        status: "Unfinished",
+        link: "https://www.goodreads.com/book/show/18465875-countdown-to-zero-day",
+        kind: "book"
+    },
+    {
+        title: "Girl in a Band",
+        author: "Kim Gordon",
+        cover: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412840109i/22693211.jpg",
+        rating: 5,
+        reRead: false,
+        status: "Unfinished",
+        link: "https://www.goodreads.com/book/show/22693211-girl-in-a-band",
+        kind: "book"
+    },
     {
         title: "L'herbier merveilleux",
         author: "Jean-Michel Othoniel",
         cover: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560189765i/46252156.jpg",
         rating: 5,
         reRead: false,
+        status: "Finished",
         link: "https://www.goodreads.com/book/show/46252156-l-herbier-merveilleux",
-        readDate: "2025-05-18",
         kind: "book"
     },
     {
-        title: "Walden",
-        author: "Henry David Thoreau",
-        cover: "assets/books/walden.jpg",
+        title: "Silence",
+        author: "John Cage",
+        cover: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1678268276i/82612053.jpg",
         rating: 4,
         reRead: true,
-        link: "https://www.goodreads.com/book/show/16902.Walden",
-        readDate: "2024-03-20",
+        status: "Unfinished",
+        link: "https://www.goodreads.com/book/show/82612053-silence",
         kind: "book"
     },
     {
-        title: 'Du côté de chez Swann',
-        author: 'Marcel Proust',
-        cover: 'assets/books/du-cote-de-chez-swann.jpg',
-        rating: 2,
+        title: "L'étranger",
+        author: "Albert Camus",
+        cover: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1711471767i/15688.jpg",
+        rating: 4,
         favorite: false,
-        readDate: '2025-02-05',
+        status: 'Finished',
         kind: 'book',
-        link: 'https://www.goodreads.com/book/show/865069'
-    },
-    {
-        title: 'War and Punishment',
-        author: 'Mikhail Zygar',
-        cover: 'assets/books/war-and-punishment.jpg',
-        rating: 2.5,
-        favorite: false,
-        readDate: '2025-03-20',
-        kind: 'book',
-        link: 'https://www.goodreads.com/book/show/63923934-war-and-punishment'
+        link: 'https://www.goodreads.com/book/show/15688.L_tranger'
     },
     // END OF BOOKS
     // MOVIES \\
