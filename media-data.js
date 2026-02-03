@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "this body means nothing to me",
+        author: "Shrimp",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738e01d1607b385ebfd0db9e99",
+        kind: "album",
+        link: "https://open.spotify.com/album/59KqxBTfo4IpsQrxpPkwwR",
+        comment: "Github Action"
+    },
+    {
+        title: "Straight Up (Remastered 2010 / Deluxe Edition)",
+        author: "Badfinger",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e2dd29cdaa3fadbdc26d59c4",
+        kind: "album",
+        link: "https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc",
+        comment: "Github Action"
+    },
+    {
+        title: "La fin de l'espèce",
+        author: "Klub Des Loosers",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e00d963c3eb8b930d8e32d5f",
+        kind: "album",
+        link: "https://open.spotify.com/album/3wfssOdk0uthXz98c8CuzG",
+        comment: "Github Action"
+    },
+    {
         title: "Hypnotic Underworld",
         author: "Ghost",
         cover: "https://i.scdn.co/image/ab67616d0000b273e7f77a11a4479b67eb61828f",
