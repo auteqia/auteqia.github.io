@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Scott 4",
+        author: "Scott Walker",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738491dd586e4a8bfa78113e1d",
+        kind: "album",
+        link: "https://open.spotify.com/album/7uU2qrFZQSdQacicLXMnaJ",
+        comment: "Github Action"
+    },
+    {
         title: "Live @ The Roundhouse London 2008",
         author: "X-Ray Spex",
         cover: "https://i.scdn.co/image/ab67616d0000b273760a9f28ee438baf48f94a70",
