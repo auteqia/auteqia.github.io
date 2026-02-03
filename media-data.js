@@ -6887,6 +6887,7 @@ const mediaLibrary = [
         rating: 5,
         reRead: false,
         status: "Not Started Yet",
+        readDate: "2026-02-03",
         link: "https://www.goodreads.com/book/show/3031838-l-herbe-bleue",
         kind: "book"
     },
@@ -6897,6 +6898,7 @@ const mediaLibrary = [
         rating: 5,
         reRead: false,
         status: "Finished",
+        readDate: "2026-02-03",
         link: "https://www.goodreads.com/book/show/32762210-iggy-the-stooges",
         kind: "book"
     },
@@ -6907,6 +6909,7 @@ const mediaLibrary = [
         rating: 5,
         reRead: false,
         status: "Finished",
+        readDate: "2026-02-03",
         link: "https://www.goodreads.com/book/show/166464105-visual-threat-intelligence",
         kind: "book"
     },
@@ -6917,6 +6920,7 @@ const mediaLibrary = [
         rating: 5,
         reRead: false,
         status: "Unfinished",
+        readDate: "2026-02-03",
         link: "https://www.goodreads.com/book/show/41052080-sorci-res",
         kind: "book"
     },
@@ -6927,6 +6931,7 @@ const mediaLibrary = [
         rating: 5,
         reRead: false,
         status: "Not Started Yet",
+        readDate: "2026-02-03",
         link: "https://www.goodreads.com/book/show/16132217-le-marathon-d-honolulu",
         kind: "book"
     },
@@ -6937,6 +6942,7 @@ const mediaLibrary = [
         rating: 5,
         reRead: false,
         status: "Unfinished",
+        readDate: "2026-02-03",
         link: "https://www.goodreads.com/book/show/18465875-countdown-to-zero-day",
         kind: "book"
     },
@@ -6947,6 +6953,7 @@ const mediaLibrary = [
         rating: 5,
         reRead: false,
         status: "Unfinished",
+        readDate: "2026-02-03",
         link: "https://www.goodreads.com/book/show/22693211-girl-in-a-band",
         kind: "book"
     },
