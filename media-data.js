@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Psychedelic Sounds of the 13th Floor Elevators - 2008 Remaster",
+        author: "13th Floor Elevators",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e10e8e43d73c0ca58aea14ce",
+        kind: "album",
+        link: "https://open.spotify.com/album/2afQ7u8n1CzNBAHjl6OQCG",
+        comment: "Github Action"
+    },
+    {
         title: "Pet Sounds",
         author: "The Beach Boys",
         cover: "https://i.scdn.co/image/ab67616d0000b27350eb0c521d2d3b2f599bff04",
