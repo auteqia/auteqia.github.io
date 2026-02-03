@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Pet Sounds",
+        author: "The Beach Boys",
+        cover: "https://i.scdn.co/image/ab67616d0000b27350eb0c521d2d3b2f599bff04",
+        kind: "album",
+        link: "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b",
+        comment: "Github Action"
+    },
+    {
         title: "Scott 4",
         author: "Scott Walker",
         cover: "https://i.scdn.co/image/ab67616d0000b2738491dd586e4a8bfa78113e1d",
