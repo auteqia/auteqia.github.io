@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Turtles Present The Battle of the Bands",
+        author: "The Turtles",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f3126c1147d95ab91a85bbc3",
+        kind: "album",
+        link: "https://open.spotify.com/album/155OAoTAYR4Uu0LpSMvy5W",
+        comment: "Github Action"
+    },
+    {
         title: "this body means nothing to me",
         author: "Shrimp",
         cover: "https://i.scdn.co/image/ab67616d0000b2738e01d1607b385ebfd0db9e99",
