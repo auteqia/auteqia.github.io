@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Porco Rosso - The Bygone Days - Main Theme",
+        author: "Geek Music",
+        cover: "https://i.scdn.co/image/ab67616d0000b273afb2490cd8051fc48796ea84",
+        kind: "album",
+        link: "https://open.spotify.com/album/25cWz15Uo1AJ943E30c5hD",
+        comment: "Github Action"
+    },
+    {
         title: "The Turtles Present The Battle of the Bands",
         author: "The Turtles",
         cover: "https://i.scdn.co/image/ab67616d0000b273f3126c1147d95ab91a85bbc3",
