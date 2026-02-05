@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Wall",
+        author: "Pink Floyd",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c",
+        kind: "album",
+        link: "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F",
+        comment: "Github Action"
+    },
+    {
         title: "In Through the out Door (Remaster)",
         author: "Led Zeppelin",
         cover: "https://i.scdn.co/image/ab67616d0000b27315aa25b0b3b972a7be623605",
