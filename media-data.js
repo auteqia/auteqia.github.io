@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Song Remains the Same (Remaster)",
+        author: "Led Zeppelin",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731ac4670157a26949de3ba875",
+        kind: "album",
+        link: "https://open.spotify.com/album/0ui4S0TZghkf1d1Wz0oWpk",
+        comment: "Github Action"
+    },
+    {
         title: "Porco Rosso - The Bygone Days - Main Theme",
         author: "Geek Music",
         cover: "https://i.scdn.co/image/ab67616d0000b273afb2490cd8051fc48796ea84",
