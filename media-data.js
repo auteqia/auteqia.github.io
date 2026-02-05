@@ -1,5 +1,53 @@
 const mediaLibrary = [
     {
+        title: "Physical Graffiti (Deluxe Edition)",
+        author: "Led Zeppelin",
+        cover: "https://i.scdn.co/image/ab67616d0000b273765b0617b572bdd1dbdc7d8e",
+        kind: "album",
+        link: "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y",
+        comment: "Github Action"
+    },
+    {
+        title: "Reggatta De Blanc (Remastered 2003)",
+        author: "The Police",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738ec81cc654b45ade8bdf1486",
+        kind: "album",
+        link: "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6",
+        comment: "Github Action"
+    },
+    {
+        title: "Creedence Clearwater Revival (Expanded Edition)",
+        author: "Creedence Clearwater Revival",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c1926353baa3c1d17ad29d22",
+        kind: "album",
+        link: "https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2",
+        comment: "Github Action"
+    },
+    {
+        title: "Get Back (Rooftop Performance)",
+        author: "The Beatles",
+        cover: "https://i.scdn.co/image/ab67616d0000b27304167cd5b7ddbf5c4a563456",
+        kind: "album",
+        link: "https://open.spotify.com/album/6emgUTDksZyhhWmtjM9FCs",
+        comment: "Github Action"
+    },
+    {
+        title: "The Dark Side of the Moon",
+        author: "Pink Floyd",
+        cover: "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
+        kind: "album",
+        link: "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv",
+        comment: "Github Action"
+    },
+    {
+        title: "Crime Of The Century (Deluxe)",
+        author: "Supertramp",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a95d2ea6952dd4ff391d8f73",
+        kind: "album",
+        link: "https://open.spotify.com/album/5Se5MdfqD1nAitv3muKnCB",
+        comment: "Github Action"
+    },
+    {
         title: "The Song Remains the Same (Remaster)",
         author: "Led Zeppelin",
         cover: "https://i.scdn.co/image/ab67616d0000b2731ac4670157a26949de3ba875",
