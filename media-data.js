@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "In Through the out Door (Remaster)",
+        author: "Led Zeppelin",
+        cover: "https://i.scdn.co/image/ab67616d0000b27315aa25b0b3b972a7be623605",
+        kind: "album",
+        link: "https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2",
+        comment: "Github Action"
+    },
+    {
         title: "Physical Graffiti (Deluxe Edition)",
         author: "Led Zeppelin",
         cover: "https://i.scdn.co/image/ab67616d0000b273765b0617b572bdd1dbdc7d8e",
