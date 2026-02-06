@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Dave Dee, Dozy, Beaky, Mick & Tich",
+        author: "Dave Dee, Dozy, Beaky, Mick & Tich",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fd001dd1cbf74feb6066017f",
+        kind: "album",
+        link: "https://open.spotify.com/album/4tHtBi0EkYwUAkROvRb4ea",
+        comment: "Github Action"
+    },
+    {
         title: "Pinups (2015 Remaster)",
         author: "David Bowie",
         cover: "https://i.scdn.co/image/ab67616d0000b2733f91d314b2b4be4f88dafe83",
