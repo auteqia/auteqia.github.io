@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Red (Expanded & Remastered Original Album Mix)",
+        author: "King Crimson",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733167627d9428094376a26a08",
+        kind: "album",
+        link: "https://open.spotify.com/album/4mA3RKIoEoX4JlJSHueQae",
+        comment: "Github Action"
+    },
+    {
         title: "Beuteu",
         author: "Lapsuceur",
         cover: "https://i.scdn.co/image/ab67616d0000b27349874dd93ce742892858c616",
