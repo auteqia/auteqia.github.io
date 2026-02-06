@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Beuteu",
+        author: "Lapsuceur",
+        cover: "https://i.scdn.co/image/ab67616d0000b27349874dd93ce742892858c616",
+        kind: "album",
+        link: "https://open.spotify.com/album/5WyImP9hz1DsAAYZi8YeUp",
+        comment: "Github Action"
+    },
+    {
+        title: "Led Zeppelin IV (Deluxe Edition)",
+        author: "Led Zeppelin",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69",
+        kind: "album",
+        link: "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK",
+        comment: "Github Action"
+    },
+    {
         title: "The Wall",
         author: "Pink Floyd",
         cover: "https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c",
