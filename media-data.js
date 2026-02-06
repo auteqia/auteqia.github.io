@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Pinups (2015 Remaster)",
+        author: "David Bowie",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733f91d314b2b4be4f88dafe83",
+        kind: "album",
+        link: "https://open.spotify.com/album/71nxmbr3tHAVyvdHXc0ltd",
+        comment: "Github Action"
+    },
+    {
+        title: "Easy",
+        author: "The Easybeats",
+        cover: "https://i.scdn.co/image/ab67616d0000b273460e3bd639b0b6a2a3bf6fc2",
+        kind: "album",
+        link: "https://open.spotify.com/album/79v0WaGkCOQCa2qIxb5DUN",
+        comment: "Github Action"
+    },
+    {
+        title: "Volume 3",
+        author: "The Easybeats",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738fa986150bf0d2bd113febe6",
+        kind: "album",
+        link: "https://open.spotify.com/album/1fuHPPzMhcQ0TfMhvZuVL0",
+        comment: "Github Action"
+    },
+    {
         title: "Red (Expanded & Remastered Original Album Mix)",
         author: "King Crimson",
         cover: "https://i.scdn.co/image/ab67616d0000b2733167627d9428094376a26a08",
