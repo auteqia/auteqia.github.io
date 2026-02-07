@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "PACIFIC",
+        author: "Haruomi Hosono",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a7177b1d4c69494024e02579",
+        kind: "album",
+        link: "https://open.spotify.com/album/6PnbwR4pgQQZDrLUdw6Kc7",
+        comment: "Github Action"
+    },
+    {
         title: "Small Faces - Deluxe Edition (2012 Remaster)",
         author: "Small Faces",
         cover: "https://i.scdn.co/image/ab67616d0000b273db117bc2a85a8dc49249a78b",
