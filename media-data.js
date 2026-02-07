@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Ghost of Fall",
+        author: "The Ghost of Fall",
+        cover: "https://i.scdn.co/image/ab67616d0000b27301ec0b6578e9138e561231c0",
+        kind: "album",
+        link: "https://open.spotify.com/album/1Rwz9T74DfrcungyNujoJ7",
+        comment: "Github Action"
+    },
+    {
         title: "Dave Dee, Dozy, Beaky, Mick & Tich",
         author: "Dave Dee, Dozy, Beaky, Mick & Tich",
         cover: "https://i.scdn.co/image/ab67616d0000b273fd001dd1cbf74feb6066017f",
