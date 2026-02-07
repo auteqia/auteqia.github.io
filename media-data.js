@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Same Old Ghost",
+        author: "Ghost4514",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739cf15ef6cb23da5fe103b1fc",
+        kind: "album",
+        link: "https://open.spotify.com/album/3a4yEX35eNfpkv2Djhr8Jy",
+        comment: "Github Action"
+    },
+    {
         title: "The Ghost of Fall",
         author: "The Ghost of Fall",
         cover: "https://i.scdn.co/image/ab67616d0000b27301ec0b6578e9138e561231c0",
