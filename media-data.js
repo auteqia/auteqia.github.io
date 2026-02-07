@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Small Faces - Deluxe Edition (2012 Remaster)",
+        author: "Small Faces",
+        cover: "https://i.scdn.co/image/ab67616d0000b273db117bc2a85a8dc49249a78b",
+        kind: "album",
+        link: "https://open.spotify.com/album/2MhAWzEg3wdOLaLYgmpF0i",
+        comment: "Github Action"
+    },
+    {
+        title: "Vigil",
+        author: "The Easybeats",
+        cover: "https://i.scdn.co/image/ab67616d0000b27332b3debc499271dfa56e9b56",
+        kind: "album",
+        link: "https://open.spotify.com/album/191tmzcTPpfl1cyFQpSBmC",
+        comment: "Github Action"
+    },
+    {
+        title: "La Folie",
+        author: "The Stranglers",
+        cover: "https://i.scdn.co/image/ab67616d0000b27347066a9aac4e3493fe5b8677",
+        kind: "album",
+        link: "https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx",
+        comment: "Github Action"
+    },
+    {
         title: "Same Old Ghost",
         author: "Ghost4514",
         cover: "https://i.scdn.co/image/ab67616d0000b2739cf15ef6cb23da5fe103b1fc",
