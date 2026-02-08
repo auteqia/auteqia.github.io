@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Inner Fire",
+        author: "The Souljazz Orchestra",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731ec8168b682d187436172fe6",
+        kind: "album",
+        link: "https://open.spotify.com/album/2w28yTFohFkW0UnIGKqLdY",
+        comment: "Github Action"
+    },
+    {
         title: "2013 Toyota Corolla",
         author: "2003 Toyota Corolla",
         cover: "https://i.scdn.co/image/ab67616d0000b27362507f51b4875d4d6b2136e7",
