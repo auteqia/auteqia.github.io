@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "TRILOGY",
+        author: "Carpenter Brut",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731b1d6c550aaaae5acf220e84",
+        kind: "album",
+        link: "https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN",
+        comment: "Github Action"
+    },
+    {
         title: "Evolution: The Hits",
         author: "Dead Or Alive",
         cover: "https://i.scdn.co/image/ab67616d0000b273bd0c47e4cfb4ee327e53bc73",
