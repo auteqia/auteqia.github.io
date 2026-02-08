@@ -1,5 +1,61 @@
 const mediaLibrary = [
     {
+        title: "Evolution: The Hits",
+        author: "Dead Or Alive",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bd0c47e4cfb4ee327e53bc73",
+        kind: "album",
+        link: "https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4",
+        comment: "Github Action"
+    },
+    {
+        title: "Stadium Arcadium",
+        author: "Red Hot Chili Peppers",
+        cover: "https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517",
+        kind: "album",
+        link: "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ",
+        comment: "Github Action"
+    },
+    {
+        title: "Les Cinq Saisons",
+        author: "Harmonium",
+        cover: "https://i.scdn.co/image/ab67616d0000b27302c1e441b4e84a11ad5b2f3a",
+        kind: "album",
+        link: "https://open.spotify.com/album/1o2UqbYkULKaLzkD5VUPlm",
+        comment: "Github Action"
+    },
+    {
+        title: "Arthur or the Decline and Fall of the British Empire (Deluxe)",
+        author: "The Kinks",
+        cover: "https://i.scdn.co/image/ab67616d0000b27362f88cd2951c501d98a6944b",
+        kind: "album",
+        link: "https://open.spotify.com/album/2bG4ZJ2X6pUwOqPgk7Mgrg",
+        comment: "Github Action"
+    },
+    {
+        title: "Crisis? What Crisis? (Remastered 2025)",
+        author: "Supertramp",
+        cover: "https://i.scdn.co/image/ab67616d0000b27390af8b70a57eab275a3ae47f",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Nip1nntVPSdHJs0ZcRRHg",
+        comment: "Github Action"
+    },
+    {
+        title: "Gold",
+        author: "Cream",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738bdcc07a88f79f7d33636ac3",
+        kind: "album",
+        link: "https://open.spotify.com/album/15yy77Dkncl1KA91ZDSkYp",
+        comment: "Github Action"
+    },
+    {
+        title: "Goodbye Yesterday",
+        author: "Jimmy Cliff",
+        cover: "https://i.scdn.co/image/ab67616d0000b27398920c0be24bd6cd97705312",
+        kind: "album",
+        link: "https://open.spotify.com/album/4pCihmj6KBWAPZe4MiGRt5",
+        comment: "Github Action"
+    },
+    {
         title: "PACIFIC",
         author: "Haruomi Hosono",
         cover: "https://i.scdn.co/image/ab67616d0000b273a7177b1d4c69494024e02579",
