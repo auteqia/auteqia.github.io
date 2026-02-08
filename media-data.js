@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "2013 Toyota Corolla",
+        author: "2003 Toyota Corolla",
+        cover: "https://i.scdn.co/image/ab67616d0000b27362507f51b4875d4d6b2136e7",
+        kind: "album",
+        link: "https://open.spotify.com/album/1Ec0kr9sH3WUDGtF3D77Lr",
+        comment: "Github Action"
+    },
+    {
         title: "TRILOGY",
         author: "Carpenter Brut",
         cover: "https://i.scdn.co/image/ab67616d0000b2731b1d6c550aaaae5acf220e84",
