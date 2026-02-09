@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Futility",
+        author: "Yakui The Maid",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737cf71660823b16a950233c30",
+        kind: "album",
+        link: "https://open.spotify.com/album/5eJIhlOGeFz0UhSf6W1OTt",
+        comment: "Github Action"
+    },
+    {
         title: "Heart Shaped World",
         author: "Chris Isaak",
         cover: "https://i.scdn.co/image/ab67616d0000b273b66c23534dd78ff7d3da83b8",
