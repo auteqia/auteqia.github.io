@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Classic Yes",
+        author: "Yes",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737a18772810b7e8593353ab8d",
+        kind: "album",
+        link: "https://open.spotify.com/album/40PzhENJBOj4cP9SRDxXlY",
+        comment: "Github Action"
+    },
+    {
+        title: "Fish Out of Water",
+        author: "Chris Squire",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734c10d9e9f4ddb306d70aa273",
+        kind: "album",
+        link: "https://open.spotify.com/album/7busGzeS9qxPpqYI9BgHAK",
+        comment: "Github Action"
+    },
+    {
+        title: "So Alone",
+        author: "Johnny Thunders",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737b41c9e0398c8b3c1a8acf6a",
+        kind: "album",
+        link: "https://open.spotify.com/album/1RUZkUP7Fj7vqbfQaNjBZC",
+        comment: "Github Action"
+    },
+    {
         title: "The Whitey Album",
         author: "Sonic Youth",
         cover: "https://i.scdn.co/image/ab67616d0000b2730d5dea24aaa7fc78c652c885",
