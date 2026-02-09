@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Alice In Chains",
+        author: "Alice In Chains",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bdcb34c7c881080832a051e2",
+        kind: "album",
+        link: "https://open.spotify.com/album/49R4Qye4UUwzjPPQhtCkRe",
+        comment: "Github Action"
+    },
+    {
         title: "L.a.M.F. - the Found '77 Masters",
         author: "The Heartbreakers",
         cover: "https://i.scdn.co/image/ab67616d0000b273fa8f6324316ec450c75f85b3",
