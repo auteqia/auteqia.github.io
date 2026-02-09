@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "\"Os Mutantes\"",
+        author: "Os Mutantes",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cf5f9eaa0d3a164305c35b49",
+        kind: "album",
+        link: "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og",
+        comment: "Github Action"
+    },
+    {
+        title: "Houses of the Holy (Deluxe Edition)",
+        author: "Led Zeppelin",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731816adce1d49e35d3ce9a1d1",
+        kind: "album",
+        link: "https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S",
+        comment: "Github Action"
+    },
+    {
         title: "Grace Around The World",
         author: "Jeff Buckley",
         cover: "https://i.scdn.co/image/ab67616d0000b2736a153765ecfa6bccbd3edf1e",
