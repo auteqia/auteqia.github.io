@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "L.a.M.F. - the Found '77 Masters",
+        author: "The Heartbreakers",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fa8f6324316ec450c75f85b3",
+        kind: "album",
+        link: "https://open.spotify.com/album/4lCamFkJGflauHExk2r2AN",
+        comment: "Github Action"
+    },
+    {
         title: "Inner Fire",
         author: "The Souljazz Orchestra",
         cover: "https://i.scdn.co/image/ab67616d0000b2731ec8168b682d187436172fe6",
