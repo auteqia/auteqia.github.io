@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "The Whitey Album",
+        author: "Sonic Youth",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730d5dea24aaa7fc78c652c885",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Ic2Vd570f7Bt7urbnqcwa",
+        comment: "Github Action"
+    },
+    {
+        title: "Sunshine Superman",
+        author: "Donovan",
+        cover: "https://i.scdn.co/image/ab67616d0000b27332ddd18dc88969d84dbff3ab",
+        kind: "album",
+        link: "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G",
+        comment: "Github Action"
+    },
+    {
         title: "The Virgin Suicides (Original Motion Picture Score)",
         author: "Air",
         cover: "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
