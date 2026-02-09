@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Heart Shaped World",
+        author: "Chris Isaak",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b66c23534dd78ff7d3da83b8",
+        kind: "album",
+        link: "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U",
+        comment: "Github Action"
+    },
+    {
         title: "Classic Yes",
         author: "Yes",
         cover: "https://i.scdn.co/image/ab67616d0000b2737a18772810b7e8593353ab8d",
