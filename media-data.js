@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "The Virgin Suicides (Original Motion Picture Score)",
+        author: "Air",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
+        kind: "album",
+        link: "https://open.spotify.com/album/0Dv4ArPFwSFPWrubYdExKq",
+        comment: "Github Action"
+    },
+    {
+        title: "Billion Dollar Babies (Deluxe Reissue)",
+        author: "Alice Cooper",
+        cover: "https://i.scdn.co/image/ab67616d0000b27362d518c1151a93e2cf7c2b22",
+        kind: "album",
+        link: "https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep",
+        comment: "Github Action"
+    },
+    {
+        title: "Blue Lines (2012 Mix/Master)",
+        author: "Massive Attack",
+        cover: "https://i.scdn.co/image/ab67616d0000b273af5beb00d940f5ede452d6b5",
+        kind: "album",
+        link: "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf",
+        comment: "Github Action"
+    },
+    {
+        title: "Moon Safari",
+        author: "Air",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fffdb6bc2a61d5a151bb0cca",
+        kind: "album",
+        link: "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a",
+        comment: "Github Action"
+    },
+    {
+        title: "Homogenic",
+        author: "Björk",
+        cover: "https://i.scdn.co/image/ab67616d0000b27361340a8868455be0d958fb39",
+        kind: "album",
+        link: "https://open.spotify.com/album/0HMsmYvoT1h2x1C4di5faf",
+        comment: "Github Action"
+    },
+    {
         title: "Alice In Chains",
         author: "Alice In Chains",
         cover: "https://i.scdn.co/image/ab67616d0000b273bdcb34c7c881080832a051e2",
