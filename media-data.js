@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Grace Around The World",
+        author: "Jeff Buckley",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736a153765ecfa6bccbd3edf1e",
+        kind: "album",
+        link: "https://open.spotify.com/album/6Q5AmQx22pphdLhQz5oSAE",
+        comment: "Github Action"
+    },
+    {
+        title: "Goodnight World",
+        author: "Yakui The Maid",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a660cdb1b6ea5471b45bac34",
+        kind: "album",
+        link: "https://open.spotify.com/album/2aSX3ez5UwhVpfHiKV561e",
+        comment: "Github Action"
+    },
+    {
+        title: "Physical Graffiti (Remaster)",
+        author: "Led Zeppelin",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735273ac7ada6725bc36a2bcd0",
+        kind: "album",
+        link: "https://open.spotify.com/album/4Q7cPyiP8cMIlUEHAqeYfd",
+        comment: "Github Action"
+    },
+    {
         title: "Futility",
         author: "Yakui The Maid",
         cover: "https://i.scdn.co/image/ab67616d0000b2737cf71660823b16a950233c30",
