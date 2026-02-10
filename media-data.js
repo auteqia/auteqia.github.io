@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Talkie Walkie",
+        author: "Air",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736400fab74f28e90759ac8815",
+        kind: "album",
+        link: "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363",
+        comment: "Github Action"
+    },
+    {
         title: "\"Os Mutantes\"",
         author: "Os Mutantes",
         cover: "https://i.scdn.co/image/ab67616d0000b273cf5f9eaa0d3a164305c35b49",
