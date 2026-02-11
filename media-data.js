@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Ants From Up There",
+        author: "Black Country, New Road",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730f4b994c518581bf62157c38",
+        kind: "album",
+        link: "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd",
+        comment: "Github Action"
+    },
+    {
         title: "Talkie Walkie",
         author: "Air",
         cover: "https://i.scdn.co/image/ab67616d0000b2736400fab74f28e90759ac8815",
