@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Nirvana Shatakam",
+        author: "Yariaverse Nirvanaa",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ec5f2cd849d32517419028e2",
+        kind: "album",
+        link: "https://open.spotify.com/album/726e3IeXCxHCVd5Sy7pzTX",
+        comment: "Github Action"
+    },
+    {
         title: "Ants From Up There",
         author: "Black Country, New Road",
         cover: "https://i.scdn.co/image/ab67616d0000b2730f4b994c518581bf62157c38",
