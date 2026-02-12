@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Low (2017 Remaster)",
+        author: "David Bowie",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735ef4c0001dc9628f08bbf277",
+        kind: "album",
+        link: "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na",
+        comment: "Github Action"
+    },
+    {
+        title: "1. Outside (The Nathan Adler Diaries: A Hyper Cycle) [2021 Remaster]",
+        author: "David Bowie",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ceec0e413707b129b868f65c",
+        kind: "album",
+        link: "https://open.spotify.com/album/760SXeQgPMob9S529R0SAq",
+        comment: "Github Action"
+    },
+    {
+        title: "Songs of Love and Hate",
+        author: "Leonard Cohen",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d76eb78302e54c79fb72bcf7",
+        kind: "album",
+        link: "https://open.spotify.com/album/5WGGkUyTDomzIAdj9Vz6v9",
+        comment: "Github Action"
+    },
+    {
         title: "Live At Leeds (Expanded Edition)",
         author: "The Who",
         cover: "https://i.scdn.co/image/ab67616d0000b273692c12f604e384578a70272f",
