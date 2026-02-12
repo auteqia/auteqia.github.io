@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Abbey Road (Super Deluxe Edition)",
+        author: "The Beatles",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c94603dcb78ec39322cebb5b",
+        kind: "album",
+        link: "https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c",
+        comment: "Github Action"
+    },
+    {
         title: "Nirvana Shatakam",
         author: "Yariaverse Nirvanaa",
         cover: "https://i.scdn.co/image/ab67616d0000b273ec5f2cd849d32517419028e2",
