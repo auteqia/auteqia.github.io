@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Live At Leeds (Expanded Edition)",
+        author: "The Who",
+        cover: "https://i.scdn.co/image/ab67616d0000b273692c12f604e384578a70272f",
+        kind: "album",
+        link: "https://open.spotify.com/album/6W3aTLI4B5UsPpWMvhT2W4",
+        comment: "Github Action"
+    },
+    {
         title: "Tommy",
         author: "The Who",
         cover: "https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334",
