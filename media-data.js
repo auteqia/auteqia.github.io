@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Too Much Pressure",
+        author: "The Selecter",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d0578b6c0b35405fc1f66b99",
+        kind: "album",
+        link: "https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV",
+        comment: "Github Action"
+    },
+    {
         title: "Low (2017 Remaster)",
         author: "David Bowie",
         cover: "https://i.scdn.co/image/ab67616d0000b2735ef4c0001dc9628f08bbf277",
