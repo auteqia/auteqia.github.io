@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Tommy",
+        author: "The Who",
+        cover: "https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334",
+        kind: "album",
+        link: "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4",
+        comment: "Github Action"
+    },
+    {
         title: "Live At The Isle Of Wight Festival 1970",
         author: "The Who",
         cover: "https://i.scdn.co/image/ab67616d0000b273ff64b9e7e91015e618472cba",
