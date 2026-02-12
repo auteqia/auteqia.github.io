@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Live At The Isle Of Wight Festival 1970",
+        author: "The Who",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ff64b9e7e91015e618472cba",
+        kind: "album",
+        link: "https://open.spotify.com/album/1FUZJRZ4eOHT4MJuRh5fh8",
+        comment: "Github Action"
+    },
+    {
+        title: "The Kink Kontroversy (Deluxe Edition)",
+        author: "The Kinks",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f095f1c74426651941c02892",
+        kind: "album",
+        link: "https://open.spotify.com/album/0NByewmOgxS1SDjE7hQKH8",
+        comment: "Github Action"
+    },
+    {
         title: "Abbey Road (Super Deluxe Edition)",
         author: "The Beatles",
         cover: "https://i.scdn.co/image/ab67616d0000b273c94603dcb78ec39322cebb5b",
