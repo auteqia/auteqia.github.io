@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Crush",
+        author: "Floating Points",
+        cover: "https://i.scdn.co/image/ab67616d0000b273216a393a7606aa7de52c4636",
+        kind: "album",
+        link: "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z",
+        comment: "Github Action"
+    },
+    {
         title: "The Velvet Underground (45th Anniversary / Super Deluxe)",
         author: "The Velvet Underground",
         cover: "https://i.scdn.co/image/ab67616d0000b27303a8c65d2a040290871b1a3f",
