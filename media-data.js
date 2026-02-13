@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        author: "Public Enemy",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c3cb4969e8a8e9c9d604bf89",
+        kind: "album",
+        link: "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ",
+        comment: "Github Action"
+    },
+    {
         title: "Breath From Another",
         author: "Esthero",
         cover: "https://i.scdn.co/image/ab67616d0000b273456b5c223b220f3bbbe9fa9f",
