@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Becoming X",
+        author: "Sneaker Pimps",
+        cover: "https://i.scdn.co/image/ab67616d0000b273332e80447a4ddc2843ea332a",
+        kind: "album",
+        link: "https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s",
+        comment: "Github Action"
+    },
+    {
         title: "Crush",
         author: "Floating Points",
         cover: "https://i.scdn.co/image/ab67616d0000b273216a393a7606aa7de52c4636",
