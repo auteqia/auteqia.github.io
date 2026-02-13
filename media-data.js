@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Breath From Another",
+        author: "Esthero",
+        cover: "https://i.scdn.co/image/ab67616d0000b273456b5c223b220f3bbbe9fa9f",
+        kind: "album",
+        link: "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S",
+        comment: "Github Action"
+    },
+    {
         title: "Becoming X",
         author: "Sneaker Pimps",
         cover: "https://i.scdn.co/image/ab67616d0000b273332e80447a4ddc2843ea332a",
