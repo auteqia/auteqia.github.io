@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Marion",
+        author: "Columbine",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732eec2b288d8a05fcbbf7ae73",
+        kind: "album",
+        link: "https://open.spotify.com/album/57yZZGsbUWy2D4zRwU7tF3",
+        comment: "Github Action"
+    },
+    {
         title: "A Space in Time (Deluxe Version)",
         author: "Ten Years After",
         cover: "https://i.scdn.co/image/ab67616d0000b2734aa7956a8d5742ac762699b2",
