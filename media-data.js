@@ -1,5 +1,77 @@
 const mediaLibrary = [
     {
+        title: "A Space in Time (Deluxe Version)",
+        author: "Ten Years After",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734aa7956a8d5742ac762699b2",
+        kind: "album",
+        link: "https://open.spotify.com/album/5ZPvG6hav71Uqmlgs85xbE",
+        comment: "Github Action"
+    },
+    {
+        title: "Ce que l'on sème",
+        author: "Tryo",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736bf11005840bb5af2fb27eed",
+        kind: "album",
+        link: "https://open.spotify.com/album/104U4itvxakAe5v4KYg1Yo",
+        comment: "Github Action"
+    },
+    {
+        title: "1er Mouvement",
+        author: "H JeuneCrack",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f3a9a3aff39a42f100be73e3",
+        kind: "album",
+        link: "https://open.spotify.com/album/78qCrV49gvsqjQhTJLzsUg",
+        comment: "Github Action"
+    },
+    {
+        title: "PANDEMONIUM RELOADED",
+        author: "Vald",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e63166ace799508203ffa954",
+        kind: "album",
+        link: "https://open.spotify.com/album/6KEJ0oydDeJvHiF0oq9t3J",
+        comment: "Github Action"
+    },
+    {
+        title: "SI Y'A UN MONDE",
+        author: "Surprise",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736a3591ecce59551850b1564b",
+        kind: "album",
+        link: "https://open.spotify.com/album/4flpQfiwoIH19Zx3CyFwgi",
+        comment: "Github Action"
+    },
+    {
+        title: "J'ai embrassé un flic (et j'ai aimé ça) RENAUD x KATY PERRY MASHUP",
+        author: "Joey Glüten",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a207584fe34bdf8b1b0e875a",
+        kind: "album",
+        link: "https://open.spotify.com/album/6C7NGHVJwyrlsALGKXW9Ka",
+        comment: "Github Action"
+    },
+    {
+        title: "Touch Up",
+        author: "Mother Mother",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739334fc21964be25ec3179f0f",
+        kind: "album",
+        link: "https://open.spotify.com/album/391bN6K5GtiVruKSrjQjL2",
+        comment: "Github Action"
+    },
+    {
+        title: "ANXIOLYTIQUES",
+        author: "THÉA",
+        cover: "https://i.scdn.co/image/ab67616d0000b27339d0665cddc25e62f40eef03",
+        kind: "album",
+        link: "https://open.spotify.com/album/6kZtgwx0G8iDzsYdDnmVEy",
+        comment: "Github Action"
+    },
+    {
+        title: "Hombre Lobo",
+        author: "Eels",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c80034f527de3949273eed44",
+        kind: "album",
+        link: "https://open.spotify.com/album/5KVxlY0HM8gaTeE9nff9bp",
+        comment: "Github Action"
+    },
+    {
         title: "Agartha",
         author: "Vald",
         cover: "https://i.scdn.co/image/ab67616d0000b27313a6c878eab9e3d274112bee",
