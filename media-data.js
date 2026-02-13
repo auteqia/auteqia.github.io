@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Agartha",
+        author: "Vald",
+        cover: "https://i.scdn.co/image/ab67616d0000b27313a6c878eab9e3d274112bee",
+        kind: "album",
+        link: "https://open.spotify.com/album/7LnLIhDFtmXNaGpXX6VCv3",
+        comment: "Github Action"
+    },
+    {
+        title: "R.A.S",
+        author: "Kalash Criminel",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d66149c553c12eaa4d4d8827",
+        kind: "album",
+        link: "https://open.spotify.com/album/2KMkCKYVdjmRLPqdWL3Ql8",
+        comment: "Github Action"
+    },
+    {
+        title: "Futur",
+        author: "Booba",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736069fa7ed17b82e3f1c881b8",
+        kind: "album",
+        link: "https://open.spotify.com/album/2liUgYwfNNBPAoIpO2ny0z",
+        comment: "Github Action"
+    },
+    {
+        title: "Raspoutine",
+        author: "Ziak",
+        cover: "https://i.scdn.co/image/ab67616d0000b273aa57694abe788bcb3545fc65",
+        kind: "album",
+        link: "https://open.spotify.com/album/0YDSCxPDG5hPRtxJdBg4oQ",
+        comment: "Github Action"
+    },
+    {
+        title: "Good Girl Gone Bad: Reloaded",
+        author: "Rihanna",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98",
+        kind: "album",
+        link: "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7",
+        comment: "Github Action"
+    },
+    {
         title: "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
         author: "Public Enemy",
         cover: "https://i.scdn.co/image/ab67616d0000b273c3cb4969e8a8e9c9d604bf89",
