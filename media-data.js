@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Killer",
+        author: "Alice Cooper",
+        cover: "https://i.scdn.co/image/ab67616d0000b27386b7017f02b7f28be87fbb2b",
+        kind: "album",
+        link: "https://open.spotify.com/album/3DtfU669sCj0uKjeNdGq22",
+        comment: "Github Action"
+    },
+    {
+        title: "The Evil One",
+        author: "Roky Erickson",
+        cover: "https://i.scdn.co/image/ab67616d0000b27326c2e5f0029fa4afc6489e0c",
+        kind: "album",
+        link: "https://open.spotify.com/album/3fptm5vPoS16Lrtoego6So",
+        comment: "Github Action"
+    },
+    {
         title: "The Marble Index",
         author: "Nico",
         cover: "https://i.scdn.co/image/ab67616d0000b273447d769e73a97b8b4339bf8e",
