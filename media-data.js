@@ -2704,14 +2704,6 @@ const mediaLibrary = [
         comment: "Github Action"
     },
     {
-        title: "N3h !!!!!",
-        author: "Kiki2way23",
-        cover: "https://i.scdn.co/image/ab67616d0000b273a2b1c4b2d47ae6a4df720e59",
-        kind: "album",
-        link: "https://open.spotify.com/album/4bGJxMQWT7p1Cszx7nZ1dL",
-        comment: "Github Action"
-    },
-    {
         title: "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
         author: "Harold Budd",
         cover: "https://i.scdn.co/image/ab67616d0000b273eba05344ff7ca99e2fd35545",
