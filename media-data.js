@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "The Marble Index",
+        author: "Nico",
+        cover: "https://i.scdn.co/image/ab67616d0000b273447d769e73a97b8b4339bf8e",
+        kind: "album",
+        link: "https://open.spotify.com/album/3loiESaJCNxhBfNN1urGA8",
+        comment: "Github Action"
+    },
+    {
+        title: "At Home with Screamin' Jay Hawkins",
+        author: "Screamin' Jay Hawkins",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c8a1366f0f2073775e931aa3",
+        kind: "album",
+        link: "https://open.spotify.com/album/2lKtE0pl4RtMD2bUwKzdcz",
+        comment: "Github Action"
+    },
+    {
         title: "Marion",
         author: "Columbine",
         cover: "https://i.scdn.co/image/ab67616d0000b2732eec2b288d8a05fcbbf7ae73",
