@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Game, Dames And Guitar Thangs",
+        author: "Eddie Hazel",
+        cover: "https://i.scdn.co/image/ab67616d0000b273371135e871ccf1c6ec1c5beb",
+        kind: "album",
+        link: "https://open.spotify.com/album/5uUtn3Fkr4qWQUpJAmrLEf",
+        comment: "Github Action"
+    },
+    {
         title: "1992 - 2012",
         author: "Underworld",
         cover: "https://i.scdn.co/image/ab67616d0000b2731e34bdf6792b78c2da36a767",
