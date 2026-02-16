@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Suicide (2019 - Remaster)",
+        author: "Suicide",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739707d3e2f2406aab2282cf9e",
+        kind: "album",
+        link: "https://open.spotify.com/album/46kw5FsFdJhNRL8wfHM9Bp",
+        comment: "Github Action"
+    },
+    {
         title: "Killer",
         author: "Alice Cooper",
         cover: "https://i.scdn.co/image/ab67616d0000b27386b7017f02b7f28be87fbb2b",
