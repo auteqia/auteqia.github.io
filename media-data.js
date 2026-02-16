@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "1992 - 2012",
+        author: "Underworld",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731e34bdf6792b78c2da36a767",
+        kind: "album",
+        link: "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq",
+        comment: "Github Action"
+    },
+    {
         title: "Suicide (2019 - Remaster)",
         author: "Suicide",
         cover: "https://i.scdn.co/image/ab67616d0000b2739707d3e2f2406aab2282cf9e",
