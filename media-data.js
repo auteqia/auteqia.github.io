@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Tinderbox",
+        author: "Siouxsie and the Banshees",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730218ad99207f343b1f8087c9",
+        kind: "album",
+        link: "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N",
+        comment: "Github Action"
+    },
+    {
         title: "Game, Dames And Guitar Thangs",
         author: "Eddie Hazel",
         cover: "https://i.scdn.co/image/ab67616d0000b273371135e871ccf1c6ec1c5beb",
