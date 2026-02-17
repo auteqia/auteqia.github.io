@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Closer (Collector's Edition)",
+        author: "Joy Division",
+        cover: "https://i.scdn.co/image/ab67616d0000b27321590ea36e6264a1917d02eb",
+        kind: "album",
+        link: "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko",
+        comment: "Github Action"
+    },
+    {
         title: "Kaleidoscope (Remastered & Expanded)",
         author: "Siouxsie and the Banshees",
         cover: "https://i.scdn.co/image/ab67616d0000b27304272eb83a6af47cc14ccf76",
