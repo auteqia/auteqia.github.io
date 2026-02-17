@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Kaleidoscope (Remastered & Expanded)",
+        author: "Siouxsie and the Banshees",
+        cover: "https://i.scdn.co/image/ab67616d0000b27304272eb83a6af47cc14ccf76",
+        kind: "album",
+        link: "https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P",
+        comment: "Github Action"
+    },
+    {
         title: "Tinderbox",
         author: "Siouxsie and the Banshees",
         cover: "https://i.scdn.co/image/ab67616d0000b2730218ad99207f343b1f8087c9",
