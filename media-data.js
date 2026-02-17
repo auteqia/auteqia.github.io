@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Nunsexmonkrock",
+        author: "Nina Hagen",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ac3406bc03f31b5de360e535",
+        kind: "album",
+        link: "https://open.spotify.com/album/0z7luHdUqXn5QHMtV41lAq",
+        comment: "Github Action"
+    },
+    {
+        title: "Nina Hagen Band",
+        author: "Nina Hagen",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d0fea31d766b2f0d2a34492f",
+        kind: "album",
+        link: "https://open.spotify.com/album/0xhbRH15usL0err9cL56Dx",
+        comment: "Github Action"
+    },
+    {
         title: "Closer (Collector's Edition)",
         author: "Joy Division",
         cover: "https://i.scdn.co/image/ab67616d0000b27321590ea36e6264a1917d02eb",
