@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Mamagubida",
+        author: "Tryo",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e70144c92b8131b7426821fb",
+        kind: "album",
+        link: "https://open.spotify.com/album/4ULRsDjf1MbeI5SJiMLBnt",
+        comment: "Github Action"
+    },
+    {
+        title: "Grain de sable",
+        author: "Tryo",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d00a1c12837dcede74f612f5",
+        kind: "album",
+        link: "https://open.spotify.com/album/4LLkZPv9nlbBuvdMeXYK9O",
+        comment: "Github Action"
+    },
+    {
         title: "Houses of the Holy (Remaster)",
         author: "Led Zeppelin",
         cover: "https://i.scdn.co/image/ab67616d0000b2731aa47e71c4edfeaddb65cd54",
