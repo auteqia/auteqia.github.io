@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Houses of the Holy (Remaster)",
+        author: "Led Zeppelin",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731aa47e71c4edfeaddb65cd54",
+        kind: "album",
+        link: "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk",
+        comment: "Github Action"
+    },
+    {
         title: "Nunsexmonkrock",
         author: "Nina Hagen",
         cover: "https://i.scdn.co/image/ab67616d0000b273ac3406bc03f31b5de360e535",
