@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Faust IV (Deluxe Edition)",
+        author: "Faust",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c42b9259f85c569fedc11dc1",
+        kind: "album",
+        link: "https://open.spotify.com/album/2yFbw2SIBZ7ExIBRVoFkJJ",
+        comment: "Github Action"
+    },
+    {
+        title: "Yeti",
+        author: "Amon Düül II",
+        cover: "https://i.scdn.co/image/ab67616d0000b27302e06004e9b0ab854e60a82e",
+        kind: "album",
+        link: "https://open.spotify.com/album/6hAV1FLshS1aiOuXT52pjw",
+        comment: "Github Action"
+    },
+    {
         title: "Who Feels Love?",
         author: "Oasis",
         cover: "https://i.scdn.co/image/ab67616d0000b273a9e0a1ba4b2d2607fbf2ff92",
