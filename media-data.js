@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "XXV",
+        author: "Tryo",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733b9938287cc0403941ac2101",
+        kind: "album",
+        link: "https://open.spotify.com/album/2mjfchxazNhCKg53s9pLOj",
+        comment: "Github Action"
+    },
+    {
+        title: "Fausses notes et repris de justesse",
+        author: "Les Ogres De Barback",
+        cover: "https://i.scdn.co/image/ab67616d0000b27391b8542983e9fe3277eabe22",
+        kind: "album",
+        link: "https://open.spotify.com/album/5E0EZfyRDO4rEjZqqOnIsI",
+        comment: "Github Action"
+    },
+    {
         title: "Mamagubida",
         author: "Tryo",
         cover: "https://i.scdn.co/image/ab67616d0000b273e70144c92b8131b7426821fb",
