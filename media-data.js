@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Vespertine",
+        author: "Björk",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730f11c9a8ad1171690a975a26",
+        kind: "album",
+        link: "https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1",
+        comment: "Github Action"
+    },
+    {
         title: "Faust IV (Deluxe Edition)",
         author: "Faust",
         cover: "https://i.scdn.co/image/ab67616d0000b273c42b9259f85c569fedc11dc1",
