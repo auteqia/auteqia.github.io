@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Real Life",
+        author: "Magazine",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737690a441fbe4c5276c609dd6",
+        kind: "album",
+        link: "https://open.spotify.com/album/5cy3t8bW0lNzw9hjCPkRUT",
+        comment: "Github Action"
+    },
+    {
         title: "Vespertine",
         author: "Björk",
         cover: "https://i.scdn.co/image/ab67616d0000b2730f11c9a8ad1171690a975a26",
