@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Chairs Missing (2006 Remastered Version)",
+        author: "Wire",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b099d03bb44b48861ac62594",
+        kind: "album",
+        link: "https://open.spotify.com/album/7tWxaE1as1wy12Yd1De41r",
+        comment: "Github Action"
+    },
+    {
         title: "Real Life",
         author: "Magazine",
         cover: "https://i.scdn.co/image/ab67616d0000b2737690a441fbe4c5276c609dd6",
