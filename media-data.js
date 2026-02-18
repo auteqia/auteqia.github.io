@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Who Feels Love?",
+        author: "Oasis",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a9e0a1ba4b2d2607fbf2ff92",
+        kind: "album",
+        link: "https://open.spotify.com/album/6Z9BSDXNXMaBi7kqACZrmO",
+        comment: "Github Action"
+    },
+    {
+        title: "Scream Bloody Gore",
+        author: "Death",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731a777d64261a574192311760",
+        kind: "album",
+        link: "https://open.spotify.com/album/0PvGbpxBh7faAVbeZM4sIm",
+        comment: "Github Action"
+    },
+    {
+        title: "Revolver (Remastered)",
+        author: "The Beatles",
+        cover: "https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a",
+        kind: "album",
+        link: "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR",
+        comment: "Github Action"
+    },
+    {
+        title: "The Hypnoflip Invasion",
+        author: "Stupeflip",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733e906a29b72fa1256f68bc05",
+        kind: "album",
+        link: "https://open.spotify.com/album/4UyYaeyTu8hWz8h0FXzGpB",
+        comment: "Github Action"
+    },
+    {
+        title: "Little By Little / She Is Love",
+        author: "Oasis",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730d3a462b08e32d8770eb879a",
+        kind: "album",
+        link: "https://open.spotify.com/album/1U1nCK0H7yRK01vorP8M0x",
+        comment: "Github Action"
+    },
+    {
         title: "XXV",
         author: "Tryo",
         cover: "https://i.scdn.co/image/ab67616d0000b2733b9938287cc0403941ac2101",
