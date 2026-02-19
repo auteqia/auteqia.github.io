@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "First Two Seven Inches",
+        author: "Minor Threat",
+        cover: "https://i.scdn.co/image/ab67616d0000b27384dfb3b0e738e2cc8e29d8fa",
+        kind: "album",
+        link: "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy",
+        comment: "Github Action"
+    },
+    {
         title: "Y",
         author: "The Pop Group",
         cover: "https://i.scdn.co/image/ab67616d0000b2733609074affa9e3d2fde0c5c7",
