@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Y",
+        author: "The Pop Group",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733609074affa9e3d2fde0c5c7",
+        kind: "album",
+        link: "https://open.spotify.com/album/2FIPqFsTkNb5K6gX0aXcUc",
+        comment: "Github Action"
+    },
+    {
         title: "Fillmore East - June 1971",
         author: "Frank Zappa",
         cover: "https://i.scdn.co/image/ab67616d0000b273129237903ac5729a7358db6b",
