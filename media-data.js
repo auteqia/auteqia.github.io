@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Fillmore East - June 1971",
+        author: "Frank Zappa",
+        cover: "https://i.scdn.co/image/ab67616d0000b273129237903ac5729a7358db6b",
+        kind: "album",
+        link: "https://open.spotify.com/album/1yOAuEEslYZboZveVlHjV1",
+        comment: "Github Action"
+    },
+    {
         title: "Chairs Missing (2006 Remastered Version)",
         author: "Wire",
         cover: "https://i.scdn.co/image/ab67616d0000b273b099d03bb44b48861ac62594",
