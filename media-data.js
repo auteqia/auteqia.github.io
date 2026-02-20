@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Evergreen (Expanded)",
+        author: "Echo & the Bunnymen",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730eb218fd1285469a0ef77e24",
+        kind: "album",
+        link: "https://open.spotify.com/album/7ynWqEk1YxxZ2TYf1v6imE",
+        comment: "Github Action"
+    },
+    {
+        title: "The Best of Echo & The Bunnymen",
+        author: "Echo & the Bunnymen",
+        cover: "https://i.scdn.co/image/ab67616d0000b27342b3a436a9078ebb9e1a029f",
+        kind: "album",
+        link: "https://open.spotify.com/album/0KJWnz3i4TZXzWQMSnKzSv",
+        comment: "Github Action"
+    },
+    {
+        title: "Porcupine (Expanded; 2004 Remaster)",
+        author: "Echo & the Bunnymen",
+        cover: "https://i.scdn.co/image/ab67616d0000b273aa3c0529b9fc1fee2d0acc66",
+        kind: "album",
+        link: "https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC",
+        comment: "Github Action"
+    },
+    {
         title: "Them Again",
         author: "Them",
         cover: "https://i.scdn.co/image/ab67616d0000b273fdf8b7763e56f84820e47c16",
