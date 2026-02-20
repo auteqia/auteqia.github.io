@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "What Are You Going To Do With Your Life? (Remastered & Expanded)",
+        author: "Echo & the Bunnymen",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e5aa08b2bf1de7d65365a4ce",
+        kind: "album",
+        link: "https://open.spotify.com/album/0vxXOLkOzNqQpNsQiHGiFW",
+        comment: "Github Action"
+    },
+    {
         title: "Evergreen (Expanded)",
         author: "Echo & the Bunnymen",
         cover: "https://i.scdn.co/image/ab67616d0000b2730eb218fd1285469a0ef77e24",
