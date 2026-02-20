@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "James Brown Live At The Apollo, 1962",
+        author: "James Brown",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fdb85e117008b8f7d5add502",
+        kind: "album",
+        link: "https://open.spotify.com/album/0B6BbyElOe4bwziJrunOTe",
+        comment: "Github Action"
+    },
+    {
         title: "Dance Party",
         author: "Martha Reeves & The Vandellas",
         cover: "https://i.scdn.co/image/ab67616d0000b273fc466e0c9ac165ac85ddbedf",
