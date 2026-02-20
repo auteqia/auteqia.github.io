@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Them Again",
+        author: "Them",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fdf8b7763e56f84820e47c16",
+        kind: "album",
+        link: "https://open.spotify.com/album/3FUacoqhBjhfyH530RPIg4",
+        comment: "Github Action"
+    },
+    {
+        title: "Songs to Learn & Sing",
+        author: "Echo & the Bunnymen",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738c3bd313f076150e2d9299c2",
+        kind: "album",
+        link: "https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb",
+        comment: "Github Action"
+    },
+    {
+        title: "Salad Days",
+        author: "Minor Threat",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733e9bdc0a168b9e4b51ff258f",
+        kind: "album",
+        link: "https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2",
+        comment: "Github Action"
+    },
+    {
         title: "James Brown Live At The Apollo, 1962",
         author: "James Brown",
         cover: "https://i.scdn.co/image/ab67616d0000b273fdb85e117008b8f7d5add502",
