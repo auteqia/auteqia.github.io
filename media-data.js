@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "¡Demolición! The Complete Recordings",
+        author: "Los Saicos",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738a9fd32a1462fab9e81402ec",
+        kind: "album",
+        link: "https://open.spotify.com/album/3Ai7SkBLKNZusgIRiP1R1M",
+        comment: "Github Action"
+    },
+    {
         title: "First Two Seven Inches",
         author: "Minor Threat",
         cover: "https://i.scdn.co/image/ab67616d0000b27384dfb3b0e738e2cc8e29d8fa",
