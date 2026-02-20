@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Dance Party",
+        author: "Martha Reeves & The Vandellas",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fc466e0c9ac165ac85ddbedf",
+        kind: "album",
+        link: "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ",
+        comment: "Github Action"
+    },
+    {
         title: "¡Demolición! The Complete Recordings",
         author: "Los Saicos",
         cover: "https://i.scdn.co/image/ab67616d0000b2738a9fd32a1462fab9e81402ec",
