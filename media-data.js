@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Hee Haw",
+        author: "The Birthday Party",
+        cover: "https://i.scdn.co/image/ab67616d0000b273693e0cedbea22290b6bb2843",
+        kind: "album",
+        link: "https://open.spotify.com/album/6TApSW01RkGszyeWyzyOmZ",
+        comment: "Github Action"
+    },
+    {
+        title: "Melody of Certain Damaged Lemons",
+        author: "Blonde Redhead",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735d03db2dbc21ba11e3e00330",
+        kind: "album",
+        link: "https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN",
+        comment: "Github Action"
+    },
+    {
         title: "Nico Teen Love",
         author: "BB Brunes",
         cover: "https://i.scdn.co/image/ab67616d0000b27317c83039110f1708e5d92f82",
