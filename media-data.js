@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "Hunky Dory (2015 Remaster)",
+        author: "David Bowie",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e464904cc3fed2b40fc55120",
+        kind: "album",
+        link: "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l",
+        comment: "Github Action"
+    },
+    {
+        title: "Disraeli Gears (Deluxe Edition)",
+        author: "Cream",
+        cover: "https://i.scdn.co/image/ab67616d0000b273db1fb2dede292908e86d94d7",
+        kind: "album",
+        link: "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4",
+        comment: "Github Action"
+    },
+    {
+        title: "Band On The Run",
+        author: "Paul McCartney",
+        cover: "https://i.scdn.co/image/ab67616d0000b273be7a3a1e2d663eea2918e5a3",
+        kind: "album",
+        link: "https://open.spotify.com/album/257oomaawruFknt5wYCPDh",
+        comment: "Github Action"
+    },
+    {
+        title: "Over-Nite Sensation",
+        author: "Frank Zappa",
+        cover: "https://i.scdn.co/image/ab67616d0000b27333cbb9723360ae61e33ec302",
+        kind: "album",
+        link: "https://open.spotify.com/album/3QrEk9Va9qO4uobczNUtqe",
+        comment: "Github Action"
+    },
+    {
         title: "This Is Hardcore (Deluxe Edition)",
         author: "Pulp",
         cover: "https://i.scdn.co/image/ab67616d0000b27310bed0eb554cafa1d02f31c1",
