@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "Nico Teen Love",
+        author: "BB Brunes",
+        cover: "https://i.scdn.co/image/ab67616d0000b27317c83039110f1708e5d92f82",
+        kind: "album",
+        link: "https://open.spotify.com/album/3CaWeqpBhLWPyFU0sALf8k",
+        comment: "Github Action"
+    },
+    {
+        title: "Blonde comme moi (Edition Deluxe)",
+        author: "BB Brunes",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b70aab4d66a551cdfc55b6d0",
+        kind: "album",
+        link: "https://open.spotify.com/album/5LDvJDi17Xryslp6pnBZIT",
+        comment: "Github Action"
+    },
+    {
+        title: "The Gift (Deluxe Version)",
+        author: "Midge Ure",
+        cover: "https://i.scdn.co/image/ab67616d0000b27335361f7a360ff7866b1239b5",
+        kind: "album",
+        link: "https://open.spotify.com/album/0DNP13wKaoLYUxEalsVW0Z",
+        comment: "Github Action"
+    },
+    {
+        title: "Long courrier (Edition Deluxe)",
+        author: "BB Brunes",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739e9f0346e5078746677a724a",
+        kind: "album",
+        link: "https://open.spotify.com/album/4DWPVlrDHwCoVaiQV5lYeP",
+        comment: "Github Action"
+    },
+    {
         title: "What Are You Going To Do With Your Life? (Remastered & Expanded)",
         author: "Echo & the Bunnymen",
         cover: "https://i.scdn.co/image/ab67616d0000b273e5aa08b2bf1de7d65365a4ce",
