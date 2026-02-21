@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "This Is Hardcore (Deluxe Edition)",
+        author: "Pulp",
+        cover: "https://i.scdn.co/image/ab67616d0000b27310bed0eb554cafa1d02f31c1",
+        kind: "album",
+        link: "https://open.spotify.com/album/4KVaUWQnFQSqP3lBViJTO5",
+        comment: "Github Action"
+    },
+    {
         title: "Hee Haw",
         author: "The Birthday Party",
         cover: "https://i.scdn.co/image/ab67616d0000b273693e0cedbea22290b6bb2843",
