@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Fresh Cream",
+        author: "Cream",
+        cover: "https://i.scdn.co/image/ab67616d0000b27393a3bb62961a598ecaad1f75",
+        kind: "album",
+        link: "https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB",
+        comment: "Github Action"
+    },
+    {
         title: "Debussy: Children's Corner; Suite bergamasque; Images",
         author: "Claude Debussy",
         cover: "https://i.scdn.co/image/ab67616d0000b27375a31b6a823db32c88b5250a",
