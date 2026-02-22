@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "We Are The '80s",
+        author: "A Flock Of Seagulls",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b3704cb907f6638aeed16abf",
+        kind: "album",
+        link: "https://open.spotify.com/album/48ajNqhmdKrGVwJo0UGMiV",
+        comment: "Github Action"
+    },
+    {
         title: "Hunky Dory (2015 Remaster)",
         author: "David Bowie",
         cover: "https://i.scdn.co/image/ab67616d0000b273e464904cc3fed2b40fc55120",
