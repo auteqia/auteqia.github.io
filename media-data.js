@@ -1,5 +1,69 @@
 const mediaLibrary = [
     {
+        title: "Debussy: Children's Corner; Suite bergamasque; Images",
+        author: "Claude Debussy",
+        cover: "https://i.scdn.co/image/ab67616d0000b27375a31b6a823db32c88b5250a",
+        kind: "album",
+        link: "https://open.spotify.com/album/4shOmw7ac8NMr8JgGt924Q",
+        comment: "Github Action"
+    },
+    {
+        title: "Debussy: Piano Works, Vol. 1",
+        author: "Claude Debussy",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bdbc566172ef51db09e71c78",
+        kind: "album",
+        link: "https://open.spotify.com/album/288BQLUGKvQGDs9SIfIQbD",
+        comment: "Github Action"
+    },
+    {
+        title: "Debussy: Complete Works for Piano, Vol. 3",
+        author: "Claude Debussy",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d9c2df5e090c4dd6950e48ef",
+        kind: "album",
+        link: "https://open.spotify.com/album/22C1hMpAMdYEAvByt945Cz",
+        comment: "Github Action"
+    },
+    {
+        title: "Debussy: Estampes; Pour le piano; 6 épigraphes antiques",
+        author: "Claude Debussy",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c920ea9d948db2c0ea0a0017",
+        kind: "album",
+        link: "https://open.spotify.com/album/6k80XA8falWG4JO4aOAyld",
+        comment: "Github Action"
+    },
+    {
+        title: "Debussy: Bruyères (Home Session)",
+        author: "Claude Debussy",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d7fa510787b1b906daf35f90",
+        kind: "album",
+        link: "https://open.spotify.com/album/4BXFAXaREZ96i733A132um",
+        comment: "Github Action"
+    },
+    {
+        title: "The Complete Debussy: Préludes pour solo piano",
+        author: "Claude Debussy",
+        cover: "https://i.scdn.co/image/ab67616d0000b27331d6cacc9fbba30cd9bf6a8e",
+        kind: "album",
+        link: "https://open.spotify.com/album/7lRTB8X2ZkzxD8hxfDcMtX",
+        comment: "Github Action"
+    },
+    {
+        title: "Alexis Weissenberg plays Debussy",
+        author: "Claude Debussy",
+        cover: "https://i.scdn.co/image/ab67616d0000b273909d196836b4b21cd3ae7748",
+        kind: "album",
+        link: "https://open.spotify.com/album/5KVTCaYPsGNHkeOdKztRcx",
+        comment: "Github Action"
+    },
+    {
+        title: "Debussy: Complete Works for Solo Piano, Vol.1",
+        author: "Claude Debussy",
+        cover: "https://i.scdn.co/image/ab67616d0000b273735a91c9c4cef92e888068c8",
+        kind: "album",
+        link: "https://open.spotify.com/album/0cfusqtz8FdhjN03BUAS0l",
+        comment: "Github Action"
+    },
+    {
         title: "Beethoven: Piano Sonatas, Vol. 3",
         author: "Ludwig van Beethoven",
         cover: "https://i.scdn.co/image/ab67616d0000b273e8580303c8c1e369c643fcb7",
