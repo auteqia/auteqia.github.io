@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Beethoven: Piano Sonatas, Vol. 3",
+        author: "Ludwig van Beethoven",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e8580303c8c1e369c643fcb7",
+        kind: "album",
+        link: "https://open.spotify.com/album/0agchkBY40W1AA7J7ZmDrx",
+        comment: "Github Action"
+    },
+    {
+        title: "Beethoven Masterpieces, Vols. 1-5",
+        author: "Ludwig van Beethoven",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734260398ed8bae210b06f1e16",
+        kind: "album",
+        link: "https://open.spotify.com/album/76Vya6t9UIVbrBDYo9bSBB",
+        comment: "Github Action"
+    },
+    {
+        title: "Debussy: Clair De Lune and Other Piano Favourites",
+        author: "Claude Debussy",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a",
+        kind: "album",
+        link: "https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe",
+        comment: "Github Action"
+    },
+    {
+        title: "Debussy: Suite bergamasque, L. 75, 3. Clair de lune",
+        author: "Claude Debussy",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731277085743389aa91af6f39b",
+        kind: "album",
+        link: "https://open.spotify.com/album/4Ll3RGpn0eVY6MMKPTP99C",
+        comment: "Github Action"
+    },
+    {
+        title: "Für Elise, Bagatelle No. 25 in A Minor, WoO 59",
+        author: "Ludwig van Beethoven",
+        cover: "https://i.scdn.co/image/ab67616d0000b27399f253ebd86fb26803542dd9",
+        kind: "album",
+        link: "https://open.spotify.com/album/230jpjk9w7MGupNMMvXoaN",
+        comment: "Github Action"
+    },
+    {
         title: "We Are The '80s",
         author: "A Flock Of Seagulls",
         cover: "https://i.scdn.co/image/ab67616d0000b273b3704cb907f6638aeed16abf",
