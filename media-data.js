@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Album - Generic Flipper",
+        author: "Flipper",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730fff505b67046a7b30f5c9ec",
+        kind: "album",
+        link: "https://open.spotify.com/album/7p8wkhnQPET9CsQRpqrIYP",
+        comment: "Github Action"
+    },
+    {
         title: "Fresh Cream",
         author: "Cream",
         cover: "https://i.scdn.co/image/ab67616d0000b27393a3bb62961a598ecaad1f75",
