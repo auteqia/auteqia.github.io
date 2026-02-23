@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Night Time",
+        author: "Killing Joke",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730208ae0064b1de2bc955d566",
+        kind: "album",
+        link: "https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f",
+        comment: "Github Action"
+    },
+    {
         title: "Des mythos",
         author: "Theodora",
         cover: "https://i.scdn.co/image/ab67616d0000b273dc95b6300829765e0e2336d9",
