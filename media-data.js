@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Des mythos",
+        author: "Theodora",
+        cover: "https://i.scdn.co/image/ab67616d0000b273dc95b6300829765e0e2336d9",
+        kind: "album",
+        link: "https://open.spotify.com/album/1oEH5R9wEyBGUfutYhtv8I",
+        comment: "Github Action"
+    },
+    {
         title: "Album - Generic Flipper",
         author: "Flipper",
         cover: "https://i.scdn.co/image/ab67616d0000b2730fff505b67046a7b30f5c9ec",
