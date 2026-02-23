@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Tranquilizer",
+        author: "Oneohtrix Point Never",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+        kind: "album",
+        link: "https://open.spotify.com/album/4nOjUCw5rOroJp1JHcLZau",
+        comment: "Github Action"
+    },
+    {
         title: "Wheels Of Fire",
         author: "Cream",
         cover: "https://i.scdn.co/image/ab67616d0000b2735c7731f5acdcb2d02d78b7ee",
