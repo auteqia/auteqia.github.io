@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "No Dice (Remastered 2010 / Deluxe Edition)",
+        author: "Badfinger",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c3404368ea65ac78414935ab",
+        kind: "album",
+        link: "https://open.spotify.com/album/2k5XYJN31jQz577blA1Xod",
+        comment: "Github Action"
+    },
+    {
+        title: "Parallel Lines",
+        author: "Blondie",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ace2bedb8e6cfa04207d5c0f",
+        kind: "album",
+        link: "https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts",
+        comment: "Github Action"
+    },
+    {
         title: "Tranquilizer",
         author: "Oneohtrix Point Never",
         cover: "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
