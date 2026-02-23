@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Wheels Of Fire",
+        author: "Cream",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735c7731f5acdcb2d02d78b7ee",
+        kind: "album",
+        link: "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9",
+        comment: "Github Action"
+    },
+    {
         title: "Night Time",
         author: "Killing Joke",
         cover: "https://i.scdn.co/image/ab67616d0000b2730208ae0064b1de2bc955d566",
