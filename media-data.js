@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Movement",
+        author: "New Order",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733799b162f6b365f781b07515",
+        kind: "album",
+        link: "https://open.spotify.com/album/2DI73ocB6x1ExxoJbT4QI8",
+        comment: "Github Action"
+    },
+    {
+        title: "Taking Drugs To Make Music To Take Drugs To (Remastered)",
+        author: "Spacemen 3",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e386dbc260966f289d522cee",
+        kind: "album",
+        link: "https://open.spotify.com/album/7FSQqsjvQnFTHkz54vvwEF",
+        comment: "Github Action"
+    },
+    {
+        title: "Sentimental Education",
+        author: "Free Kitten",
+        cover: "https://i.scdn.co/image/ab67616d0000b27385b9944dffd04062723d4d01",
+        kind: "album",
+        link: "https://open.spotify.com/album/1LZ2nY0wq3wnj7Rm5ORrDr",
+        comment: "Github Action"
+    },
+    {
+        title: "Fake Train",
+        author: "Unwound",
+        cover: "https://i.scdn.co/image/ab67616d0000b273eee011b97770c8d31e687fac",
+        kind: "album",
+        link: "https://open.spotify.com/album/0s9B9VnN71Msp8Yozx0xCM",
+        comment: "Github Action"
+    },
+    {
+        title: "Pink Flag (2006 Remastered Version)",
+        author: "Wire",
+        cover: "https://i.scdn.co/image/ab67616d0000b27321faee05f3c4d648d971f1b0",
+        kind: "album",
+        link: "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L",
+        comment: "Github Action"
+    },
+    {
         title: "Refried Ectoplasm [Switched On Volume 2]",
         author: "Stereolab",
         cover: "https://i.scdn.co/image/ab67616d0000b2734381faf1ff15d8c4a7d42d7d",
