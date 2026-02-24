@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Refried Ectoplasm [Switched On Volume 2]",
+        author: "Stereolab",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734381faf1ff15d8c4a7d42d7d",
+        kind: "album",
+        link: "https://open.spotify.com/album/44hyVkJM5NHGkQH48MWkid",
+        comment: "Github Action"
+    },
+    {
+        title: "Leaves Turn Inside You",
+        author: "Unwound",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bac832268c04e2050324f7af",
+        kind: "album",
+        link: "https://open.spotify.com/album/6lw4HFj2dgaG98jjSP5zOz",
+        comment: "Github Action"
+    },
+    {
         title: "Lust For Life (The Prodigy Remix)",
         author: "Iggy Pop",
         cover: "https://i.scdn.co/image/ab67616d0000b273005a96aa94df4e7f21139152",
