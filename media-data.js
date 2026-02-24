@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Lust For Life (The Prodigy Remix)",
+        author: "Iggy Pop",
+        cover: "https://i.scdn.co/image/ab67616d0000b273005a96aa94df4e7f21139152",
+        kind: "album",
+        link: "https://open.spotify.com/album/4qHxDHh1Go7ZR6d8fPC2Pd",
+        comment: "Github Action"
+    },
+    {
         title: "No Dice (Remastered 2010 / Deluxe Edition)",
         author: "Badfinger",
         cover: "https://i.scdn.co/image/ab67616d0000b273c3404368ea65ac78414935ab",
