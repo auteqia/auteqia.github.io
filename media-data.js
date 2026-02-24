@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Fire of Love (Remastered 2020)",
+        author: "The Gun Club",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cd0ce9240696f17932c714be",
+        kind: "album",
+        link: "https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu",
+        comment: "Github Action"
+    },
+    {
+        title: "The Argument",
+        author: "Fugazi",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739fd55b3dfb2faa44fb03174a",
+        kind: "album",
+        link: "https://open.spotify.com/album/1zql8Jptd9BhBt2d8bgnVY",
+        comment: "Github Action"
+    },
+    {
+        title: "Solid Gold",
+        author: "Gang Of Four",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d8748dde13e75896d8cd7fc6",
+        kind: "album",
+        link: "https://open.spotify.com/album/6dhsLGebvHR7CCf5hKQUYG",
+        comment: "Github Action"
+    },
+    {
         title: "Movement",
         author: "New Order",
         cover: "https://i.scdn.co/image/ab67616d0000b2733799b162f6b365f781b07515",
