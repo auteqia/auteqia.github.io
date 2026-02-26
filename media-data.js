@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Human After All",
+        author: "Daft Punk",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734b10d0325d3f46b212091eaa",
+        kind: "album",
+        link: "https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo",
+        comment: "Github Action"
+    },
+    {
         title: "Post Live",
         author: "Björk",
         cover: "https://i.scdn.co/image/ab67616d0000b2737c2d0e0e53162d38db214956",
