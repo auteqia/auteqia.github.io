@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Watchmen: Volume 1 (Music from the HBO Series)",
+        author: "Trent Reznor and Atticus Ross",
+        cover: "https://i.scdn.co/image/ab67616d0000b27311648dac7ed24ecdd8a511c5",
+        kind: "album",
+        link: "https://open.spotify.com/album/59wzsv3sFZdhVDkiDt7J5f",
+        comment: "Github Action"
+    },
+    {
+        title: "Bad Witch",
+        author: "Nine Inch Nails",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731615389ea99c8b16a9ab145b",
+        kind: "album",
+        link: "https://open.spotify.com/album/1eiF9Yybmi5Iuz0UCfxGt3",
+        comment: "Github Action"
+    },
+    {
         title: "Human After All",
         author: "Daft Punk",
         cover: "https://i.scdn.co/image/ab67616d0000b2734b10d0325d3f46b212091eaa",
