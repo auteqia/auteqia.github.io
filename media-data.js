@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Cults",
+        author: "Cults",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ae2a6ced3e0cc3636cbdf8c3",
+        kind: "album",
+        link: "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M",
+        comment: "Github Action"
+    },
+    {
+        title: "Prettiest Loser",
+        author: "roseboy666",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736bb95661c8da1d901b5ae41c",
+        kind: "album",
+        link: "https://open.spotify.com/album/2FtsmMEW23zhjBo3TfBcEs",
+        comment: "Github Action"
+    },
+    {
         title: "Watchmen: Volume 1 (Music from the HBO Series)",
         author: "Trent Reznor and Atticus Ross",
         cover: "https://i.scdn.co/image/ab67616d0000b27311648dac7ed24ecdd8a511c5",
