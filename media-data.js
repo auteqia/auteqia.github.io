@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Boston",
+        author: "Boston",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694",
+        kind: "album",
+        link: "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC",
+        comment: "Github Action"
+    },
+    {
         title: "Fire of Love (Remastered 2020)",
         author: "The Gun Club",
         cover: "https://i.scdn.co/image/ab67616d0000b273cd0ce9240696f17932c714be",
