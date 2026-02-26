@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Post Live",
+        author: "Björk",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737c2d0e0e53162d38db214956",
+        kind: "album",
+        link: "https://open.spotify.com/album/34giLYSGjEgQoX6HdEa8V9",
+        comment: "Github Action"
+    },
+    {
         title: "Boston",
         author: "Boston",
         cover: "https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694",
