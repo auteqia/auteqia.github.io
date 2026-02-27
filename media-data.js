@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "La cerise",
+        author: "Matmatah",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735a1ef34b02ecef53ef3e9df5",
+        kind: "album",
+        link: "https://open.spotify.com/album/5sN0weTtwIRLDQmbvXG6XC",
+        comment: "Github Action"
+    },
+    {
+        title: "Plates coutures",
+        author: "Matmatah",
+        cover: "https://i.scdn.co/image/ab67616d0000b273320f42cb7ec2b53d9c1abdb6",
+        kind: "album",
+        link: "https://open.spotify.com/album/35KPICCxAelsB81JKpLZjN",
+        comment: "Github Action"
+    },
+    {
+        title: "Archie Kramer",
+        author: "Matmatah",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f6cbd513cb1ad71d59ed19bf",
+        kind: "album",
+        link: "https://open.spotify.com/album/3gj1xOYavgASUY1j27bTGZ",
+        comment: "Github Action"
+    },
+    {
+        title: "Carpe Diem, Moonman",
+        author: "Psychedelic Porn Crumpets",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b54981f9530df31fca5d0edf",
+        kind: "album",
+        link: "https://open.spotify.com/album/16GtmNPUFAfLM3l3pZFNye",
+        comment: "Github Action"
+    },
+    {
         title: "Vulgar Display of Power (Expanded)",
         author: "Pantera",
         cover: "https://i.scdn.co/image/ab67616d0000b27374c33723db6a5141e54531bf",
