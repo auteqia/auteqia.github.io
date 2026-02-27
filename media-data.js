@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "Vulgar Display of Power (Expanded)",
+        author: "Pantera",
+        cover: "https://i.scdn.co/image/ab67616d0000b27374c33723db6a5141e54531bf",
+        kind: "album",
+        link: "https://open.spotify.com/album/1x09hOE124v9jMuQZRYqWN",
+        comment: "Github Action"
+    },
+    {
+        title: "La Ouache",
+        author: "Matmatah",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b0eb3f7cdf1562ff03601015",
+        kind: "album",
+        link: "https://open.spotify.com/album/3Jc7BaQeEeWq1KwDXmbS8g",
+        comment: "Github Action"
+    },
+    {
+        title: "The Sound of Perseverance - Reissue",
+        author: "Death",
+        cover: "https://i.scdn.co/image/ab67616d0000b27391fcdc499f2dbfbcd7e58b59",
+        kind: "album",
+        link: "https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB",
+        comment: "Github Action"
+    },
+    {
+        title: "The Great Southern Trendkill",
+        author: "Pantera",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e698b41c758c1a49fecbc1cf",
+        kind: "album",
+        link: "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha",
+        comment: "Github Action"
+    },
+    {
         title: "Fear of Music (Deluxe Version)",
         author: "Talking Heads",
         cover: "https://i.scdn.co/image/ab67616d0000b2738365f74aa622b1b86962c8dd",
