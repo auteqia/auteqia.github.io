@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Santana (Legacy Edition)",
+        author: "Santana",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c894463d06b775f87d57361b",
+        kind: "album",
+        link: "https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu",
+        comment: "Github Action"
+    },
+    {
+        title: "Woodstock Saturday August 16, 1969 (Live)",
+        author: "Santana",
+        cover: "https://i.scdn.co/image/ab67616d0000b273aebbe1b80f55974971d76089",
+        kind: "album",
+        link: "https://open.spotify.com/album/0sD74v39fruVV6LM9cP6G4",
+        comment: "Github Action"
+    },
+    {
         title: "Bipolar",
         author: "Yot Club",
         cover: "https://i.scdn.co/image/ab67616d0000b2731a72818330a056c9d3556a68",
