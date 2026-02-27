@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Fear of Music (Deluxe Version)",
+        author: "Talking Heads",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738365f74aa622b1b86962c8dd",
+        kind: "album",
+        link: "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo",
+        comment: "Github Action"
+    },
+    {
         title: "Sandinista! (Remastered)",
         author: "The Clash",
         cover: "https://i.scdn.co/image/ab67616d0000b27312ca1cd8c311b02dd1d2b144",
