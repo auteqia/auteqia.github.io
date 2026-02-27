@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Bipolar",
+        author: "Yot Club",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731a72818330a056c9d3556a68",
+        kind: "album",
+        link: "https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT",
+        comment: "Github Action"
+    },
+    {
+        title: "The Misfits Box Set",
+        author: "Misfits",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730adf29d267ea9a7e149b2ae0",
+        kind: "album",
+        link: "https://open.spotify.com/album/6vZ6KNlP8hReYxJVuU7G42",
+        comment: "Github Action"
+    },
+    {
+        title: "Notion",
+        author: "The Rare Occasions",
+        cover: "https://i.scdn.co/image/ab67616d0000b273598721fc8c9dde3f65a73a08",
+        kind: "album",
+        link: "https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx",
+        comment: "Github Action"
+    },
+    {
+        title: "Hey Lover / Stand by Me",
+        author: "The Daughters Of Eve",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c148a2f0d30a396bc2cc359f",
+        kind: "album",
+        link: "https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE",
+        comment: "Github Action"
+    },
+    {
+        title: "moment",
+        author: "Vierre Cloud",
+        cover: "https://i.scdn.co/image/ab67616d0000b273624db3b4894e5a32e3c0206a",
+        kind: "album",
+        link: "https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m",
+        comment: "Github Action"
+    },
+    {
         title: "Cults",
         author: "Cults",
         cover: "https://i.scdn.co/image/ab67616d0000b273ae2a6ced3e0cc3636cbdf8c3",
