@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Shyga! The Sunlight Mound",
+        author: "Psychedelic Porn Crumpets",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732476f98ab44d5fb389229554",
+        kind: "album",
+        link: "https://open.spotify.com/album/2uK0K24XAD2Q13TDByXHfT",
+        comment: "Github Action"
+    },
+    {
         title: "La cerise",
         author: "Matmatah",
         cover: "https://i.scdn.co/image/ab67616d0000b2735a1ef34b02ecef53ef3e9df5",
