@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Sandinista! (Remastered)",
+        author: "The Clash",
+        cover: "https://i.scdn.co/image/ab67616d0000b27312ca1cd8c311b02dd1d2b144",
+        kind: "album",
+        link: "https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF",
+        comment: "Github Action"
+    },
+    {
         title: "Santana (Legacy Edition)",
         author: "Santana",
         cover: "https://i.scdn.co/image/ab67616d0000b273c894463d06b775f87d57361b",
