@@ -1,5 +1,77 @@
 const mediaLibrary = [
     {
+        title: "Birds (expanded & remastered)",
+        author: "Trace",
+        cover: "https://i.scdn.co/image/ab67616d0000b273552835c5cd4f3e3329be6e0f",
+        kind: "album",
+        link: "https://open.spotify.com/album/49rKuO1Iy6xToEQKe9HBYT",
+        comment: "Github Action"
+    },
+    {
+        title: "Gilgamesh I",
+        author: "Gilgamesh Ensemble",
+        cover: "https://i.scdn.co/image/ab67616d0000b273508d847af871efffc58a2105",
+        kind: "album",
+        link: "https://open.spotify.com/album/1OZUssbCtYJjekF3NqsTxw",
+        comment: "Github Action"
+    },
+    {
+        title: "Red Queen to Gryphon Three",
+        author: "Gryphon",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735d4faeeb0e43121da6834c0b",
+        kind: "album",
+        link: "https://open.spotify.com/album/6CQfwaU7xKZI2XdsokjcyJ",
+        comment: "Github Action"
+    },
+    {
+        title: "The Pawn Hearts Sessions",
+        author: "Van Der Graaf Generator",
+        cover: "https://i.scdn.co/image/ab67616d0000b27315658a502332e30d47f25810",
+        kind: "album",
+        link: "https://open.spotify.com/album/1gFxD1QvxsUkafEuIeJ0LW",
+        comment: "Github Action"
+    },
+    {
+        title: "Hijack",
+        author: "Amon Düül II",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f7cbee2725d5ef87bf10d425",
+        kind: "album",
+        link: "https://open.spotify.com/album/50iS3PbUnsf7019KVig3Js",
+        comment: "Github Action"
+    },
+    {
+        title: "Midnight Mushrumps",
+        author: "Gryphon",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ef6f13bd01c40f0b74ca85c4",
+        kind: "album",
+        link: "https://open.spotify.com/album/7AWpSFmura5l08gRZphilF",
+        comment: "Github Action"
+    },
+    {
+        title: "Hatfield And The North",
+        author: "Hatfield & The North",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739648da70c1ba42f956bddf47",
+        kind: "album",
+        link: "https://open.spotify.com/album/4BOWgeJvFkiCg9qa2LYHDk",
+        comment: "Github Action"
+    },
+    {
+        title: "The Full Circle",
+        author: "Forest",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ef36e7e8aede57d26a931217",
+        kind: "album",
+        link: "https://open.spotify.com/album/5f6CU5YKiixznxqpm4LGpM",
+        comment: "Github Action"
+    },
+    {
+        title: "The Garden of Jane Delawney",
+        author: "Trees",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a5e92e6216a09bf61da135b2",
+        kind: "album",
+        link: "https://open.spotify.com/album/7GHCMzjhzyLnq0yRm39DOK",
+        comment: "Github Action"
+    },
+    {
         title: "Gryphon",
         author: "Gryphon",
         cover: "https://i.scdn.co/image/ab67616d0000b2735a41e7a1b9f7f09ea3034732",
