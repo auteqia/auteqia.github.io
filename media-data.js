@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Peel Slowly And See 1965-1969",
+        author: "The Velvet Underground",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ab9a418b9fc13b4b49168c53",
+        kind: "album",
+        link: "https://open.spotify.com/album/0OGocPikh1YO3mnVKfBOxk",
+        comment: "Github Action"
+    },
+    {
         title: "Small Craft On A Milk Sea",
         author: "Brian Eno",
         cover: "https://i.scdn.co/image/ab67616d0000b27327242039badf5afa0c77b010",
