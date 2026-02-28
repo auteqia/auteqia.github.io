@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "A Song for All Seasons",
+        author: "Renaissance",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c6b36d0ded02b5186f92a9b9",
+        kind: "album",
+        link: "https://open.spotify.com/album/7Lrn2mUxwj6X7NFUNmuaQl",
+        comment: "Github Action"
+    },
+    {
         title: "DAMN.",
         author: "Kendrick Lamar",
         cover: "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
