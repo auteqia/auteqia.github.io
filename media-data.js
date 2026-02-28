@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "In Tongues (Deluxe)",
+        author: "Joji",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738e947f66f6d4eeaa56a28767",
+        kind: "album",
+        link: "https://open.spotify.com/album/6ZksrxRWlJ7ExylPyJwfLJ",
+        comment: "Github Action"
+    },
+    {
+        title: "SPIT IN MY FACE!",
+        author: "ThxSoMch",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c2ca118136d81cbd2f3deefd",
+        kind: "album",
+        link: "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA",
+        comment: "Github Action"
+    },
+    {
         title: "Weasels Ripped My Flesh",
         author: "The Mothers Of Invention",
         cover: "https://i.scdn.co/image/ab67616d0000b2738c925f30a9a6ed3a3307c5e6",
