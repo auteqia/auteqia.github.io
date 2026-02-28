@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "DAMN.",
+        author: "Kendrick Lamar",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+        kind: "album",
+        link: "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY",
+        comment: "Github Action"
+    },
+    {
+        title: "Haunted",
+        author: "Laura Les",
+        cover: "https://i.scdn.co/image/ab67616d0000b273469decd59db9e3c542dcf1e9",
+        kind: "album",
+        link: "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O",
+        comment: "Github Action"
+    },
+    {
+        title: "flutter",
+        author: "julie",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c4dc2b71950aadcf932eb9b0",
+        kind: "album",
+        link: "https://open.spotify.com/album/1QP352iMRGi28WUcgjgUan",
+        comment: "Github Action"
+    },
+    {
+        title: "B-Sides & Rarities",
+        author: "Deftones",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739bb36ec0850f21845af83b2d",
+        kind: "album",
+        link: "https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5",
+        comment: "Github Action"
+    },
+    {
         title: "In Tongues (Deluxe)",
         author: "Joji",
         cover: "https://i.scdn.co/image/ab67616d0000b2738e947f66f6d4eeaa56a28767",
