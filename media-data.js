@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Gryphon",
+        author: "Gryphon",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735a41e7a1b9f7f09ea3034732",
+        kind: "album",
+        link: "https://open.spotify.com/album/1JPuxlcUBfWvw7guYHmzr8",
+        comment: "Github Action"
+    },
+    {
         title: "Peel Slowly And See 1965-1969",
         author: "The Velvet Underground",
         cover: "https://i.scdn.co/image/ab67616d0000b273ab9a418b9fc13b4b49168c53",
