@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Desert Island Selection",
+        author: "Brian Eno",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f9b598f5a35fb8b92c545b88",
+        kind: "album",
+        link: "https://open.spotify.com/album/2GQoVezmjpe7EBnxJZMOXG",
+        comment: "Github Action"
+    },
+    {
         title: "Shyga! The Sunlight Mound",
         author: "Psychedelic Porn Crumpets",
         cover: "https://i.scdn.co/image/ab67616d0000b2732476f98ab44d5fb389229554",
