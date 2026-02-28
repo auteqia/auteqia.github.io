@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "The Rotters Club",
+        author: "Hatfield & The North",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a33137e7ef018156561d850e",
+        kind: "album",
+        link: "https://open.spotify.com/album/6NqP2oaumNCKtIoxIpgPKj",
+        comment: "Github Action"
+    },
+    {
+        title: "On the Shore",
+        author: "Trees",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f12114b446bd88a3ff4835fa",
+        kind: "album",
+        link: "https://open.spotify.com/album/4shL68O3ZxBW7TZa3hgvt3",
+        comment: "Github Action"
+    },
+    {
+        title: "Raindance",
+        author: "Gryphon",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d8d47951236bd663997f8526",
+        kind: "album",
+        link: "https://open.spotify.com/album/3keB3ZtVl4YcgtbAn7YpDA",
+        comment: "Github Action"
+    },
+    {
         title: "Birds (expanded & remastered)",
         author: "Trace",
         cover: "https://i.scdn.co/image/ab67616d0000b273552835c5cd4f3e3329be6e0f",
