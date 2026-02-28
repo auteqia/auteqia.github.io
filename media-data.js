@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Weasels Ripped My Flesh",
+        author: "The Mothers Of Invention",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738c925f30a9a6ed3a3307c5e6",
+        kind: "album",
+        link: "https://open.spotify.com/album/7zINPoNwb8ArQgUbq0wlUw",
+        comment: "Github Action"
+    },
+    {
+        title: "Mort / Fine",
+        author: "Vendredi sur Mer",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736db45e600d7e6de917c57ab5",
+        kind: "album",
+        link: "https://open.spotify.com/album/513cuK0WB0vk8uIyoiWr9G",
+        comment: "Github Action"
+    },
+    {
+        title: "Des montagnes de toi",
+        author: "Vendredi sur Mer",
+        cover: "https://i.scdn.co/image/ab67616d0000b27356e38bd4a07f3191fa207d66",
+        kind: "album",
+        link: "https://open.spotify.com/album/2YgOkEKH4iJbGz4SOwHEAe",
+        comment: "Github Action"
+    },
+    {
         title: "Zoot Allures",
         author: "Frank Zappa",
         cover: "https://i.scdn.co/image/ab67616d0000b273e05ac7a59a48ae3b13dfe204",
