@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Small Craft On A Milk Sea",
+        author: "Brian Eno",
+        cover: "https://i.scdn.co/image/ab67616d0000b27327242039badf5afa0c77b010",
+        kind: "album",
+        link: "https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg",
+        comment: "Github Action"
+    },
+    {
+        title: "Trans-Europe Express (2009 Remaster)",
+        author: "Kraftwerk",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737cf7be893131178035b2a3cb",
+        kind: "album",
+        link: "https://open.spotify.com/album/0HHRIVjvBcnTepfeRVgS2f",
+        comment: "Github Action"
+    },
+    {
         title: "Desert Island Selection",
         author: "Brian Eno",
         cover: "https://i.scdn.co/image/ab67616d0000b273f9b598f5a35fb8b92c545b88",
