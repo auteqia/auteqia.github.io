@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Zoot Allures",
+        author: "Frank Zappa",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e05ac7a59a48ae3b13dfe204",
+        kind: "album",
+        link: "https://open.spotify.com/album/4jO5jCLIpGvU08V8VCa5CX",
+        comment: "Github Action"
+    },
+    {
         title: "The Rotters Club",
         author: "Hatfield & The North",
         cover: "https://i.scdn.co/image/ab67616d0000b273a33137e7ef018156561d850e",
