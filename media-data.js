@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Tales Of Mystery And Imagination - Edgar Allan Poe (1987 Remix)",
+        author: "The Alan Parsons Project",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734741ff5942f7fbca500396a1",
+        kind: "album",
+        link: "https://open.spotify.com/album/1Z4oBiD0q8rTwWIYrDwsys",
+        comment: "Github Action"
+    },
+    {
         title: "Singing Bones",
         author: "The Handsome Family",
         cover: "https://i.scdn.co/image/ab67616d0000b27343bf72818b91c6803029dbbe",
