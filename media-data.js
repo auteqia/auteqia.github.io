@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Psychedelic Jungle",
+        author: "The Cramps",
+        cover: "https://i.scdn.co/image/ab67616d0000b273133d663963bdaa99891a5cee",
+        kind: "album",
+        link: "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn",
+        comment: "Github Action"
+    },
+    {
         title: "Twin Peaks: Season Two Music And More",
         author: "Angelo Badalamenti",
         cover: "https://i.scdn.co/image/ab67616d0000b2730673313372db1d10232f5bbb",
