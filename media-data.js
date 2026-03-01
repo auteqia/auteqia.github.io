@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Soundtrack From Twin Peaks",
+        author: "Angelo Badalamenti",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730fe62e9afb4ae8f52a241d33",
+        kind: "album",
+        link: "https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX",
+        comment: "Github Action"
+    },
+    {
         title: "Tales Of Mystery And Imagination - Edgar Allan Poe (1987 Remix)",
         author: "The Alan Parsons Project",
         cover: "https://i.scdn.co/image/ab67616d0000b2734741ff5942f7fbca500396a1",
