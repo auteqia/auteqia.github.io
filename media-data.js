@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Singing Bones",
+        author: "The Handsome Family",
+        cover: "https://i.scdn.co/image/ab67616d0000b27343bf72818b91c6803029dbbe",
+        kind: "album",
+        link: "https://open.spotify.com/album/1B1p6CMiuIqeNt3oYTS0Tj",
+        comment: "Github Action"
+    },
+    {
         title: "A Song for All Seasons",
         author: "Renaissance",
         cover: "https://i.scdn.co/image/ab67616d0000b273c6b36d0ded02b5186f92a9b9",
