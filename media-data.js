@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "In The Groove",
+        author: "Marvin Gaye",
+        cover: "https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8",
+        kind: "album",
+        link: "https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz",
+        comment: "Github Action"
+    },
+    {
+        title: "The Miseducation of Lauryn Hill",
+        author: "Ms. Lauryn Hill",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9",
+        kind: "album",
+        link: "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD",
+        comment: "Github Action"
+    },
+    {
         title: "Psychedelic Jungle",
         author: "The Cramps",
         cover: "https://i.scdn.co/image/ab67616d0000b273133d663963bdaa99891a5cee",
