@@ -1,5 +1,77 @@
 const mediaLibrary = [
     {
+        title: "Comfort Y Musica Para Volar",
+        author: "Soda Stereo",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733875f29a2a8234ac7ef2706a",
+        kind: "album",
+        link: "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8",
+        comment: "Github Action"
+    },
+    {
+        title: "Ibiza",
+        author: "Jul",
+        cover: "https://i.scdn.co/image/ab67616d0000b273158bd49d7566672972bff06e",
+        kind: "album",
+        link: "https://open.spotify.com/album/5dR9Plfma2aeqbhIHnVPNA",
+        comment: "Github Action"
+    },
+    {
+        title: "Justice",
+        author: "Justice",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731c0bcf8b536295438d26c70d",
+        kind: "album",
+        link: "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL",
+        comment: "Github Action"
+    },
+    {
+        title: "Monkey Business",
+        author: "Black Eyed Peas",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c6710b4a52539506c30e5354",
+        kind: "album",
+        link: "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0",
+        comment: "Github Action"
+    },
+    {
+        title: "Turn Blue",
+        author: "The Black Keys",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731af8fb0d8859055d35d2290f",
+        kind: "album",
+        link: "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3",
+        comment: "Github Action"
+    },
+    {
+        title: "Hysteria",
+        author: "Muse",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d3011e4974c10e3971c68824",
+        kind: "album",
+        link: "https://open.spotify.com/album/16rRWuAQcgHUNYs7u0hLTr",
+        comment: "Github Action"
+    },
+    {
+        title: "Kotch",
+        author: "RDX",
+        cover: "https://i.scdn.co/image/ab67616d0000b273795a19ab4eed5fbc5748c319",
+        kind: "album",
+        link: "https://open.spotify.com/album/0oprdfurN8Dhv9mdLl0iPC",
+        comment: "Github Action"
+    },
+    {
+        title: "Spice",
+        author: "Spice Girls",
+        cover: "https://i.scdn.co/image/ab67616d0000b27363facc42e4a35eb3aa182b59",
+        kind: "album",
+        link: "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ",
+        comment: "Github Action"
+    },
+    {
+        title: "Fallen",
+        author: "Evanescence",
+        cover: "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
+        kind: "album",
+        link: "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm",
+        comment: "Github Action"
+    },
+    {
         title: "In The Groove",
         author: "Marvin Gaye",
         cover: "https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8",
