@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Off Center",
+        author: "Scary Pockets",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c6811972a43e44562994abad",
+        kind: "album",
+        link: "https://open.spotify.com/album/6G4HiTG7utCyhTa1jyo0Qu",
+        comment: "Github Action"
+    },
+    {
         title: "Comfort Y Musica Para Volar",
         author: "Soda Stereo",
         cover: "https://i.scdn.co/image/ab67616d0000b2733875f29a2a8234ac7ef2706a",
