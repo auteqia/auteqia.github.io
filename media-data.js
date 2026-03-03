@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "The Beatles 1967 - 1970 (Remastered)",
+        author: "The Beatles",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736e3d3c964df32136fb1cd594",
+        kind: "album",
+        link: "https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs",
+        comment: "Github Action"
+    },
+    {
+        title: "On Point",
+        author: "Old Man Saxon",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b1ab63e4532b31d877b8d676",
+        kind: "album",
+        link: "https://open.spotify.com/album/7wvzwMxihmIeOZTXsFot8K",
+        comment: "Github Action"
+    },
+    {
+        title: "The Perils",
+        author: "Old Man Saxon",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732a90182b8c3d5d4223ef7276",
+        kind: "album",
+        link: "https://open.spotify.com/album/15VC9hXTGfm2haxv6q9Ddw",
+        comment: "Github Action"
+    },
+    {
         title: "Timely!!",
         author: "Anri",
         cover: "https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1",
