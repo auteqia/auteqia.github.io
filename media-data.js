@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Timely!!",
+        author: "Anri",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1",
+        kind: "album",
+        link: "https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV",
+        comment: "Github Action"
+    },
+    {
+        title: "Timely!!",
+        author: "Anri",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1",
+        kind: "album",
+        link: "https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV",
+        comment: "Github Action"
+    },
+    {
         title: "Off Center",
         author: "Scary Pockets",
         cover: "https://i.scdn.co/image/ab67616d0000b273c6811972a43e44562994abad",
