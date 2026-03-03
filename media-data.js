@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Best Of Blondie",
+        author: "Blondie",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738cf86a9be38868f1d73cdb58",
+        kind: "album",
+        link: "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A",
+        comment: "Github Action"
+    },
+    {
         title: "The Beatles 1967 - 1970 (Remastered)",
         author: "The Beatles",
         cover: "https://i.scdn.co/image/ab67616d0000b2736e3d3c964df32136fb1cd594",
