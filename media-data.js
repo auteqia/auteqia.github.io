@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Death to the Pixies",
+        author: "Pixies",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b17d34882944eaf0695153f2",
+        kind: "album",
+        link: "https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985",
+        comment: "Github Action"
+    },
+    {
         title: "Best Of Blondie",
         author: "Blondie",
         cover: "https://i.scdn.co/image/ab67616d0000b2738cf86a9be38868f1d73cdb58",
