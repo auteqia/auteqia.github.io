@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "Back To Black (Deluxe Edition)",
+        author: "Amy Winehouse",
+        cover: "https://i.scdn.co/image/ab67616d0000b27376ffb5b5ab045d22c81235c1",
+        kind: "album",
+        link: "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG",
+        comment: "Github Action"
+    },
+    {
+        title: "\"Awaken, My Love!\"",
+        author: "Childish Gambino",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731c29562d6e8c1f55bb1311d5",
+        kind: "album",
+        link: "https://open.spotify.com/album/4JCybsNZUXWrK2Jpyn12Ni",
+        comment: "Github Action"
+    },
+    {
+        title: "Currents",
+        author: "Tame Impala",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+        kind: "album",
+        link: "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv",
+        comment: "Github Action"
+    },
+    {
+        title: "good kid, m.A.A.d city (Deluxe)",
+        author: "Kendrick Lamar",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d58e537cea05c2156792c53d",
+        kind: "album",
+        link: "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w",
+        comment: "Github Action"
+    },
+    {
         title: "The Snow Goose (2023 Remastered & Expanded Edition)",
         author: "Camel",
         cover: "https://i.scdn.co/image/ab67616d0000b2732f7050e16585dead6c7820c4",
