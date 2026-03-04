@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Thrill of the Arts",
+        author: "Vulfpeck",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ba94b5ac9a0771550fe81682",
+        kind: "album",
+        link: "https://open.spotify.com/album/5ssCRF6doIj5IpM6w8EsXx",
+        comment: "Github Action"
+    },
+    {
+        title: "Silent Alarm",
+        author: "Bloc Party",
+        cover: "https://i.scdn.co/image/ab67616d0000b273029f1f3a1a118dc326687c34",
+        kind: "album",
+        link: "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t",
+        comment: "Github Action"
+    },
+    {
         title: "BRASILIAN SKIES",
         author: "Masayoshi Takanaka",
         cover: "https://i.scdn.co/image/ab67616d0000b273c718e0f746b0f671fd92421e",
