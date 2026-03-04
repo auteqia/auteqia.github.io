@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Snow Goose (2023 Remastered & Expanded Edition)",
+        author: "Camel",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732f7050e16585dead6c7820c4",
+        kind: "album",
+        link: "https://open.spotify.com/album/0BD0bKRAFt8Z5q2NqCTPsN",
+        comment: "Github Action"
+    },
+    {
         title: "Thrill of the Arts",
         author: "Vulfpeck",
         cover: "https://i.scdn.co/image/ab67616d0000b273ba94b5ac9a0771550fe81682",
