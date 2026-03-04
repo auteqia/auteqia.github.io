@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "BRASILIAN SKIES",
+        author: "Masayoshi Takanaka",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c718e0f746b0f671fd92421e",
+        kind: "album",
+        link: "https://open.spotify.com/album/0zXeZw0oFC2Db99RqlfHur",
+        comment: "Github Action"
+    },
+    {
+        title: "Rolling Stones Chronicles",
+        author: "The Rolling Stones",
+        cover: "https://i.scdn.co/image/ab67616d0000b27349a932859b600c93124c922a",
+        kind: "album",
+        link: "https://open.spotify.com/album/2GcMrnQIIGL1ulGbQj7usM",
+        comment: "Github Action"
+    },
+    {
+        title: "I Put A Spell On You",
+        author: "Nina Simone",
+        cover: "https://i.scdn.co/image/ab67616d0000b273892abb1ade35b4863b29e051",
+        kind: "album",
+        link: "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez",
+        comment: "Github Action"
+    },
+    {
+        title: "Beggars Banquet (50th Anniversary Edition)",
+        author: "The Rolling Stones",
+        cover: "https://i.scdn.co/image/ab67616d0000b27344934a06d21864415376f5f2",
+        kind: "album",
+        link: "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd",
+        comment: "Github Action"
+    },
+    {
         title: "Death to the Pixies",
         author: "Pixies",
         cover: "https://i.scdn.co/image/ab67616d0000b273b17d34882944eaf0695153f2",
