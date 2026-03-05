@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Viva! Roxy Music (Live)",
+        author: "Roxy Music",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f5800d45541ffb90b3cdb451",
+        kind: "album",
+        link: "https://open.spotify.com/album/5zdBdKloe6XevKyTUItsN8",
+        comment: "Github Action"
+    },
+    {
         title: "Back To Black (Deluxe Edition)",
         author: "Amy Winehouse",
         cover: "https://i.scdn.co/image/ab67616d0000b27376ffb5b5ab045d22c81235c1",
