@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Face to Face (Deluxe)",
+        author: "The Kinks",
+        cover: "https://i.scdn.co/image/ab67616d0000b27378581804d382a515978d3308",
+        kind: "album",
+        link: "https://open.spotify.com/album/44tcGfOAI8iZc1U5BAgLkT",
+        comment: "Github Action"
+    },
+    {
         title: "40 succès en or",
         author: "Dalida",
         cover: "https://i.scdn.co/image/ab67616d0000b2736821567fcae84d4e59bdf217",
