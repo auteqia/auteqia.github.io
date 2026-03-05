@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "Diana Ross Presents The Jackson 5",
+        author: "The Jackson 5",
+        cover: "https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38",
+        kind: "album",
+        link: "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1",
+        comment: "Github Action"
+    },
+    {
+        title: "Vessel",
+        author: "Twenty One Pilots",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736caad685af37c08063be928d",
+        kind: "album",
+        link: "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn",
+        comment: "Github Action"
+    },
+    {
+        title: "Willy And The Poor Boys (Expanded Edition)",
+        author: "Creedence Clearwater Revival",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739f39192f9f8ca1c90847b3e5",
+        kind: "album",
+        link: "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO",
+        comment: "Github Action"
+    },
+    {
+        title: "September (sped up + slowed)",
+        author: "Earth, Wind & Fire",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730faf2fc17446651865ce2282",
+        kind: "album",
+        link: "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI",
+        comment: "Github Action"
+    },
+    {
         title: "Face to Face (Deluxe)",
         author: "The Kinks",
         cover: "https://i.scdn.co/image/ab67616d0000b27378581804d382a515978d3308",
