@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "40 succès en or",
+        author: "Dalida",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736821567fcae84d4e59bdf217",
+        kind: "album",
+        link: "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H",
+        comment: "Github Action"
+    },
+    {
         title: "Viva! Roxy Music (Live)",
         author: "Roxy Music",
         cover: "https://i.scdn.co/image/ab67616d0000b273f5800d45541ffb90b3cdb451",
