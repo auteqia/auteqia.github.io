@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Goza Mi Timbal",
+        author: "Tito Puente",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bbb8fd6587c8cd267d2dc26d",
+        kind: "album",
+        link: "https://open.spotify.com/album/6kk71dP0bQlAZ1z1o4ZOR1",
+        comment: "Github Action"
+    },
+    {
+        title: "Fiesta Latina by Putumayo",
+        author: "Putumayo",
+        cover: "https://i.scdn.co/image/ab67616d0000b27309e0a2bbbde23b1fc7fd1946",
+        kind: "album",
+        link: "https://open.spotify.com/album/7vxBuABaoaMugz67ixbudg",
+        comment: "Github Action"
+    },
+    {
         title: "Latin Dance Party by Putumayo",
         author: "Putumayo",
         cover: "https://i.scdn.co/image/ab67616d0000b273dfc4df395e0a5dc61d3f11cf",
