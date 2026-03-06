@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Brahms: A German Requiem, Tragic Overture & Haydn Variations",
+        author: "Johannes Brahms",
+        cover: "https://i.scdn.co/image/ab67616d0000b27353a2fe9e4cf7f9aeb0f3a49d",
+        kind: "album",
+        link: "https://open.spotify.com/album/5SBS1qHKpWnDNENNmDIk1c",
+        comment: "Github Action"
+    },
+    {
         title: "Goza Mi Timbal",
         author: "Tito Puente",
         cover: "https://i.scdn.co/image/ab67616d0000b273bbb8fd6587c8cd267d2dc26d",
