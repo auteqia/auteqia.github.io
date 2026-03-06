@@ -1,5 +1,85 @@
 const mediaLibrary = [
     {
+        title: "Paris, France (Remasterisé en 2004)",
+        author: "France Gall",
+        cover: "https://i.scdn.co/image/ab67616d0000b27336b3cc1f1e3e0a06916bc2ba",
+        kind: "album",
+        link: "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7",
+        comment: "Github Action"
+    },
+    {
+        title: "The George Benson Collection",
+        author: "George Benson",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733a3c381f6910a4fe51c2640b",
+        kind: "album",
+        link: "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN",
+        comment: "Github Action"
+    },
+    {
+        title: "Arya Tara",
+        author: "Le Wanski",
+        cover: "https://i.scdn.co/image/ab67616d0000b27369f33ab8aefd5b36dd80787a",
+        kind: "album",
+        link: "https://open.spotify.com/album/2hPTTnD5EZTveZijGnhb6K",
+        comment: "Github Action"
+    },
+    {
+        title: "La bohème",
+        author: "Charles Aznavour",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d2ad600632db1bf5947cd890",
+        kind: "album",
+        link: "https://open.spotify.com/album/60l5j3bSkMidOUgiX8m5sD",
+        comment: "Github Action"
+    },
+    {
+        title: "Le vagabond",
+        author: "Claude François",
+        cover: "https://i.scdn.co/image/ab67616d0000b27367080c9e1363bf31215cd8d3",
+        kind: "album",
+        link: "https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT",
+        comment: "Github Action"
+    },
+    {
+        title: "1999 (Deluxe Edition)",
+        author: "Cassius",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732b7da79e1bf26533122dd3b0",
+        kind: "album",
+        link: "https://open.spotify.com/album/2HKgnzlGIJddpRwDlxit43",
+        comment: "Github Action"
+    },
+    {
+        title: "3",
+        author: "Indochine",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737e0eff6f9a10fe75705c2174",
+        kind: "album",
+        link: "https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu",
+        comment: "Github Action"
+    },
+    {
+        title: "Repenti",
+        author: "Renan Luce",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738fc055f4f40c677a148606a0",
+        kind: "album",
+        link: "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q",
+        comment: "Github Action"
+    },
+    {
+        title: "Dare!",
+        author: "The Human League",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735579d8a505c727349a203074",
+        kind: "album",
+        link: "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY",
+        comment: "Github Action"
+    },
+    {
+        title: "True",
+        author: "Avicii",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e14f11f796cef9f9a82691a7",
+        kind: "album",
+        link: "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0",
+        comment: "Github Action"
+    },
+    {
         title: "Diana Ross Presents The Jackson 5",
         author: "The Jackson 5",
         cover: "https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38",
