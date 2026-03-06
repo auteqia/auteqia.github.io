@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Latin Dance Party by Putumayo",
+        author: "Putumayo",
+        cover: "https://i.scdn.co/image/ab67616d0000b273dfc4df395e0a5dc61d3f11cf",
+        kind: "album",
+        link: "https://open.spotify.com/album/2bJVd4EdHT36Pa3WzfAJEX",
+        comment: "Github Action"
+    },
+    {
+        title: "Caribbean Cruise by Putumayo",
+        author: "Putumayo",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731bbf66d2c4942d87f0804de1",
+        kind: "album",
+        link: "https://open.spotify.com/album/1odWod0uNA5hczoXA8eaav",
+        comment: "Github Action"
+    },
+    {
+        title: "Cambios",
+        author: "Poncho Sanchez",
+        cover: "https://i.scdn.co/image/ab67616d0000b27312679b4a7d82b8077b4589dc",
+        kind: "album",
+        link: "https://open.spotify.com/album/0M6Et0juOLB5lGyS0lpmvE",
+        comment: "Github Action"
+    },
+    {
         title: "Paris, France (Remasterisé en 2004)",
         author: "France Gall",
         cover: "https://i.scdn.co/image/ab67616d0000b27336b3cc1f1e3e0a06916bc2ba",
