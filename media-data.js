@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "Que c'est triste Venise",
+        author: "Charles Aznavour",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734c4557910606021d3ff391be",
+        kind: "album",
+        link: "https://open.spotify.com/album/3kZ8kQRYbgqgD5HVEsAzv1",
+        comment: "Github Action"
+    },
+    {
+        title: "Eternelle",
+        author: "Édith Piaf",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733d69a1082b9d676263912178",
+        kind: "album",
+        link: "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za",
+        comment: "Github Action"
+    },
+    {
+        title: "Comment te dire adieu (Remasterisé en 2016)",
+        author: "Françoise Hardy",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a3f0e9f20bfbdd1ab8752e39",
+        kind: "album",
+        link: "https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB",
+        comment: "Github Action"
+    },
+    {
+        title: "Sacha Distel: Crooner",
+        author: "Sacha Distel",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a968a787ddbe4d5c48d0519b",
+        kind: "album",
+        link: "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV",
+        comment: "Github Action"
+    },
+    {
         title: "Brahms: A German Requiem, Tragic Overture & Haydn Variations",
         author: "Johannes Brahms",
         cover: "https://i.scdn.co/image/ab67616d0000b27353a2fe9e4cf7f9aeb0f3a49d",
