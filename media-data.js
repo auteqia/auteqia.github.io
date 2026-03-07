@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Tomb for Two",
+        author: "Lebanon Hanover",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731c2faefa93ed43f4cc1a079b",
+        kind: "album",
+        link: "https://open.spotify.com/album/7iOwibdJg2i7SQEBpe5EIR",
+        comment: "Github Action"
+    },
+    {
+        title: "Why Not Just Be Solo",
+        author: "Lebanon Hanover",
+        cover: "https://i.scdn.co/image/ab67616d0000b27381ab84facf5bb9086d3b081b",
+        kind: "album",
+        link: "https://open.spotify.com/album/7EsoJwbJNZdM2ve5cByuSf",
+        comment: "Github Action"
+    },
+    {
         title: "Fais comme l'oiseau",
         author: "Michel Fugain & Le Big Bazar",
         cover: "https://i.scdn.co/image/ab67616d0000b273b2b4b12565a8c7c8118cb8ab",
