@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Fais comme l'oiseau",
+        author: "Michel Fugain & Le Big Bazar",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b2b4b12565a8c7c8118cb8ab",
+        kind: "album",
+        link: "https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP",
+        comment: "Github Action"
+    },
+    {
         title: "Que c'est triste Venise",
         author: "Charles Aznavour",
         cover: "https://i.scdn.co/image/ab67616d0000b2734c4557910606021d3ff391be",
