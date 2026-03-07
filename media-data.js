@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Sci-Fi Sky",
+        author: "Lebanon Hanover",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a011cfa0adc819d925cfc69f",
+        kind: "album",
+        link: "https://open.spotify.com/album/75I9xcMRmgbV8z7wCnWlyq",
+        comment: "Github Action"
+    },
+    {
         title: "Tomb for Two",
         author: "Lebanon Hanover",
         cover: "https://i.scdn.co/image/ab67616d0000b2731c2faefa93ed43f4cc1a079b",
