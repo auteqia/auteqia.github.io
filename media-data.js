@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "LTE3 (Deluxe Edition)",
+        author: "Liquid Tension Experiment",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731203463f539ac5fb72bce36e",
+        kind: "album",
+        link: "https://open.spotify.com/album/6GDFV4kWsQDYuah6tSqmu2",
+        comment: "Github Action"
+    },
+    {
         title: "After Laughter (Comes Tears)",
         author: "Wendy Rene",
         cover: "https://i.scdn.co/image/ab67616d0000b273d25cc6f0755624f4b5be5372",
