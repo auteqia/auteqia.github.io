@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "The Blue Yusef Lateef",
+        author: "Yusef Lateef",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b0b7d22d1b8e9f0ae633a7e7",
+        kind: "album",
+        link: "https://open.spotify.com/album/4dpXhQvZAzAbti2Xpccnat",
+        comment: "Github Action"
+    },
+    {
+        title: "In Concert",
+        author: "Joan Baez",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737aaef74d325347c1f878ed0a",
+        kind: "album",
+        link: "https://open.spotify.com/album/66EuOM4JX57MTYRtSzQp4q",
+        comment: "Github Action"
+    },
+    {
+        title: "Wild Is The Wind",
+        author: "Nina Simone",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f94461acebee60775ea22e77",
+        kind: "album",
+        link: "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr",
+        comment: "Github Action"
+    },
+    {
         title: "The Really Loud House (Best of Season 1)",
         author: "The Loud House",
         cover: "https://i.scdn.co/image/ab67616d0000b27346a20f226ab9703a72f0303b",
