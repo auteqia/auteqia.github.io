@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Permanent Sleep/Rain",
+        author: "Lowlife",
+        cover: "https://i.scdn.co/image/ab67616d0000b273522a0eac6ca9a5dc7cd86bda",
+        kind: "album",
+        link: "https://open.spotify.com/album/3YBBwCK6lJ0X2SDTTjXgDT",
+        comment: "Github Action"
+    },
+    {
         title: "LTE3 (Deluxe Edition)",
         author: "Liquid Tension Experiment",
         cover: "https://i.scdn.co/image/ab67616d0000b2731203463f539ac5fb72bce36e",
