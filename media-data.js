@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "After Laughter (Comes Tears)",
+        author: "Wendy Rene",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d25cc6f0755624f4b5be5372",
+        kind: "album",
+        link: "https://open.spotify.com/album/6wBfFrmOvBu0cyksWWlp94",
+        comment: "Github Action"
+    },
+    {
+        title: "Songs: The Art of the Trio, Vol. 3",
+        author: "Brad Mehldau",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a6e9d4c521770de653727753",
+        kind: "album",
+        link: "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9",
+        comment: "Github Action"
+    },
+    {
         title: "The Blue Yusef Lateef",
         author: "Yusef Lateef",
         cover: "https://i.scdn.co/image/ab67616d0000b273b0b7d22d1b8e9f0ae633a7e7",
