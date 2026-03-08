@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "The Really Loud House (Best of Season 1)",
+        author: "The Loud House",
+        cover: "https://i.scdn.co/image/ab67616d0000b27346a20f226ab9703a72f0303b",
+        kind: "album",
+        link: "https://open.spotify.com/album/54Z35YiCswsfNtnL9WdD40",
+        comment: "Github Action"
+    },
+    {
+        title: "A Nod Is as Good as a Wink... to a Blind Horse",
+        author: "Faces",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736bbeb4cecdf6a8900244cc85",
+        kind: "album",
+        link: "https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK",
+        comment: "Github Action"
+    },
+    {
         title: "Sci-Fi Sky",
         author: "Lebanon Hanover",
         cover: "https://i.scdn.co/image/ab67616d0000b273a011cfa0adc819d925cfc69f",
