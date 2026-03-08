@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Douze Pièces Faciles pour guitare 2e recueil",
+        author: "Alexandre Tansman",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cbef81068f9016f5df8a8fb8",
+        kind: "album",
+        link: "https://open.spotify.com/album/1aBHwXGV0WEDyHMBR32Q5G",
+        comment: "Github Action"
+    },
+    {
+        title: "Bach: Works for Lute (Guitar Version)",
+        author: "Johann Sebastian Bach",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f1c5877670d5c06de99ac86f",
+        kind: "album",
+        link: "https://open.spotify.com/album/4IVSMovNNLQBzUw5rtZHms",
+        comment: "Github Action"
+    },
+    {
+        title: "Douze Morceaux Très Faciles pour guitare 1er recueil",
+        author: "Alexandre Tansman",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f90a1d6d20851e9cb9841dcd",
+        kind: "album",
+        link: "https://open.spotify.com/album/6Jk31Sge7s7tTuIfPh6nUN",
+        comment: "Github Action"
+    },
+    {
         title: "Old Doll",
         author: "Bluerra-sai",
         cover: "https://i.scdn.co/image/ab67616d0000b2733a128daab76778910acc1fab",
