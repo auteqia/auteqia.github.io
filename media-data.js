@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "The Best Of Patience & Prudence",
+        author: "Patience & Prudence",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735f71ec43b302d6fad5688f1b",
+        kind: "album",
+        link: "https://open.spotify.com/album/4gjLIgSU0YkJn42NSfckkT",
+        comment: "Github Action"
+    },
+    {
+        title: "In Dreams",
+        author: "Roy Orbison",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731d2ad684e3be9a80606813d1",
+        kind: "album",
+        link: "https://open.spotify.com/album/0s0nPt5iq80RAB7EgvOk9P",
+        comment: "Github Action"
+    },
+    {
         title: "Permanent Sleep/Rain",
         author: "Lowlife",
         cover: "https://i.scdn.co/image/ab67616d0000b273522a0eac6ca9a5dc7cd86bda",
