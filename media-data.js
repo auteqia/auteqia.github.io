@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Old Doll",
+        author: "Bluerra-sai",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733a128daab76778910acc1fab",
+        kind: "album",
+        link: "https://open.spotify.com/album/1GOpCUwzS3PRwWUHE8pPso",
+        comment: "Github Action"
+    },
+    {
+        title: "Mario Castelnuovo-Tedesco / Works for Guitar Solo Vol.1",
+        author: "Mario Castelnuovo-Tedesco",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f440dcaf49288d377b81739e",
+        kind: "album",
+        link: "https://open.spotify.com/album/31AlCQlqMiLKc6VQ0l496t",
+        comment: "Github Action"
+    },
+    {
+        title: "Never for Ever (2018 Remaster)",
+        author: "Kate Bush",
+        cover: "https://i.scdn.co/image/ab67616d0000b27322cd84bf3376a422b214cf60",
+        kind: "album",
+        link: "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH",
+        comment: "Github Action"
+    },
+    {
         title: "The Best Of Patience & Prudence",
         author: "Patience & Prudence",
         cover: "https://i.scdn.co/image/ab67616d0000b2735f71ec43b302d6fad5688f1b",
