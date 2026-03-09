@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Frankie Valli...Is The Word",
+        author: "Frankie Valli",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a10a214d4d4935347e8079b4",
+        kind: "album",
+        link: "https://open.spotify.com/album/0o2oPAxKGui4tvrrNgDtkc",
+        comment: "Github Action"
+    },
+    {
+        title: "Don't Play That Song",
+        author: "Ben E. King",
+        cover: "https://i.scdn.co/image/ab67616d0000b273345fcfd262a066eb194d42b6",
+        kind: "album",
+        link: "https://open.spotify.com/album/5QL7RNVpZIoIxElgdykaa8",
+        comment: "Github Action"
+    },
+    {
+        title: "The Very Best of Frankie Valli & The 4 Seasons",
+        author: "Frankie Valli & The Four Seasons",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4",
+        kind: "album",
+        link: "https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ",
+        comment: "Github Action"
+    },
+    {
         title: "Douze Pièces Faciles pour guitare 2e recueil",
         author: "Alexandre Tansman",
         cover: "https://i.scdn.co/image/ab67616d0000b273cbef81068f9016f5df8a8fb8",
