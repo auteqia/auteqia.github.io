@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Phenomenon (2007 Remaster)",
+        author: "UFO",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731aebacc79b33347a31c79afe",
+        kind: "album",
+        link: "https://open.spotify.com/album/0t7jKe5qt4N57sUWX33Zew",
+        comment: "Github Action"
+    },
+    {
         title: "Frankie Valli...Is The Word",
         author: "Frankie Valli",
         cover: "https://i.scdn.co/image/ab67616d0000b273a10a214d4d4935347e8079b4",
