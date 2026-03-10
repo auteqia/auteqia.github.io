@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "NEU! 2",
+        author: "NEU!",
+        cover: "https://i.scdn.co/image/ab67616d0000b273908837bd939a8411065310be",
+        kind: "album",
+        link: "https://open.spotify.com/album/0BQ6ITK2Y38ODwF7ui8Orx",
+        comment: "Github Action"
+    },
+    {
         title: "Moving Waves",
         author: "Focus",
         cover: "https://i.scdn.co/image/ab67616d0000b2737d9ab0d82ab62be45e1b00fb",
