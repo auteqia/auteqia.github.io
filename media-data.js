@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Moving Waves",
+        author: "Focus",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737d9ab0d82ab62be45e1b00fb",
+        kind: "album",
+        link: "https://open.spotify.com/album/3oUXNITVgUpdN2cUwH3hmS",
+        comment: "Github Action"
+    },
+    {
+        title: "Me Gustas Tu EP",
+        author: "Manu Chao",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731623624130303dd336ce8514",
+        kind: "album",
+        link: "https://open.spotify.com/album/0HcjiEVNspzxKMJjev4PKZ",
+        comment: "Github Action"
+    },
+    {
+        title: "Viva Tu",
+        author: "Manu Chao",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a2cab830efd2a509743ff230",
+        kind: "album",
+        link: "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2",
+        comment: "Github Action"
+    },
+    {
         title: "Phenomenon (2007 Remaster)",
         author: "UFO",
         cover: "https://i.scdn.co/image/ab67616d0000b2731aebacc79b33347a31c79afe",
