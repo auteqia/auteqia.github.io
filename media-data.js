@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Transcendental Sky Guitar: the Phoenix & the Dragon, Vol. 1 & 2",
+        author: "Uli Jon Roth",
+        cover: "https://i.scdn.co/image/ab67616d0000b27392a55498dddc96e7e83460c5",
+        kind: "album",
+        link: "https://open.spotify.com/album/2J4tIBrLIr5cy0GHdJKod3",
+        comment: "Github Action"
+    },
+    {
         title: "I Can See Your House From Here (2023 Remastered & Expanded Edition)",
         author: "Camel",
         cover: "https://i.scdn.co/image/ab67616d0000b273999f93ab3d189bb36967533d",
