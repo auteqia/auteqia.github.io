@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Back To Black",
+        author: "Amy Winehouse",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738f7e0767a60f5cf45d1a68a9",
+        kind: "album",
+        link: "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV",
+        comment: "Github Action"
+    },
+    {
         title: "Absolute Beginners",
         author: "David Bowie",
         cover: "https://i.scdn.co/image/ab67616d0000b2730a6abeb86588ba97c787dbbf",
