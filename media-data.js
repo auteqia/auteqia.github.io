@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Absolute Beginners",
+        author: "David Bowie",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730a6abeb86588ba97c787dbbf",
+        kind: "album",
+        link: "https://open.spotify.com/album/4YfMtOTb3PcIbv5VI6zibX",
+        comment: "Github Action"
+    },
+    {
+        title: "This Is Dean Martin",
+        author: "Dean Martin",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732f13fcfe011d340e9c69923e",
+        kind: "album",
+        link: "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX",
+        comment: "Github Action"
+    },
+    {
         title: "Tocsin",
         author: "Xmal Deutschland",
         cover: "https://i.scdn.co/image/ab67616d0000b27328c9bd586a33d9da7b8332ad",
