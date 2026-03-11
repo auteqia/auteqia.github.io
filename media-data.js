@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "I Can See Your House From Here (2023 Remastered & Expanded Edition)",
+        author: "Camel",
+        cover: "https://i.scdn.co/image/ab67616d0000b273999f93ab3d189bb36967533d",
+        kind: "album",
+        link: "https://open.spotify.com/album/0ydlFeZLxbeluvX2NQN2Ad",
+        comment: "Github Action"
+    },
+    {
         title: "Master of Reality (2014 Remaster)",
         author: "Black Sabbath",
         cover: "https://i.scdn.co/image/ab67616d0000b273c199494ba9ea2b73e9208f91",
