@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Master of Reality (2014 Remaster)",
+        author: "Black Sabbath",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c199494ba9ea2b73e9208f91",
+        kind: "album",
+        link: "https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D",
+        comment: "Github Action"
+    },
+    {
         title: "Back To Black",
         author: "Amy Winehouse",
         cover: "https://i.scdn.co/image/ab67616d0000b2738f7e0767a60f5cf45d1a68a9",
