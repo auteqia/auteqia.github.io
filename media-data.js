@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "154 (2006 Remastered Version)",
+        author: "Wire",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731b686012471336aa93fd0c7d",
+        kind: "album",
+        link: "https://open.spotify.com/album/2ajuLWJSuzHFeTceC1A4bW",
+        comment: "Github Action"
+    },
+    {
         title: "Transcendental Sky Guitar: the Phoenix & the Dragon, Vol. 1 & 2",
         author: "Uli Jon Roth",
         cover: "https://i.scdn.co/image/ab67616d0000b27392a55498dddc96e7e83460c5",
