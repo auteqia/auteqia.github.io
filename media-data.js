@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Tocsin",
+        author: "Xmal Deutschland",
+        cover: "https://i.scdn.co/image/ab67616d0000b27328c9bd586a33d9da7b8332ad",
+        kind: "album",
+        link: "https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv",
+        comment: "Github Action"
+    },
+    {
         title: "NEU! 2",
         author: "NEU!",
         cover: "https://i.scdn.co/image/ab67616d0000b273908837bd939a8411065310be",
