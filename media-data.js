@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Distortions",
+        author: "The Litter",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b963b5982e69e22238c9f934",
+        kind: "album",
+        link: "https://open.spotify.com/album/1jNPpX5H1F1xJNQR8Xe2CF",
+        comment: "Github Action"
+    },
+    {
+        title: "Every Day Is Saturday",
+        author: "The Dictators",
+        cover: "https://i.scdn.co/image/ab67616d0000b27362774c1201edd4a047ba61dc",
+        kind: "album",
+        link: "https://open.spotify.com/album/2R7I24kPHfcwAP5oezINnE",
+        comment: "Github Action"
+    },
+    {
         title: "Clandestino / Bloody Border",
         author: "Manu Chao",
         cover: "https://i.scdn.co/image/ab67616d0000b273c2a4edfab3dcd3ceafc61dc1",
