@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "The White Stripes Greatest Hits",
+        author: "The White Stripes",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738ca14aa8a50549ed686cd87b",
+        kind: "album",
+        link: "https://open.spotify.com/album/6iOP7HgYAk3x5i19Os1d7v",
+        comment: "Github Action"
+    },
+    {
+        title: "Lola Versus Powerman and the Moneygoround, Pt. 1",
+        author: "The Kinks",
+        cover: "https://i.scdn.co/image/ab67616d0000b273da0e0c87f57499b479e7da59",
+        kind: "album",
+        link: "https://open.spotify.com/album/6cv47fKkAyi9Lm5wwud4It",
+        comment: "Github Action"
+    },
+    {
         title: "154 (2006 Remastered Version)",
         author: "Wire",
         cover: "https://i.scdn.co/image/ab67616d0000b2731b686012471336aa93fd0c7d",
