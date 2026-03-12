@@ -1,5 +1,61 @@
 const mediaLibrary = [
     {
+        title: "Electric Music For The Mind And Body",
+        author: "Country Joe & The Fish",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738ba3b66bf1d5b216da9f2ace",
+        kind: "album",
+        link: "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk",
+        comment: "Github Action"
+    },
+    {
+        title: "Buffalo Springfield Again",
+        author: "Buffalo Springfield",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737c0adb47236f40e3140c64be",
+        kind: "album",
+        link: "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7",
+        comment: "Github Action"
+    },
+    {
+        title: "What a Long Strange Trip It's Been: The Best of the Grateful Dead",
+        author: "Grateful Dead",
+        cover: "https://i.scdn.co/image/ab67616d0000b273904e3e617875048685140bc3",
+        kind: "album",
+        link: "https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5",
+        comment: "Github Action"
+    },
+    {
+        title: "Incense And Peppermints",
+        author: "Strawberry Alarm Clock",
+        cover: "https://i.scdn.co/image/ab67616d0000b273668eef9a15023a800efdbbba",
+        kind: "album",
+        link: "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd",
+        comment: "Github Action"
+    },
+    {
+        title: "Clear Spot (Deluxe Edition)",
+        author: "Captain Beefheart & His Magic Band",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bb7fc000793e2fdf7bad318c",
+        kind: "album",
+        link: "https://open.spotify.com/album/0QXTKuJ0mj7QxFD8pSLBoh",
+        comment: "Github Action"
+    },
+    {
+        title: "Fifth Dimension",
+        author: "The Byrds",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733f07e7daf8ef639ec8263b19",
+        kind: "album",
+        link: "https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb",
+        comment: "Github Action"
+    },
+    {
+        title: "Rainbow Chaser: The 60s Recordings (The Island Years)",
+        author: "Nirvana",
+        cover: "https://i.scdn.co/image/ab67616d0000b273542603584965a4c43a8d6598",
+        kind: "album",
+        link: "https://open.spotify.com/album/4oH8UkVVPrYZufkrUQY6iN",
+        comment: "Github Action"
+    },
+    {
         title: "The White Stripes Greatest Hits",
         author: "The White Stripes",
         cover: "https://i.scdn.co/image/ab67616d0000b2738ca14aa8a50549ed686cd87b",
