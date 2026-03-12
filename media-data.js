@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Clandestino / Bloody Border",
+        author: "Manu Chao",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c2a4edfab3dcd3ceafc61dc1",
+        kind: "album",
+        link: "https://open.spotify.com/album/09U5RBDuQaH2Lwzhocwyj6",
+        comment: "Github Action"
+    },
+    {
+        title: "The Kick Inside (2018 Remaster)",
+        author: "Kate Bush",
+        cover: "https://i.scdn.co/image/ab67616d0000b27335538744db9802cea0559756",
+        kind: "album",
+        link: "https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc",
+        comment: "Github Action"
+    },
+    {
         title: "Electric Music For The Mind And Body",
         author: "Country Joe & The Fish",
         cover: "https://i.scdn.co/image/ab67616d0000b2738ba3b66bf1d5b216da9f2ace",
