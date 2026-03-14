@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Inkpot & Attila",
+        author: "Shocking Blue",
+        cover: "https://i.scdn.co/image/ab67616d0000b273198d9f7341e5dbdda3bb6691",
+        kind: "album",
+        link: "https://open.spotify.com/album/5liqryZxZvie3pfCR21liP",
+        comment: "Github Action"
+    },
+    {
         title: "Under the Western Freeway",
         author: "Grandaddy",
         cover: "https://i.scdn.co/image/ab67616d0000b2735d13aa1414f367ac47e17579",
