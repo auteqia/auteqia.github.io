@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Under the Western Freeway",
+        author: "Grandaddy",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735d13aa1414f367ac47e17579",
+        kind: "album",
+        link: "https://open.spotify.com/album/4h99OhINkm39y6qs7dYOwM",
+        comment: "Github Action"
+    },
+    {
         title: "Distortions",
         author: "The Litter",
         cover: "https://i.scdn.co/image/ab67616d0000b273b963b5982e69e22238c9f934",
