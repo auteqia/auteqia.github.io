@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Niara",
+        author: "Doug Lucas",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731e3b1a2b3348762dbd43a16e",
+        kind: "album",
+        link: "https://open.spotify.com/album/3A1I8puB6CwDUDHCpbGXo4",
+        comment: "Github Action"
+    },
+    {
         title: "Inkpot & Attila",
         author: "Shocking Blue",
         cover: "https://i.scdn.co/image/ab67616d0000b273198d9f7341e5dbdda3bb6691",
