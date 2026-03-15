@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Fush Yu Mang (20th Anniversary Edition)",
+        author: "Smash Mouth",
+        cover: "https://i.scdn.co/image/ab67616d0000b27366ec7d795b727cd90bd09690",
+        kind: "album",
+        link: "https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt",
+        comment: "Github Action"
+    },
+    {
         title: "Niara",
         author: "Doug Lucas",
         cover: "https://i.scdn.co/image/ab67616d0000b2731e3b1a2b3348762dbd43a16e",
