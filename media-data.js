@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Sirius 2017 (Disco Demolition Remix)",
+        author: "The Alan Parsons Project",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fe69568dd55e54742ce0e14d",
+        kind: "album",
+        link: "https://open.spotify.com/album/0chYdRihRzcScNJZAx9i3t",
+        comment: "Github Action"
+    },
+    {
+        title: "Out of the Blue",
+        author: "Electric Light Orchestra",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c18c4e6c2978fb6cbdef85e2",
+        kind: "album",
+        link: "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU",
+        comment: "Github Action"
+    },
+    {
+        title: "Audio Active",
+        author: "Dennis Bovell",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737ba985c20f695d94dd3f8f03",
+        kind: "album",
+        link: "https://open.spotify.com/album/7pE3COfzGZ3X5U4zGI7zg9",
+        comment: "Github Action"
+    },
+    {
+        title: "The Essential Cypress Hill",
+        author: "Cypress Hill",
+        cover: "https://i.scdn.co/image/ab67616d0000b273202ebc4131a20886503c34ae",
+        kind: "album",
+        link: "https://open.spotify.com/album/2WPS1YnbXiaX1Ekr1HNICt",
+        comment: "Github Action"
+    },
+    {
+        title: "In Between Dub",
+        author: "Jack Johnson",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fb91c922cbca775f683fd971",
+        kind: "album",
+        link: "https://open.spotify.com/album/61CkIZCrgpM1hGAf9DiOrz",
+        comment: "Github Action"
+    },
+    {
         title: "Fush Yu Mang (20th Anniversary Edition)",
         author: "Smash Mouth",
         cover: "https://i.scdn.co/image/ab67616d0000b27366ec7d795b727cd90bd09690",
