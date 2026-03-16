@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Winning Days",
+        author: "The Vines",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bb28196cb6b6231afb5e7deb",
+        kind: "album",
+        link: "https://open.spotify.com/album/2lS3dL4u18BRaiPmIzlJoO",
+        comment: "Github Action"
+    },
+    {
         title: "Sirius 2017 (Disco Demolition Remix)",
         author: "The Alan Parsons Project",
         cover: "https://i.scdn.co/image/ab67616d0000b273fe69568dd55e54742ce0e14d",
