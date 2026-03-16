@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Who’s Next : Life House (Super Deluxe)",
+        author: "The Who",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b738367ec6cdbd3e29d7efdf",
+        kind: "album",
+        link: "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd",
+        comment: "Github Action"
+    },
+    {
         title: "I Can't Handle Change",
         author: "Roar",
         cover: "https://i.scdn.co/image/ab67616d0000b2737ffa4709d9debeacb9723a56",
