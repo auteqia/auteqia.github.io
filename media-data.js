@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Three Imaginary Boys",
+        author: "The Cure",
+        cover: "https://i.scdn.co/image/ab67616d0000b273311072ab420e4a58eede9c46",
+        kind: "album",
+        link: "https://open.spotify.com/album/7qMuRtuE0f9Ct1wRInNT3q",
+        comment: "Github Action"
+    },
+    {
         title: "The Great Escape (Special Edition)",
         author: "Blur",
         cover: "https://i.scdn.co/image/ab67616d0000b273d6edad0d4fc3448ccc61c13c",
