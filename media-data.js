@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "I Can't Handle Change",
+        author: "Roar",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737ffa4709d9debeacb9723a56",
+        kind: "album",
+        link: "https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX",
+        comment: "Github Action"
+    },
+    {
+        title: "Who Are You (Super Deluxe Edition)",
+        author: "The Who",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cf731cbe43b6b521a50d275b",
+        kind: "album",
+        link: "https://open.spotify.com/album/7qGnKtZPJMP3LFgEl2WM4r",
+        comment: "Github Action"
+    },
+    {
         title: "CIELA",
         author: "Dioscures",
         cover: "https://i.scdn.co/image/ab67616d0000b273af4c2c874c22d7f94c696374",
