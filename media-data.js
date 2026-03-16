@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Repeater + 3 Songs",
+        author: "Fugazi",
+        cover: "https://i.scdn.co/image/ab67616d0000b27345d8eaebe1528abd4d9895cf",
+        kind: "album",
+        link: "https://open.spotify.com/album/6JbGZGta38AArBgflt024C",
+        comment: "Github Action"
+    },
+    {
         title: "Three Imaginary Boys",
         author: "The Cure",
         cover: "https://i.scdn.co/image/ab67616d0000b273311072ab420e4a58eede9c46",
