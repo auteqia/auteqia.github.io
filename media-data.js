@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Great Escape (Special Edition)",
+        author: "Blur",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d6edad0d4fc3448ccc61c13c",
+        kind: "album",
+        link: "https://open.spotify.com/album/7BiMMjtvTX0OiB8Yi7CFB1",
+        comment: "Github Action"
+    },
+    {
         title: "Winning Days",
         author: "The Vines",
         cover: "https://i.scdn.co/image/ab67616d0000b273bb28196cb6b6231afb5e7deb",
