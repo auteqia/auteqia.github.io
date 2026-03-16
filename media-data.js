@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "CIELA",
+        author: "Dioscures",
+        cover: "https://i.scdn.co/image/ab67616d0000b273af4c2c874c22d7f94c696374",
+        kind: "album",
+        link: "https://open.spotify.com/album/6YfsvsAgAaHDa9n0L31ujT",
+        comment: "Github Action"
+    },
+    {
+        title: "The Flying Club Cup",
+        author: "Beirut",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a5818379975d1815f7f4e1b2",
+        kind: "album",
+        link: "https://open.spotify.com/album/71udkw2yxFqNK4SNSYcCce",
+        comment: "Github Action"
+    },
+    {
         title: "Repeater + 3 Songs",
         author: "Fugazi",
         cover: "https://i.scdn.co/image/ab67616d0000b27345d8eaebe1528abd4d9895cf",
