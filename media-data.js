@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "New Miserable Experience",
+        author: "Gin Blossoms",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e3100bdcdc758b5fab7e4894",
+        kind: "album",
+        link: "https://open.spotify.com/album/484pzryEPqn6KSMLtP2c4f",
+        comment: "Github Action"
+    },
+    {
         title: "Le Rêve Ou La Vie",
         author: "Ridan",
         cover: "https://i.scdn.co/image/ab67616d0000b27302c0fe93e2cfe5df32944fca",
