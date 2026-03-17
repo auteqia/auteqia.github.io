@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Le Rêve Ou La Vie",
+        author: "Ridan",
+        cover: "https://i.scdn.co/image/ab67616d0000b27302c0fe93e2cfe5df32944fca",
+        kind: "album",
+        link: "https://open.spotify.com/album/6Zez0qpEeUWbTIvtQoS1Jh",
+        comment: "Github Action"
+    },
+    {
+        title: "Paradize",
+        author: "Indochine",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733f9a8a38b674e138f18542d9",
+        kind: "album",
+        link: "https://open.spotify.com/album/0YiSd3JeGUX4VIO8Po9TD4",
+        comment: "Github Action"
+    },
+    {
         title: "Who’s Next : Life House (Super Deluxe)",
         author: "The Who",
         cover: "https://i.scdn.co/image/ab67616d0000b273b738367ec6cdbd3e29d7efdf",
