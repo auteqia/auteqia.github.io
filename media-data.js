@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Quand Michel chante",
+        author: "Isabelle",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ace60a88902a1fa9816ffdad",
+        kind: "album",
+        link: "https://open.spotify.com/album/11Xsq7XzmArZcUPyl6ynGe",
+        comment: "Github Action"
+    },
+    {
+        title: "XO",
+        author: "Elliott Smith",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cdf1be0ff556d169eade4368",
+        kind: "album",
+        link: "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh",
+        comment: "Github Action"
+    },
+    {
         title: "The Freewheelin' Bob Dylan",
         author: "Bob Dylan",
         cover: "https://i.scdn.co/image/ab67616d0000b273c7f7596cd80cbd6436086f80",
