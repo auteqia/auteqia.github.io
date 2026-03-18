@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "No Dogs Allowed",
+        author: "Sidney Gish",
+        cover: "https://i.scdn.co/image/ab67616d0000b27396986a55d05e037b1f04d81d",
+        kind: "album",
+        link: "https://open.spotify.com/album/3jgktTCGathax8HKW4aGfg",
+        comment: "Github Action"
+    },
+    {
         title: "New Miserable Experience",
         author: "Gin Blossoms",
         cover: "https://i.scdn.co/image/ab67616d0000b273e3100bdcdc758b5fab7e4894",
