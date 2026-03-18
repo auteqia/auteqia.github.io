@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "The Freewheelin' Bob Dylan",
+        author: "Bob Dylan",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c7f7596cd80cbd6436086f80",
+        kind: "album",
+        link: "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek",
+        comment: "Github Action"
+    },
+    {
+        title: "The Beatles 1962 - 1966 (Remastered)",
+        author: "The Beatles",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735ef4660298ae29ee18799fc2",
+        kind: "album",
+        link: "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP",
+        comment: "Github Action"
+    },
+    {
+        title: "The Who Sings My Generation (U.S. Version)",
+        author: "The Who",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cbee7274742b0471f39bb8c8",
+        kind: "album",
+        link: "https://open.spotify.com/album/4upv5ZjkKMIUBjFNthFQih",
+        comment: "Github Action"
+    },
+    {
         title: "No Dogs Allowed",
         author: "Sidney Gish",
         cover: "https://i.scdn.co/image/ab67616d0000b27396986a55d05e037b1f04d81d",
