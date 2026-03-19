@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Tous les garçons et les filles",
+        author: "Françoise Hardy",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731a1679a314d4c3855881ed01",
+        kind: "album",
+        link: "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2",
+        comment: "Github Action"
+    },
+    {
+        title: "FLCL Season 1 Vol. 3 (Original Soundtrack)",
+        author: "the pillows",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d7549e5484adb480ad33d6fc",
+        kind: "album",
+        link: "https://open.spotify.com/album/5qRZrLQSAnZkhdvQtR8MpT",
+        comment: "Github Action"
+    },
+    {
+        title: "Ne me parlez plus de l'amour",
+        author: "Isabelle",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737cba7759d561e527cf0d0991",
+        kind: "album",
+        link: "https://open.spotify.com/album/1SXIhIKEb63hfVbqKPOlHY",
+        comment: "Github Action"
+    },
+    {
         title: "FINAL FANTASY XV Original Soundtrack",
         author: "Yoko Shimomura",
         cover: "https://i.scdn.co/image/ab67616d0000b273f12e9091af7a7626f1bf37db",
