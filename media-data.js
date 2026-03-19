@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Knebworth 1996 (Live)",
+        author: "Oasis",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ca147e0b4e7823a9d2416562",
+        kind: "album",
+        link: "https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i",
+        comment: "Github Action"
+    },
+    {
         title: "(What's The Story) Morning Glory? (30th Anniversary Deluxe Edition)",
         author: "Oasis",
         cover: "https://i.scdn.co/image/ab67616d0000b2735d7f7b30d1ecf63d9dc7073c",
