@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "(What's The Story) Morning Glory? (30th Anniversary Deluxe Edition)",
+        author: "Oasis",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735d7f7b30d1ecf63d9dc7073c",
+        kind: "album",
+        link: "https://open.spotify.com/album/4EYiaCimOb1Li1bnb7ppi6",
+        comment: "Github Action"
+    },
+    {
         title: "Tous les garçons et les filles",
         author: "Françoise Hardy",
         cover: "https://i.scdn.co/image/ab67616d0000b2731a1679a314d4c3855881ed01",
