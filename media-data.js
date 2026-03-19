@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "FINAL FANTASY XV Original Soundtrack",
+        author: "Yoko Shimomura",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f12e9091af7a7626f1bf37db",
+        kind: "album",
+        link: "https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v",
+        comment: "Github Action"
+    },
+    {
         title: "Quand Michel chante",
         author: "Isabelle",
         cover: "https://i.scdn.co/image/ab67616d0000b273ace60a88902a1fa9816ffdad",
