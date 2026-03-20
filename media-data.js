@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "McCartney II (Special Edition)",
+        author: "Paul McCartney",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733cef016d13d82873d45af84a",
+        kind: "album",
+        link: "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV",
+        comment: "Github Action"
+    },
+    {
         title: "Knebworth 1996 (Live)",
         author: "Oasis",
         cover: "https://i.scdn.co/image/ab67616d0000b273ca147e0b4e7823a9d2416562",
