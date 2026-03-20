@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "The Beginning: Cupid",
+        author: "FIFTY FIFTY",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c8bc75fe0a95481d4c905ee8",
+        kind: "album",
+        link: "https://open.spotify.com/album/1JXZEW8tqusCn2sQa4GK3I",
+        comment: "Github Action"
+    },
+    {
+        title: "Mask",
+        author: "Bauhaus",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b61ddb2375b3bcfc8c91c12c",
+        kind: "album",
+        link: "https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV",
+        comment: "Github Action"
+    },
+    {
         title: "McCartney II (Special Edition)",
         author: "Paul McCartney",
         cover: "https://i.scdn.co/image/ab67616d0000b2733cef016d13d82873d45af84a",
