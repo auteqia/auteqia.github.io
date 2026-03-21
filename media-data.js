@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Pitcher56 1st Album",
+        author: "Pitcher56",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fcfc4e9caeb9c93e7411ed3a",
+        kind: "album",
+        link: "https://open.spotify.com/album/4UqVelKzaWQkClL2GgCfSK",
+        comment: "Github Action"
+    },
+    {
         title: "The Beginning: Cupid",
         author: "FIFTY FIFTY",
         cover: "https://i.scdn.co/image/ab67616d0000b273c8bc75fe0a95481d4c905ee8",
