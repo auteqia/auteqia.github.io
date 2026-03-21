@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "And Soul It Goes",
+        author: "Century",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a6b394652c4ca78bda0cbaab",
+        kind: "album",
+        link: "https://open.spotify.com/album/31nEm8vvIwiGEI6hc9Ar5G",
+        comment: "Github Action"
+    },
+    {
         title: "Pitcher56 1st Album",
         author: "Pitcher56",
         cover: "https://i.scdn.co/image/ab67616d0000b273fcfc4e9caeb9c93e7411ed3a",
