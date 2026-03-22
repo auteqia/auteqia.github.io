@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Gold - The Best of Spandau Ballet",
+        author: "Spandau Ballet",
+        cover: "https://i.scdn.co/image/ab67616d0000b27357051c7a61d037d4f2ddaeb4",
+        kind: "album",
+        link: "https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7",
+        comment: "Github Action"
+    },
+    {
         title: "And Soul It Goes",
         author: "Century",
         cover: "https://i.scdn.co/image/ab67616d0000b273a6b394652c4ca78bda0cbaab",
