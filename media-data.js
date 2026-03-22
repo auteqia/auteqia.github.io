@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Good Times",
+        author: "Shocking Blue",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733dd757ced421e5271d0d2ba7",
+        kind: "album",
+        link: "https://open.spotify.com/album/4OphWyMlzMaFBFKfv2QSBR",
+        comment: "Github Action"
+    },
+    {
+        title: "Dream On Dreamer",
+        author: "Shocking Blue",
+        cover: "https://i.scdn.co/image/ab67616d0000b27317c938329eb297e7511d3c19",
+        kind: "album",
+        link: "https://open.spotify.com/album/5SxImtRNIsCOEzoUMN8a6B",
+        comment: "Github Action"
+    },
+    {
+        title: "Folksongs & Ballads",
+        author: "Tia Blake",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ccdb8e452a061106c4ad3dd9",
+        kind: "album",
+        link: "https://open.spotify.com/album/2JQDn2wgm2nLVxdWE0GJJa",
+        comment: "Github Action"
+    },
+    {
         title: "Gold - The Best of Spandau Ballet",
         author: "Spandau Ballet",
         cover: "https://i.scdn.co/image/ab67616d0000b27357051c7a61d037d4f2ddaeb4",
