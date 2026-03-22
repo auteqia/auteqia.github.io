@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Argus (Expanded Edition)",
+        author: "Wishbone Ash",
+        cover: "https://i.scdn.co/image/ab67616d0000b273dc342240eca65d55a94dad2c",
+        kind: "album",
+        link: "https://open.spotify.com/album/7xEluvnbmFtRB5g66CJ2ND",
+        comment: "Github Action"
+    },
+    {
+        title: "Mother Earth's Plantasia",
+        author: "Mort Garson",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738f06939f22ae1590f569c644",
+        kind: "album",
+        link: "https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv",
+        comment: "Github Action"
+    },
+    {
         title: "Good Times",
         author: "Shocking Blue",
         cover: "https://i.scdn.co/image/ab67616d0000b2733dd757ced421e5271d0d2ba7",
