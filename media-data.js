@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Best of Sade",
+        author: "Sade",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+        kind: "album",
+        link: "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK",
+        comment: "Github Action"
+    },
+    {
         title: "Argus (Expanded Edition)",
         author: "Wishbone Ash",
         cover: "https://i.scdn.co/image/ab67616d0000b273dc342240eca65d55a94dad2c",
