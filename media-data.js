@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Street Hassle",
+        author: "Lou Reed",
+        cover: "https://i.scdn.co/image/ab67616d0000b27370e4184a74e18e0396588c58",
+        kind: "album",
+        link: "https://open.spotify.com/album/4bCvrqNBh6hPB7hG4EltjN",
+        comment: "Github Action"
+    },
+    {
         title: "Ecstasy",
         author: "Lou Reed",
         cover: "https://i.scdn.co/image/ab67616d0000b2731ef3e49727af1501e0883541",
