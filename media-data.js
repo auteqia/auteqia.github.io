@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Ecstasy",
+        author: "Lou Reed",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731ef3e49727af1501e0883541",
+        kind: "album",
+        link: "https://open.spotify.com/album/2DJSpVVE6HxQZMbEd4N90o",
+        comment: "Github Action"
+    },
+    {
         title: "Electronic Hair Pieces",
         author: "Mort Garson",
         cover: "https://i.scdn.co/image/ab67616d0000b2737761ba9727e5df65a02ecc5f",
