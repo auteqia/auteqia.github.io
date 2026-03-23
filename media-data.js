@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Electronic Hair Pieces",
+        author: "Mort Garson",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737761ba9727e5df65a02ecc5f",
+        kind: "album",
+        link: "https://open.spotify.com/album/0vJRSegn4Bud04IYRjESEG",
+        comment: "Github Action"
+    },
+    {
+        title: "Up on the Roof: The Best of the Drifters",
+        author: "The Drifters",
+        cover: "https://i.scdn.co/image/ab67616d0000b273de849f943403165388bff535",
+        kind: "album",
+        link: "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3",
+        comment: "Github Action"
+    },
+    {
+        title: "Under the Boardwalk",
+        author: "The Drifters",
+        cover: "https://i.scdn.co/image/ab67616d0000b27393e3fc20b2818c4ab7d5dc29",
+        kind: "album",
+        link: "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM",
+        comment: "Github Action"
+    },
+    {
         title: "The Best of Sade",
         author: "Sade",
         cover: "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
