@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Man On The Rocks (Deluxe Edition)",
+        author: "Mike Oldfield",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c196c9e888b8670353621598",
+        kind: "album",
+        link: "https://open.spotify.com/album/5SQlznP5Zwk5S6HInzLrqW",
+        comment: "Github Action"
+    },
+    {
         title: "Five Miles Out",
         author: "Mike Oldfield",
         cover: "https://i.scdn.co/image/ab67616d0000b2731ad5b70163acfd60567022e4",
