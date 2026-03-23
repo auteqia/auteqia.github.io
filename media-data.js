@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Five Miles Out",
+        author: "Mike Oldfield",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731ad5b70163acfd60567022e4",
+        kind: "album",
+        link: "https://open.spotify.com/album/75YTHFOScdof5Gb1dTG5wu",
+        comment: "Github Action"
+    },
+    {
         title: "Street Hassle",
         author: "Lou Reed",
         cover: "https://i.scdn.co/image/ab67616d0000b27370e4184a74e18e0396588c58",
