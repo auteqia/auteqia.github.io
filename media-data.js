@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Give Me Convenience or Give Me Death",
+        author: "Dead Kennedys",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b409fb10b317c00acc66f14b",
+        kind: "album",
+        link: "https://open.spotify.com/album/2x5IF6C5TgCyp3zasMUYgG",
+        comment: "Github Action"
+    },
+    {
+        title: "Bossanova",
+        author: "Pixies",
+        cover: "https://i.scdn.co/image/ab67616d0000b27367b1e90642787fe722e01af2",
+        kind: "album",
+        link: "https://open.spotify.com/album/0BK1LxNNcaNUtAqTBQAOR8",
+        comment: "Github Action"
+    },
+    {
         title: "Loaded: Re-Loaded 45th Anniversary Edition",
         author: "The Velvet Underground",
         cover: "https://i.scdn.co/image/ab67616d0000b273a6d589272dca67a07a00c8a8",
