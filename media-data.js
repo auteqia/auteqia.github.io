@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Magic and Loss",
+        author: "Lou Reed",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b95c32085151ed95eff9339a",
+        kind: "album",
+        link: "https://open.spotify.com/album/6pLw7L0SJKLbw33haj10of",
+        comment: "Github Action"
+    },
+    {
         title: "Man On The Rocks (Deluxe Edition)",
         author: "Mike Oldfield",
         cover: "https://i.scdn.co/image/ab67616d0000b273c196c9e888b8670353621598",
