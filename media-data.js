@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Loaded: Re-Loaded 45th Anniversary Edition",
+        author: "The Velvet Underground",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a6d589272dca67a07a00c8a8",
+        kind: "album",
+        link: "https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs",
+        comment: "Github Action"
+    },
+    {
         title: "Magic and Loss",
         author: "Lou Reed",
         cover: "https://i.scdn.co/image/ab67616d0000b273b95c32085151ed95eff9339a",
