@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Drums And Wires",
+        author: "XTC",
+        cover: "https://i.scdn.co/image/ab67616d0000b27324110c456fe319f691e1a320",
+        kind: "album",
+        link: "https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl",
+        comment: "Github Action"
+    },
+    {
         title: "The Greatest Video Game Music 2",
         author: "London Philharmonic Orchestra",
         cover: "https://i.scdn.co/image/ab67616d0000b273441d1be1e00af07b430d2a0a",
