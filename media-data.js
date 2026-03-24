@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Colgera Battle (From \"The Legend of Zelda: Tears of the Kingdom\")",
+        author: "Daric Shire",
+        cover: "https://i.scdn.co/image/ab67616d0000b27337c7ed8412c1b7c21bfd0351",
+        kind: "album",
+        link: "https://open.spotify.com/album/7oROxqMk765q5JwdzUpaOL",
+        comment: "Github Action"
+    },
+    {
+        title: "Man On The Rocks",
+        author: "Mike Oldfield",
+        cover: "https://i.scdn.co/image/ab67616d0000b27324d2d2abca78a7ce0e3e15b5",
+        kind: "album",
+        link: "https://open.spotify.com/album/05tYzb5o4rZaOEr6K4cNSC",
+        comment: "Github Action"
+    },
+    {
+        title: "Ocarina of Time",
+        author: "Super Guitar Bros",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732bb6f8c7b085f5020bc79951",
+        kind: "album",
+        link: "https://open.spotify.com/album/0oCRqcXxOyKQsIjOvDfeQB",
+        comment: "Github Action"
+    },
+    {
         title: "Give Me Convenience or Give Me Death",
         author: "Dead Kennedys",
         cover: "https://i.scdn.co/image/ab67616d0000b273b409fb10b317c00acc66f14b",
