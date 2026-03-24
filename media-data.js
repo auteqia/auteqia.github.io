@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Greatest Video Game Music 2",
+        author: "London Philharmonic Orchestra",
+        cover: "https://i.scdn.co/image/ab67616d0000b273441d1be1e00af07b430d2a0a",
+        kind: "album",
+        link: "https://open.spotify.com/album/0EN1gAz91UMiqqBYj1NqC6",
+        comment: "Github Action"
+    },
+    {
         title: "Colgera Battle (From \"The Legend of Zelda: Tears of the Kingdom\")",
         author: "Daric Shire",
         cover: "https://i.scdn.co/image/ab67616d0000b27337c7ed8412c1b7c21bfd0351",
