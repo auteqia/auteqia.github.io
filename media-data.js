@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Best of New Order",
+        author: "New Order",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c621e025f32cc28a1ec86e3b",
+        kind: "album",
+        link: "https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ",
+        comment: "Github Action"
+    },
+    {
         title: "Drums And Wires",
         author: "XTC",
         cover: "https://i.scdn.co/image/ab67616d0000b27324110c456fe319f691e1a320",
