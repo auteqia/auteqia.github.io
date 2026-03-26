@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Party Favors",
+        author: "Sir Chloe",
+        cover: "https://i.scdn.co/image/ab67616d0000b273912b00ae82d10a2a4cdc084e",
+        kind: "album",
+        link: "https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR",
+        comment: "Github Action"
+    },
+    {
+        title: "Buds",
+        author: "Surf Curse",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e7289c3e83beb4d0c1084c97",
+        kind: "album",
+        link: "https://open.spotify.com/album/03WcbJcmiYID0oOG8U8uvy",
+        comment: "Github Action"
+    },
+    {
         title: "Broken",
         author: "Nine Inch Nails",
         cover: "https://i.scdn.co/image/ab67616d0000b273f1234cfed5f06fd58e76b06f",
