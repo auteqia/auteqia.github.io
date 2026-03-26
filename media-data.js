@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Caifanes",
+        author: "Caifanes",
+        cover: "https://i.scdn.co/image/ab67616d0000b27352842eb76a050aa8daec1251",
+        kind: "album",
+        link: "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr",
+        comment: "Github Action"
+    },
+    {
         title: "Get Ready",
         author: "New Order",
         cover: "https://i.scdn.co/image/ab67616d0000b27324e2b47423aa83f225afde10",
