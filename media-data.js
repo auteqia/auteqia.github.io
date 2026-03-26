@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Get Ready",
+        author: "New Order",
+        cover: "https://i.scdn.co/image/ab67616d0000b27324e2b47423aa83f225afde10",
+        kind: "album",
+        link: "https://open.spotify.com/album/6V0NOI7IaZDO9mBvHNc1jt",
+        comment: "Github Action"
+    },
+    {
+        title: "Technique",
+        author: "New Order",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735ac2c6a71a5882025e438424",
+        kind: "album",
+        link: "https://open.spotify.com/album/6HQo3byKYGsHxOqofRmgCh",
+        comment: "Github Action"
+    },
+    {
+        title: "Singles (2016 Remaster)",
+        author: "New Order",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f142205e336ec0af3e1a4eb0",
+        kind: "album",
+        link: "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6",
+        comment: "Github Action"
+    },
+    {
         title: "The Best of New Order",
         author: "New Order",
         cover: "https://i.scdn.co/image/ab67616d0000b273c621e025f32cc28a1ec86e3b",
