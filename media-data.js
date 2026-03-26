@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Broken",
+        author: "Nine Inch Nails",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f1234cfed5f06fd58e76b06f",
+        kind: "album",
+        link: "https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw",
+        comment: "Github Action"
+    },
+    {
+        title: "Canción Animal (Remastered)",
+        author: "Soda Stereo",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c451ed28353639e79b4d97d9",
+        kind: "album",
+        link: "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN",
+        comment: "Github Action"
+    },
+    {
         title: "Caifanes",
         author: "Caifanes",
         cover: "https://i.scdn.co/image/ab67616d0000b27352842eb76a050aa8daec1251",
