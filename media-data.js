@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Head Carrier",
+        author: "Pixies",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e420e17950e1432fa2aea4d1",
+        kind: "album",
+        link: "https://open.spotify.com/album/5F9YYEKDxenkRpyuovdqZe",
+        comment: "Github Action"
+    },
+    {
+        title: "In Rainbows",
+        author: "Radiohead",
+        cover: "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
+        kind: "album",
+        link: "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK",
+        comment: "Github Action"
+    },
+    {
+        title: "Gawk",
+        author: "Vundabar",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738fbee639aeab14f94d7561da",
+        kind: "album",
+        link: "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh",
+        comment: "Github Action"
+    },
+    {
         title: "Party Favors",
         author: "Sir Chloe",
         cover: "https://i.scdn.co/image/ab67616d0000b273912b00ae82d10a2a4cdc084e",
