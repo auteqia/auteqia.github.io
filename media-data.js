@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "2016 - 2018",
+        author: "Népal",
+        cover: "https://i.scdn.co/image/ab67616d0000b273376b09b6634e8ae4af7a3c8b",
+        kind: "album",
+        link: "https://open.spotify.com/album/3QycsedIXFMAuoE3QEIOlf",
+        comment: "Github Action"
+    },
+    {
         title: "Head Carrier",
         author: "Pixies",
         cover: "https://i.scdn.co/image/ab67616d0000b273e420e17950e1432fa2aea4d1",
