@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Crying Laughing Loving Lying",
+        author: "Labi Siffre",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ea5cea785aab2932281b90a5",
+        kind: "album",
+        link: "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ",
+        comment: "Github Action"
+    },
+    {
         title: "2016 - 2018",
         author: "Népal",
         cover: "https://i.scdn.co/image/ab67616d0000b273376b09b6634e8ae4af7a3c8b",
