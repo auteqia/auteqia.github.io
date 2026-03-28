@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Bongo Fury 50th Anniversary",
+        author: "Frank Zappa",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730d07097ecf361bbb1a1e1c1f",
+        kind: "album",
+        link: "https://open.spotify.com/album/2TxK1gOjMxH7vm1YXt6c6b",
+        comment: "Github Action"
+    },
+    {
         title: "Crying Laughing Loving Lying",
         author: "Labi Siffre",
         cover: "https://i.scdn.co/image/ab67616d0000b273ea5cea785aab2932281b90a5",
