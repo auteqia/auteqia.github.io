@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "1969",
+        author: "Gábor Szabó",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734df8109b167b28283ebac4bb",
+        kind: "album",
+        link: "https://open.spotify.com/album/1q2ErTOAW7U3cx1LqucD1a",
+        comment: "Github Action"
+    },
+    {
         title: "Bongo Fury 50th Anniversary",
         author: "Frank Zappa",
         cover: "https://i.scdn.co/image/ab67616d0000b2730d07097ecf361bbb1a1e1c1f",
