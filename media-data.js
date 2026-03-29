@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Poetry",
+        author: "Dehd",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b76d0be829a3eff9e6ac9475",
+        kind: "album",
+        link: "https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR",
+        comment: "Github Action"
+    },
+    {
         title: "Paraphernalia",
         author: "Temples",
         cover: "https://i.scdn.co/image/ab67616d0000b273b530f44b521e7759a613b3d2",
