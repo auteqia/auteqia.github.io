@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Paraphernalia",
+        author: "Temples",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b530f44b521e7759a613b3d2",
+        kind: "album",
+        link: "https://open.spotify.com/album/5od9FN69mOsZI7MEi1XFt1",
+        comment: "Github Action"
+    },
+    {
         title: "1969",
         author: "Gábor Szabó",
         cover: "https://i.scdn.co/image/ab67616d0000b2734df8109b167b28283ebac4bb",
