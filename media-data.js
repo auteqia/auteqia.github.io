@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Promise of Love",
+        author: "Delegation",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730df42c68d8cc5e4a6a09b93e",
+        kind: "album",
+        link: "https://open.spotify.com/album/4Fk3IjYaff9pp42yvLxq1e",
+        comment: "Github Action"
+    },
+    {
         title: "And Then Nothing Turned Itself Inside-Out",
         author: "Yo La Tengo",
         cover: "https://i.scdn.co/image/ab67616d0000b273324304068e985b6f35507c32",
