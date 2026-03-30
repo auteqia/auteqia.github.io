@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "And Then Nothing Turned Itself Inside-Out",
+        author: "Yo La Tengo",
+        cover: "https://i.scdn.co/image/ab67616d0000b273324304068e985b6f35507c32",
+        kind: "album",
+        link: "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa",
+        comment: "Github Action"
+    },
+    {
         title: "Blue Skies",
         author: "Dehd",
         cover: "https://i.scdn.co/image/ab67616d0000b273468aaba3c95935d523c3ddcf",
