@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Festival",
+        author: "Santana",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e6d8e305afda511d08121877",
+        kind: "album",
+        link: "https://open.spotify.com/album/3EnNCo6Hsv3mU5w96cGtWC",
+        comment: "Github Action"
+    },
+    {
         title: "The Promise of Love",
         author: "Delegation",
         cover: "https://i.scdn.co/image/ab67616d0000b2730df42c68d8cc5e4a6a09b93e",
