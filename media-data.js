@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Go Too",
+        author: "Stomu Yamash'ta",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b8a82849999bb92fce27b857",
+        kind: "album",
+        link: "https://open.spotify.com/album/2211TLOo9BTlQMrRIzSybG",
+        comment: "Github Action"
+    },
+    {
         title: "Poetry",
         author: "Dehd",
         cover: "https://i.scdn.co/image/ab67616d0000b273b76d0be829a3eff9e6ac9475",
