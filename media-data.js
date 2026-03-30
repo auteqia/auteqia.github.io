@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Blue Skies",
+        author: "Dehd",
+        cover: "https://i.scdn.co/image/ab67616d0000b273468aaba3c95935d523c3ddcf",
+        kind: "album",
+        link: "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE",
+        comment: "Github Action"
+    },
+    {
+        title: "Flower of Devotion",
+        author: "Dehd",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730fd4b359cf4f5dd96b7130fd",
+        kind: "album",
+        link: "https://open.spotify.com/album/4L7ofiVgwVu7xHszcVoEiK",
+        comment: "Github Action"
+    },
+    {
+        title: "Water",
+        author: "Dehd",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735ddd96f1bbd0176e7fa08869",
+        kind: "album",
+        link: "https://open.spotify.com/album/62ObfL2ph7EREu70ZenADa",
+        comment: "Github Action"
+    },
+    {
         title: "Go Too",
         author: "Stomu Yamash'ta",
         cover: "https://i.scdn.co/image/ab67616d0000b273b8a82849999bb92fce27b857",
