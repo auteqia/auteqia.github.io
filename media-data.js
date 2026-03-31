@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Kicking Against the Pricks (2009 Remaster)",
+        author: "Nick Cave & The Bad Seeds",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c1757eb0c09f47867daed508",
+        kind: "album",
+        link: "https://open.spotify.com/album/434DQKPE6u2TV9vtNL2qHS",
+        comment: "Github Action"
+    },
+    {
+        title: "Even In The Quietest Moments... (Remastered 2026)",
+        author: "Supertramp",
+        cover: "https://i.scdn.co/image/ab67616d0000b273be91795435584ccd90c2a76a",
+        kind: "album",
+        link: "https://open.spotify.com/album/0kW7WYI6RWpplTyzUg048H",
+        comment: "Github Action"
+    },
+    {
         title: "Festival",
         author: "Santana",
         cover: "https://i.scdn.co/image/ab67616d0000b273e6d8e305afda511d08121877",
