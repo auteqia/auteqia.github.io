@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "FLCL Season 1 Vol. 1 (Original Television Soundtrack)",
+        author: "the pillows",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f14611f7f3a9aa281ed5967c",
+        kind: "album",
+        link: "https://open.spotify.com/album/55pOUi15iyiqii9jSstPsv",
+        comment: "Github Action"
+    },
+    {
         title: "Burning Down the House / I Get Wild / Wild Gravity",
         author: "Talking Heads",
         cover: "https://i.scdn.co/image/ab67616d0000b273ee320a29df2f19c3d900b83d",
