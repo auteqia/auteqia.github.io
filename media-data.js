@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "Burning Down the House / I Get Wild / Wild Gravity",
+        author: "Talking Heads",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ee320a29df2f19c3d900b83d",
+        kind: "album",
+        link: "https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ",
+        comment: "Github Action"
+    },
+    {
+        title: "Little Creatures",
+        author: "Talking Heads",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ffc1aa3a9e2d29a2d940ae31",
+        kind: "album",
+        link: "https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz",
+        comment: "Github Action"
+    },
+    {
+        title: "More Songs About Buildings and Food",
+        author: "Talking Heads",
+        cover: "https://i.scdn.co/image/ab67616d0000b27391237668384c4d646b30c05c",
+        kind: "album",
+        link: "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe",
+        comment: "Github Action"
+    },
+    {
+        title: "Talking Heads '77",
+        author: "Talking Heads",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b74dc29f68a36438421a9f1d",
+        kind: "album",
+        link: "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S",
+        comment: "Github Action"
+    },
+    {
         title: "Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)",
         author: "The Beatles",
         cover: "https://i.scdn.co/image/ab67616d0000b273c92b57b8307e5999ec2fed69",
