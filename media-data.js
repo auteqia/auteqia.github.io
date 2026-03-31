@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Picture This Live",
+        author: "Blondie",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fb4befe9dac03f54c6343275",
+        kind: "album",
+        link: "https://open.spotify.com/album/3WDEDt2SUZJvzZQ9rPeoV8",
+        comment: "Github Action"
+    },
+    {
+        title: "Drama of Exile",
+        author: "Nico",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e32a28bc829147617f93a2cf",
+        kind: "album",
+        link: "https://open.spotify.com/album/0Xc19liTjnLOc5Bv93AV0r",
+        comment: "Github Action"
+    },
+    {
         title: "Kicking Against the Pricks (2009 Remaster)",
         author: "Nick Cave & The Bad Seeds",
         cover: "https://i.scdn.co/image/ab67616d0000b273c1757eb0c09f47867daed508",
