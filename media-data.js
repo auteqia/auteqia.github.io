@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)",
+        author: "The Beatles",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c92b57b8307e5999ec2fed69",
+        kind: "album",
+        link: "https://open.spotify.com/album/1ntNLgaYCFCkeW4flGYlY2",
+        comment: "Github Action"
+    },
+    {
         title: "Napalm",
         author: "Le Dé",
         cover: "https://i.scdn.co/image/ab67616d0000b273a5dfeac082791bf15ea9d4cc",
