@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Napalm",
+        author: "Le Dé",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a5dfeac082791bf15ea9d4cc",
+        kind: "album",
+        link: "https://open.spotify.com/album/64PawHwo3xldkn2gqUYm6d",
+        comment: "Github Action"
+    },
+    {
+        title: "Connections",
+        author: "Richie Havens",
+        cover: "https://i.scdn.co/image/ab67616d0000b273704f8b7979a535dbaa46a5d4",
+        kind: "album",
+        link: "https://open.spotify.com/album/7ycG05oTUchKzHEEfNrpef",
+        comment: "Github Action"
+    },
+    {
+        title: "Delta Plane",
+        author: "Le Dé",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f72260217855caed4199d769",
+        kind: "album",
+        link: "https://open.spotify.com/album/2rQxnpbDgcqlPYtdGSZzmQ",
+        comment: "Github Action"
+    },
+    {
         title: "Picture This Live",
         author: "Blondie",
         cover: "https://i.scdn.co/image/ab67616d0000b273fb4befe9dac03f54c6343275",
