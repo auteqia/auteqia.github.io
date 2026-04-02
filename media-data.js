@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "The Spotlight Kid",
+        author: "Captain Beefheart & His Magic Band",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ddbe1de8acaf3cf580a9cb1c",
+        kind: "album",
+        link: "https://open.spotify.com/album/2yBGak7HYVxKmVwZBVcxbX",
+        comment: "Github Action"
+    },
+    {
+        title: "The Hurdy Gurdy Man",
+        author: "Donovan",
+        cover: "https://i.scdn.co/image/ab67616d0000b273eb7263ecabf3ff77a5384ded",
+        kind: "album",
+        link: "https://open.spotify.com/album/22fHNsb3nrjDdPoKF7kdPz",
+        comment: "Github Action"
+    },
+    {
+        title: "Cricklewood Green",
+        author: "Ten Years After",
+        cover: "https://i.scdn.co/image/ab67616d0000b27305349c8a490f2bea2af597e8",
+        kind: "album",
+        link: "https://open.spotify.com/album/0PFYDR9wbWNHB01dxDTKG8",
+        comment: "Github Action"
+    },
+    {
+        title: "First Step",
+        author: "Faces",
+        cover: "https://i.scdn.co/image/ab67616d0000b273be8a0d8c3645df00d321d3e5",
+        kind: "album",
+        link: "https://open.spotify.com/album/0iCkdYQdowYqWyVmVaHReZ",
+        comment: "Github Action"
+    },
+    {
         title: "Before We Were so Rudely Interrupted",
         author: "The Animals",
         cover: "https://i.scdn.co/image/ab67616d0000b2738f071ae91ddd370985ea1088",
