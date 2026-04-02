@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Before We Were so Rudely Interrupted",
+        author: "The Animals",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738f071ae91ddd370985ea1088",
+        kind: "album",
+        link: "https://open.spotify.com/album/2JUuWcZ0zEM9CU6zU3lNAL",
+        comment: "Github Action"
+    },
+    {
+        title: "Let Love In (2011 Remaster)",
+        author: "Nick Cave & The Bad Seeds",
+        cover: "https://i.scdn.co/image/ab67616d0000b27399249d4ab96f4760017c40ae",
+        kind: "album",
+        link: "https://open.spotify.com/album/3OlT3zr0bvzYYg2Dwn6Fkx",
+        comment: "Github Action"
+    },
+    {
         title: "Breakfast In America (Remastered 2026)",
         author: "Supertramp",
         cover: "https://i.scdn.co/image/ab67616d0000b273a924b911ffbb6aab25c48a8a",
