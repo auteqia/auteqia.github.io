@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Breakfast In America (Remastered 2026)",
+        author: "Supertramp",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a924b911ffbb6aab25c48a8a",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Se3yqacWPSmAMSfxuWtdM",
+        comment: "Github Action"
+    },
+    {
+        title: "40 Classic Video Game Songs",
+        author: "Video Game Players",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ac4261093ee5f2e3a0530fcf",
+        kind: "album",
+        link: "https://open.spotify.com/album/2UGmdtMnIlUMiXryHZ8StP",
+        comment: "Github Action"
+    },
+    {
+        title: "The Ocarina of Time Collection (Theme Songs From \"The Legend of Zelda\")",
+        author: "Video Game Players",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739ae405c94a80828986161097",
+        kind: "album",
+        link: "https://open.spotify.com/album/7x1XjLYGVRIv5DJDFzxT2F",
+        comment: "Github Action"
+    },
+    {
         title: "FLCL Season 1 Vol. 1 (Original Television Soundtrack)",
         author: "the pillows",
         cover: "https://i.scdn.co/image/ab67616d0000b273f14611f7f3a9aa281ed5967c",
