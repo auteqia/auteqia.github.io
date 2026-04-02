@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Safe As Milk",
+        author: "Captain Beefheart & His Magic Band",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a1b6277839cf22f21b69f267",
+        kind: "album",
+        link: "https://open.spotify.com/album/0DFhGsFKG7G58cke33GlAh",
+        comment: "Github Action"
+    },
+    {
         title: "The Spotlight Kid",
         author: "Captain Beefheart & His Magic Band",
         cover: "https://i.scdn.co/image/ab67616d0000b273ddbe1de8acaf3cf580a9cb1c",
