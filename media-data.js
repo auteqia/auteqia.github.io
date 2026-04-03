@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Live In Paris '79",
+        author: "Supertramp",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731d52d99c62c988941510e249",
+        kind: "album",
+        link: "https://open.spotify.com/album/2M8h9sC6Ffu9kz7ZHWgHcy",
+        comment: "Github Action"
+    },
+    {
         title: "Safe As Milk",
         author: "Captain Beefheart & His Magic Band",
         cover: "https://i.scdn.co/image/ab67616d0000b273a1b6277839cf22f21b69f267",
