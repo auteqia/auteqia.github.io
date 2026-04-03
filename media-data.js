@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Satie: Avant-dernières pensées (Bonus Track Version)",
+        author: "Erik Satie",
+        cover: "https://i.scdn.co/image/ab67616d0000b273949cc0e6728be2f6601eb7ea",
+        kind: "album",
+        link: "https://open.spotify.com/album/1W96dST1KFsd1tZTO3eEGS",
+        comment: "Github Action"
+    },
+    {
         title: "Live In Paris '79",
         author: "Supertramp",
         cover: "https://i.scdn.co/image/ab67616d0000b2731d52d99c62c988941510e249",
