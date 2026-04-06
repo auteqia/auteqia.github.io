@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Waramour",
+        author: "Waramour",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735563ed94f7faf613b7514a65",
+        kind: "album",
+        link: "https://open.spotify.com/album/2lr7AYqCjR9qs7jMuMYB0K",
+        comment: "Github Action"
+    },
+    {
         title: "Satie: Avant-dernières pensées (Bonus Track Version)",
         author: "Erik Satie",
         cover: "https://i.scdn.co/image/ab67616d0000b273949cc0e6728be2f6601eb7ea",
