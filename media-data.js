@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Black Dots",
+        author: "Bad Brains",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733fdfe03811dd263aeff3076e",
+        kind: "album",
+        link: "https://open.spotify.com/album/6xhmQ9CwgYxj5NiTkNovbu",
+        comment: "Github Action"
+    },
+    {
+        title: "Bad Music For Bad People",
+        author: "The Cramps",
+        cover: "https://i.scdn.co/image/ab67616d0000b27317bc369a66a3001838fbf524",
+        kind: "album",
+        link: "https://open.spotify.com/album/2KZS6hOoun6Vo5EqGM3HJG",
+        comment: "Github Action"
+    },
+    {
         title: "Waramour",
         author: "Waramour",
         cover: "https://i.scdn.co/image/ab67616d0000b2735563ed94f7faf613b7514a65",
