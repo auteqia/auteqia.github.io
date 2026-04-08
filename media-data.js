@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Script of the Bridge (Remastered)",
+        author: "The Chameleons",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735afd1a9e9be964296fc9e9d6",
+        kind: "album",
+        link: "https://open.spotify.com/album/0b8KChWO3kRpVRZNdNxms3",
+        comment: "Github Action"
+    },
+    {
         title: "Black Dots",
         author: "Bad Brains",
         cover: "https://i.scdn.co/image/ab67616d0000b2733fdfe03811dd263aeff3076e",
