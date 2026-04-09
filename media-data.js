@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Post Pop Depression: Live At The Royal Albert Hall",
+        author: "Iggy Pop",
+        cover: "https://i.scdn.co/image/ab67616d0000b27398fec64b838ae6d169245995",
+        kind: "album",
+        link: "https://open.spotify.com/album/3BRXXsdF2Uj0yTmo2t0Jwu",
+        comment: "Github Action"
+    },
+    {
         title: "Now That You're Mine",
         author: "Johnny and the Expressions",
         cover: "https://i.scdn.co/image/ab67616d0000b2732218305dd0f5dbc8955e39f2",
