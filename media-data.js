@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Now That You're Mine",
+        author: "Johnny and the Expressions",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732218305dd0f5dbc8955e39f2",
+        kind: "album",
+        link: "https://open.spotify.com/album/5i86WZenCYqylkFac3xp3y",
+        comment: "Github Action"
+    },
+    {
         title: "A Flock of Seagulls",
         author: "A Flock Of Seagulls",
         cover: "https://i.scdn.co/image/ab67616d0000b2732d6da1ee1b8d8fe70e1c43fe",
