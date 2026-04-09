@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "A Flock of Seagulls",
+        author: "A Flock Of Seagulls",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732d6da1ee1b8d8fe70e1c43fe",
+        kind: "album",
+        link: "https://open.spotify.com/album/2k90goIwuujO5w5vcc2Y47",
+        comment: "Github Action"
+    },
+    {
+        title: "american dream",
+        author: "LCD Soundsystem",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737ea79fe7b49d596e14fe1efa",
+        kind: "album",
+        link: "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5",
+        comment: "Github Action"
+    },
+    {
         title: "Script of the Bridge (Remastered)",
         author: "The Chameleons",
         cover: "https://i.scdn.co/image/ab67616d0000b2735afd1a9e9be964296fc9e9d6",
