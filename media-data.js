@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Eat To The Beat",
+        author: "Blondie",
+        cover: "https://i.scdn.co/image/ab67616d0000b27344b45662755a96df78978fbd",
+        kind: "album",
+        link: "https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5",
+        comment: "Github Action"
+    },
+    {
+        title: "The Age of Consent",
+        author: "Bronski Beat",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732ec4aea38b44eba9756767fa",
+        kind: "album",
+        link: "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI",
+        comment: "Github Action"
+    },
+    {
         title: "Post Pop Depression: Live At The Royal Albert Hall",
         author: "Iggy Pop",
         cover: "https://i.scdn.co/image/ab67616d0000b27398fec64b838ae6d169245995",
