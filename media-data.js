@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "THIS IS... ICONA POP",
+        author: "Icona Pop",
+        cover: "https://i.scdn.co/image/ab67616d0000b27369d05d032251b59ae738096a",
+        kind: "album",
+        link: "https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP",
+        comment: "Github Action"
+    },
+    {
+        title: "The Fame",
+        author: "Lady Gaga",
+        cover: "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
+        kind: "album",
+        link: "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV",
+        comment: "Github Action"
+    },
+    {
+        title: "Thriller",
+        author: "Michael Jackson",
+        cover: "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+        kind: "album",
+        link: "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
+        comment: "Github Action"
+    },
+    {
+        title: "King Of America",
+        author: "Elvis Costello",
+        cover: "https://i.scdn.co/image/ab67616d0000b273dd87f6c7e22b91fa4ea5c5cb",
+        kind: "album",
+        link: "https://open.spotify.com/album/6zwFIyWKbdHi9mwrQcrEY1",
+        comment: "Github Action"
+    },
+    {
         title: "Discovery",
         author: "Electric Light Orchestra",
         cover: "https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f",
