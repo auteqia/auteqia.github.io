@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Discovery",
+        author: "Electric Light Orchestra",
+        cover: "https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f",
+        kind: "album",
+        link: "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem",
+        comment: "Github Action"
+    },
+    {
         title: "Eat To The Beat",
         author: "Blondie",
         cover: "https://i.scdn.co/image/ab67616d0000b27344b45662755a96df78978fbd",
