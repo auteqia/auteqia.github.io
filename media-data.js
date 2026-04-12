@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Let It Be (Remastered)",
+        author: "The Beatles",
+        cover: "https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1",
+        kind: "album",
+        link: "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5",
+        comment: "Github Action"
+    },
+    {
         title: "THIS IS... ICONA POP",
         author: "Icona Pop",
         cover: "https://i.scdn.co/image/ab67616d0000b27369d05d032251b59ae738096a",
