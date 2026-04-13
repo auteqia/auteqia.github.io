@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Too Rye Ay",
+        author: "Dexys Midnight Runners",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738bd8adbdc4727d9080240905",
+        kind: "album",
+        link: "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6",
+        comment: "Github Action"
+    },
+    {
+        title: "An Innocent Man",
+        author: "Billy Joel",
+        cover: "https://i.scdn.co/image/ab67616d0000b27329c68eb2726f08eca5ba8613",
+        kind: "album",
+        link: "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc",
+        comment: "Github Action"
+    },
+    {
         title: "The Soft Parade",
         author: "The Doors",
         cover: "https://i.scdn.co/image/ab67616d0000b273a0c993789a4875837cf7cf71",
