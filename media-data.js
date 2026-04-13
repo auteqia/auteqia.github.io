@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Heart’s Filthy Lesson Mix E.P.",
+        author: "David Bowie",
+        cover: "https://i.scdn.co/image/ab67616d0000b27321c184caf110fb67230363d4",
+        kind: "album",
+        link: "https://open.spotify.com/album/0goH1lF0b0K1aHfNXoncMk",
+        comment: "Github Action"
+    },
+    {
         title: "Too Rye Ay",
         author: "Dexys Midnight Runners",
         cover: "https://i.scdn.co/image/ab67616d0000b2738bd8adbdc4727d9080240905",
