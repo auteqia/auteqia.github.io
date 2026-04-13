@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Entertainment! (2021 Remaster)",
+        author: "Gang Of Four",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734a3d86fa3b8f8a0a5c51510d",
+        kind: "album",
+        link: "https://open.spotify.com/album/0S0dy46whC3AmvS2ssikFG",
+        comment: "Github Action"
+    },
+    {
         title: "Songs The Lord Taught Us",
         author: "The Cramps",
         cover: "https://i.scdn.co/image/ab67616d0000b273d2c32a4c277f8cd46f89f700",
