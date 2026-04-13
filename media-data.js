@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "The Soft Parade",
+        author: "The Doors",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a0c993789a4875837cf7cf71",
+        kind: "album",
+        link: "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI",
+        comment: "Github Action"
+    },
+    {
+        title: "Stand Up",
+        author: "Jethro Tull",
+        cover: "https://i.scdn.co/image/ab67616d0000b27301760906028d3ea549f10a8c",
+        kind: "album",
+        link: "https://open.spotify.com/album/7kHvpj74cgrJuJ2K6E0mUm",
+        comment: "Github Action"
+    },
+    {
         title: "Let It Be (Remastered)",
         author: "The Beatles",
         cover: "https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1",
