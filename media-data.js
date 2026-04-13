@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Songs The Lord Taught Us",
+        author: "The Cramps",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d2c32a4c277f8cd46f89f700",
+        kind: "album",
+        link: "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay",
+        comment: "Github Action"
+    },
+    {
         title: "The Heart’s Filthy Lesson Mix E.P.",
         author: "David Bowie",
         cover: "https://i.scdn.co/image/ab67616d0000b27321c184caf110fb67230363d4",
