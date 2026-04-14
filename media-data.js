@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Totally Wired - The Rough Trade Anthology",
+        author: "The Fall",
+        cover: "https://i.scdn.co/image/ab67616d0000b27354a1a005b3862c17b3e751fb",
+        kind: "album",
+        link: "https://open.spotify.com/album/3Ae9j47rhrxrJyZ0eca5lh",
+        comment: "Github Action"
+    },
+    {
         title: "Entertainment! (2021 Remaster)",
         author: "Gang Of Four",
         cover: "https://i.scdn.co/image/ab67616d0000b2734a3d86fa3b8f8a0a5c51510d",
