@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Without a Sound",
+        author: "Dinosaur Jr.",
+        cover: "https://i.scdn.co/image/ab67616d0000b273612e30fdaa4c9d5f758dac6c",
+        kind: "album",
+        link: "https://open.spotify.com/album/07m9cMgG70Pznj6M02qvGN",
+        comment: "Github Action"
+    },
+    {
+        title: "Where You Been",
+        author: "Dinosaur Jr.",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fe3dbfcf44a164486d513d07",
+        kind: "album",
+        link: "https://open.spotify.com/album/52aBNUmamdOjcI7FW3dI9z",
+        comment: "Github Action"
+    },
+    {
         title: "Totally Wired - The Rough Trade Anthology",
         author: "The Fall",
         cover: "https://i.scdn.co/image/ab67616d0000b27354a1a005b3862c17b3e751fb",
