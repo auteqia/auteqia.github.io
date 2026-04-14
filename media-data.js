@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "PARADIS OU ENFER",
+        author: "Nonst0pp",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733cde902e41f536c3c8f37e81",
+        kind: "album",
+        link: "https://open.spotify.com/album/26EF8y7S2ExEm87W6GMQDI",
+        comment: "Github Action"
+    },
+    {
+        title: "Superclean, Vol. II",
+        author: "The Marías",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a64b06c0eb30ce15c3e6edc1",
+        kind: "album",
+        link: "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO",
+        comment: "Github Action"
+    },
+    {
+        title: "Roku Roku",
+        author: "Rojuu",
+        cover: "https://i.scdn.co/image/ab67616d0000b273dd847cce54a00612329c743b",
+        kind: "album",
+        link: "https://open.spotify.com/album/4BjavfVDZlwER72j0KYnOf",
+        comment: "Github Action"
+    },
+    {
+        title: "emojiski",
+        author: "Damlif",
+        cover: "https://i.scdn.co/image/ab67616d0000b273922bd6982631d8c9d1d4ca1d",
+        kind: "album",
+        link: "https://open.spotify.com/album/5EdptFzlvB1BnE23tTZ21A",
+        comment: "Github Action"
+    },
+    {
         title: "Without a Sound",
         author: "Dinosaur Jr.",
         cover: "https://i.scdn.co/image/ab67616d0000b273612e30fdaa4c9d5f758dac6c",
