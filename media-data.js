@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Relics",
+        author: "Pink Floyd",
+        cover: "https://i.scdn.co/image/ab67616d0000b27315ec7f6bdcfae4f0a6b94877",
+        kind: "album",
+        link: "https://open.spotify.com/album/361QTNnQcBcNJ38gn8ZWQw",
+        comment: "Github Action"
+    },
+    {
+        title: "Ainsi Soit Je",
+        author: "Mylène Farmer",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cfe9dbe017af66869d675c29",
+        kind: "album",
+        link: "https://open.spotify.com/album/69x2VirNYhaRWQDxV1EX7F",
+        comment: "Github Action"
+    },
+    {
+        title: "Tanx",
+        author: "T. Rex",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cd2ae44413b94cf0f2f5b9fa",
+        kind: "album",
+        link: "https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG",
+        comment: "Github Action"
+    },
+    {
         title: "The Last Race",
         author: "GP Explorer",
         cover: "https://i.scdn.co/image/ab67616d0000b2735f523b91caa7b5078125f73a",
