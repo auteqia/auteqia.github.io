@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Minimum - Maximum",
+        author: "Kraftwerk",
+        cover: "https://i.scdn.co/image/ab67616d0000b27375c32f5adf58b5e1a9a76e0e",
+        kind: "album",
+        link: "https://open.spotify.com/album/4EXblM6xtyQO8pkFCT99jm",
+        comment: "Github Action"
+    },
+    {
+        title: "3-D The Catalogue",
+        author: "Kraftwerk",
+        cover: "https://i.scdn.co/image/ab67616d0000b27372bd5d848dbf5bfd1bd5c752",
+        kind: "album",
+        link: "https://open.spotify.com/album/6nnO5r6I1JtSZ8eTwwIiIF",
+        comment: "Github Action"
+    },
+    {
+        title: "3-D Der Katalog (German Version)",
+        author: "Kraftwerk",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e42b834ac0108522b42fb54a",
+        kind: "album",
+        link: "https://open.spotify.com/album/3sVDBpaliABITJrqfWpRIt",
+        comment: "Github Action"
+    },
+    {
         title: "Relics",
         author: "Pink Floyd",
         cover: "https://i.scdn.co/image/ab67616d0000b27315ec7f6bdcfae4f0a6b94877",
