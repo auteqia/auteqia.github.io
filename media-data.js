@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Station to Station (2016 Remaster)",
+        author: "David Bowie",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738f3cdfeac0678371b16f601d",
+        kind: "album",
+        link: "https://open.spotify.com/album/0MWrKayUshRuT8maG4ZAOU",
+        comment: "Github Action"
+    },
+    {
         title: "Minimum - Maximum",
         author: "Kraftwerk",
         cover: "https://i.scdn.co/image/ab67616d0000b27375c32f5adf58b5e1a9a76e0e",
