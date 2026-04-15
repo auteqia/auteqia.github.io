@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Last Race",
+        author: "GP Explorer",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735f523b91caa7b5078125f73a",
+        kind: "album",
+        link: "https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8",
+        comment: "Github Action"
+    },
+    {
         title: "PARADIS OU ENFER",
         author: "Nonst0pp",
         cover: "https://i.scdn.co/image/ab67616d0000b2733cde902e41f536c3c8f37e81",
