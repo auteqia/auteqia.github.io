@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Smell of Female",
+        author: "The Cramps",
+        cover: "https://i.scdn.co/image/ab67616d0000b27348b83f93506a350a852a0fc3",
+        kind: "album",
+        link: "https://open.spotify.com/album/5vqaYufCYgqDJGnrlbaQcf",
+        comment: "Github Action"
+    },
+    {
         title: "Time To Turn",
         author: "Eloy",
         cover: "https://i.scdn.co/image/ab67616d0000b2730c1180817d7a86067e3c9e0c",
