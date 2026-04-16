@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Time To Turn",
+        author: "Eloy",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730c1180817d7a86067e3c9e0c",
+        kind: "album",
+        link: "https://open.spotify.com/album/24xpef77qNidD1GoWXBHLf",
+        comment: "Github Action"
+    },
+    {
         title: "Station to Station (2016 Remaster)",
         author: "David Bowie",
         cover: "https://i.scdn.co/image/ab67616d0000b2738f3cdfeac0678371b16f601d",
