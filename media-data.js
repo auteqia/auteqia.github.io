@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Flow Motion (Remastered)",
+        author: "CAN",
+        cover: "https://i.scdn.co/image/ab67616d0000b273737402015c7b9268fe8680f2",
+        kind: "album",
+        link: "https://open.spotify.com/album/6pcp2R35M3b1lscjpmCxUl",
+        comment: "Github Action"
+    },
+    {
         title: "Smell of Female",
         author: "The Cramps",
         cover: "https://i.scdn.co/image/ab67616d0000b27348b83f93506a350a852a0fc3",
