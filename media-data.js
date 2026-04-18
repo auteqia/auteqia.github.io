@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Ciudad De Pobres Corazones",
+        author: "Fito Paez",
+        cover: "https://i.scdn.co/image/ab67616d0000b273716deec1d4808ee27f45e721",
+        kind: "album",
+        link: "https://open.spotify.com/album/4GGCNfkWRUgyu6UjstHlJj",
+        comment: "Github Action"
+    },
+    {
         title: "Flow Motion (Remastered)",
         author: "CAN",
         cover: "https://i.scdn.co/image/ab67616d0000b273737402015c7b9268fe8680f2",
