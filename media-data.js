@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "To the Moon - Symphonic Version",
+        author: "MADAM",
+        cover: "https://i.scdn.co/image/ab67616d0000b273346fd4e962a624c61e02fa5f",
+        kind: "album",
+        link: "https://open.spotify.com/album/3ySoAxmuEqQqojpvlVBm3f",
+        comment: "Github Action"
+    },
+    {
         title: "Ciudad De Pobres Corazones",
         author: "Fito Paez",
         cover: "https://i.scdn.co/image/ab67616d0000b273716deec1d4808ee27f45e721",
