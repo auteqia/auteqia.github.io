@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Screamin' the Blues",
+        author: "Screamin' Jay Hawkins",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737c21fa237c8613309132e590",
+        kind: "album",
+        link: "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY",
+        comment: "Github Action"
+    },
+    {
+        title: "Black Night b/w I'm On The Mountain",
+        author: "Cheryl Thompson",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733506ad79002d2e5fea717013",
+        kind: "album",
+        link: "https://open.spotify.com/album/0nJgnNLA0jqNI02fDdLPTs",
+        comment: "Github Action"
+    },
+    {
+        title: "A Portrait of a Man and His Woman",
+        author: "Screamin' Jay Hawkins",
+        cover: "https://i.scdn.co/image/ab67616d0000b273efd84d032fb177f022c14a30",
+        kind: "album",
+        link: "https://open.spotify.com/album/5IagXQCJtJhfKcd3Qsk2Ui",
+        comment: "Github Action"
+    },
+    {
+        title: "Have 'Twangy' Guitar Will Travel",
+        author: "Duane Eddy",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f35b7d8d19e02f1eb9702abc",
+        kind: "album",
+        link: "https://open.spotify.com/album/3SHjc6o1z9gxpCcqB6OZ6R",
+        comment: "Github Action"
+    },
+    {
+        title: "A Child's Guide To Good And Evil",
+        author: "The West Coast Pop Art Experimental Band",
+        cover: "https://i.scdn.co/image/ab67616d0000b27345a5166abef8103b31bc3787",
+        kind: "album",
+        link: "https://open.spotify.com/album/7wieiJFEfvS2tWCxv8IBhF",
+        comment: "Github Action"
+    },
+    {
         title: "To the Moon - Symphonic Version",
         author: "MADAM",
         cover: "https://i.scdn.co/image/ab67616d0000b273346fd4e962a624c61e02fa5f",
