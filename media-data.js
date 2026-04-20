@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Goodbye",
+        author: "Cream",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736e14114e634f57610bc24170",
+        kind: "album",
+        link: "https://open.spotify.com/album/2tVc8PhqDSRkpgiGOw7Ukb",
+        comment: "Github Action"
+    },
+    {
         title: "Screamin' the Blues",
         author: "Screamin' Jay Hawkins",
         cover: "https://i.scdn.co/image/ab67616d0000b2737c21fa237c8613309132e590",
