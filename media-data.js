@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Exit Planet Dust",
+        author: "The Chemical Brothers",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732d47d65f2938c9da2ff7f57c",
+        kind: "album",
+        link: "https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg",
+        comment: "Github Action"
+    },
+    {
         title: "Hounds of Love (2018 Remaster)",
         author: "Kate Bush",
         cover: "https://i.scdn.co/image/ab67616d0000b273325778dcafe6ac93d904a9c2",
