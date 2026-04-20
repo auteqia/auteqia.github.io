@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Slider",
+        author: "T. Rex",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737f68864eb75373f5d201fb91",
+        kind: "album",
+        link: "https://open.spotify.com/album/5lL8N073N1d9ENpzM9Wtj5",
+        comment: "Github Action"
+    },
+    {
         title: "Goodbye",
         author: "Cream",
         cover: "https://i.scdn.co/image/ab67616d0000b2736e14114e634f57610bc24170",
