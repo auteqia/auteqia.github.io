@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Supermodified",
+        author: "Amon Tobin",
+        cover: "https://i.scdn.co/image/ab67616d0000b27314b74358028a458cc883b8ef",
+        kind: "album",
+        link: "https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra",
+        comment: "Github Action"
+    },
+    {
         title: "Exit Planet Dust",
         author: "The Chemical Brothers",
         cover: "https://i.scdn.co/image/ab67616d0000b2732d47d65f2938c9da2ff7f57c",
