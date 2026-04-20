@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Hounds of Love (2018 Remaster)",
+        author: "Kate Bush",
+        cover: "https://i.scdn.co/image/ab67616d0000b273325778dcafe6ac93d904a9c2",
+        kind: "album",
+        link: "https://open.spotify.com/album/1ww8GdNvrF0dgJbrnVZmAr",
+        comment: "Github Action"
+    },
+    {
         title: "The Slider",
         author: "T. Rex",
         cover: "https://i.scdn.co/image/ab67616d0000b2737f68864eb75373f5d201fb91",
