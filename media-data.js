@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Odessey and Oracle (Mono Remastered)",
+        author: "The Zombies",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731745b63f9866f75c76626a40",
+        kind: "album",
+        link: "https://open.spotify.com/album/1Rad3I77vbl5L65DjbSIzJ",
+        comment: "Github Action"
+    },
+    {
         title: "Supermodified",
         author: "Amon Tobin",
         cover: "https://i.scdn.co/image/ab67616d0000b27314b74358028a458cc883b8ef",
