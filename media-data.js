@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Ecoutez d'où ma peine vient",
+        author: "Alain Souchon",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b733f19a6ab9f0ca99c5da40",
+        kind: "album",
+        link: "https://open.spotify.com/album/292FqLFveUhVEW9bpe7hGS",
+        comment: "Github Action"
+    },
+    {
+        title: "Collection",
+        author: "Alain Souchon",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b04ca515fa7a5758c6d76263",
+        kind: "album",
+        link: "https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol",
+        comment: "Github Action"
+    },
+    {
+        title: "Rita Mitsouko",
+        author: "Les Rita Mitsouko",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cac6eb41ca7a0ceac153e68d",
+        kind: "album",
+        link: "https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k",
+        comment: "Github Action"
+    },
+    {
         title: "Odessey and Oracle (Mono Remastered)",
         author: "The Zombies",
         cover: "https://i.scdn.co/image/ab67616d0000b2731745b63f9866f75c76626a40",
