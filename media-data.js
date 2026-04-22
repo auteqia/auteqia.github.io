@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Tombé pour la France",
+        author: "Étienne Daho",
+        cover: "https://i.scdn.co/image/ab67616d0000b273448974de5d90322392045596",
+        kind: "album",
+        link: "https://open.spotify.com/album/16kl4uJMSvFCfiyBl2cXFv",
+        comment: "Github Action"
+    },
+    {
+        title: "Milk & Kisses",
+        author: "Cocteau Twins",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ccde2c4c37b539a187f95796",
+        kind: "album",
+        link: "https://open.spotify.com/album/6XBR6ww7Qq58Y6yYPWyP9J",
+        comment: "Github Action"
+    },
+    {
         title: "Ecoutez d'où ma peine vient",
         author: "Alain Souchon",
         cover: "https://i.scdn.co/image/ab67616d0000b273b733f19a6ab9f0ca99c5da40",
