@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Part One",
+        author: "The West Coast Pop Art Experimental Band",
+        cover: "https://i.scdn.co/image/ab67616d0000b273235e3d74d4b132775876ec3e",
+        kind: "album",
+        link: "https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV",
+        comment: "Github Action"
+    },
+    {
         title: "Tombé pour la France",
         author: "Étienne Daho",
         cover: "https://i.scdn.co/image/ab67616d0000b273448974de5d90322392045596",
