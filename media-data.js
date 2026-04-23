@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
+        author: "Iggy Pop",
+        cover: "https://i.scdn.co/image/ab67616d0000b27357ebfccbef07ebff2a495843",
+        kind: "album",
+        link: "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg",
+        comment: "Github Action"
+    },
+    {
         title: "Part One",
         author: "The West Coast Pop Art Experimental Band",
         cover: "https://i.scdn.co/image/ab67616d0000b273235e3d74d4b132775876ec3e",
