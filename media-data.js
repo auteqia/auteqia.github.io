@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "1950s America",
+        author: "Old America Dreams",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737b4bb6c0ab7cdc2acc4b5c69",
+        kind: "album",
+        link: "https://open.spotify.com/album/0KoJiDfDpfIrQHgGvLMPAU",
+        comment: "Github Action"
+    },
+    {
         title: "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
         author: "Iggy Pop",
         cover: "https://i.scdn.co/image/ab67616d0000b27357ebfccbef07ebff2a495843",
