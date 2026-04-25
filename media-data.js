@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "The Virgin Years: 1974-1978",
+        author: "Tangerine Dream",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735318da4141de4dc8b2c5e68b",
+        kind: "album",
+        link: "https://open.spotify.com/album/2vqzKJO8HeMffaSHxg74ln",
+        comment: "Github Action"
+    },
+    {
+        title: "America",
+        author: "America",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
+        kind: "album",
+        link: "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ",
+        comment: "Github Action"
+    },
+    {
         title: "La couleur du son",
         author: "Le Wanski",
         cover: "https://i.scdn.co/image/ab67616d0000b27325a59b5e8fa9418a547e0ea8",
