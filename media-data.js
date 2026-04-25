@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "La couleur du son",
+        author: "Le Wanski",
+        cover: "https://i.scdn.co/image/ab67616d0000b27325a59b5e8fa9418a547e0ea8",
+        kind: "album",
+        link: "https://open.spotify.com/album/1FnJ0RGEXhxjETEdteSDGA",
+        comment: "Github Action"
+    },
+    {
+        title: "La Dune aux épaves",
+        author: "Le Wanski",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d4f052c4466252ce29b39954",
+        kind: "album",
+        link: "https://open.spotify.com/album/1IoGANtDXGfbTuCsM4Aexc",
+        comment: "Github Action"
+    },
+    {
         title: "1950s America",
         author: "Old America Dreams",
         cover: "https://i.scdn.co/image/ab67616d0000b2737b4bb6c0ab7cdc2acc4b5c69",
