@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Unpeeled",
+        author: "Cage The Elephant",
+        cover: "https://i.scdn.co/image/ab67616d0000b27371ab374ece29e088dada2c6d",
+        kind: "album",
+        link: "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7",
+        comment: "Github Action"
+    },
+    {
         title: "The Virgin Years: 1974-1978",
         author: "Tangerine Dream",
         cover: "https://i.scdn.co/image/ab67616d0000b2735318da4141de4dc8b2c5e68b",
