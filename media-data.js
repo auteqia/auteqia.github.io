@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "CINEMA",
+        author: "The Marías",
+        cover: "https://i.scdn.co/image/ab67616d0000b273657d6776f64aa731c8d1748b",
+        kind: "album",
+        link: "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v",
+        comment: "Github Action"
+    },
+    {
+        title: "Sun Chaser",
+        author: "Wabie",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736751351b6548c47ec157ab5b",
+        kind: "album",
+        link: "https://open.spotify.com/album/4dzigeoYCPHj6xxmTwHJ2k",
+        comment: "Github Action"
+    },
+    {
         title: "The Reminder",
         author: "Feist",
         cover: "https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d",
