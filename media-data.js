@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "White Blood Cells",
+        author: "The White Stripes",
+        cover: "https://i.scdn.co/image/ab67616d0000b273033dbfae219de887bd94952a",
+        kind: "album",
+        link: "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0",
+        comment: "Github Action"
+    },
+    {
+        title: "Humbug",
+        author: "Arctic Monkeys",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f65d720a5d70dbb93e96d528",
+        kind: "album",
+        link: "https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2",
+        comment: "Github Action"
+    },
+    {
+        title: "Costello Music",
+        author: "The Fratellis",
+        cover: "https://i.scdn.co/image/ab67616d0000b27390b7c466e878862b5a9cece3",
+        kind: "album",
+        link: "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg",
+        comment: "Github Action"
+    },
+    {
         title: "Being So Normal",
         author: "Peach Pit",
         cover: "https://i.scdn.co/image/ab67616d0000b27300b39b4a73d28536690b355c",
