@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Reminder",
+        author: "Feist",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d",
+        kind: "album",
+        link: "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z",
+        comment: "Github Action"
+    },
+    {
         title: "White Blood Cells",
         author: "The White Stripes",
         cover: "https://i.scdn.co/image/ab67616d0000b273033dbfae219de887bd94952a",
