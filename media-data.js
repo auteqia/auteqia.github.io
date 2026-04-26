@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Being So Normal",
+        author: "Peach Pit",
+        cover: "https://i.scdn.co/image/ab67616d0000b27300b39b4a73d28536690b355c",
+        kind: "album",
+        link: "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA",
+        comment: "Github Action"
+    },
+    {
         title: "Unpeeled",
         author: "Cage The Elephant",
         cover: "https://i.scdn.co/image/ab67616d0000b27371ab374ece29e088dada2c6d",
