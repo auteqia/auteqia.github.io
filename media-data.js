@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Rumours (Super Deluxe)",
+        author: "Fleetwood Mac",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+        kind: "album",
+        link: "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu",
+        comment: "Github Action"
+    },
+    {
         title: "Reincarnation on Stage",
         author: "Eloy",
         cover: "https://i.scdn.co/image/ab67616d0000b273fd329ff75cffd9ef42b685eb",
