@@ -1,5 +1,53 @@
 const mediaLibrary = [
     {
+        title: "MCMXCIII (Live)",
+        author: "The Velvet Underground",
+        cover: "https://i.scdn.co/image/ab67616d0000b27356547aa4500399e8ddfd3244",
+        kind: "album",
+        link: "https://open.spotify.com/album/1MVcsY9E95TMzEXVjO5UP0",
+        comment: "Github Action"
+    },
+    {
+        title: "Moon Safari Rarities (25th Anniversary Edition)",
+        author: "Air",
+        cover: "https://i.scdn.co/image/ab67616d0000b273928f6f6fc3a5e1714659690e",
+        kind: "album",
+        link: "https://open.spotify.com/album/3Dy5c5GMKUEgJJnDu9CPV8",
+        comment: "Github Action"
+    },
+    {
+        title: "Maggot Brain (Live)",
+        author: "Eddie Hazel",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d0ca9b0c49454d2bd17b3e72",
+        kind: "album",
+        link: "https://open.spotify.com/album/4v3wbUfHt3eNNuIdKrfMxF",
+        comment: "Github Action"
+    },
+    {
+        title: "Honora",
+        author: "Flea",
+        cover: "https://i.scdn.co/image/ab67616d0000b273017eb062be58097ec134eeb6",
+        kind: "album",
+        link: "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM",
+        comment: "Github Action"
+    },
+    {
+        title: "To Record Only Water For Ten Days (U.S. Version)",
+        author: "John Frusciante",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732212a5deaedc7b5060799d83",
+        kind: "album",
+        link: "https://open.spotify.com/album/3a9g6ueh2eVIYGTfmSoKkb",
+        comment: "Github Action"
+    },
+    {
+        title: "Finest",
+        author: "Funkadelic",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a2771fdf14a0f00ce460274d",
+        kind: "album",
+        link: "https://open.spotify.com/album/37fcHmhaHEorRGXxiZpK9W",
+        comment: "Github Action"
+    },
+    {
         title: "Rumours (Super Deluxe)",
         author: "Fleetwood Mac",
         cover: "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
