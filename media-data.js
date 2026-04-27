@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Reincarnation on Stage",
+        author: "Eloy",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fd329ff75cffd9ef42b685eb",
+        kind: "album",
+        link: "https://open.spotify.com/album/1nlAZ9toZojMmbbJyqK8G8",
+        comment: "Github Action"
+    },
+    {
+        title: "Power And The Passion",
+        author: "Eloy",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b7e0948741bb3c8062ab6f8c",
+        kind: "album",
+        link: "https://open.spotify.com/album/0eiGbiuC1sd5HITiGIUuAh",
+        comment: "Github Action"
+    },
+    {
         title: "River of Return",
         author: "Agitation Free",
         cover: "https://i.scdn.co/image/ab67616d0000b27374e0f15cfc8a649a15b7bb19",
