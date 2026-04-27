@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Up Until Now",
+        author: "The Michael Weber Show",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cb2e27869af42ae6aab8acae",
+        kind: "album",
+        link: "https://open.spotify.com/album/33DtOYxrrpHqtmlMKw5a4F",
+        comment: "Github Action"
+    },
+    {
+        title: "Malesch",
+        author: "Agitation Free",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738618334c915fe69798ef21fa",
+        kind: "album",
+        link: "https://open.spotify.com/album/65OdrSdTzc2ZbRjiVfHQeT",
+        comment: "Github Action"
+    },
+    {
         title: "MCMXCIII (Live)",
         author: "The Velvet Underground",
         cover: "https://i.scdn.co/image/ab67616d0000b27356547aa4500399e8ddfd3244",
