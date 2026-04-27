@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "V I N C E N T",
+        author: "FKJ",
+        cover: "https://i.scdn.co/image/ab67616d0000b273137f4da12ff9bf4b69dbc26b",
+        kind: "album",
+        link: "https://open.spotify.com/album/0nQotWGbzr7OuJZuSV3TGz",
+        comment: "Github Action"
+    },
+    {
         title: "Up Until Now",
         author: "The Michael Weber Show",
         cover: "https://i.scdn.co/image/ab67616d0000b273cb2e27869af42ae6aab8acae",
