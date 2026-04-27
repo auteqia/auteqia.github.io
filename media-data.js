@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "We Need Medicine",
+        author: "The Fratellis",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739da3a5201c6b56b1012a0af4",
+        kind: "album",
+        link: "https://open.spotify.com/album/7otPYa5dSxdo2WLgQKnaM7",
+        comment: "Github Action"
+    },
+    {
         title: "CINEMA",
         author: "The Marías",
         cover: "https://i.scdn.co/image/ab67616d0000b273657d6776f64aa731c8d1748b",
