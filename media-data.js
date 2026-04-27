@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "River of Return",
+        author: "Agitation Free",
+        cover: "https://i.scdn.co/image/ab67616d0000b27374e0f15cfc8a649a15b7bb19",
+        kind: "album",
+        link: "https://open.spotify.com/album/6oNUH62aI9Crq7MQnp4GHc",
+        comment: "Github Action"
+    },
+    {
+        title: "The Reverberi Group",
+        author: "Gian Piero Reverberi",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b2008b19923a3557c6eee813",
+        kind: "album",
+        link: "https://open.spotify.com/album/68wkY5pGCOZKKj0tl5YMWa",
+        comment: "Github Action"
+    },
+    {
+        title: "Selling England by the Pound (2007 Stereo Mix)",
+        author: "Genesis",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731b4e7e89ede1a1c06078ff62",
+        kind: "album",
+        link: "https://open.spotify.com/album/1rZGSWC3pMmejDwYG0ZXma",
+        comment: "Github Action"
+    },
+    {
+        title: "1972 Obfusc/ation",
+        author: "Pink Floyd",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736fc9f271e9aaabf478e83c40",
+        kind: "album",
+        link: "https://open.spotify.com/album/5xhBf9DKzndQhi1CSu0W7q",
+        comment: "Github Action"
+    },
+    {
+        title: "A Space In Time [50th Anniversary Edition]",
+        author: "Ten Years After",
+        cover: "https://i.scdn.co/image/ab67616d0000b27375c96ce95a8936e3a9c8abbd",
+        kind: "album",
+        link: "https://open.spotify.com/album/18XhK293JUFEf9mQ8gHEp1",
+        comment: "Github Action"
+    },
+    {
         title: "We Need Medicine",
         author: "The Fratellis",
         cover: "https://i.scdn.co/image/ab67616d0000b2739da3a5201c6b56b1012a0af4",
