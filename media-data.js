@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "The Stone Roses",
+        author: "The Stone Roses",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cf1f6466a493eb73d6d9d280",
+        kind: "album",
+        link: "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw",
+        comment: "Github Action"
+    },
+    {
+        title: "Sally Cinnamon",
+        author: "The Stone Roses",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f869b16115d6185e6b638c18",
+        kind: "album",
+        link: "https://open.spotify.com/album/6osFcxzKwesUmEVqLREl8y",
+        comment: "Github Action"
+    },
+    {
+        title: "A Night for Jimi Hendrix (Live at \"Lingerie Club\", Hollywood, 1990)",
+        author: "Eddie Hazel",
+        cover: "https://i.scdn.co/image/ab67616d0000b273768b28b672c93699efaab0d7",
+        kind: "album",
+        link: "https://open.spotify.com/album/494NFMjaJsTB2bsEYJSt0e",
+        comment: "Github Action"
+    },
+    {
         title: "V I N C E N T",
         author: "FKJ",
         cover: "https://i.scdn.co/image/ab67616d0000b273137f4da12ff9bf4b69dbc26b",
