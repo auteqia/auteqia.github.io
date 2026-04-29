@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Neon Pill",
+        author: "Cage The Elephant",
+        cover: "https://i.scdn.co/image/ab67616d0000b273479cf8279b8723c5988ab68f",
+        kind: "album",
+        link: "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd",
+        comment: "Github Action"
+    },
+    {
         title: "The Great Rock 'N' Roll Swindle",
         author: "Sex Pistols",
         cover: "https://i.scdn.co/image/ab67616d0000b2734cd46b77a0b802fb173ae3a2",
