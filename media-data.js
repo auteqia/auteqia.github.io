@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Great Rock 'N' Roll Swindle",
+        author: "Sex Pistols",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734cd46b77a0b802fb173ae3a2",
+        kind: "album",
+        link: "https://open.spotify.com/album/31saU8yDo1EVbvEBgScfOD",
+        comment: "Github Action"
+    },
+    {
         title: "The Stone Roses",
         author: "The Stone Roses",
         cover: "https://i.scdn.co/image/ab67616d0000b273cf1f6466a493eb73d6d9d280",
