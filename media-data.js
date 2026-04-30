@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "George Clinton P-Funk: Live from Metropolis Studios",
+        author: "George Clinton",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c05ac9eab64e9b1c3c754b5b",
+        kind: "album",
+        link: "https://open.spotify.com/album/0FNqj3ZqoIBQartZIg5GkP",
+        comment: "Github Action"
+    },
+    {
         title: "Neon Pill",
         author: "Cage The Elephant",
         cover: "https://i.scdn.co/image/ab67616d0000b273479cf8279b8723c5988ab68f",
