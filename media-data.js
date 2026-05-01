@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Satan Was A Babyboomer",
+        author: "Brutalismus 3000",
+        cover: "https://i.scdn.co/image/ab67616d0000b27347447a00ad298af19cc0ca41",
+        kind: "album",
+        link: "https://open.spotify.com/album/42nVxnZ0BD7Vt3sMK0t8Ss",
+        comment: "Github Action"
+    },
+    {
+        title: "ULTRAKUNST",
+        author: "Brutalismus 3000",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730fe005e66bd2e46300045656",
+        kind: "album",
+        link: "https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW",
+        comment: "Github Action"
+    },
+    {
+        title: "SPIRAL",
+        author: "ISOxo",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736a56ce10d8834d664a3c89e3",
+        kind: "album",
+        link: "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17",
+        comment: "Github Action"
+    },
+    {
         title: "George Clinton P-Funk: Live from Metropolis Studios",
         author: "George Clinton",
         cover: "https://i.scdn.co/image/ab67616d0000b273c05ac9eab64e9b1c3c754b5b",
