@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "GOODBYE SALÒ",
+        author: "Brutalismus 3000",
+        cover: "https://i.scdn.co/image/ab67616d0000b273facba1bc2f0af71f95165254",
+        kind: "album",
+        link: "https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1",
+        comment: "Github Action"
+    },
+    {
         title: "Satan Was A Babyboomer",
         author: "Brutalismus 3000",
         cover: "https://i.scdn.co/image/ab67616d0000b27347447a00ad298af19cc0ca41",
