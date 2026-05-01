@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Long Way Down (Deluxe)",
+        author: "Tom Odell",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f",
+        kind: "album",
+        link: "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8",
+        comment: "Github Action"
+    },
+    {
+        title: "Vibes",
+        author: "Vacations",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733fe10c957fc57e5dd7c1db24",
+        kind: "album",
+        link: "https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C",
+        comment: "Github Action"
+    },
+    {
         title: "GOODBYE SALÒ",
         author: "Brutalismus 3000",
         cover: "https://i.scdn.co/image/ab67616d0000b273facba1bc2f0af71f95165254",
