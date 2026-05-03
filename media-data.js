@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Doors, Doors, Who's Coming Through The Doors?",
+        author: "The Wiggles",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730d6dc28832df687d27865818",
+        kind: "album",
+        link: "https://open.spotify.com/album/31g9mW3uekNqjWPdrNnTgr",
+        comment: "Github Action"
+    },
+    {
+        title: "Fandango! (Expanded 2006 Remaster)",
+        author: "ZZ Top",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bd2fc8f7c9c1ed3baf704d33",
+        kind: "album",
+        link: "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV",
+        comment: "Github Action"
+    },
+    {
         title: "Long Way Down (Deluxe)",
         author: "Tom Odell",
         cover: "https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f",
