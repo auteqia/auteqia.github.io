@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Tails of Illusion",
+        author: "Fox",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fe7b085e0f557aee29146a03",
+        kind: "album",
+        link: "https://open.spotify.com/album/31er7fyBlwR1ltFd1Sm2f1",
+        comment: "Github Action"
+    },
+    {
         title: "Super Trouper",
         author: "ABBA",
         cover: "https://i.scdn.co/image/ab67616d0000b2734d08fc99eff4ed52dfce91fa",
