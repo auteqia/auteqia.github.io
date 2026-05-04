@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Love Me Please Love Me",
+        author: "Michel Polnareff",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c6fc108cc2562b90d03befc4",
+        kind: "album",
+        link: "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH",
+        comment: "Github Action"
+    },
+    {
         title: "Doors, Doors, Who's Coming Through The Doors?",
         author: "The Wiggles",
         cover: "https://i.scdn.co/image/ab67616d0000b2730d6dc28832df687d27865818",
