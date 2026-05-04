@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Super Trouper",
+        author: "ABBA",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734d08fc99eff4ed52dfce91fa",
+        kind: "album",
+        link: "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf",
+        comment: "Github Action"
+    },
+    {
+        title: "Beauséjour (Remasterisé en 2002)",
+        author: "Michel Berger",
+        cover: "https://i.scdn.co/image/ab67616d0000b27388a725ebf74ad89579d49952",
+        kind: "album",
+        link: "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA",
+        comment: "Github Action"
+    },
+    {
+        title: "I Will Wait For You",
+        author: "Kids Return",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e5f6311cab5ec52049d20c44",
+        kind: "album",
+        link: "https://open.spotify.com/album/0f2cFqPY4v3WXmHGDyaWD7",
+        comment: "Github Action"
+    },
+    {
+        title: "All For A Reason",
+        author: "Alessi Brothers",
+        cover: "https://i.scdn.co/image/ab67616d0000b27373f1bec437f171811ac15472",
+        kind: "album",
+        link: "https://open.spotify.com/album/7JiHPd0MdER2tqivUyBScH",
+        comment: "Github Action"
+    },
+    {
+        title: "La Valse A Mille Temps (Vol.4)",
+        author: "Jacques Brel",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d2fd135e270391bc72623986",
+        kind: "album",
+        link: "https://open.spotify.com/album/0PVjDkptaHbw2wrpsWupoV",
+        comment: "Github Action"
+    },
+    {
         title: "Love Me Please Love Me",
         author: "Michel Polnareff",
         cover: "https://i.scdn.co/image/ab67616d0000b273c6fc108cc2562b90d03befc4",
