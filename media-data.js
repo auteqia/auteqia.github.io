@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Let It Roll - Songs of George Harrison",
+        author: "George Harrison",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733f42a91d0db1ea64bde01189",
+        kind: "album",
+        link: "https://open.spotify.com/album/3SqK7kAMsFTRjx2Ze34n7L",
+        comment: "Github Action"
+    },
+    {
         title: "Tails of Illusion",
         author: "Fox",
         cover: "https://i.scdn.co/image/ab67616d0000b273fe7b085e0f557aee29146a03",
