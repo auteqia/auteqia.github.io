@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Music From Big Pink (Remastered)",
+        author: "The Band",
+        cover: "https://i.scdn.co/image/ab67616d0000b27320bbceac6950d3fe13fa13c3",
+        kind: "album",
+        link: "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE",
+        comment: "Github Action"
+    },
+    {
         title: "Self Assembly (Bonus Track Version)",
         author: "noonday underground",
         cover: "https://i.scdn.co/image/ab67616d0000b2735cf730d13681e372d0e44380",
