@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Beyond",
+        author: "Dinosaur Jr.",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737ee19df99475234b6b5ded54",
+        kind: "album",
+        link: "https://open.spotify.com/album/4iyPlXYRIGisPra25J0vhy",
+        comment: "Github Action"
+    },
+    {
+        title: "Bug",
+        author: "Dinosaur Jr.",
+        cover: "https://i.scdn.co/image/ab67616d0000b27395fd171241997af5d3b654a9",
+        kind: "album",
+        link: "https://open.spotify.com/album/217wquCr9YCvsIHEsFkVPs",
+        comment: "Github Action"
+    },
+    {
+        title: "Green Mind",
+        author: "Dinosaur Jr.",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735b95fb3415a1651234506ca7",
+        kind: "album",
+        link: "https://open.spotify.com/album/3eABTKoa4FjbmnteqvM9YZ",
+        comment: "Github Action"
+    },
+    {
+        title: "Hand It Over",
+        author: "Dinosaur Jr.",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731f61efe9b0e21fadf12e8470",
+        kind: "album",
+        link: "https://open.spotify.com/album/5NTRbt3A0nrQaSgOqgZswC",
+        comment: "Github Action"
+    },
+    {
+        title: "Sweep It Into Space",
+        author: "Dinosaur Jr.",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737e70c7b33c3a19a73c9a6bed",
+        kind: "album",
+        link: "https://open.spotify.com/album/5nq7eeznlbbS4koADLXd5k",
+        comment: "Github Action"
+    },
+    {
         title: "Tagimoucia",
         author: "Little Island Leap",
         cover: "https://i.scdn.co/image/ab67616d0000b273454d3718ac245eba4950b2a2",
