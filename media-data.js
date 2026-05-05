@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Tagimoucia",
+        author: "Little Island Leap",
+        cover: "https://i.scdn.co/image/ab67616d0000b273454d3718ac245eba4950b2a2",
+        kind: "album",
+        link: "https://open.spotify.com/album/5uVz7Bf11YGQdEcGpztVhw",
+        comment: "Github Action"
+    },
+    {
+        title: "Jazz Loves Paris By Night",
+        author: "Jean Bonal",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d8aa01f8b64075e436e36ebc",
+        kind: "album",
+        link: "https://open.spotify.com/album/3nOX1KQi39HhdDmEMx83Zs",
+        comment: "Github Action"
+    },
+    {
         title: "Puertos De Alternativa",
         author: "Agustin Pereyra Lucena",
         cover: "https://i.scdn.co/image/ab67616d0000b273a9fb02213718a2deb67271ba",
