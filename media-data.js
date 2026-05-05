@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Fork in the Road",
+        author: "The Robert Band Band",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730287e34feff4548ffc01fe48",
+        kind: "album",
+        link: "https://open.spotify.com/album/58gESsX8GOEFOwCtfDnj9q",
+        comment: "Github Action"
+    },
+    {
+        title: "Crosby, Stills & Nash",
+        author: "Crosby, Stills & Nash",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a32339b8818323380682a889",
+        kind: "album",
+        link: "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny",
+        comment: "Github Action"
+    },
+    {
         title: "Music From Big Pink (Remastered)",
         author: "The Band",
         cover: "https://i.scdn.co/image/ab67616d0000b27320bbceac6950d3fe13fa13c3",
