@@ -1,5 +1,93 @@
 const mediaLibrary = [
     {
+        title: "Puertos De Alternativa",
+        author: "Agustin Pereyra Lucena",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a9fb02213718a2deb67271ba",
+        kind: "album",
+        link: "https://open.spotify.com/album/33wBsWJdxJ1Jf3neteVdyO",
+        comment: "Github Action"
+    },
+    {
+        title: "Gungala, la pantera nuda (Original Motion Picture Soundtrack)",
+        author: "Luigi Malatesta",
+        cover: "https://i.scdn.co/image/ab67616d0000b27338b7358246cafbe5a77e499f",
+        kind: "album",
+        link: "https://open.spotify.com/album/4Y3sPxqlYj32f0vwrMZBgQ",
+        comment: "Github Action"
+    },
+    {
+        title: "La Rana",
+        author: "Agustin Pereyra Lucena",
+        cover: "https://i.scdn.co/image/ab67616d0000b27379708a357c25a8b6fb15bc75",
+        kind: "album",
+        link: "https://open.spotify.com/album/0TJseBa6C8UDnzx3eBxpyG",
+        comment: "Github Action"
+    },
+    {
+        title: "Svezia, Inferno E Paradiso (Outtakes)",
+        author: "Piero Umiliani",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c4ef627125c63c393a9c724d",
+        kind: "album",
+        link: "https://open.spotify.com/album/2NZsvphj5w8hjNaEYsRisd",
+        comment: "Github Action"
+    },
+    {
+        title: "Panoramic Feelings (Mellow Carefree Lounge Music)",
+        author: "Alessandro Alessandroni",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a36b7c1b093e2338b86c891f",
+        kind: "album",
+        link: "https://open.spotify.com/album/4CW8oM19vtGd4TJi1qmmZu",
+        comment: "Github Action"
+    },
+    {
+        title: "Samba Blim",
+        author: "Tamba 4",
+        cover: "https://i.scdn.co/image/ab67616d0000b27362c738fbd061fb07610cc1d8",
+        kind: "album",
+        link: "https://open.spotify.com/album/2N8i34T56xgmiuN3DI7f34",
+        comment: "Github Action"
+    },
+    {
+        title: "Agustin Pereyra Lucena",
+        author: "Agustin Pereyra Lucena",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734569b6d19b56cbf1494b2ff6",
+        kind: "album",
+        link: "https://open.spotify.com/album/5s9wor1NCDNvKC2IouWtdy",
+        comment: "Github Action"
+    },
+    {
+        title: "Cortex, Vol. 2",
+        author: "Cortex",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b58aae7b21918689bd2ee7a0",
+        kind: "album",
+        link: "https://open.spotify.com/album/3IVthWJZ9GXtVrM8DnFt3X",
+        comment: "Github Action"
+    },
+    {
+        title: "Projeto Memoria Brasileira : Viva Garoto",
+        author: "Garoto",
+        cover: "https://i.scdn.co/image/ab67616d0000b27343913a36e8a7f7846297d858",
+        kind: "album",
+        link: "https://open.spotify.com/album/4IQUJik4WV3OEEzBovhvMN",
+        comment: "Github Action"
+    },
+    {
+        title: "Uma Vitamina Faz Favor",
+        author: "Pierre Cavalli",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732e5a653799d459ffbc722a3d",
+        kind: "album",
+        link: "https://open.spotify.com/album/6GECCRKiZMy1YbCIdkKpLn",
+        comment: "Github Action"
+    },
+    {
+        title: "La ragazza dalla pelle di luna",
+        author: "Piero Umiliani",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fab13dc56058ea0dfb124dc7",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg",
+        comment: "Github Action"
+    },
+    {
         title: "Let It Roll - Songs of George Harrison",
         author: "George Harrison",
         cover: "https://i.scdn.co/image/ab67616d0000b2733f42a91d0db1ea64bde01189",
