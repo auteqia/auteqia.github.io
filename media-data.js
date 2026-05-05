@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Self Assembly (Bonus Track Version)",
+        author: "noonday underground",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735cf730d13681e372d0e44380",
+        kind: "album",
+        link: "https://open.spotify.com/album/6sFEP8g14X8w7GXuFjcomz",
+        comment: "Github Action"
+    },
+    {
         title: "Beyond",
         author: "Dinosaur Jr.",
         cover: "https://i.scdn.co/image/ab67616d0000b2737ee19df99475234b6b5ded54",
