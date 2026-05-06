@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Frank",
+        author: "Amy Winehouse",
+        cover: "https://i.scdn.co/image/ab67616d0000b27348139dae5ec404ceb12213c4",
+        kind: "album",
+        link: "https://open.spotify.com/album/664z6KAZKVhAY36vBCLmiN",
+        comment: "Github Action"
+    },
+    {
+        title: "Los Angeles (2019 Remaster)",
+        author: "X",
+        cover: "https://i.scdn.co/image/ab67616d0000b273af28744b4432e7ab20d7f914",
+        kind: "album",
+        link: "https://open.spotify.com/album/3OpKtGldm7NzZVVn1LFlYn",
+        comment: "Github Action"
+    },
+    {
         title: "Fork in the Road",
         author: "The Robert Band Band",
         cover: "https://i.scdn.co/image/ab67616d0000b2730287e34feff4548ffc01fe48",
