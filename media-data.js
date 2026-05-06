@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "The Last Waltz (Deluxe Version)",
+        author: "The Band",
+        cover: "https://i.scdn.co/image/ab67616d0000b273415e5ff0f5a631e22af127a6",
+        kind: "album",
+        link: "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP",
+        comment: "Github Action"
+    },
+    {
+        title: "CRANK",
+        author: "Slayyyter",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d4cf50c3d8b9196ae6754e81",
+        kind: "album",
+        link: "https://open.spotify.com/album/3zAXDaMbv8dr2TTw32vEnT",
+        comment: "Github Action"
+    },
+    {
+        title: "To Know Him Is To Love Him (Live From Dermot O'Leary's Saturday Sessions / 2006)",
+        author: "Amy Winehouse",
+        cover: "https://i.scdn.co/image/ab67616d0000b27362f831b8fa2d5bbc9cf2c336",
+        kind: "album",
+        link: "https://open.spotify.com/album/0v3DRnxurDzxFyfa3703NA",
+        comment: "Github Action"
+    },
+    {
         title: "Lioness: Hidden Treasures",
         author: "Amy Winehouse",
         cover: "https://i.scdn.co/image/ab67616d0000b2734c896e873306c17847c254e9",
