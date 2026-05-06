@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Lioness: Hidden Treasures",
+        author: "Amy Winehouse",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734c896e873306c17847c254e9",
+        kind: "album",
+        link: "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3",
+        comment: "Github Action"
+    },
+    {
+        title: "Frank (Deluxe Edition)",
+        author: "Amy Winehouse",
+        cover: "https://i.scdn.co/image/ab67616d0000b27394c343306c2231376c9b5f1b",
+        kind: "album",
+        link: "https://open.spotify.com/album/21TbVIwGO0Cb9binVbLyg1",
+        comment: "Github Action"
+    },
+    {
         title: "Frank",
         author: "Amy Winehouse",
         cover: "https://i.scdn.co/image/ab67616d0000b27348139dae5ec404ceb12213c4",
