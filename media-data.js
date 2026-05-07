@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "New Values",
+        author: "Iggy Pop",
+        cover: "https://i.scdn.co/image/ab67616d0000b27366943df96d1a0fd906feccef",
+        kind: "album",
+        link: "https://open.spotify.com/album/5MMqSMFphOrGIXmlYN9Whc",
+        comment: "Github Action"
+    },
+    {
         title: "Post Pop Depression",
         author: "Iggy Pop",
         cover: "https://i.scdn.co/image/ab67616d0000b273efaf0241fb94954bbbd8f6a9",
