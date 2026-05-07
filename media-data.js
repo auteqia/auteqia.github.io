@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Post Pop Depression",
+        author: "Iggy Pop",
+        cover: "https://i.scdn.co/image/ab67616d0000b273efaf0241fb94954bbbd8f6a9",
+        kind: "album",
+        link: "https://open.spotify.com/album/1pyIYnwE5fvCUOofffwZm0",
+        comment: "Github Action"
+    },
+    {
         title: "The Last Waltz (Deluxe Version)",
         author: "The Band",
         cover: "https://i.scdn.co/image/ab67616d0000b273415e5ff0f5a631e22af127a6",
