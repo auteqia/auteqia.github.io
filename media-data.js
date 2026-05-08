@@ -1,5 +1,61 @@
 const mediaLibrary = [
     {
+        title: "Flying - One Hour Space Rock (2012 Remastered)",
+        author: "UFO",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735e1ae464660297e6d18e9c60",
+        kind: "album",
+        link: "https://open.spotify.com/album/2EXBxhWhbcJjCiJxHb8EUX",
+        comment: "Github Action"
+    },
+    {
+        title: "ZZ Top's First Album",
+        author: "ZZ Top",
+        cover: "https://i.scdn.co/image/ab67616d0000b27325d786e8b380bdea5b8222dd",
+        kind: "album",
+        link: "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx",
+        comment: "Github Action"
+    },
+    {
+        title: "Blues Helping",
+        author: "Love Sculpture",
+        cover: "https://i.scdn.co/image/ab67616d0000b27312512aea6ae9e7d785eee2ed",
+        kind: "album",
+        link: "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB",
+        comment: "Github Action"
+    },
+    {
+        title: "Superlungs",
+        author: "Terry Reid",
+        cover: "https://i.scdn.co/image/ab67616d0000b273dd44d84bd817330b23d50c2a",
+        kind: "album",
+        link: "https://open.spotify.com/album/2UnSm85CpraLdhYDxZwXoN",
+        comment: "Github Action"
+    },
+    {
+        title: "A Hard Road",
+        author: "John Mayall & The Bluesbreakers",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c4595e90ad79731a49058f57",
+        kind: "album",
+        link: "https://open.spotify.com/album/160euwnzg8f0oSEz3on32Z",
+        comment: "Github Action"
+    },
+    {
+        title: "Blue Oyster Cult",
+        author: "Blue Öyster Cult",
+        cover: "https://i.scdn.co/image/ab67616d0000b273abcb66eac8f1f20f86124aa3",
+        kind: "album",
+        link: "https://open.spotify.com/album/6xxUsZyckaV0shjOJ0cVpf",
+        comment: "Github Action"
+    },
+    {
+        title: "Barbed Wire Sandwich",
+        author: "Black Cat Bones",
+        cover: "https://i.scdn.co/image/ab67616d0000b27377b75be07a090fc06dd2e8f2",
+        kind: "album",
+        link: "https://open.spotify.com/album/4Om1ubpUb3othQBaP2rE10",
+        comment: "Github Action"
+    },
+    {
         title: "New Values",
         author: "Iggy Pop",
         cover: "https://i.scdn.co/image/ab67616d0000b27366943df96d1a0fd906feccef",
