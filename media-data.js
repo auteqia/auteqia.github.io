@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "UFO 1 (2012 Remastered)",
+        author: "UFO",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fb357bf939242d11bc64e0ae",
+        kind: "album",
+        link: "https://open.spotify.com/album/64mle6iNvq51hO6D869KLH",
+        comment: "Github Action"
+    },
+    {
         title: "Flying - One Hour Space Rock (2012 Remastered)",
         author: "UFO",
         cover: "https://i.scdn.co/image/ab67616d0000b2735e1ae464660297e6d18e9c60",
