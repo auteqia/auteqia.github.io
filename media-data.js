@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Sheik Yerbouti",
+        author: "Frank Zappa",
+        cover: "https://i.scdn.co/image/ab67616d0000b27371984d531980f54727d10aea",
+        kind: "album",
+        link: "https://open.spotify.com/album/3ShH5ngTENPbZjE9PVctJj",
+        comment: "Github Action"
+    },
+    {
         title: "UFO 1 (2012 Remastered)",
         author: "UFO",
         cover: "https://i.scdn.co/image/ab67616d0000b273fb357bf939242d11bc64e0ae",
