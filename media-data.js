@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Restrictions",
+        author: "Cactus",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d3e34040897002aebeb7a70d",
+        kind: "album",
+        link: "https://open.spotify.com/album/35LFcKQhFJ8GWipRJFWssh",
+        comment: "Github Action"
+    },
+    {
+        title: "Perfect from Now On",
+        author: "Built To Spill",
+        cover: "https://i.scdn.co/image/ab67616d0000b273778b1aec8641ee2abeedec79",
+        kind: "album",
+        link: "https://open.spotify.com/album/6DlZzUnITGI5cWGTjIWSBm",
+        comment: "Github Action"
+    },
+    {
         title: "Sheik Yerbouti",
         author: "Frank Zappa",
         cover: "https://i.scdn.co/image/ab67616d0000b27371984d531980f54727d10aea",
