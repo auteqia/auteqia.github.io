@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Trompe le Monde",
+        author: "Pixies",
+        cover: "https://i.scdn.co/image/ab67616d0000b273865d3683ca35959a3ee95429",
+        kind: "album",
+        link: "https://open.spotify.com/album/1xtaONLuwdb5STNnLGNVGi",
+        comment: "Github Action"
+    },
+    {
+        title: "BUCKSHOT ROULETTE",
+        author: "Mike Klubnika",
+        cover: "https://i.scdn.co/image/ab67616d0000b27356879046b5789536b3aa36ef",
+        kind: "album",
+        link: "https://open.spotify.com/album/7fPcdqIB6qZNsDPeYiEg4Y",
+        comment: "Github Action"
+    },
+    {
+        title: "All Killer, No Filler",
+        author: "Sum 41",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739a482180e6a306229bff49dc",
+        kind: "album",
+        link: "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim",
+        comment: "Github Action"
+    },
+    {
         title: "Into The Wild (Music For The Motion Picture)",
         author: "Eddie Vedder",
         cover: "https://i.scdn.co/image/ab67616d0000b2733ed52339ae78ac1b695e8d80",
