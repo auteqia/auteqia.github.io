@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "B-Sides & Out-Takes",
+        author: "Stuffed Foxes",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730d548d4f45ae2fa455866220",
+        kind: "album",
+        link: "https://open.spotify.com/album/33mD5rnAksajlCdkiZh76m",
+        comment: "Github Action"
+    },
+    {
+        title: "Viva La Vida or Death and All His Friends",
+        author: "Coldplay",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+        kind: "album",
+        link: "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty",
+        comment: "Github Action"
+    },
+    {
+        title: "Opposite",
+        author: "Burning Heads",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a980eb5cad1ea4529a6ba5ca",
+        kind: "album",
+        link: "https://open.spotify.com/album/0Yg7kyodia9tk1xbjsz4kC",
+        comment: "Github Action"
+    },
+    {
+        title: "Hammersmith Odeon (Live)",
+        author: "Frank Zappa",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738c58aaacede67246372419d5",
+        kind: "album",
+        link: "https://open.spotify.com/album/0nyGiu66NwCrvXN2uangYf",
+        comment: "Github Action"
+    },
+    {
         title: "The Specials (Deluxe Version)",
         author: "The Specials",
         cover: "https://i.scdn.co/image/ab67616d0000b273675b974d0ada890c41804e99",
