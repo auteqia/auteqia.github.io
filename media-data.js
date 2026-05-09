@@ -1,5 +1,53 @@
 const mediaLibrary = [
     {
+        title: "Into The Wild (Music For The Motion Picture)",
+        author: "Eddie Vedder",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733ed52339ae78ac1b695e8d80",
+        kind: "album",
+        link: "https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX",
+        comment: "Github Action"
+    },
+    {
+        title: "Tom Jones Sings She's A Lady",
+        author: "Tom Jones",
+        cover: "https://i.scdn.co/image/ab67616d0000b273814a5ed9d4af838b632b3668",
+        kind: "album",
+        link: "https://open.spotify.com/album/1t0bCr3iI98gdcfwZ2YeVX",
+        comment: "Github Action"
+    },
+    {
+        title: "Naturally",
+        author: "J.J. Cale",
+        cover: "https://i.scdn.co/image/ab67616d0000b27336f87f70bd74db7f54652179",
+        kind: "album",
+        link: "https://open.spotify.com/album/3cpNHI7xhNIosF9WjSk8Zh",
+        comment: "Github Action"
+    },
+    {
+        title: "In The Dynamite Jet Saloon",
+        author: "The Dogs D'Amour",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e7655c0b87093cab9f12c3dc",
+        kind: "album",
+        link: "https://open.spotify.com/album/0cSnJaLCCaATLJgkN0u76z",
+        comment: "Github Action"
+    },
+    {
+        title: "Once",
+        author: "Nightwish",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c7190a75bf05ad902f52c7a2",
+        kind: "album",
+        link: "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc",
+        comment: "Github Action"
+    },
+    {
+        title: "Bongo Fury (Live)",
+        author: "Frank Zappa",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c56bb9de7e3e039b50132335",
+        kind: "album",
+        link: "https://open.spotify.com/album/5ya1WvD8rFTmxeF7szOolq",
+        comment: "Github Action"
+    },
+    {
         title: "Never Say Die! (2013 Remaster)",
         author: "Black Sabbath",
         cover: "https://i.scdn.co/image/ab67616d0000b273674d2b3abe79d0d74f688168",
