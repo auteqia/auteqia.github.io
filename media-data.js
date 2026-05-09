@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Never Say Die! (2013 Remaster)",
+        author: "Black Sabbath",
+        cover: "https://i.scdn.co/image/ab67616d0000b273674d2b3abe79d0d74f688168",
+        kind: "album",
+        link: "https://open.spotify.com/album/15R0gte5kP6Bcrqyaf0j3v",
+        comment: "Github Action"
+    },
+    {
         title: "Tejas",
         author: "ZZ Top",
         cover: "https://i.scdn.co/image/ab67616d0000b273244249873dc5b07420a8bc61",
