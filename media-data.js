@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "The Specials (Deluxe Version)",
+        author: "The Specials",
+        cover: "https://i.scdn.co/image/ab67616d0000b273675b974d0ada890c41804e99",
+        kind: "album",
+        link: "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE",
+        comment: "Github Action"
+    },
+    {
+        title: "Hits Back",
+        author: "The Clash",
+        cover: "https://i.scdn.co/image/ab67616d0000b273254bb7a0ce0b74196f9a53a1",
+        kind: "album",
+        link: "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S",
+        comment: "Github Action"
+    },
+    {
         title: "Trompe le Monde",
         author: "Pixies",
         cover: "https://i.scdn.co/image/ab67616d0000b273865d3683ca35959a3ee95429",
