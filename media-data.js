@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Tejas",
+        author: "ZZ Top",
+        cover: "https://i.scdn.co/image/ab67616d0000b273244249873dc5b07420a8bc61",
+        kind: "album",
+        link: "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K",
+        comment: "Github Action"
+    },
+    {
         title: "Restrictions",
         author: "Cactus",
         cover: "https://i.scdn.co/image/ab67616d0000b273d3e34040897002aebeb7a70d",
