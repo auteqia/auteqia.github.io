@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Lights Out (2008 Remaster)",
+        author: "UFO",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b20fa39da82fe6e7151e9d9d",
+        kind: "album",
+        link: "https://open.spotify.com/album/1ifJlnDcvqpjj0SAYfIfsf",
+        comment: "Github Action"
+    },
+    {
         title: "Tête blême",
         author: "Pogo Car Crash Control",
         cover: "https://i.scdn.co/image/ab67616d0000b2737a2e09ca2f966db72e16d1d9",
