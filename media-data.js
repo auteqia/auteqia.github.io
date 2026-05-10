@@ -1,5 +1,125 @@
 const mediaLibrary = [
     {
+        title: "Tête blême",
+        author: "Pogo Car Crash Control",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737a2e09ca2f966db72e16d1d9",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Sn9HVuVFOFdlz42NeJ5bc",
+        comment: "Github Action"
+    },
+    {
+        title: "Silence Slowly And Madly Shines",
+        author: "The Psychotic Monks",
+        cover: "https://i.scdn.co/image/ab67616d0000b27357a1d7fe37186c9605919afa",
+        kind: "album",
+        link: "https://open.spotify.com/album/6D1Ii8OXQnVCd5HFhY1hv6",
+        comment: "Github Action"
+    },
+    {
+        title: "II",
+        author: "Torba",
+        cover: "https://i.scdn.co/image/ab67616d0000b27329de7d85515d939151dc9411",
+        kind: "album",
+        link: "https://open.spotify.com/album/3loPP5yrbtXrAghM6Y56eh",
+        comment: "Github Action"
+    },
+    {
+        title: "SORCS 80",
+        author: "Thee Oh Sees",
+        cover: "https://i.scdn.co/image/ab67616d0000b27384aa194f65afa9e65ef3c023",
+        kind: "album",
+        link: "https://open.spotify.com/album/7dAmYZ3kZyWLpcXdaM08B8",
+        comment: "Github Action"
+    },
+    {
+        title: "Push",
+        author: "Sextile",
+        cover: "https://i.scdn.co/image/ab67616d0000b273856054d52966befd61ef2f81",
+        kind: "album",
+        link: "https://open.spotify.com/album/094LVoZpuHpU0QwZQNmqAc",
+        comment: "Github Action"
+    },
+    {
+        title: "Poison",
+        author: "Aurat",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cb1d40650fbf307b830de544",
+        kind: "album",
+        link: "https://open.spotify.com/album/0rkapF9dF1GTBoJtOFiTJf",
+        comment: "Github Action"
+    },
+    {
+        title: "Ardina",
+        author: "TAXI KEBAB",
+        cover: "https://i.scdn.co/image/ab67616d0000b27320e5f80eb2c9d6c8e3806c5f",
+        kind: "album",
+        link: "https://open.spotify.com/album/76U3QAvrJ2Dh4b5qEAbE2w",
+        comment: "Github Action"
+    },
+    {
+        title: "Fréquence violence",
+        author: "Pogo Car Crash Control",
+        cover: "https://i.scdn.co/image/ab67616d0000b27397b2aa1dee76426f6def9ac0",
+        kind: "album",
+        link: "https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3",
+        comment: "Github Action"
+    },
+    {
+        title: "3",
+        author: "Sextile",
+        cover: "https://i.scdn.co/image/ab67616d0000b273167be34bc46780ec3b238717",
+        kind: "album",
+        link: "https://open.spotify.com/album/5WTvPMSA9M7NtUbpsBcHxw",
+        comment: "Github Action"
+    },
+    {
+        title: "Cara Maluco",
+        author: "Thee Oh Sees",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fb15023c1be995cb0c17b623",
+        kind: "album",
+        link: "https://open.spotify.com/album/38eO9ec4Dxf1rWNEtFfMqF",
+        comment: "Github Action"
+    },
+    {
+        title: "Monsters Eating People Eating Monsters...",
+        author: "Frankie and the Witch Fingers",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734dd30136f8ff052be3430bce",
+        kind: "album",
+        link: "https://open.spotify.com/album/27dPrUSqqstTfOsTRCRiOT",
+        comment: "Github Action"
+    },
+    {
+        title: "Mutilator Defeated at Last",
+        author: "Thee Oh Sees",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c901c8b6c819d24b6089fd53",
+        kind: "album",
+        link: "https://open.spotify.com/album/31e4Yq05lmd00H8Iardp17",
+        comment: "Github Action"
+    },
+    {
+        title: "Neutral Wave",
+        author: "Lemane",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731121b8d052d366293feebefc",
+        kind: "album",
+        link: "https://open.spotify.com/album/04v0QqQ6Oyr7ekS3WCPeb1",
+        comment: "Github Action"
+    },
+    {
+        title: "Face the Music",
+        author: "Electric Light Orchestra",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d183a2d842ee145f55c4e9df",
+        kind: "album",
+        link: "https://open.spotify.com/album/1HSU8sXRI9HiEAHslHRFQ3",
+        comment: "Github Action"
+    },
+    {
+        title: "Floating Coffin",
+        author: "Thee Oh Sees",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738d7690f3377f61bfff8e0c03",
+        kind: "album",
+        link: "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c",
+        comment: "Github Action"
+    },
+    {
         title: "B-Sides & Out-Takes",
         author: "Stuffed Foxes",
         cover: "https://i.scdn.co/image/ab67616d0000b2730d548d4f45ae2fa455866220",
