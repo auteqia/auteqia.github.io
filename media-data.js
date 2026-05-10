@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "Secret Treaties",
+        author: "Blue Öyster Cult",
+        cover: "https://i.scdn.co/image/ab67616d0000b27366c6a5fe227e67a77eeaeebe",
+        kind: "album",
+        link: "https://open.spotify.com/album/0cs4Eli5HS6BomzJ9yfrAw",
+        comment: "Github Action"
+    },
+    {
+        title: "Felt 4 U",
+        author: "Felt",
+        cover: "https://i.scdn.co/image/ab67616d0000b273060de5f661e1c07e98c152f0",
+        kind: "album",
+        link: "https://open.spotify.com/album/0BR0GbNiAhJxpS0Tcu5Jg5",
+        comment: "Github Action"
+    },
+    {
+        title: "No Heavy Petting (2007 Remaster)",
+        author: "UFO",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737d6102d0cad32f7f558395d0",
+        kind: "album",
+        link: "https://open.spotify.com/album/6PAobGVvLZQLjscFTR4VSI",
+        comment: "Github Action"
+    },
+    {
+        title: "Tres Hombres (Expanded 2006 Remaster)",
+        author: "ZZ Top",
+        cover: "https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a",
+        kind: "album",
+        link: "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX",
+        comment: "Github Action"
+    },
+    {
         title: "Lights Out (2008 Remaster)",
         author: "UFO",
         cover: "https://i.scdn.co/image/ab67616d0000b273b20fa39da82fe6e7151e9d9d",
