@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Manifesto",
+        author: "Roxy Music",
+        cover: "https://i.scdn.co/image/ab67616d0000b27369340e7820b84f9374a0ff0a",
+        kind: "album",
+        link: "https://open.spotify.com/album/1LDD2nUQ17tm1WMchsevtp",
+        comment: "Github Action"
+    },
+    {
+        title: "Flesh And Blood",
+        author: "Roxy Music",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bbd21743c6f550040ee85129",
+        kind: "album",
+        link: "https://open.spotify.com/album/1qPdwK9Ew939DdtkACLMvD",
+        comment: "Github Action"
+    },
+    {
         title: "Secret Treaties",
         author: "Blue Öyster Cult",
         cover: "https://i.scdn.co/image/ab67616d0000b27366c6a5fe227e67a77eeaeebe",
