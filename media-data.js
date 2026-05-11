@@ -1,5 +1,53 @@
 const mediaLibrary = [
     {
+        title: "Kinda Kinks (Deluxe)",
+        author: "The Kinks",
+        cover: "https://i.scdn.co/image/ab67616d0000b273882d7c488f1c5a7270651200",
+        kind: "album",
+        link: "https://open.spotify.com/album/7eg8HfRw9SIlcF78gse2i3",
+        comment: "Github Action"
+    },
+    {
+        title: "Headlines",
+        author: "Flash and the Pan",
+        cover: "https://i.scdn.co/image/ab67616d0000b27365b3b6763e61e6ab63546527",
+        kind: "album",
+        link: "https://open.spotify.com/album/157XPNmI9nfzyi6xigGBkz",
+        comment: "Github Action"
+    },
+    {
+        title: "Flash and the Pan",
+        author: "Flash and the Pan",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ced27f8d880b434f2a093ddc",
+        kind: "album",
+        link: "https://open.spotify.com/album/6C162j2RATUjVxX35yDvG6",
+        comment: "Github Action"
+    },
+    {
+        title: "Too Much Tension!",
+        author: "The Mystery Lights",
+        cover: "https://i.scdn.co/image/ab67616d0000b273035d4090a06a0e4cece16b44",
+        kind: "album",
+        link: "https://open.spotify.com/album/2NCaVCSo0QZzhGSzFdmA0b",
+        comment: "Github Action"
+    },
+    {
+        title: "Best of Bowie",
+        author: "David Bowie",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a47e80463147d1877608d56b",
+        kind: "album",
+        link: "https://open.spotify.com/album/1jdQFC3s8PZUc5i7vovZTv",
+        comment: "Github Action"
+    },
+    {
+        title: "Red Skies Over Paradise",
+        author: "Fischer-Z",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d782923d4cb2ba90aaa13020",
+        kind: "album",
+        link: "https://open.spotify.com/album/7lO2PFTb71xxARq3QV7Ft6",
+        comment: "Github Action"
+    },
+    {
         title: "Manifesto",
         author: "Roxy Music",
         cover: "https://i.scdn.co/image/ab67616d0000b27369340e7820b84f9374a0ff0a",
