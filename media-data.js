@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Collection",
+        author: "Flash and the Pan",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e89edc0cab9fb0293fef70c1",
+        kind: "album",
+        link: "https://open.spotify.com/album/5Jjvjh1sPlM2nddf5xHwdl",
+        comment: "Github Action"
+    },
+    {
         title: "Kinda Kinks (Deluxe)",
         author: "The Kinks",
         cover: "https://i.scdn.co/image/ab67616d0000b273882d7c488f1c5a7270651200",
