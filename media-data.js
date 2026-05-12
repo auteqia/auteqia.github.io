@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Santana's Greatest Hits",
+        author: "Santana",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c6abdd4f54d7dcef9f4bd649",
+        kind: "album",
+        link: "https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai",
+        comment: "Github Action"
+    },
+    {
         title: "Collection",
         author: "Flash and the Pan",
         cover: "https://i.scdn.co/image/ab67616d0000b273e89edc0cab9fb0293fef70c1",
