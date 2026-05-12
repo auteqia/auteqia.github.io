@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Carrion Crawler / The Dream",
+        author: "Thee Oh Sees",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735030ed1aa0fc438ff3f9c67b",
+        kind: "album",
+        link: "https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91",
+        comment: "Github Action"
+    },
+    {
         title: "Santana's Greatest Hits",
         author: "Santana",
         cover: "https://i.scdn.co/image/ab67616d0000b273c6abdd4f54d7dcef9f4bd649",
