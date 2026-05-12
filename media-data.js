@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Then Play On (2013 Remaster; Expanded Edition)",
+        author: "Fleetwood Mac",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735a10f1da120bc2b20d33e0cd",
+        kind: "album",
+        link: "https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR",
+        comment: "Github Action"
+    },
+    {
         title: "Carrion Crawler / The Dream",
         author: "Thee Oh Sees",
         cover: "https://i.scdn.co/image/ab67616d0000b2735030ed1aa0fc438ff3f9c67b",
