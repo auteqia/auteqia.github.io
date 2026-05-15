@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Solo",
+        author: "Frankie Valli",
+        cover: "https://i.scdn.co/image/ab67616d0000b273328ba1034774366865d78ac1",
+        kind: "album",
+        link: "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb",
+        comment: "Github Action"
+    },
+    {
         title: "American Summer",
         author: "American Man Band",
         cover: "https://i.scdn.co/image/ab67616d0000b27361b05a4bde89db972970da1a",
