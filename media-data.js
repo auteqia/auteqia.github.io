@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Beyond the Willow Tree",
+        author: "Cleveland Francis",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732bd47f21d91171bced3f5583",
+        kind: "album",
+        link: "https://open.spotify.com/album/7ct8EaU4ZsJEYYoZRouzFM",
+        comment: "Github Action"
+    },
+    {
         title: "Solo",
         author: "Frankie Valli",
         cover: "https://i.scdn.co/image/ab67616d0000b273328ba1034774366865d78ac1",
