@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "American Summer",
+        author: "American Man Band",
+        cover: "https://i.scdn.co/image/ab67616d0000b27361b05a4bde89db972970da1a",
+        kind: "album",
+        link: "https://open.spotify.com/album/3oNj7HT3D6598VcIJ3aC80",
+        comment: "Github Action"
+    },
+    {
         title: "Then Play On (2013 Remaster; Expanded Edition)",
         author: "Fleetwood Mac",
         cover: "https://i.scdn.co/image/ab67616d0000b2735a10f1da120bc2b20d33e0cd",
