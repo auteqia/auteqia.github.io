@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Hero of Cordova (Americana chamber folk, cinematic south. ballad, Version I)",
+        author: "American Storyteller Music",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d5806a412105091d0cef950b",
+        kind: "album",
+        link: "https://open.spotify.com/album/4fPIBm9LynCDyZvaTcfN1K",
+        comment: "Github Action"
+    },
+    {
         title: "Beyond the Willow Tree",
         author: "Cleveland Francis",
         cover: "https://i.scdn.co/image/ab67616d0000b2732bd47f21d91171bced3f5583",
