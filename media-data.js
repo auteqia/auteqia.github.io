@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Brain Salad Surgery",
+        author: "Emerson, Lake & Palmer",
+        cover: "https://i.scdn.co/image/ab67616d0000b27365b14a33b50a707d165910e9",
+        kind: "album",
+        link: "https://open.spotify.com/album/4j4WEcCFjM5uotti6JG2fk",
+        comment: "Github Action"
+    },
+    {
         title: "The Hero of Cordova (Americana chamber folk, cinematic south. ballad, Version I)",
         author: "American Storyteller Music",
         cover: "https://i.scdn.co/image/ab67616d0000b273d5806a412105091d0cef950b",
