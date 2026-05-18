@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Tango In the Night (Deluxe Edition)",
+        author: "Fleetwood Mac",
+        cover: "https://i.scdn.co/image/ab67616d0000b273aaba065944cd82a6f15c86b6",
+        kind: "album",
+        link: "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F",
+        comment: "Github Action"
+    },
+    {
         title: "Vol. 2",
         author: "The West Coast Pop Art Experimental Band",
         cover: "https://i.scdn.co/image/ab67616d0000b273a0d6ef93effe7109ac2f00ea",
