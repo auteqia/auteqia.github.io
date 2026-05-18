@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Vol. 2",
+        author: "The West Coast Pop Art Experimental Band",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a0d6ef93effe7109ac2f00ea",
+        kind: "album",
+        link: "https://open.spotify.com/album/768tzsXqTrl40MeOfRghne",
+        comment: "Github Action"
+    },
+    {
+        title: "Begin Here (Mono Remastered)",
+        author: "The Zombies",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739733770f5b1cb55e018e8a03",
+        kind: "album",
+        link: "https://open.spotify.com/album/1mn5LBTE4qewxKGILnX70v",
+        comment: "Github Action"
+    },
+    {
+        title: "Da Capo (Deluxe Edition)",
+        author: "Love",
+        cover: "https://i.scdn.co/image/ab67616d0000b273177f2ab53123e6b996d44121",
+        kind: "album",
+        link: "https://open.spotify.com/album/6SJqCAxTntHxfVpMSmWOu3",
+        comment: "Github Action"
+    },
+    {
         title: "Brain Salad Surgery",
         author: "Emerson, Lake & Palmer",
         cover: "https://i.scdn.co/image/ab67616d0000b27365b14a33b50a707d165910e9",
