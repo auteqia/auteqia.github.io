@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "17",
+        author: "XXXTENTACION",
+        cover: "https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5",
+        kind: "album",
+        link: "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0",
+        comment: "Github Action"
+    },
+    {
+        title: "Les étoiles vagabondes : expansion",
+        author: "Nekfeu",
+        cover: "https://i.scdn.co/image/ab67616d0000b27376370f7e9d19f210360186ca",
+        kind: "album",
+        link: "https://open.spotify.com/album/3TDNimUU4nzPRD8BEwiZ0i",
+        comment: "Github Action"
+    },
+    {
         title: "Tango In the Night (Deluxe Edition)",
         author: "Fleetwood Mac",
         cover: "https://i.scdn.co/image/ab67616d0000b273aaba065944cd82a6f15c86b6",
