@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Poison",
+        author: "Blues Cousins",
+        cover: "https://i.scdn.co/image/ab67616d0000b273671fb5a0197cdf8762f2928a",
+        kind: "album",
+        link: "https://open.spotify.com/album/1aAxoyZ64hs6JdABUiuDYR",
+        comment: "Github Action"
+    },
+    {
+        title: "Sleepless Night",
+        author: "Blues Cousins",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734530f2469a4973981cfe5e49",
+        kind: "album",
+        link: "https://open.spotify.com/album/4VIP13rg6yq2vYte4wr5Kx",
+        comment: "Github Action"
+    },
+    {
+        title: "Call Me",
+        author: "Blues Cousins",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ecea1d50109a89644569c33d",
+        kind: "album",
+        link: "https://open.spotify.com/album/0vJJO0HIAlrll7VRhMGVMI",
+        comment: "Github Action"
+    },
+    {
+        title: "Force It (2007 Remaster)",
+        author: "UFO",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d962cce48edb1dbe70e46a1e",
+        kind: "album",
+        link: "https://open.spotify.com/album/630T4tLncONlEBmCkbrmt8",
+        comment: "Github Action"
+    },
+    {
+        title: "Bridge Of Sighs (2007 Remaster)",
+        author: "Robin Trower",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732cabb805fc9358007206bb53",
+        kind: "album",
+        link: "https://open.spotify.com/album/2ufQ2fXlHknTw5RtIN7qaC",
+        comment: "Github Action"
+    },
+    {
         title: "17",
         author: "XXXTENTACION",
         cover: "https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5",
