@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Unplugged",
+        author: "Odezenne",
+        cover: "https://i.scdn.co/image/ab67616d0000b273642f5f16b40f09241563d356",
+        kind: "album",
+        link: "https://open.spotify.com/album/0jWWqNHR88f0sBBFWJLV3J",
+        comment: "Github Action"
+    },
+    {
         title: "Poison",
         author: "Blues Cousins",
         cover: "https://i.scdn.co/image/ab67616d0000b273671fb5a0197cdf8762f2928a",
