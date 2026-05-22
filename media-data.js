@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+        author: "Lynyrd Skynyrd",
+        cover: "https://i.scdn.co/image/ab67616d0000b273128450651c9f0442780d8eb8",
+        kind: "album",
+        link: "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs",
+        comment: "Github Action"
+    },
+    {
         title: "Unplugged",
         author: "Odezenne",
         cover: "https://i.scdn.co/image/ab67616d0000b273642f5f16b40f09241563d356",
