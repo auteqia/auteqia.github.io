@@ -1,5 +1,61 @@
 const mediaLibrary = [
     {
+        title: "The Rawkers (I <3 U SO Edition)",
+        author: "Cassius",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734f3d682578d8bd0fc547bec5",
+        kind: "album",
+        link: "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ",
+        comment: "Github Action"
+    },
+    {
+        title: "The Album",
+        author: "ABBA",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736f705bef76c1d861c4d51d8c",
+        kind: "album",
+        link: "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt",
+        comment: "Github Action"
+    },
+    {
+        title: "Confessions on a Dance Floor",
+        author: "Madonna",
+        cover: "https://i.scdn.co/image/ab67616d0000b273aaa9d84415623c1e790cd07b",
+        kind: "album",
+        link: "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr",
+        comment: "Github Action"
+    },
+    {
+        title: "The Magic Key",
+        author: "Trinix",
+        cover: "https://i.scdn.co/image/ab67616d0000b273172ec92da271e71498440056",
+        kind: "album",
+        link: "https://open.spotify.com/album/015JXvTq9kGDXlJs0z8fYY",
+        comment: "Github Action"
+    },
+    {
+        title: "Arrival",
+        author: "ABBA",
+        cover: "https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0",
+        kind: "album",
+        link: "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9",
+        comment: "Github Action"
+    },
+    {
+        title: "50 Big Ones: Greatest Hits",
+        author: "The Beach Boys",
+        cover: "https://i.scdn.co/image/ab67616d0000b27310d709d905d269d37a41d4c4",
+        kind: "album",
+        link: "https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F",
+        comment: "Github Action"
+    },
+    {
+        title: "Platinum",
+        author: "Cascada",
+        cover: "https://i.scdn.co/image/ab67616d0000b27378c11c1af300d7dc95191066",
+        kind: "album",
+        link: "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY",
+        comment: "Github Action"
+    },
+    {
         title: "France Gall (Remasterisé en 2004)",
         author: "France Gall",
         cover: "https://i.scdn.co/image/ab67616d0000b273898dacccf30a5f2de78f6e3b",
