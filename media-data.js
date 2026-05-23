@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "France Gall (Remasterisé en 2004)",
+        author: "France Gall",
+        cover: "https://i.scdn.co/image/ab67616d0000b273898dacccf30a5f2de78f6e3b",
+        kind: "album",
+        link: "https://open.spotify.com/album/33HVMY47BnuQPkkPcXIytd",
+        comment: "Github Action"
+    },
+    {
         title: "Pronounced' Leh-'Nerd 'Skin-'Nerd",
         author: "Lynyrd Skynyrd",
         cover: "https://i.scdn.co/image/ab67616d0000b273128450651c9f0442780d8eb8",
