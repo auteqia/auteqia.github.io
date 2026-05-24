@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "To Be Continued...",
+        author: "Elton John",
+        cover: "https://i.scdn.co/image/ab67616d0000b27310a2dbd14d14e7495e7bf7e5",
+        kind: "album",
+        link: "https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux",
+        comment: "Github Action"
+    },
+    {
+        title: "Évidemment (Version Deluxe)",
+        author: "France Gall",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736421924f3ad8bcb91b14889e",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Y5UOICIPPl6AmKbZ4ZWhj",
+        comment: "Github Action"
+    },
+    {
+        title: "Honky Chateau",
+        author: "Elton John",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3",
+        kind: "album",
+        link: "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075",
+        comment: "Github Action"
+    },
+    {
+        title: "Goodbye Yellow Brick Road (Remastered)",
+        author: "Elton John",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b",
+        kind: "album",
+        link: "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun",
+        comment: "Github Action"
+    },
+    {
         title: "The Rawkers (I <3 U SO Edition)",
         author: "Cassius",
         cover: "https://i.scdn.co/image/ab67616d0000b2734f3d682578d8bd0fc547bec5",
