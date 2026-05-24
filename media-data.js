@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Love Songs",
+        author: "Elton John",
+        cover: "https://i.scdn.co/image/ab67616d0000b273285a5c29d3b2d05895781820",
+        kind: "album",
+        link: "https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD",
+        comment: "Github Action"
+    },
+    {
         title: "To Be Continued...",
         author: "Elton John",
         cover: "https://i.scdn.co/image/ab67616d0000b27310a2dbd14d14e7495e7bf7e5",
