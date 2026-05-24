@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The World Is Getting Colder",
+        author: "Lebanon Hanover",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733203e3026ab4733374192d37",
+        kind: "album",
+        link: "https://open.spotify.com/album/4IJBHdhLNFx7UC1AXsXJAO",
+        comment: "Github Action"
+    },
+    {
         title: "Ágætis byrjun",
         author: "Sigur Rós",
         cover: "https://i.scdn.co/image/ab67616d0000b2737d5c9fa537845b71c4eb3b5e",
