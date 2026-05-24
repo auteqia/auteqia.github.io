@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Atmosféra",
+        author: "Brutalismus 3000",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734e1f02a5827fca55f289c398",
+        kind: "album",
+        link: "https://open.spotify.com/album/4mjNdqhKn35mF7XzOlDgwl",
+        comment: "Github Action"
+    },
+    {
         title: "Love Songs",
         author: "Elton John",
         cover: "https://i.scdn.co/image/ab67616d0000b273285a5c29d3b2d05895781820",
