@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Ágætis byrjun",
+        author: "Sigur Rós",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737d5c9fa537845b71c4eb3b5e",
+        kind: "album",
+        link: "https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC",
+        comment: "Github Action"
+    },
+    {
         title: "Atmosféra",
         author: "Brutalismus 3000",
         cover: "https://i.scdn.co/image/ab67616d0000b2734e1f02a5827fca55f289c398",
