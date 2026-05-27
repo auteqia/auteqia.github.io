@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Les Premières Années",
+        author: "Michel Polnareff",
+        cover: "https://i.scdn.co/image/ab67616d0000b273660e60694786cc5963b490e1",
+        kind: "album",
+        link: "https://open.spotify.com/album/759Bnt8tK9ok1gr76kPWVP",
+        comment: "Github Action"
+    },
+    {
         title: "The World Is Getting Colder",
         author: "Lebanon Hanover",
         cover: "https://i.scdn.co/image/ab67616d0000b2733203e3026ab4733374192d37",
