@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Pink Moon",
+        author: "Nick Drake",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e369195caf5d169bf5e9eafc",
+        kind: "album",
+        link: "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg",
+        comment: "Github Action"
+    },
+    {
         title: "Rattus Norvegicus",
         author: "The Stranglers",
         cover: "https://i.scdn.co/image/ab67616d0000b27371bc09bffecbaa3ce3c8f8bd",
