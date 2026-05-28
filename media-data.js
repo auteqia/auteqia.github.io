@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "In Search of Space",
+        author: "Hawkwind",
+        cover: "https://i.scdn.co/image/ab67616d0000b27322220d31cc16a11527596b0b",
+        kind: "album",
+        link: "https://open.spotify.com/album/1cgsYqtDTMTetu7FjEsIhI",
+        comment: "Github Action"
+    },
+    {
+        title: "La femme chocolat",
+        author: "Olivia Ruiz",
+        cover: "https://i.scdn.co/image/ab67616d0000b273997a620ce3e3ba3adac75b9d",
+        kind: "album",
+        link: "https://open.spotify.com/album/2s7Ajk85HeHsrB0rSzcKJM",
+        comment: "Github Action"
+    },
+    {
+        title: "The Only Ones",
+        author: "The Only Ones",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d85f6d980a5e17c123a47c82",
+        kind: "album",
+        link: "https://open.spotify.com/album/5xXnT1iBWmcFZv9f46FvYq",
+        comment: "Github Action"
+    },
+    {
         title: "Pink Moon",
         author: "Nick Drake",
         cover: "https://i.scdn.co/image/ab67616d0000b273e369195caf5d169bf5e9eafc",
