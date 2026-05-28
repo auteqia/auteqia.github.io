@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Rattus Norvegicus",
+        author: "The Stranglers",
+        cover: "https://i.scdn.co/image/ab67616d0000b27371bc09bffecbaa3ce3c8f8bd",
+        kind: "album",
+        link: "https://open.spotify.com/album/38lyLeszq1p2sck1lB53dq",
+        comment: "Github Action"
+    },
+    {
+        title: "Confronted by a Variety of Spirits, Complete with Apparitions, Odors, Ghostly Music, and Situations That Frightened the Animals",
+        author: "The Boyish Charms",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bd3bddb30a9f069527ad7e01",
+        kind: "album",
+        link: "https://open.spotify.com/album/5z1pJEbWvD1JQrL0w2kgvn",
+        comment: "Github Action"
+    },
+    {
         title: "Arista Heritage Series: Iggy Pop",
         author: "Iggy Pop",
         cover: "https://i.scdn.co/image/ab67616d0000b273db9d1700c900bb66d15404cb",
