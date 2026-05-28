@@ -1,5 +1,61 @@
 const mediaLibrary = [
     {
+        title: "Arista Heritage Series: Iggy Pop",
+        author: "Iggy Pop",
+        cover: "https://i.scdn.co/image/ab67616d0000b273db9d1700c900bb66d15404cb",
+        kind: "album",
+        link: "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo",
+        comment: "Github Action"
+    },
+    {
+        title: "Good",
+        author: "Morphine",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739266dbc6ca049f661fce1a83",
+        kind: "album",
+        link: "https://open.spotify.com/album/6NuVZbtcscN4RpgZd5UzQy",
+        comment: "Github Action"
+    },
+    {
+        title: "Rio (Collector's Edition)",
+        author: "Duran Duran",
+        cover: "https://i.scdn.co/image/ab67616d0000b27316c75e2dd2654d7d03f2c556",
+        kind: "album",
+        link: "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm",
+        comment: "Github Action"
+    },
+    {
+        title: "The B-52's",
+        author: "The B-52's",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739e2d3bc7ecb09e5124cd3f97",
+        kind: "album",
+        link: "https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN",
+        comment: "Github Action"
+    },
+    {
+        title: "Epitaph (Live, 1969)",
+        author: "King Crimson",
+        cover: "https://i.scdn.co/image/ab67616d0000b273de3bc6348cddb3b04d11a575",
+        kind: "album",
+        link: "https://open.spotify.com/album/2bj0CqPMWLn5TWPSAtewPM",
+        comment: "Github Action"
+    },
+    {
+        title: "Boys Don't Cry (86 Mix)",
+        author: "The Cure",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b305ac846c91e2322e66b899",
+        kind: "album",
+        link: "https://open.spotify.com/album/1f679GeYEUbuvhMTrbmSKo",
+        comment: "Github Action"
+    },
+    {
+        title: "Jeopardy",
+        author: "The Sound",
+        cover: "https://i.scdn.co/image/ab67616d0000b273150c0a25d47b380256e1d471",
+        kind: "album",
+        link: "https://open.spotify.com/album/6QSnitPoyu8x79z1VxtrmV",
+        comment: "Github Action"
+    },
+    {
         title: "Nightclubbing (Brutalismus 3000 Version)",
         author: "Brutalismus 3000",
         cover: "https://i.scdn.co/image/ab67616d0000b2738dbbb0397d72de3a2ab60b62",
