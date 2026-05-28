@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Nightclubbing (Brutalismus 3000 Version)",
+        author: "Brutalismus 3000",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738dbbb0397d72de3a2ab60b62",
+        kind: "album",
+        link: "https://open.spotify.com/album/2ulVtbwS6Cre3NqyIKuu7T",
+        comment: "Github Action"
+    },
+    {
         title: "Les Premières Années",
         author: "Michel Polnareff",
         cover: "https://i.scdn.co/image/ab67616d0000b273660e60694786cc5963b490e1",
