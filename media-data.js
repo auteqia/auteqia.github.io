@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Chaos",
+        author: "CHELABÔM",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736195ea6e107f7ac9d683ac6c",
+        kind: "album",
+        link: "https://open.spotify.com/album/63l7KC9tejr9WL7UoC3bBG",
+        comment: "Github Action"
+    },
+    {
         title: "In Search of Space",
         author: "Hawkwind",
         cover: "https://i.scdn.co/image/ab67616d0000b27322220d31cc16a11527596b0b",
