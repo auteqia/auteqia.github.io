@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Stick Around For Joy",
+        author: "The Sugarcubes",
+        cover: "https://i.scdn.co/image/ab67616d0000b27392677ab18096c658fa3cd55a",
+        kind: "album",
+        link: "https://open.spotify.com/album/2BfZKxeivrNbeXrqPNpsP7",
+        comment: "Github Action"
+    },
+    {
         title: "Garbage (20th Anniversary Deluxe Edition/Remastered)",
         author: "Garbage",
         cover: "https://i.scdn.co/image/ab67616d0000b273da79cbc3b29d31b96ee3fc3d",
