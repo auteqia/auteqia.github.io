@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Garbage (20th Anniversary Deluxe Edition/Remastered)",
+        author: "Garbage",
+        cover: "https://i.scdn.co/image/ab67616d0000b273da79cbc3b29d31b96ee3fc3d",
+        kind: "album",
+        link: "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7",
+        comment: "Github Action"
+    },
+    {
+        title: "Lovelife",
+        author: "Lush",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733f43a6ff38258274802d6d6a",
+        kind: "album",
+        link: "https://open.spotify.com/album/7GENDDN5PnnAF9e8NbuMIT",
+        comment: "Github Action"
+    },
+    {
+        title: "Bricks Are Heavy",
+        author: "L7",
+        cover: "https://i.scdn.co/image/ab67616d0000b273946c2a344a47393f80170cdc",
+        kind: "album",
+        link: "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM",
+        comment: "Github Action"
+    },
+    {
+        title: "Last Splash",
+        author: "The Breeders",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fbf772eed6abce36ddf9233c",
+        kind: "album",
+        link: "https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A",
+        comment: "Github Action"
+    },
+    {
+        title: "The Menace",
+        author: "Elastica",
+        cover: "https://i.scdn.co/image/ab67616d0000b273aa4d73d71f5a61c035ec5344",
+        kind: "album",
+        link: "https://open.spotify.com/album/17U67UOLzyWQpfa4a9Hwr9",
+        comment: "Github Action"
+    },
+    {
         title: "Chaos",
         author: "CHELABÔM",
         cover: "https://i.scdn.co/image/ab67616d0000b2736195ea6e107f7ac9d683ac6c",
