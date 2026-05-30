@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "New York City",
+        author: "Brazilian Girls",
+        cover: "https://i.scdn.co/image/ab67616d0000b27301e3287dc957016949574716",
+        kind: "album",
+        link: "https://open.spotify.com/album/0iwZQDLKT6WAmr3cAKQHQ0",
+        comment: "Github Action"
+    },
+    {
         title: "Stick Around For Joy",
         author: "The Sugarcubes",
         cover: "https://i.scdn.co/image/ab67616d0000b27392677ab18096c658fa3cd55a",
