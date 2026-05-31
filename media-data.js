@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Electric Prunes",
+        author: "The Electric Prunes",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f7768dc3be4dbe6bd9c12855",
+        kind: "album",
+        link: "https://open.spotify.com/album/2HDvpJuWTI97BnZbJOxBzj",
+        comment: "Github Action"
+    },
+    {
         title: "New York City",
         author: "Brazilian Girls",
         cover: "https://i.scdn.co/image/ab67616d0000b27301e3287dc957016949574716",
