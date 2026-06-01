@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Nights Are Lonely",
+        author: "Rain Dogs",
+        cover: "https://i.scdn.co/image/ab67616d0000b27310f721c7b4ddefe100346424",
+        kind: "album",
+        link: "https://open.spotify.com/album/6x9IWYOAa0NKou7vArp24a",
+        comment: "Github Action"
+    },
+    {
+        title: "Gymnastics",
+        author: "Sneaks",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d821dde46d93adfeaedacd25",
+        kind: "album",
+        link: "https://open.spotify.com/album/4mkg3wOvcoFF2AelbG1M2s",
+        comment: "Github Action"
+    },
+    {
+        title: "Deny All Knowledge Of Complicity",
+        author: "Pigeon",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738fb469ec64287ec1a7943ce7",
+        kind: "album",
+        link: "https://open.spotify.com/album/2sgspBsByDvxo3QiOvxG2J",
+        comment: "Github Action"
+    },
+    {
         title: "The Complete Johnny Kidd Vol 1 & 2",
         author: "Johnny Kidd & The Pirates",
         cover: "https://i.scdn.co/image/ab67616d0000b2736006f72adb5ffe7b4b02dadd",
