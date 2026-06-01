@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Garbage (20th Anniversary Edition/Remastered)",
+        author: "Garbage",
+        cover: "https://i.scdn.co/image/ab67616d0000b273977d6d63ddf4d51e3b7f33c8",
+        kind: "album",
+        link: "https://open.spotify.com/album/5oBySdXAQniFqWOgxPWQSs",
+        comment: "Github Action"
+    },
+    {
         title: "Electric Prunes",
         author: "The Electric Prunes",
         cover: "https://i.scdn.co/image/ab67616d0000b273f7768dc3be4dbe6bd9c12855",
