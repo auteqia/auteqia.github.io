@@ -1,5 +1,85 @@
 const mediaLibrary = [
     {
+        title: "The Complete Johnny Kidd Vol 1 & 2",
+        author: "Johnny Kidd & The Pirates",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736006f72adb5ffe7b4b02dadd",
+        kind: "album",
+        link: "https://open.spotify.com/album/34pUE4ZtTaXTdvZ5l39OL1",
+        comment: "Github Action"
+    },
+    {
+        title: "Wirt schon wieder",
+        author: "Ponys auf Pump",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734c77e772c9a82ad4581d8e38",
+        kind: "album",
+        link: "https://open.spotify.com/album/6YlyvqGRi7hCoHqa8GBYUh",
+        comment: "Github Action"
+    },
+    {
+        title: "Relax",
+        author: "Frustration",
+        cover: "https://i.scdn.co/image/ab67616d0000b273931b6059def5db738f65738a",
+        kind: "album",
+        link: "https://open.spotify.com/album/4SyWZ1QIwZQktDLdNzrbxD",
+        comment: "Github Action"
+    },
+    {
+        title: "The Baby Huey Story: The Living Legend",
+        author: "Baby Huey",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739ed801be1a9fb100f815afb1",
+        kind: "album",
+        link: "https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T",
+        comment: "Github Action"
+    },
+    {
+        title: "Immaculate Protection",
+        author: "Nowaves",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734f1fbf3fd6bab453a7a0e682",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Bzh060USwSHP0ga70vfjR",
+        comment: "Github Action"
+    },
+    {
+        title: "Good For Health Bad For Education",
+        author: "Nowaves",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739fc7108923f351caf91e9d00",
+        kind: "album",
+        link: "https://open.spotify.com/album/2eVnLlB93lAFu7QHJPZuKN",
+        comment: "Github Action"
+    },
+    {
+        title: "Who Knows b/w Go On Fool",
+        author: "Marion Black",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a4cb2b3467966468c4159e68",
+        kind: "album",
+        link: "https://open.spotify.com/album/3BMuJ1NQORhCC0PsQyg93m",
+        comment: "Github Action"
+    },
+    {
+        title: "Verloren",
+        author: "De Ambassade",
+        cover: "https://i.scdn.co/image/ab67616d0000b27381f94f7863e220ab95cce8de",
+        kind: "album",
+        link: "https://open.spotify.com/album/5eGeNW7Qw8IvzGIkhC8IlV",
+        comment: "Github Action"
+    },
+    {
+        title: "Empires of Shame",
+        author: "Frustration",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734dc555f3c95076c231c14475",
+        kind: "album",
+        link: "https://open.spotify.com/album/5ajntZLGWVjQlzl1FIh6Rk",
+        comment: "Github Action"
+    },
+    {
+        title: "Schon OK",
+        author: "Die Anstalt",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f84853486a6d7590e0065403",
+        kind: "album",
+        link: "https://open.spotify.com/album/082MGoFiHSnvUNAxjDo0ku",
+        comment: "Github Action"
+    },
+    {
         title: "No Time for Sorrows",
         author: "Fabienne DelSol",
         cover: "https://i.scdn.co/image/ab67616d0000b273558927b2396207b868bfeb07",
