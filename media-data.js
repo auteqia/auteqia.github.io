@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "No Time for Sorrows",
+        author: "Fabienne DelSol",
+        cover: "https://i.scdn.co/image/ab67616d0000b273558927b2396207b868bfeb07",
+        kind: "album",
+        link: "https://open.spotify.com/album/69CeT4lno5kzyf0dmSCuvx",
+        comment: "Github Action"
+    },
+    {
+        title: "Beats and Breaks from the Flower Patch",
+        author: "Kitty Craft",
+        cover: "https://i.scdn.co/image/ab67616d0000b27363ce24a7d6eac995c438dbae",
+        kind: "album",
+        link: "https://open.spotify.com/album/5CPcCM0t4qynEtcKvtGWKj",
+        comment: "Github Action"
+    },
+    {
+        title: "Four Sail (Expanded Edition)",
+        author: "Love",
+        cover: "https://i.scdn.co/image/ab67616d0000b273349c20d49d8e4e61c1905637",
+        kind: "album",
+        link: "https://open.spotify.com/album/7kH6Bp3j5cN4GNNkZdnavs",
+        comment: "Github Action"
+    },
+    {
+        title: "Coliseum Madrid 01 (Elastica Presents David Sanchez & Ivan Sanchez)",
+        author: "Elastica",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735c381e926cfaee6e7b71a560",
+        kind: "album",
+        link: "https://open.spotify.com/album/11ay2nN0tlk6xEll6BqIhz",
+        comment: "Github Action"
+    },
+    {
+        title: "Four Seasons, Six Decades",
+        author: "Frankie Valli & The Four Seasons",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b636d6cef7463e8785bdef36",
+        kind: "album",
+        link: "https://open.spotify.com/album/1Odt7QcdzsJznWFw92zRma",
+        comment: "Github Action"
+    },
+    {
         title: "Garbage (20th Anniversary Edition/Remastered)",
         author: "Garbage",
         cover: "https://i.scdn.co/image/ab67616d0000b273977d6d63ddf4d51e3b7f33c8",
