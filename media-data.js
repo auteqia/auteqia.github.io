@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Light and Heavy/The Best of...",
+        author: "Iron Butterfly",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731465e21342bc252bfdf74565",
+        kind: "album",
+        link: "https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X",
+        comment: "Github Action"
+    },
+    {
         title: "Nights Are Lonely",
         author: "Rain Dogs",
         cover: "https://i.scdn.co/image/ab67616d0000b27310f721c7b4ddefe100346424",
