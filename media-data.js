@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "At last",
+        author: "Screamin' Jay Hawkins",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c0037a992c37b730a7f7e566",
+        kind: "album",
+        link: "https://open.spotify.com/album/6cHF3RyTtflmMEOJHhYTkN",
+        comment: "Github Action"
+    },
+    {
+        title: "Violator (Deluxe)",
+        author: "Depeche Mode",
+        cover: "https://i.scdn.co/image/ab67616d0000b273234bbbad4dce31cd2950af3e",
+        kind: "album",
+        link: "https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH",
+        comment: "Github Action"
+    },
+    {
         title: "Personal Jesus",
         author: "Nina Hagen",
         cover: "https://i.scdn.co/image/ab67616d0000b2731abd4cdb2bba4e22f885edf2",
