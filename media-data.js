@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Personal Jesus",
+        author: "Nina Hagen",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731abd4cdb2bba4e22f885edf2",
+        kind: "album",
+        link: "https://open.spotify.com/album/1zVWGhggXgJQbtTYzfDemS",
+        comment: "Github Action"
+    },
+    {
         title: "Light and Heavy/The Best of...",
         author: "Iron Butterfly",
         cover: "https://i.scdn.co/image/ab67616d0000b2731465e21342bc252bfdf74565",
