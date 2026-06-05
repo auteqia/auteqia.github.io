@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Cow Fingers And Mosquito Pie",
+        author: "Screamin' Jay Hawkins",
+        cover: "https://i.scdn.co/image/ab67616d0000b27319b585ff0c009487e0a07340",
+        kind: "album",
+        link: "https://open.spotify.com/album/16nzhLsiR9jdeDmifDz4pQ",
+        comment: "Github Action"
+    },
+    {
+        title: "Are You One of Jay's Kids?",
+        author: "Screamin' Jay Hawkins",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f09358aca0095e5b6d628ebf",
+        kind: "album",
+        link: "https://open.spotify.com/album/4hng9gOwifQMoxYFJec4CB",
+        comment: "Github Action"
+    },
+    {
         title: "At last",
         author: "Screamin' Jay Hawkins",
         cover: "https://i.scdn.co/image/ab67616d0000b273c0037a992c37b730a7f7e566",
