@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Fear Inoculum",
+        author: "TOOL",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731cb671469ff9fa33703410c4",
+        kind: "album",
+        link: "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5",
+        comment: "Github Action"
+    },
+    {
+        title: "3 Feet High and Rising (35th Anniversary)",
+        author: "De La Soul",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738c50213f8d252e090a5a9b71",
+        kind: "album",
+        link: "https://open.spotify.com/album/2VKV04dOyLIEkBz9iaccP7",
+        comment: "Github Action"
+    },
+    {
         title: "My Little Shop Of Horrors",
         author: "Screamin' Jay Hawkins",
         cover: "https://i.scdn.co/image/ab67616d0000b27317f7c7eb3f9e9709163a1e1d",
