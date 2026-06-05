@@ -1,5 +1,61 @@
 const mediaLibrary = [
     {
+        title: "Sixpence None The Richer",
+        author: "Sixpence None The Richer",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cfc5eea6cfd77e89ed3ac5a4",
+        kind: "album",
+        link: "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix",
+        comment: "Github Action"
+    },
+    {
+        title: "No Jacket Required (2016 Remaster)",
+        author: "Phil Collins",
+        cover: "https://i.scdn.co/image/ab67616d0000b273de0753cd4e8c86dbf6e2f9f0",
+        kind: "album",
+        link: "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB",
+        comment: "Github Action"
+    },
+    {
+        title: "The Joshua Tree",
+        author: "U2",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f8996a3f97e80d9d700635c3",
+        kind: "album",
+        link: "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7",
+        comment: "Github Action"
+    },
+    {
+        title: "Hello, I Must Be Going! (Deluxe Edition)",
+        author: "Phil Collins",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ab0a92e5cd20c2224c44a8a6",
+        kind: "album",
+        link: "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M",
+        comment: "Github Action"
+    },
+    {
+        title: "Rock Of The Westies",
+        author: "Elton John",
+        cover: "https://i.scdn.co/image/ab67616d0000b27342a15a4fe15a8a88ab728d5b",
+        kind: "album",
+        link: "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds",
+        comment: "Github Action"
+    },
+    {
+        title: "Winelight",
+        author: "Grover Washington, Jr.",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d8e0e065037b496212e554b7",
+        kind: "album",
+        link: "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU",
+        comment: "Github Action"
+    },
+    {
+        title: "Ultra (Deluxe)",
+        author: "Depeche Mode",
+        cover: "https://i.scdn.co/image/ab67616d0000b27320320a34fbaf5fe1640e8e91",
+        kind: "album",
+        link: "https://open.spotify.com/album/0OWIVcNE4aItrlRvMUVueO",
+        comment: "Github Action"
+    },
+    {
         title: "Fear Inoculum",
         author: "TOOL",
         cover: "https://i.scdn.co/image/ab67616d0000b2731cb671469ff9fa33703410c4",
