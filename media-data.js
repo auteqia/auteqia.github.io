@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "My Little Shop Of Horrors",
+        author: "Screamin' Jay Hawkins",
+        cover: "https://i.scdn.co/image/ab67616d0000b27317f7c7eb3f9e9709163a1e1d",
+        kind: "album",
+        link: "https://open.spotify.com/album/28pJC3ctsqhutxZtyusXLP",
+        comment: "Github Action"
+    },
+    {
         title: "Cow Fingers And Mosquito Pie",
         author: "Screamin' Jay Hawkins",
         cover: "https://i.scdn.co/image/ab67616d0000b27319b585ff0c009487e0a07340",
