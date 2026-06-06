@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "The Real Kids",
+        author: "The Real Kids",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c354b277659ddcf98dacf977",
+        kind: "album",
+        link: "https://open.spotify.com/album/5Joy9L2oZG0F4izU7YxiGQ",
+        comment: "Github Action"
+    },
+    {
+        title: "25 Jahre Neue Böhmische Blasmusik (Premium Edition)",
+        author: "Neue Böhmische Blasmusik",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fd57a3200d8727a910a7bb28",
+        kind: "album",
+        link: "https://open.spotify.com/album/6BlJInmT32zl5BghDbxgP8",
+        comment: "Github Action"
+    },
+    {
+        title: "Ogdens' Nut Gone Flake - 50th Anniversary Edition (2018 Remaster)",
+        author: "Small Faces",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bb47f3fdb225bdc8456b81fa",
+        kind: "album",
+        link: "https://open.spotify.com/album/2pM93DS0vpM3wt6ooVx5LS",
+        comment: "Github Action"
+    },
+    {
+        title: "Back In The USA",
+        author: "MC5",
+        cover: "https://i.scdn.co/image/ab67616d0000b27369860edfcb706f081d5695df",
+        kind: "album",
+        link: "https://open.spotify.com/album/67NkpPGMcxoIiumOW3oRpL",
+        comment: "Github Action"
+    },
+    {
+        title: "Bored",
+        author: "Destroy All Monsters",
+        cover: "https://i.scdn.co/image/ab67616d0000b273921c30404dd784cf112479d4",
+        kind: "album",
+        link: "https://open.spotify.com/album/0dc9fOzrziC1JKwZuylrA5",
+        comment: "Github Action"
+    },
+    {
         title: "From the Desk of Mr. Lady",
         author: "Le Tigre",
         cover: "https://i.scdn.co/image/ab67616d0000b27394ff21e7129facecb73ee0c2",
