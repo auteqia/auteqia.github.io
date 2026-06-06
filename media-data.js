@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "Neveroddoreven",
+        author: "I Monster",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739a60a37a5ff1efb3ef6d1479",
+        kind: "album",
+        link: "https://open.spotify.com/album/0MNY21WYhxGWfT9WQzrZe5",
+        comment: "Github Action"
+    },
+    {
+        title: "Green Onions",
+        author: "Booker T. & the M.G.'s",
+        cover: "https://i.scdn.co/image/ab67616d0000b27346007ceff2f1c33c9b9ec19c",
+        kind: "album",
+        link: "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU",
+        comment: "Github Action"
+    },
+    {
+        title: "SEYCHELLES",
+        author: "Masayoshi Takanaka",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733174a9f789d91a20d3ef14aa",
+        kind: "album",
+        link: "https://open.spotify.com/album/7BQPfd39YTObQGamGhDF7g",
+        comment: "Github Action"
+    },
+    {
+        title: "Going Blank Again (Expanded)",
+        author: "Ride",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a392acf01a6c97cddf000f56",
+        kind: "album",
+        link: "https://open.spotify.com/album/5l70cCHX1QzN680J68rblF",
+        comment: "Github Action"
+    },
+    {
         title: "Stoned and Dethroned (Expanded Version)",
         author: "The Jesus and Mary Chain",
         cover: "https://i.scdn.co/image/ab67616d0000b273756f4c523014a3068937e83a",
