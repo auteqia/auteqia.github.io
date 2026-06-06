@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "Stoned and Dethroned (Expanded Version)",
+        author: "The Jesus and Mary Chain",
+        cover: "https://i.scdn.co/image/ab67616d0000b273756f4c523014a3068937e83a",
+        kind: "album",
+        link: "https://open.spotify.com/album/6ufoOtpwsgx0wpbQBQOH7H",
+        comment: "Github Action"
+    },
+    {
+        title: "Waiting for the Sun",
+        author: "The Doors",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d848096c6318e3317771721d",
+        kind: "album",
+        link: "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh",
+        comment: "Github Action"
+    },
+    {
+        title: "Soft Machine (U.S. Version)",
+        author: "Teddybears",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730b9cfc1f28833fbc8aee681e",
+        kind: "album",
+        link: "https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx",
+        comment: "Github Action"
+    },
+    {
+        title: "Nowhere (Expanded)",
+        author: "Ride",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736061ae25138886c52230ee73",
+        kind: "album",
+        link: "https://open.spotify.com/album/4fW7CblaSvdhPWmcCFgZbQ",
+        comment: "Github Action"
+    },
+    {
         title: "Sixpence None The Richer",
         author: "Sixpence None The Richer",
         cover: "https://i.scdn.co/image/ab67616d0000b273cfc5eea6cfd77e89ed3ac5a4",
