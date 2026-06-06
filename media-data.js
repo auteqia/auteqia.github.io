@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "From the Desk of Mr. Lady",
+        author: "Le Tigre",
+        cover: "https://i.scdn.co/image/ab67616d0000b27394ff21e7129facecb73ee0c2",
+        kind: "album",
+        link: "https://open.spotify.com/album/6cwOnGNq9Gbl4yOua8aTMu",
+        comment: "Github Action"
+    },
+    {
+        title: "Planet Her",
+        author: "Doja Cat",
+        cover: "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49",
+        kind: "album",
+        link: "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW",
+        comment: "Github Action"
+    },
+    {
+        title: "Stealin' Home",
+        author: "Ian Matthews",
+        cover: "https://i.scdn.co/image/ab67616d0000b27322bd462139238ae3e3da5351",
+        kind: "album",
+        link: "https://open.spotify.com/album/017MmvDfLWlDqGkSIxTuwn",
+        comment: "Github Action"
+    },
+    {
+        title: "Babes In Arms",
+        author: "MC5",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734de0bd563fb615c1181f9c06",
+        kind: "album",
+        link: "https://open.spotify.com/album/38n0N0c03dT13TjJ5ppMCL",
+        comment: "Github Action"
+    },
+    {
         title: "Neveroddoreven",
         author: "I Monster",
         cover: "https://i.scdn.co/image/ab67616d0000b2739a60a37a5ff1efb3ef6d1479",
