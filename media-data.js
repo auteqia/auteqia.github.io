@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Gee Whiz But This Is a Lonesome Town",
+        author: "Moriarty",
+        cover: "https://i.scdn.co/image/ab67616d0000b273703b457962fb9725ec5b8b06",
+        kind: "album",
+        link: "https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK",
+        comment: "Github Action"
+    },
+    {
+        title: "Sabbath Bloody Sabbath (2014 Remaster)",
+        author: "Black Sabbath",
+        cover: "https://i.scdn.co/image/ab67616d0000b27347e9e769c9f540dd0464ba32",
+        kind: "album",
+        link: "https://open.spotify.com/album/1qQ2ig3pvig30zVyXLzij8",
+        comment: "Github Action"
+    },
+    {
         title: "Vol. 4 (2014 Remaster)",
         author: "Black Sabbath",
         cover: "https://i.scdn.co/image/ab67616d0000b27336ecc104d9cf43bc75ef6d3d",
