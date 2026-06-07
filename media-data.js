@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Vol. 4 (2014 Remaster)",
+        author: "Black Sabbath",
+        cover: "https://i.scdn.co/image/ab67616d0000b27336ecc104d9cf43bc75ef6d3d",
+        kind: "album",
+        link: "https://open.spotify.com/album/3zNcigR9hAceoTJphnxg6f",
+        comment: "Github Action"
+    },
+    {
         title: "The Real Kids",
         author: "The Real Kids",
         cover: "https://i.scdn.co/image/ab67616d0000b273c354b277659ddcf98dacf977",
