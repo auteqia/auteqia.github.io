@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Change Today?",
+        author: "T.S.O.L.",
+        cover: "https://i.scdn.co/image/ab67616d0000b273826cffa3ea27db4f1bdb3dfd",
+        kind: "album",
+        link: "https://open.spotify.com/album/6jpMPZ4Wjk9t9u9A3piXV8",
+        comment: "Github Action"
+    },
+    {
+        title: "Cure for Pain",
+        author: "Morphine",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b142f450d6518e6a551fed67",
+        kind: "album",
+        link: "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6",
+        comment: "Github Action"
+    },
+    {
+        title: "Fortune Goodies",
+        author: "Minami Deutsch",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a36687365ede457e57f11835",
+        kind: "album",
+        link: "https://open.spotify.com/album/08g5aYotEIElY6mJDAC3hG",
+        comment: "Github Action"
+    },
+    {
+        title: "We Have Come For Your Children",
+        author: "Dead Boys",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d5705faa44278dd98f3cdc8d",
+        kind: "album",
+        link: "https://open.spotify.com/album/0px2J3G7ZKOGJok4cJuO7R",
+        comment: "Github Action"
+    },
+    {
+        title: "Manipulator",
+        author: "Ty Segall",
+        cover: "https://i.scdn.co/image/ab67616d0000b273da5e2fc014900836d430ea6b",
+        kind: "album",
+        link: "https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa",
+        comment: "Github Action"
+    },
+    {
         title: "The Modern Dance",
         author: "Pere Ubu",
         cover: "https://i.scdn.co/image/ab67616d0000b273841ac50da20f6b57878ba874",
