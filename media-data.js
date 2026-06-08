@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "スピード・グルー&シンキ (2017 Remaster)",
+        author: "Speed, Glue & Shinki",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ccefd71b9ce24664faa6f0cf",
+        kind: "album",
+        link: "https://open.spotify.com/album/616QV1UkjaNZqEHKWva4Id",
+        comment: "Github Action"
+    },
+    {
+        title: "Fina Estampa",
+        author: "Caetano Veloso",
+        cover: "https://i.scdn.co/image/ab67616d0000b273795193773593a1dae9bc0b12",
+        kind: "album",
+        link: "https://open.spotify.com/album/6fBP4q8gYKo4LU9V6zVT3i",
+        comment: "Github Action"
+    },
+    {
+        title: "The Hustler",
+        author: "Willie Colón",
+        cover: "https://i.scdn.co/image/ab67616d0000b273083b3b46c553401d59ea5a4d",
+        kind: "album",
+        link: "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C",
+        comment: "Github Action"
+    },
+    {
+        title: "Shame For The Angels E.P",
+        author: "Nikki Sudden",
+        cover: "https://i.scdn.co/image/ab67616d0000b273543b1076982440622fbea05d",
+        kind: "album",
+        link: "https://open.spotify.com/album/22PWDfQFP893TrVQSUUL5O",
+        comment: "Github Action"
+    },
+    {
+        title: "Nectar",
+        author: "jonatan leandoer96",
+        cover: "https://i.scdn.co/image/ab67616d0000b27319e22c1ab45bbd4d607ff9d1",
+        kind: "album",
+        link: "https://open.spotify.com/album/64lz1lQjJeeTRCnRF2sRm2",
+        comment: "Github Action"
+    },
+    {
         title: "Luar",
         author: "Gilberto Gil",
         cover: "https://i.scdn.co/image/ab67616d0000b2734761fc7af34ab3b052ac0340",
