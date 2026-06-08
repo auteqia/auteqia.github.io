@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Luar",
+        author: "Gilberto Gil",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734761fc7af34ab3b052ac0340",
+        kind: "album",
+        link: "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L",
+        comment: "Github Action"
+    },
+    {
+        title: "MIKADO FOREVER (2020 Remastered & Bonus Tracks Final Edition)",
+        author: "Mikado",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a8c6f6090ef6669c85067539",
+        kind: "album",
+        link: "https://open.spotify.com/album/1oNW717PXovkwa6ggTG5mc",
+        comment: "Github Action"
+    },
+    {
+        title: "Inbetweener - The Best of Sleeper",
+        author: "Sleeper",
+        cover: "https://i.scdn.co/image/ab67616d0000b27392aac398947509cdcb35dc91",
+        kind: "album",
+        link: "https://open.spotify.com/album/4yaXgz9rvyENBjnJMXQUA6",
+        comment: "Github Action"
+    },
+    {
         title: "Change Today?",
         author: "T.S.O.L.",
         cover: "https://i.scdn.co/image/ab67616d0000b273826cffa3ea27db4f1bdb3dfd",
