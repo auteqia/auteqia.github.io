@@ -1,5 +1,53 @@
 const mediaLibrary = [
     {
+        title: "The Modern Dance",
+        author: "Pere Ubu",
+        cover: "https://i.scdn.co/image/ab67616d0000b273841ac50da20f6b57878ba874",
+        kind: "album",
+        link: "https://open.spotify.com/album/3zGgLRMaApg4t8GUhG9X8W",
+        comment: "Github Action"
+    },
+    {
+        title: "Babel",
+        author: "Cos",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731a144210368c004a50b87cb8",
+        kind: "album",
+        link: "https://open.spotify.com/album/7MQ4TlG59SsyeZ5WpDYs7t",
+        comment: "Github Action"
+    },
+    {
+        title: "Musik von Harmonia",
+        author: "Harmonia",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739a0ec66b6fac4f93dc2ae50e",
+        kind: "album",
+        link: "https://open.spotify.com/album/0zgeYyYnRy7Gsedyzt7NpN",
+        comment: "Github Action"
+    },
+    {
+        title: "With Dim Light",
+        author: "Minami Deutsch",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d6b74e3c4ff23dd0ed7bd602",
+        kind: "album",
+        link: "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B",
+        comment: "Github Action"
+    },
+    {
+        title: "NEU!",
+        author: "NEU!",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737c4dafea59399470cce454c3",
+        kind: "album",
+        link: "https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH",
+        comment: "Github Action"
+    },
+    {
+        title: "2Nd",
+        author: "Agitation Free",
+        cover: "https://i.scdn.co/image/ab67616d0000b273009f66b3e9fa351b24f466f2",
+        kind: "album",
+        link: "https://open.spotify.com/album/154vxWniqBPvABso6BPRgH",
+        comment: "Github Action"
+    },
+    {
         title: "Gee Whiz But This Is a Lonesome Town",
         author: "Moriarty",
         cover: "https://i.scdn.co/image/ab67616d0000b273703b457962fb9725ec5b8b06",
