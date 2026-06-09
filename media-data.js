@@ -1,5 +1,77 @@
 const mediaLibrary = [
     {
+        title: "Nowhere",
+        author: "The Dharma Chain",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737407cfe69f57d4c5c659970f",
+        kind: "album",
+        link: "https://open.spotify.com/album/00ppJreV0EznXizif7HcgA",
+        comment: "Github Action"
+    },
+    {
+        title: "Melted",
+        author: "Ty Segall",
+        cover: "https://i.scdn.co/image/ab67616d0000b27300069cb7887a3b41d7656d03",
+        kind: "album",
+        link: "https://open.spotify.com/album/6Is8ejDa46Wsu5lS7Z64Vh",
+        comment: "Github Action"
+    },
+    {
+        title: "A Song For Paul",
+        author: "Ghost Funk Orchestra",
+        cover: "https://i.scdn.co/image/ab67616d0000b27305ca63c4ea9702eb9dfa85a7",
+        kind: "album",
+        link: "https://open.spotify.com/album/0w6knr7boQarN35qErXXeu",
+        comment: "Github Action"
+    },
+    {
+        title: "The Complete Atco Singles",
+        author: "Vanilla Fudge",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733af2531294d750a8a819ef5e",
+        kind: "album",
+        link: "https://open.spotify.com/album/1c0ZllsJKYA7N8v10OdVLP",
+        comment: "Github Action"
+    },
+    {
+        title: "DOULA (des couloirs des portières)",
+        author: "Odezenne",
+        cover: "https://i.scdn.co/image/ab67616d0000b27303753eba90a2a2a7c89cd7e9",
+        kind: "album",
+        link: "https://open.spotify.com/album/7IVZQAZQiJ1JoDAjsjfbYU",
+        comment: "Github Action"
+    },
+    {
+        title: "Come Play the Trees",
+        author: "Snapped Ankles",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736b2a67c64321989306266507",
+        kind: "album",
+        link: "https://open.spotify.com/album/4qu6XbO9yy990D0bgBDVoY",
+        comment: "Github Action"
+    },
+    {
+        title: "Rone & Friends",
+        author: "Rone",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736e2c53a6a5c4fc7c840f1829",
+        kind: "album",
+        link: "https://open.spotify.com/album/7jvfKfpDTc8bioLeCboUcv",
+        comment: "Github Action"
+    },
+    {
+        title: "DOULA (hypercouleurs)",
+        author: "Odezenne",
+        cover: "https://i.scdn.co/image/ab67616d0000b27321631ff05382f797f8c5354b",
+        kind: "album",
+        link: "https://open.spotify.com/album/5MQ0mnvWM2yRD84eKzUCZv",
+        comment: "Github Action"
+    },
+    {
+        title: "Gone With Stupid",
+        author: "Dead in Love",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b3030e5f1f000ceabec9b599",
+        kind: "album",
+        link: "https://open.spotify.com/album/3kQHskQhBjYfM6LY8eIcLw",
+        comment: "Github Action"
+    },
+    {
         title: "Monument ordinaire",
         author: "Mansfield.TYA",
         cover: "https://i.scdn.co/image/ab67616d0000b2736af499507d5a7f2d9144a21e",
