@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "1997",
+        author: "Kids Return",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a07089bb484ba843117d7d16",
+        kind: "album",
+        link: "https://open.spotify.com/album/6OUJxofNyMo3qiiCOV5y9S",
+        comment: "Github Action"
+    },
+    {
+        title: "Figure 8",
+        author: "Elliott Smith",
+        cover: "https://i.scdn.co/image/ab67616d0000b273169a2393509223c26e4eedc5",
+        kind: "album",
+        link: "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts",
+        comment: "Github Action"
+    },
+    {
         title: "Neural Sleep Music",
         author: "NeuroWave",
         cover: "https://i.scdn.co/image/ab67616d0000b27323c74b8ff2ee9f809de5cac9",
