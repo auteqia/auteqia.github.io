@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Neural Sleep Music",
+        author: "NeuroWave",
+        cover: "https://i.scdn.co/image/ab67616d0000b27323c74b8ff2ee9f809de5cac9",
+        kind: "album",
+        link: "https://open.spotify.com/album/33sKmLtEm0oQMRGbDHeZZC",
+        comment: "Github Action"
+    },
+    {
         title: "スピード・グルー&シンキ (2017 Remaster)",
         author: "Speed, Glue & Shinki",
         cover: "https://i.scdn.co/image/ab67616d0000b273ccefd71b9ce24664faa6f0cf",
