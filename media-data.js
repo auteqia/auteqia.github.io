@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Monument ordinaire",
+        author: "Mansfield.TYA",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736af499507d5a7f2d9144a21e",
+        kind: "album",
+        link: "https://open.spotify.com/album/5iQxynqu3B2KR3XsrU0HrK",
+        comment: "Github Action"
+    },
+    {
+        title: "Rien",
+        author: "Odezenne",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730765ec061a0f4cfb20613d0a",
+        kind: "album",
+        link: "https://open.spotify.com/album/3X3CVT39Ussi642EiwujeJ",
+        comment: "Github Action"
+    },
+    {
         title: "1997",
         author: "Kids Return",
         cover: "https://i.scdn.co/image/ab67616d0000b273a07089bb484ba843117d7d16",
