@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Neurovoid",
+        author: "Neurovoid",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a11ac87cd1e443d32f023f13",
+        kind: "album",
+        link: "https://open.spotify.com/album/69eEcC3MUqMvlpoKAw6CNr",
+        comment: "Github Action"
+    },
+    {
         title: "Nowhere",
         author: "The Dharma Chain",
         cover: "https://i.scdn.co/image/ab67616d0000b2737407cfe69f57d4c5c659970f",
