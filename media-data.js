@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Getaway",
+        author: "Red Hot Chili Peppers",
+        cover: "https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef",
+        kind: "album",
+        link: "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6",
+        comment: "Github Action"
+    },
+    {
         title: "Neurovoid",
         author: "Neurovoid",
         cover: "https://i.scdn.co/image/ab67616d0000b273a11ac87cd1e443d32f023f13",
