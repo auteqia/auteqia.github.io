@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Little Games",
+        author: "The Yardbirds",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ddc0162602b3b5a23a1d7cf9",
+        kind: "album",
+        link: "https://open.spotify.com/album/7CPBKBofkZ8Wjj7ekMpC1Z",
+        comment: "Github Action"
+    },
+    {
+        title: "The Yes Album (Super Deluxe Edition)",
+        author: "Yes",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a87828118f6c39a6e9257d3e",
+        kind: "album",
+        link: "https://open.spotify.com/album/5fzq6dBmRtfrqpVNpuEbJB",
+        comment: "Github Action"
+    },
+    {
         title: "The Getaway",
         author: "Red Hot Chili Peppers",
         cover: "https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef",
