@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Sherlock Holmes und der observierte Mord (Die neuen Abenteuer, Folge 66)",
+        author: "Sherlock Holmes - Die neuen Abenteuer",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f020515e6859fbb263ce721a",
+        kind: "album",
+        link: "https://open.spotify.com/album/54HgWROdfWKi36WCHAir1r",
+        comment: "Github Action"
+    },
+    {
         title: "Little Games",
         author: "The Yardbirds",
         cover: "https://i.scdn.co/image/ab67616d0000b273ddc0162602b3b5a23a1d7cf9",
