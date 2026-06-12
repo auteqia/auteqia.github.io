@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Ænima",
+        author: "TOOL",
+        cover: "https://i.scdn.co/image/ab67616d0000b27347daa44983fa6079910ed295",
+        kind: "album",
+        link: "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG",
+        comment: "Github Action"
+    },
+    {
+        title: "10,000 Days",
+        author: "TOOL",
+        cover: "https://i.scdn.co/image/ab67616d0000b273725e469500de9880a320d8cb",
+        kind: "album",
+        link: "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk",
+        comment: "Github Action"
+    },
+    {
         title: "Sherlock Holmes und der observierte Mord (Die neuen Abenteuer, Folge 66)",
         author: "Sherlock Holmes - Die neuen Abenteuer",
         cover: "https://i.scdn.co/image/ab67616d0000b273f020515e6859fbb263ce721a",
