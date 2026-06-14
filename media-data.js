@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Tide Is High",
+        author: "Blondie",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732c240cf9bee7ac86cc272c92",
+        kind: "album",
+        link: "https://open.spotify.com/album/0zkNOW8F8hcsEwIhulD67b",
+        comment: "Github Action"
+    },
+    {
+        title: "Maria",
+        author: "Blondie",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730c69fa62568695cb1879997b",
+        kind: "album",
+        link: "https://open.spotify.com/album/2hx6pazNQ4tMM5T47pIDBT",
+        comment: "Github Action"
+    },
+    {
         title: "Heavy",
         author: "Iron Butterfly",
         cover: "https://i.scdn.co/image/ab67616d0000b2731091c72dc96597b5f010ef60",
