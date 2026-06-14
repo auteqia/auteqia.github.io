@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Heavy",
+        author: "Iron Butterfly",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731091c72dc96597b5f010ef60",
+        kind: "album",
+        link: "https://open.spotify.com/album/1J2sJJSNlSoWAT9JWBEBeW",
+        comment: "Github Action"
+    },
+    {
         title: "Ænima",
         author: "TOOL",
         cover: "https://i.scdn.co/image/ab67616d0000b27347daa44983fa6079910ed295",
