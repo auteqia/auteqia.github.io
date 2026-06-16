@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Un week-end de quatre jours",
+        author: "Le Cluster Ensemble",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c8ecdf60ab28e518d3f7a246",
+        kind: "album",
+        link: "https://open.spotify.com/album/71y9bYc7M7rJpetc3nx4Ne",
+        comment: "Github Action"
+    },
+    {
         title: "Tide Is High",
         author: "Blondie",
         cover: "https://i.scdn.co/image/ab67616d0000b2732c240cf9bee7ac86cc272c92",
