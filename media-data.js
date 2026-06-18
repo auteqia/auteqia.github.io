@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Grand Slam - The Best Of Babe Ruth",
+        author: "Babe Ruth",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e3b5869af4d26d07325476af",
+        kind: "album",
+        link: "https://open.spotify.com/album/5RJoCAqiZ5GZzFBFITNCYZ",
+        comment: "Github Action"
+    },
+    {
+        title: "First Base",
+        author: "Babe Ruth",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738d47f2557f31d4eced37c6c3",
+        kind: "album",
+        link: "https://open.spotify.com/album/3sW6cFk8bYvfMIt1DxhWor",
+        comment: "Github Action"
+    },
+    {
         title: "Un week-end de quatre jours",
         author: "Le Cluster Ensemble",
         cover: "https://i.scdn.co/image/ab67616d0000b273c8ecdf60ab28e518d3f7a246",
