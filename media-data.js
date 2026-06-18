@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Glimpse of Us",
+        author: "Joji",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f3f7d2ea2ad435b57d6697df",
+        kind: "album",
+        link: "https://open.spotify.com/album/36azJR65BLNOng9MkKAtxE",
+        comment: "Github Action"
+    },
+    {
+        title: "14 minutes",
+        author: "Dominic Fike",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730297fb98f81fc0b611fcf71d",
+        kind: "album",
+        link: "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9",
+        comment: "Github Action"
+    },
+    {
+        title: "To Let A Good Thing Die",
+        author: "Bruno Major",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e321a69d7454d9365c667187",
+        kind: "album",
+        link: "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz",
+        comment: "Github Action"
+    },
+    {
         title: "Grand Slam - The Best Of Babe Ruth",
         author: "Babe Ruth",
         cover: "https://i.scdn.co/image/ab67616d0000b273e3b5869af4d26d07325476af",
