@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Love",
+        author: "The Beatles",
+        cover: "https://i.scdn.co/image/ab67616d0000b27330503dbc30e621c96913379b",
+        kind: "album",
+        link: "https://open.spotify.com/album/1Ye7yrA7vAlQnoooj8yDXb",
+        comment: "Github Action"
+    },
+    {
+        title: "John Wesley Harding",
+        author: "Bob Dylan",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a0a235ab3ed661554ab786a7",
+        kind: "album",
+        link: "https://open.spotify.com/album/2KzCDxKpgLqBffHu1IZ7Kn",
+        comment: "Github Action"
+    },
+    {
         title: "Stop Making Sense (Live)",
         author: "Talking Heads",
         cover: "https://i.scdn.co/image/ab67616d0000b273689b2ab688caacbca226fcb8",
