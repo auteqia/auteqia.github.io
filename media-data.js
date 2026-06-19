@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Stop Making Sense (Live)",
+        author: "Talking Heads",
+        cover: "https://i.scdn.co/image/ab67616d0000b273689b2ab688caacbca226fcb8",
+        kind: "album",
+        link: "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE",
+        comment: "Github Action"
+    },
+    {
         title: "I Love Life, Thank You",
         author: "Mac Miller",
         cover: "https://i.scdn.co/image/ab67616d0000b2738bd48e2347b4cdaf8d6144f8",
