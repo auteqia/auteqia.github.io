@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "I Love Life, Thank You",
+        author: "Mac Miller",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738bd48e2347b4cdaf8d6144f8",
+        kind: "album",
+        link: "https://open.spotify.com/album/6mpLouhHaXGkWsxgnX621y",
+        comment: "Github Action"
+    },
+    {
         title: "Glimpse of Us",
         author: "Joji",
         cover: "https://i.scdn.co/image/ab67616d0000b273f3f7d2ea2ad435b57d6697df",
