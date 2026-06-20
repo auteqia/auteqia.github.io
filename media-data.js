@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "King of Everything",
+        author: "Jinjer",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735799422352688a27b61b3df5",
+        kind: "album",
+        link: "https://open.spotify.com/album/34d5piioQWqO1vuqAHuFT1",
+        comment: "Github Action"
+    },
+    {
         title: "Circles (Deluxe)",
         author: "Mac Miller",
         cover: "https://i.scdn.co/image/ab67616d0000b2732f5de32853d6c64cb1d8c22b",
