@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Circles (Deluxe)",
+        author: "Mac Miller",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732f5de32853d6c64cb1d8c22b",
+        kind: "album",
+        link: "https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp",
+        comment: "Github Action"
+    },
+    {
         title: "Love",
         author: "The Beatles",
         cover: "https://i.scdn.co/image/ab67616d0000b27330503dbc30e621c96913379b",
