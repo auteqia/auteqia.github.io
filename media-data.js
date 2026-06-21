@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "More",
+        author: "Pink Floyd",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732bea0884c4ad7b0ee16ce760",
+        kind: "album",
+        link: "https://open.spotify.com/album/6AccmjV8Q5cEUZ2tvS8s6c",
+        comment: "Github Action"
+    },
+    {
         title: "King of Everything",
         author: "Jinjer",
         cover: "https://i.scdn.co/image/ab67616d0000b2735799422352688a27b61b3df5",
