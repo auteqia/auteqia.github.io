@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Chelsea Town Hall (Live)",
+        author: "Nico",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d89cbc34fa66d50696fbf80d",
+        kind: "album",
+        link: "https://open.spotify.com/album/67WScL5UZpz6y6bM6iUVss",
+        comment: "Github Action"
+    },
+    {
         title: "All You Need Is Love",
         author: "The Beatles",
         cover: "https://i.scdn.co/image/ab67616d0000b27325bde48a43e9504eb49ad2a1",
