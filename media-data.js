@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "All You Need Is Love",
+        author: "The Beatles",
+        cover: "https://i.scdn.co/image/ab67616d0000b27325bde48a43e9504eb49ad2a1",
+        kind: "album",
+        link: "https://open.spotify.com/album/3lKfwAkQAHYxNgU30EInnI",
+        comment: "Github Action"
+    },
+    {
         title: "More",
         author: "Pink Floyd",
         cover: "https://i.scdn.co/image/ab67616d0000b2732bea0884c4ad7b0ee16ce760",
