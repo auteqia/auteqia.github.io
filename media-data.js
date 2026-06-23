@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Radyo siwèl",
+        author: "Melissa Laveaux",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734fb0280cdfa015e1df672724",
+        kind: "album",
+        link: "https://open.spotify.com/album/4dKXLRyASjmVovsT22FJHP",
+        comment: "Github Action"
+    },
+    {
         title: "Chelsea Town Hall (Live)",
         author: "Nico",
         cover: "https://i.scdn.co/image/ab67616d0000b273d89cbc34fa66d50696fbf80d",
