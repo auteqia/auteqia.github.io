@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "July Talk",
+        author: "July Talk",
+        cover: "https://i.scdn.co/image/ab67616d0000b273756e9fb27b034f0d2aa0be5b",
+        kind: "album",
+        link: "https://open.spotify.com/album/5H9mMHSZOI9rm6nQt87cUc",
+        comment: "Github Action"
+    },
+    {
+        title: "Sleeper",
+        author: "Ty Segall",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737473b819acf85cea29d946c0",
+        kind: "album",
+        link: "https://open.spotify.com/album/0d1hQ4bIi7RnmffWRB5czk",
+        comment: "Github Action"
+    },
+    {
+        title: "The Big Bang - The Best Of MC5",
+        author: "MC5",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cb79463e324c85eee3509b98",
+        kind: "album",
+        link: "https://open.spotify.com/album/16Ll6sRsLzMjhdBZrmLcGF",
+        comment: "Github Action"
+    },
+    {
         title: "Radyo siwèl",
         author: "Melissa Laveaux",
         cover: "https://i.scdn.co/image/ab67616d0000b2734fb0280cdfa015e1df672724",
