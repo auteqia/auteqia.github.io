@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Sad Hill",
+        author: "Kheops",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d88b327ebe1c7dac8e49f505",
+        kind: "album",
+        link: "https://open.spotify.com/album/2IukeSRpZNwUXnQq20BDjz",
+        comment: "Github Action"
+    },
+    {
+        title: "Control Freaks (The Remixes)",
+        author: "GoodBooks",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f521dbee5da92520be22d63b",
+        kind: "album",
+        link: "https://open.spotify.com/album/4lPBSP3DIiXn2ktREAsoHw",
+        comment: "Github Action"
+    },
+    {
         title: "July Talk",
         author: "July Talk",
         cover: "https://i.scdn.co/image/ab67616d0000b273756e9fb27b034f0d2aa0be5b",
