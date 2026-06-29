@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "St. Elsewhere",
+        author: "Gnarls Barkley",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ab051a2c680f39c0d9827706",
+        kind: "album",
+        link: "https://open.spotify.com/album/2NQH7gYB2buQCbdvHBNRif",
+        comment: "Github Action"
+    },
+    {
+        title: "Speakerboxxx/The Love Below",
+        author: "Outkast",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736e88eb6508fd94cd1b745ce2",
+        kind: "album",
+        link: "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r",
+        comment: "Github Action"
+    },
+    {
+        title: "Stankonia",
+        author: "Outkast",
+        cover: "https://i.scdn.co/image/ab67616d0000b273153b3d6495031cb813a7451c",
+        kind: "album",
+        link: "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj",
+        comment: "Github Action"
+    },
+    {
+        title: "La dictature",
+        author: "MZ",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d1036a718e5448812f365890",
+        kind: "album",
+        link: "https://open.spotify.com/album/0hqrAd9SsmyfT2hYPZ6kWF",
+        comment: "Github Action"
+    },
+    {
         title: "Straight Shooter",
         author: "Bad Company",
         cover: "https://i.scdn.co/image/ab67616d0000b2739baa3a2390773faeca065aa8",
