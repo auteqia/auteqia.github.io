@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "Straight Shooter",
+        author: "Bad Company",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739baa3a2390773faeca065aa8",
+        kind: "album",
+        link: "https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO",
+        comment: "Github Action"
+    },
+    {
+        title: "melodrama",
+        author: "disiz",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ee5f01b81fd02d6b2dbd70c5",
+        kind: "album",
+        link: "https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr",
+        comment: "Github Action"
+    },
+    {
+        title: "The Next Voice You Hear - The Best Of Jackson Browne",
+        author: "Jackson Browne",
+        cover: "https://i.scdn.co/image/ab67616d0000b273bc95f2457b1590de40b39a94",
+        kind: "album",
+        link: "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu",
+        comment: "Github Action"
+    },
+    {
         title: "Sad Hill",
         author: "Kheops",
         cover: "https://i.scdn.co/image/ab67616d0000b273d88b327ebe1c7dac8e49f505",
