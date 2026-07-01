@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Macumba",
+        author: "Jean-Pierre Mader",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c9d1db037c454a475768ba09",
+        kind: "album",
+        link: "https://open.spotify.com/album/3eCBdjnw41nMqz89Kno8H8",
+        comment: "Github Action"
+    },
+    {
+        title: "Mac and Devin Go to High School (Music from and Inspired by the Movie)",
+        author: "Snoop Dogg",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f8fa110661ccdfb74cbcb447",
+        kind: "album",
+        link: "https://open.spotify.com/album/12pnVAswzLE6hArSl0bF0h",
+        comment: "Github Action"
+    },
+    {
+        title: "Joe Dassin Éternel... (Edition deluxe)",
+        author: "Joe Dassin",
+        cover: "https://i.scdn.co/image/ab67616d0000b27364b5edd7ea82ed4f72cef69a",
+        kind: "album",
+        link: "https://open.spotify.com/album/3SvYaXCHlH6MFUTgqjmsAw",
+        comment: "Github Action"
+    },
+    {
+        title: "Honey",
+        author: "Ohio Players",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ef36e8640d5b240fb772bcd2",
+        kind: "album",
+        link: "https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR",
+        comment: "Github Action"
+    },
+    {
+        title: "Views",
+        author: "Drake",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+        kind: "album",
+        link: "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb",
+        comment: "Github Action"
+    },
+    {
         title: "St. Elsewhere",
         author: "Gnarls Barkley",
         cover: "https://i.scdn.co/image/ab67616d0000b273ab051a2c680f39c0d9827706",
