@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Shingeki no Kiseki",
+        author: "Linked Horizon",
+        cover: "https://i.scdn.co/image/ab67616d0000b27374164dc6fb6a320abf6a34fd",
+        kind: "album",
+        link: "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4",
+        comment: "Github Action"
+    },
+    {
+        title: "アイドル",
+        author: "YOASOBI",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c",
+        kind: "album",
+        link: "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a",
+        comment: "Github Action"
+    },
+    {
+        title: "20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor",
+        author: "Gloria Gaynor",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1",
+        kind: "album",
+        link: "https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx",
+        comment: "Github Action"
+    },
+    {
+        title: "Start Walkin' 1965-1976",
+        author: "Nancy Sinatra",
+        cover: "https://i.scdn.co/image/ab67616d0000b273adb57932715c7824dc4df04e",
+        kind: "album",
+        link: "https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk",
+        comment: "Github Action"
+    },
+    {
+        title: "Seul",
+        author: "Garou",
+        cover: "https://i.scdn.co/image/ab67616d0000b273faa1c1a7a24c46aebf2b4883",
+        kind: "album",
+        link: "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP",
+        comment: "Github Action"
+    },
+    {
         title: "Macumba",
         author: "Jean-Pierre Mader",
         cover: "https://i.scdn.co/image/ab67616d0000b273c9d1db037c454a475768ba09",
