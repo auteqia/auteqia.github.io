@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Mélopée",
+        author: "Ezéchiel Pailhès",
+        cover: "https://i.scdn.co/image/ab67616d0000b273323d07a8299d56dce64f94da",
+        kind: "album",
+        link: "https://open.spotify.com/album/72DvPJ5XCCJxseKtoaCfrk",
+        comment: "Github Action"
+    },
+    {
         title: "Shingeki no Kiseki",
         author: "Linked Horizon",
         cover: "https://i.scdn.co/image/ab67616d0000b27374164dc6fb6a320abf6a34fd",
