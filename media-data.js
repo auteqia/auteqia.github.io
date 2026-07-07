@@ -1,5 +1,21 @@
 const mediaLibrary = [
     {
+        title: "Young And Beautiful",
+        author: "Lana Del Rey",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2",
+        kind: "album",
+        link: "https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL",
+        comment: "Github Action"
+    },
+    {
+        title: "Ultraviolence (Deluxe)",
+        author: "Lana Del Rey",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+        kind: "album",
+        link: "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F",
+        comment: "Github Action"
+    },
+    {
         title: "Mélopée",
         author: "Ezéchiel Pailhès",
         cover: "https://i.scdn.co/image/ab67616d0000b273323d07a8299d56dce64f94da",
