@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Born To Die – Paradise Edition (Special Version)",
+        author: "Lana Del Rey",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f894be72a77b1488292672c7",
+        kind: "album",
+        link: "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR",
+        comment: "Github Action"
+    },
+    {
         title: "video tape",
         author: "Stërnn",
         cover: "https://i.scdn.co/image/ab67616d0000b273ae868b2cec31c2b1a0ad0f72",
