@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "video tape",
+        author: "Stërnn",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ae868b2cec31c2b1a0ad0f72",
+        kind: "album",
+        link: "https://open.spotify.com/album/2laMdjDdhiKsLdF9i1UIqe",
+        comment: "Github Action"
+    },
+    {
         title: "All Things Must Pass (2014 Remaster)",
         author: "George Harrison",
         cover: "https://i.scdn.co/image/ab67616d0000b2736c6610322fc60bfb41481273",
