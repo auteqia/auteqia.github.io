@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "All Things Must Pass (2014 Remaster)",
+        author: "George Harrison",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736c6610322fc60bfb41481273",
+        kind: "album",
+        link: "https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk",
+        comment: "Github Action"
+    },
+    {
         title: "Angelo Badalamenti: Music For Film And Television",
         author: "Angelo Badalamenti",
         cover: "https://i.scdn.co/image/ab67616d0000b273b7e16b9282dba6917acd5e86",
