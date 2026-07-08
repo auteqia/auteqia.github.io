@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "I'm Your Man",
+        author: "Leonard Cohen",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738fc857633a3804cd2786f923",
+        kind: "album",
+        link: "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9",
+        comment: "Github Action"
+    },
+    {
         title: "Young And Beautiful",
         author: "Lana Del Rey",
         cover: "https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2",
