@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "Angelo Badalamenti: Music For Film And Television",
+        author: "Angelo Badalamenti",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b7e16b9282dba6917acd5e86",
+        kind: "album",
+        link: "https://open.spotify.com/album/0l9CVBCpn9rp6UcpG6gTOM",
+        comment: "Github Action"
+    },
+    {
+        title: "The Essential Roy Orbison",
+        author: "Roy Orbison",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734516a5d74bac51f3afcba85a",
+        kind: "album",
+        link: "https://open.spotify.com/album/48CvRZSBT0FbOHKLFfHy0n",
+        comment: "Github Action"
+    },
+    {
+        title: "A Saucerful of Secrets",
+        author: "Pink Floyd",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736fd72ac446114fa935dd86eb",
+        kind: "album",
+        link: "https://open.spotify.com/album/2vnJKtGjZXRUg0mYPZ3HGH",
+        comment: "Github Action"
+    },
+    {
+        title: "Tentative Decisions: Demos & Live",
+        author: "Talking Heads",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736b53c6765b051368950d541e",
+        kind: "album",
+        link: "https://open.spotify.com/album/4jpD9CLahkQeJo99rNFtIF",
+        comment: "Github Action"
+    },
+    {
         title: "I'm Your Man",
         author: "Leonard Cohen",
         cover: "https://i.scdn.co/image/ab67616d0000b2738fc857633a3804cd2786f923",
