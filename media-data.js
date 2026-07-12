@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "How To Destroy Angels",
+        author: "How To Destroy Angels",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732eaac04d7932f46f783c4ee2",
+        kind: "album",
+        link: "https://open.spotify.com/album/3FDtcwMuJ6JrBNzbVBSIaK",
+        comment: "Github Action"
+    },
+    {
         title: "Born To Die – Paradise Edition (Special Version)",
         author: "Lana Del Rey",
         cover: "https://i.scdn.co/image/ab67616d0000b273f894be72a77b1488292672c7",
