@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Luv(sic) Hexalogy",
+        author: "Nujabes",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f3f585353a1f0220babd8e89",
+        kind: "album",
+        link: "https://open.spotify.com/album/1cN1GECqXrHlPhLX7LGg3e",
+        comment: "Github Action"
+    },
+    {
         title: "How To Destroy Angels",
         author: "How To Destroy Angels",
         cover: "https://i.scdn.co/image/ab67616d0000b2732eaac04d7932f46f783c4ee2",
