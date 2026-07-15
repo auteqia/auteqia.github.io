@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "10000 lépés",
+        author: "Gábor Presser",
+        cover: "https://i.scdn.co/image/ab67616d0000b27314ca403f81c22eb9a0a267cf",
+        kind: "album",
+        link: "https://open.spotify.com/album/6bO8Xp1cyMXqI3mZHHiEJ6",
+        comment: "Github Action"
+    },
+    {
         title: "Luv(sic) Hexalogy",
         author: "Nujabes",
         cover: "https://i.scdn.co/image/ab67616d0000b273f3f585353a1f0220babd8e89",
