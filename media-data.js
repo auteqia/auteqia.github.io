@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "オン・ザ・ムーヴ",
+        author: "Jun Fukamachi",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735dcef5508a2e03c883ce439f",
+        kind: "album",
+        link: "https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz",
+        comment: "Github Action"
+    },
+    {
         title: "10000 lépés",
         author: "Gábor Presser",
         cover: "https://i.scdn.co/image/ab67616d0000b27314ca403f81c22eb9a0a267cf",
