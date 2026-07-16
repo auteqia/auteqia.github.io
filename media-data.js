@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "MOWGLI II",
+        author: "PNL",
+        cover: "https://i.scdn.co/image/ab67616d0000b273398e4afc8a5774c9b17e1b0d",
+        kind: "album",
+        link: "https://open.spotify.com/album/70JDKgLokd2U0kzbK2WSIP",
+        comment: "Github Action"
+    },
+    {
         title: "オン・ザ・ムーヴ",
         author: "Jun Fukamachi",
         cover: "https://i.scdn.co/image/ab67616d0000b2735dcef5508a2e03c883ce439f",
