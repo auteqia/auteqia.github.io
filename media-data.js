@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Michel Legrand chante les moulins de mon coeur",
+        author: "Michel Legrand",
+        cover: "https://i.scdn.co/image/ab67616d0000b27326eb3c922dcc50befb741bf5",
+        kind: "album",
+        link: "https://open.spotify.com/album/3g1jukTDaPCVdPRWtoXi3A",
+        comment: "Github Action"
+    },
+    {
         title: "MOWGLI II",
         author: "PNL",
         cover: "https://i.scdn.co/image/ab67616d0000b273398e4afc8a5774c9b17e1b0d",
