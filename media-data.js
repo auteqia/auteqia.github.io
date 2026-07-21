@@ -1,5 +1,37 @@
 const mediaLibrary = [
     {
+        title: "mangrove",
+        author: "abel31",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ea5f2c864c8ec3f6cd77be49",
+        kind: "album",
+        link: "https://open.spotify.com/album/19Lx7dcmhcNh98hBQ8Ce2m",
+        comment: "Github Action"
+    },
+    {
+        title: "The Nico Live Collection",
+        author: "Nico",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730f03122b9a0ad9e8e96f29c3",
+        kind: "album",
+        link: "https://open.spotify.com/album/72SNaOxcNFdCUf5ieEovu3",
+        comment: "Github Action"
+    },
+    {
+        title: "Please: Further Listening 1984 - 1986 (2018 Remaster)",
+        author: "Pet Shop Boys",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733540f5cb8e1e7a54125f84db",
+        kind: "album",
+        link: "https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6",
+        comment: "Github Action"
+    },
+    {
+        title: "Young Americans (2016 Remaster)",
+        author: "David Bowie",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b3bd6493ad6e29dcd2ad5a37",
+        kind: "album",
+        link: "https://open.spotify.com/album/0lITGovWgaQGi42EfqcE5P",
+        comment: "Github Action"
+    },
+    {
         title: "Golden Brown",
         author: "The Stranglers",
         cover: "https://i.scdn.co/image/ab67616d0000b2730cf70d72827e4304c0e5a551",
