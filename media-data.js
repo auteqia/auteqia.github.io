@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Tusk (Deluxe Edition)",
+        author: "Fleetwood Mac",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d46213c0dd0b032092ea6db3",
+        kind: "album",
+        link: "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn",
+        comment: "Github Action"
+    },
+    {
         title: "mangrove",
         author: "abel31",
         cover: "https://i.scdn.co/image/ab67616d0000b273ea5f2c864c8ec3f6cd77be49",
