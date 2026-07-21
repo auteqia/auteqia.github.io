@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Golden Brown",
+        author: "The Stranglers",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730cf70d72827e4304c0e5a551",
+        kind: "album",
+        link: "https://open.spotify.com/album/6B9W97yJuTQvYL1ImrJJ6u",
+        comment: "Github Action"
+    },
+    {
         title: "Michel Legrand chante les moulins de mon coeur",
         author: "Michel Legrand",
         cover: "https://i.scdn.co/image/ab67616d0000b27326eb3c922dcc50befb741bf5",
