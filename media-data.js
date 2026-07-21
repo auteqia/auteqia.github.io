@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Edelweiss",
+        author: "Fixpen Sill",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739318d96336ff1d905a87f23d",
+        kind: "album",
+        link: "https://open.spotify.com/album/6XCMfLKdQmZWXovkbbKgjj",
+        comment: "Github Action"
+    },
+    {
+        title: "La source",
+        author: "1995",
+        cover: "https://i.scdn.co/image/ab67616d0000b273fe7de113e2b9dbf62c3a4968",
+        kind: "album",
+        link: "https://open.spotify.com/album/22bLoalGiouy8OtNgSsE8r",
+        comment: "Github Action"
+    },
+    {
+        title: "3ème Cycle",
+        author: "H JeuneCrack",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f16862e7d10f265fcf354322",
+        kind: "album",
+        link: "https://open.spotify.com/album/16H7I1nedwmBdhubKGXTas",
+        comment: "Github Action"
+    },
+    {
+        title: "KKSHISENSE8",
+        author: "Népal",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738180f0d136a69d40dc15fb0d",
+        kind: "album",
+        link: "https://open.spotify.com/album/3gPwgwbR6qsrNiFgJ5WGEO",
+        comment: "Github Action"
+    },
+    {
+        title: "Goldman",
+        author: "JeanJass",
+        cover: "https://i.scdn.co/image/ab67616d0000b27370f0a18bb617363a8473a92b",
+        kind: "album",
+        link: "https://open.spotify.com/album/3uZ8HVlaEeLlGloeXhaXCM",
+        comment: "Github Action"
+    },
+    {
         title: "Tusk (Deluxe Edition)",
         author: "Fleetwood Mac",
         cover: "https://i.scdn.co/image/ab67616d0000b273d46213c0dd0b032092ea6db3",
