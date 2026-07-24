@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Joker",
+        author: "Steve Miller Band",
+        cover: "https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51",
+        kind: "album",
+        link: "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr",
+        comment: "Github Action"
+    },
+    {
         title: "Homecoming",
         author: "America",
         cover: "https://i.scdn.co/image/ab67616d0000b2735e2289475a30c75dfca7d228",
