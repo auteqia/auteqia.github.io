@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Homecoming",
+        author: "America",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735e2289475a30c75dfca7d228",
+        kind: "album",
+        link: "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um",
+        comment: "Github Action"
+    },
+    {
+        title: "Some Girls",
+        author: "The Rolling Stones",
+        cover: "https://i.scdn.co/image/ab67616d0000b27305c7aec05eabf142cc33b936",
+        kind: "album",
+        link: "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS",
+        comment: "Github Action"
+    },
+    {
+        title: "All The Best",
+        author: "Paul McCartney",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a866f3dcb0b55e0f6eee30ac",
+        kind: "album",
+        link: "https://open.spotify.com/album/1i7RwnOguDqvZ7myr8VDrh",
+        comment: "Github Action"
+    },
+    {
+        title: "Fly Like An Eagle",
+        author: "Steve Miller Band",
+        cover: "https://i.scdn.co/image/ab67616d0000b2732fc23e78e87d793054bba090",
+        kind: "album",
+        link: "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC",
+        comment: "Github Action"
+    },
+    {
+        title: "Can't Buy A Thrill",
+        author: "Steely Dan",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
+        kind: "album",
+        link: "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p",
+        comment: "Github Action"
+    },
+    {
         title: "Mirage (Original Mix)",
         author: "Camelion",
         cover: "https://i.scdn.co/image/ab67616d0000b273b226b524eef184050d1fd303",
