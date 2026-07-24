@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Mirage (Original Mix)",
+        author: "Camelion",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b226b524eef184050d1fd303",
+        kind: "album",
+        link: "https://open.spotify.com/album/5gFtmTazjAOHgNVSn6gjnz",
+        comment: "Github Action"
+    },
+    {
         title: "Edelweiss",
         author: "Fixpen Sill",
         cover: "https://i.scdn.co/image/ab67616d0000b2739318d96336ff1d905a87f23d",
