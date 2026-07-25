@@ -1,5 +1,53 @@
 const mediaLibrary = [
     {
+        title: "Opéra partie I",
+        author: "Bellboy",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b6127b2c0f97cdb4c48bae77",
+        kind: "album",
+        link: "https://open.spotify.com/album/5kAUMGWoReMqMu8xXbS5Fv",
+        comment: "Github Action"
+    },
+    {
+        title: "Opéra partie I",
+        author: "Bellboy",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b6127b2c0f97cdb4c48bae77",
+        kind: "album",
+        link: "https://open.spotify.com/album/5kAUMGWoReMqMu8xXbS5Fv",
+        comment: "Github Action"
+    },
+    {
+        title: "UFO (Les hommes font n'importe quoi)",
+        author: "Bellboy",
+        cover: "https://i.scdn.co/image/ab67616d0000b27346f8f98bd18622891f514580",
+        kind: "album",
+        link: "https://open.spotify.com/album/2iyraR0TwibyoEcwdJlcnC",
+        comment: "Github Action"
+    },
+    {
+        title: "Really Really (Rosaliedu38 Remix)",
+        author: "Bellboy",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738dbdb1fbc1061af6309bd4f1",
+        kind: "album",
+        link: "https://open.spotify.com/album/6gki6rnnqByyQxWuVI7M3p",
+        comment: "Github Action"
+    },
+    {
+        title: "Le vent",
+        author: "Bellboy",
+        cover: "https://i.scdn.co/image/ab67616d0000b2730cd3bad68540176a51ad9b15",
+        kind: "album",
+        link: "https://open.spotify.com/album/0YUmSB1JOgJ4SLb4bAdjsq",
+        comment: "Github Action"
+    },
+    {
+        title: "Really Really (Rosaliedu38 Remix)",
+        author: "Bellboy",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738dbdb1fbc1061af6309bd4f1",
+        kind: "album",
+        link: "https://open.spotify.com/album/6gki6rnnqByyQxWuVI7M3p",
+        comment: "Github Action"
+    },
+    {
         title: "Les créatures de l'univers",
         author: "Bellboy",
         cover: "https://i.scdn.co/image/ab67616d0000b27373a24574192feedecabc482a",
