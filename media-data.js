@@ -1,5 +1,45 @@
 const mediaLibrary = [
     {
+        title: "Les créatures de l'univers",
+        author: "Bellboy",
+        cover: "https://i.scdn.co/image/ab67616d0000b27373a24574192feedecabc482a",
+        kind: "album",
+        link: "https://open.spotify.com/album/7yUKX5MGaHCP18ypjZeof4",
+        comment: "Github Action"
+    },
+    {
+        title: "dure limite-un autre monde-le live",
+        author: "Téléphone",
+        cover: "https://i.scdn.co/image/ab67616d0000b273c49e1ce78aa35e869716513e",
+        kind: "album",
+        link: "https://open.spotify.com/album/6ZBJCW91qfcln7oXfPXYqk",
+        comment: "Github Action"
+    },
+    {
+        title: "Telephone Illimité",
+        author: "Téléphone",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d98047f35bb12e27111f27b0",
+        kind: "album",
+        link: "https://open.spotify.com/album/3Fep1OihcXjxJJIfAOhPob",
+        comment: "Github Action"
+    },
+    {
+        title: "Platinum",
+        author: "Téléphone",
+        cover: "https://i.scdn.co/image/ab67616d0000b2736e1c421b3bc835cda8a07a0f",
+        kind: "album",
+        link: "https://open.spotify.com/album/1FdzItXRjhO0xpBGRydeij",
+        comment: "Github Action"
+    },
+    {
+        title: "Crache ton venin (Remasterisé en 2015)",
+        author: "Téléphone",
+        cover: "https://i.scdn.co/image/ab67616d0000b273f02c44e61a7454782f524dd1",
+        kind: "album",
+        link: "https://open.spotify.com/album/3YmnNNboNo0IZWfqUZiOvQ",
+        comment: "Github Action"
+    },
+    {
         title: "American sovereignty",
         author: "American Viking",
         cover: "https://i.scdn.co/image/ab67616d0000b273e79da6efdb99dcd782532e22",
