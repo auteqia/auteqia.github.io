@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "American sovereignty",
+        author: "American Viking",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e79da6efdb99dcd782532e22",
+        kind: "album",
+        link: "https://open.spotify.com/album/4o1attj58NViT2qO0GVlPt",
+        comment: "Github Action"
+    },
+    {
         title: "The Joker",
         author: "Steve Miller Band",
         cover: "https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51",
