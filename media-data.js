@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Opéra",
+        author: "Bellboy",
+        cover: "https://i.scdn.co/image/ab67616d0000b273a2c01bfacedc125437701742",
+        kind: "album",
+        link: "https://open.spotify.com/album/2Foafe9XRN5tF6MBaNOWLm",
+        comment: "Github Action"
+    },
+    {
         title: "les adultes parlent",
         author: "DO not DO",
         cover: "https://i.scdn.co/image/ab67616d0000b2735088e287c0c6d92985a7bb3e",
