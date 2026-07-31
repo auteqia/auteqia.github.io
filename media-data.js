@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The Presidents of The United States of America (31st Anniversary Deluxe Edition)",
+        author: "The Presidents Of The United States Of America",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737f6768b68c4d3a0647595497",
+        kind: "album",
+        link: "https://open.spotify.com/album/2ZnnEtpH0VhUT94M5zTsPu",
+        comment: "Github Action"
+    },
+    {
         title: "Opéra",
         author: "Bellboy",
         cover: "https://i.scdn.co/image/ab67616d0000b273a2c01bfacedc125437701742",
