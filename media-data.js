@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "American Sicko 3",
+        author: "American Sicko",
+        cover: "https://i.scdn.co/image/ab67616d0000b2739b9472278e35357c4f602b9b",
+        kind: "album",
+        link: "https://open.spotify.com/album/6mRYge7o4BnjL7gGLuSZqv",
+        comment: "Github Action"
+    },
+    {
         title: "The Presidents of The United States of America (31st Anniversary Deluxe Edition)",
         author: "The Presidents Of The United States Of America",
         cover: "https://i.scdn.co/image/ab67616d0000b2737f6768b68c4d3a0647595497",
