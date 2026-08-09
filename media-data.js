@@ -1,5 +1,29 @@
 const mediaLibrary = [
     {
+        title: "The Kick Inside",
+        author: "Kate Bush",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733c9aa0b150e1a982fd76b1c5",
+        kind: "album",
+        link: "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1",
+        comment: "Github Action"
+    },
+    {
+        title: "Really Really",
+        author: "Bellboy",
+        cover: "https://i.scdn.co/image/ab67616d0000b273cf6e8cbc6be953235d298e27",
+        kind: "album",
+        link: "https://open.spotify.com/album/6ommjM8svteJDspwZg9NIx",
+        comment: "Github Action"
+    },
+    {
+        title: "Darklands (Expanded Version)",
+        author: "The Jesus and Mary Chain",
+        cover: "https://i.scdn.co/image/ab67616d0000b2731704c9994c5a1d2b888f5477",
+        kind: "album",
+        link: "https://open.spotify.com/album/5cFb5EJLTQ7u6YuGE922tu",
+        comment: "Github Action"
+    },
+    {
         title: "American Sicko 3",
         author: "American Sicko",
         cover: "https://i.scdn.co/image/ab67616d0000b2739b9472278e35357c4f602b9b",
