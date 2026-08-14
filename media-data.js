@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "American Dream Survivors",
+        author: "American Dream Survivors",
+        cover: "https://i.scdn.co/image/ab67616d0000b27373716775ff5fd031c6060395",
+        kind: "album",
+        link: "https://open.spotify.com/album/5CEUlo2MW8pNrYw6srlZPB",
+        comment: "Github Action"
+    },
+    {
         title: "The Kick Inside",
         author: "Kate Bush",
         cover: "https://i.scdn.co/image/ab67616d0000b2733c9aa0b150e1a982fd76b1c5",
