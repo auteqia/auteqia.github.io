@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Mirage (2023 Remastered & Expanded Edition)",
+        author: "Camel",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d154fb02b202c608d2255b86",
+        kind: "album",
+        link: "https://open.spotify.com/album/2dfny28poOXsb8HxYGbRYf",
+        comment: "Github Action"
+    },
+    {
         title: "American Dream Survivors",
         author: "American Dream Survivors",
         cover: "https://i.scdn.co/image/ab67616d0000b27373716775ff5fd031c6060395",
