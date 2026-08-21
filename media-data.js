@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Pioneer Echoes: Ambient Americana",
+        author: "Americana Drift",
+        cover: "https://i.scdn.co/image/ab67616d0000b27395ae082d50c184076d8dc772",
+        kind: "album",
+        link: "https://open.spotify.com/album/0MkW2gstWqlw8l4oKhr6Xy",
+        comment: "Github Action"
+    },
+    {
         title: "Mirage (2023 Remastered & Expanded Edition)",
         author: "Camel",
         cover: "https://i.scdn.co/image/ab67616d0000b273d154fb02b202c608d2255b86",
