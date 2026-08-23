@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "omar chappier freestyle",
+        author: "Mairo",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d6fc426c18883d5c968ef9c4",
+        kind: "album",
+        link: "https://open.spotify.com/album/5sUJVoHaz0RiZVLFNEccE9",
+        comment: "Github Action"
+    },
+    {
         title: "Pioneer Echoes: Ambient Americana",
         author: "Americana Drift",
         cover: "https://i.scdn.co/image/ab67616d0000b27395ae082d50c184076d8dc772",
