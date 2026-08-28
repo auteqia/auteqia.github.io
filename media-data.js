@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Voices of America",
+        author: "Voices of America",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734677e4a371cffbc4e6e12778",
+        kind: "album",
+        link: "https://open.spotify.com/album/4d9Cq0BBHzzj0RmPIzZz3o",
+        comment: "Github Action"
+    },
+    {
         title: "omar chappier freestyle",
         author: "Mairo",
         cover: "https://i.scdn.co/image/ab67616d0000b273d6fc426c18883d5c968ef9c4",
