@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Ghosts Of American Intellects Rock Album",
+        author: "Ghosts of American Intellects",
+        cover: "https://i.scdn.co/image/ab67616d0000b27387f941b8eefdd30342fc1305",
+        kind: "album",
+        link: "https://open.spotify.com/album/4uaGLLbKjaginGDrdXNyN7",
+        comment: "Github Action"
+    },
+    {
         title: "Voices of America",
         author: "Voices of America",
         cover: "https://i.scdn.co/image/ab67616d0000b2734677e4a371cffbc4e6e12778",
