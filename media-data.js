@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Searching For America",
+        author: "American Man Band",
+        cover: "https://i.scdn.co/image/ab67616d0000b273017156b673b0ebfc60c5dfc0",
+        kind: "album",
+        link: "https://open.spotify.com/album/3O1xM7Xyk2Gz761WmrjN97",
+        comment: "Github Action"
+    },
+    {
         title: "Ghosts Of American Intellects Rock Album",
         author: "Ghosts of American Intellects",
         cover: "https://i.scdn.co/image/ab67616d0000b27387f941b8eefdd30342fc1305",
