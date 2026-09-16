@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "American originally unknown",
+        author: "AMERICAN Original Gent",
+        cover: "https://i.scdn.co/image/ab67616d0000b2738646d9403a1de38bed6a46ec",
+        kind: "album",
+        link: "https://open.spotify.com/album/5KLG2wLgrPzRGsJb7kfi3R",
+        comment: "Github Action"
+    },
+    {
         title: "Searching For America",
         author: "American Man Band",
         cover: "https://i.scdn.co/image/ab67616d0000b273017156b673b0ebfc60c5dfc0",
