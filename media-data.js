@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Nico Little and The North Americans",
+        author: "Nico Little & The North Americans",
+        cover: "https://i.scdn.co/image/ab67616d0000b2737a6fc064bf34ba00f466c565",
+        kind: "album",
+        link: "https://open.spotify.com/album/4rOvUdCQqLYiHYmILld7Hi",
+        comment: "Github Action"
+    },
+    {
         title: "American originally unknown",
         author: "AMERICAN Original Gent",
         cover: "https://i.scdn.co/image/ab67616d0000b2738646d9403a1de38bed6a46ec",
