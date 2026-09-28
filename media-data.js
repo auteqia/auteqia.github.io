@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Exoplanetary Mirage",
+        author: "Camellia",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ebc9e947a8110b8e6efe14ec",
+        kind: "album",
+        link: "https://open.spotify.com/album/03LDOiaP18WGpdhLFYSRSL",
+        comment: "Github Action"
+    },
+    {
         title: "Nico Little and The North Americans",
         author: "Nico Little & The North Americans",
         cover: "https://i.scdn.co/image/ab67616d0000b2737a6fc064bf34ba00f466c565",
