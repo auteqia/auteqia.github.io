@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "American Nomad Live at Pearl Street Warehouse (2/27/26)",
+        author: "American Nomad",
+        cover: "https://i.scdn.co/image/ab67616d0000b273acebe2b1aa9ecc8d8b335887",
+        kind: "album",
+        link: "https://open.spotify.com/album/4TFQPfiFuf4DkCYQB7rOZh",
+        comment: "Github Action"
+    },
+    {
         title: "Exoplanetary Mirage",
         author: "Camellia",
         cover: "https://i.scdn.co/image/ab67616d0000b273ebc9e947a8110b8e6efe14ec",
