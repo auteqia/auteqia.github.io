@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Let It Be (Remastered 2009)",
+        author: "The Beatles",
+        cover: "https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1",
+        kind: "album",
+        link: "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5",
+        comment: "Github Action"
+    },
+    {
         title: "American Nomad Live at Pearl Street Warehouse (2/27/26)",
         author: "American Nomad",
         cover: "https://i.scdn.co/image/ab67616d0000b273acebe2b1aa9ecc8d8b335887",
