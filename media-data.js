@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "The American Divide",
+        author: "Free_Thinking_American",
+        cover: "https://i.scdn.co/image/ab67616d0000b273aee9bf49f6b47dc2e2bf5e94",
+        kind: "album",
+        link: "https://open.spotify.com/album/3oPuuIZ6RmhUTwAiZugE5E",
+        comment: "Github Action"
+    },
+    {
         title: "Let It Be (Remastered 2009)",
         author: "The Beatles",
         cover: "https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1",
