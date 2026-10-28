@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "America Strong",
+        author: "Free_Thinking_American",
+        cover: "https://i.scdn.co/image/ab67616d0000b2735909faadc4c0da768dd9a5aa",
+        kind: "album",
+        link: "https://open.spotify.com/album/3koBKrzC6TCqHdyEWNMIGa",
+        comment: "Github Action"
+    },
+    {
         title: "The American Divide",
         author: "Free_Thinking_American",
         cover: "https://i.scdn.co/image/ab67616d0000b273aee9bf49f6b47dc2e2bf5e94",
