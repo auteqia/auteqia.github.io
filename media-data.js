@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Wild America",
+        author: "American Jetset",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733f78055eef26afd5a04474fb",
+        kind: "album",
+        link: "https://open.spotify.com/album/4lR1115HFuwkJCjHxXbx5C",
+        comment: "Github Action"
+    },
+    {
         title: "America Strong",
         author: "Free_Thinking_American",
         cover: "https://i.scdn.co/image/ab67616d0000b2735909faadc4c0da768dd9a5aa",
