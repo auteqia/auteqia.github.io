@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Filtres et Mirages",
+        author: "Camelys",
+        cover: "https://i.scdn.co/image/ab67616d0000b273d694f3a215368c4ebc9fb0e8",
+        kind: "album",
+        link: "https://open.spotify.com/album/7jQfe3kLemC6ID1XzVcVkR",
+        comment: "Github Action"
+    },
+    {
         title: "Wild America",
         author: "American Jetset",
         cover: "https://i.scdn.co/image/ab67616d0000b2733f78055eef26afd5a04474fb",
