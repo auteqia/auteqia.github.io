@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "American Exposure",
+        author: "Free_Thinking_American",
+        cover: "https://i.scdn.co/image/ab67616d0000b2733acd669a7abddb4c2f459a4d",
+        kind: "album",
+        link: "https://open.spotify.com/album/1fGETDgmUkza5dTHH1bdfj",
+        comment: "Github Action"
+    },
+    {
         title: "Filtres et Mirages",
         author: "Camelys",
         cover: "https://i.scdn.co/image/ab67616d0000b273d694f3a215368c4ebc9fb0e8",
