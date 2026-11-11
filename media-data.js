@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "America Really Needs To Heal",
+        author: "Free_Thinking_American",
+        cover: "https://i.scdn.co/image/ab67616d0000b2734144a4dc8db3ec8b1877bfdc",
+        kind: "album",
+        link: "https://open.spotify.com/album/65nEILYzlK6GJRugXPC6nq",
+        comment: "Github Action"
+    },
+    {
         title: "American Exposure",
         author: "Free_Thinking_American",
         cover: "https://i.scdn.co/image/ab67616d0000b2733acd669a7abddb4c2f459a4d",
