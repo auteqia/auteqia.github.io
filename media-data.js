@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "American Moon",
+        author: "American Moon",
+        cover: "https://i.scdn.co/image/ab67616d0000b273b252b85c7249c6c029e88341",
+        kind: "album",
+        link: "https://open.spotify.com/album/0FyMAJRzngyAJlpOt8cfr2",
+        comment: "Github Action"
+    },
+    {
         title: "America Really Needs To Heal",
         author: "Free_Thinking_American",
         cover: "https://i.scdn.co/image/ab67616d0000b2734144a4dc8db3ec8b1877bfdc",
