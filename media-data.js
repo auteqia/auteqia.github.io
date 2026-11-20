@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "Nuketown Homecoming",
+        author: "AMERICAN MXNIC",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e2a55db58514fb1b88b6402a",
+        kind: "album",
+        link: "https://open.spotify.com/album/6xkLy3l8fxJYeUFckilBmb",
+        comment: "Github Action"
+    },
+    {
         title: "American Moon",
         author: "American Moon",
         cover: "https://i.scdn.co/image/ab67616d0000b273b252b85c7249c6c029e88341",
