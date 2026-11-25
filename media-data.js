@@ -1,5 +1,13 @@
 const mediaLibrary = [
     {
+        title: "American OG flow",
+        author: "AMERICAN Original Gent",
+        cover: "https://i.scdn.co/image/ab67616d0000b273e38a1dce6b869b7341141382",
+        kind: "album",
+        link: "https://open.spotify.com/album/1X8ikww7TsQRJc8y0tE6x3",
+        comment: "Github Action"
+    },
+    {
         title: "Nuketown Homecoming",
         author: "AMERICAN MXNIC",
         cover: "https://i.scdn.co/image/ab67616d0000b273e2a55db58514fb1b88b6402a",
